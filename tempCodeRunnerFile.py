@@ -1,0 +1,1 @@
+resp_json = json.loads(response.text)
