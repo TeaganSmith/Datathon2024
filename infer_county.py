@@ -1,13 +1,37 @@
-import requests
-import json
+import csv
+from geopy.geocoders import Nominatim
+from time import sleep
 
-locations = ['Chicago, IL', 'San Francisco, CA']
+# Initialize geocoder
+geolocator = Nominatim(user_agent="geoapiExercises")
 
-city_data_url = 'http://api.sba.gov/geodata/primary_links_for_city_of/%s/%s.json'
+# Open your CSV file
+with open('adult_monarch_sightings.csv', mode='r') as file:
+    csv_reader = csv.DictReader(file)
+    # Assuming your file has columns: 'Town', 'State/Province'
+    fieldnames = csv_reader.fieldnames + ['County']
+    
+    # Open a new file to write results
+    with open('city_data_with_county.csv', mode='w', newline='') as result_file:
+        writer = csv.DictWriter(result_file, fieldnames=fieldnames)
+        writer.writeheader()
 
-for l in locations:
-    split_name = l.split(', ')
-    response = requests.get(city_data_url % tuple(split_name))
+        for row in csv_reader:
+            city = row['City']
+            state = row['State']
+            location = geolocator.geocode(f"{city}, {state}", timeout=10) 
+            sleep(10)  # Sleep to avoid hitting request limits
+            
+            if location:
+                # Parse county from location.raw
+                county = None
+                for component in location.raw['address']:
+                    if 'county' in component:
+                        county = location.raw['address']['county']
+                        break
 
-    resp_json = json.loads(response.text)
-    print(resp_json[0]['full_county_name'])
+                row['County'] = county
+            else:
+                row['County'] = "Not found"
+            
+            writer.writerow(row)
