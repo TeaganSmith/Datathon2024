@@ -1,0 +1,2306 @@
+Date	Town	State/Province	Latitude	Longitude	Number	Image
+1	07/30/24	Salisbury	MA	42.8	-70.9	1	
+2	07/30/24	Lenhartsville	PA	40.6	-75.9	1	
+3	07/30/24	Merrick	NY	40.6	-73.5	1	
+4	07/30/24	Burnsville	NC	35.8	-82.2	1	
+5	07/30/24	Northport	NY	40.9	-73.3	1	
+6	07/30/24	Cochise	AZ	32.1	-109.9	1	
+7	07/30/24	Eau Claire	WI	44.8	-91.5	0	
+8	07/30/24	Berkeley	CA	37.9	-122.3	1	
+9	07/30/24	KCMO	MO	39.2	-94.5	1	
+10	07/30/24	Eau Claire	WI	44.8	-91.5	1	
+11	07/30/24	Versailles	KY	38	-84.7	1	
+12	07/30/24	Bradford West Gwillimbury	ON	44.1	-79.7	1	
+13	07/30/24	Lewisburg	PA	41	-76.9	1	
+14	07/30/24	Lewisburg	PA	41	-76.9	1	
+15	07/29/24	Falls Church	VA	38.9	-77.2	1	
+16	07/29/24	Bucyrus	OH	40.8	-83	1	
+17	07/29/24	Flat Rock	MI	42.1	-83.3	0	
+18	07/29/24	Grand Rapids	MI	42.9	-85.6	1	
+19	07/29/24	Avondale	PA	39.8	-75.8	1	
+20	07/29/24	North Fort Myers	FL	26.7	-81.9	1	
+21	07/29/24	Crofton	MD	39	-76.7	1	
+22	07/29/24	Kaysville	UT	41	-111.9	1	
+23	07/29/24	McKinleyville	CA	41	-124.1	1	
+24	07/29/24	Brockport	NY	43.2	-77.9	1	
+25	07/28/24	North Bay	ON	46.3	-79.5	1	
+26	07/28/24	L'Amable	ON	45	-77.8	1	
+27	07/28/24	Broomfield	CO	39.9	-105.1	1	
+28	07/28/24	Kingston	ON	44.2	-76.4	1	
+29	07/28/24	Minneapolis	MN	45	-93.3	1	
+30	07/28/24	Batavia	IL	41.8	-88.3	1	
+31	07/28/24	West Union	OH	38.8	-83.6	4	
+32	07/28/24	Balderson	ON	44.9	-76.5	4	
+33	07/28/24	Bettendorf	IA	41.6	-90.5	1	
+34	07/28/24	Delphos	OH	40.9	-84.3	1	
+35	07/28/24	Nether Providence Township	PA	39.9	-75.4	2	
+36	07/27/24	Beverly	MA	42.6	-70.9	1	
+37	07/27/24	Windsor	NS	44.9	-64.2	1	
+38	07/27/24	Catonsville	MD	39.3	-76.8	1	
+39	07/27/24	Durham	NH	43.1	-70.9	1	
+40	07/27/24	Elmhurst	IL	41.9	-88	1	
+41	07/27/24	Middle Township	NJ	39.1	-74.8	2	
+42	07/27/24	Port Ewen	NY	41.9	-74	1	
+43	07/27/24	Port Ewen	NY	41.9	-74	1	
+44	07/27/24	Dorset	ON	45.2	-78.9	1	
+45	07/27/24	Severn	ON	44.7	-79.6	1	
+46	07/27/24	Seymour	CT	41.4	-73.1	0	
+47	07/27/24	Regina	SK	50.4	-104.6	1	
+48	07/27/24	Halifax	PA	40.4	-77	0	
+49	07/27/24	South Portland	ME	43.6	-70.2	2	
+50	07/27/24	Lewes	DE	38.7	-75.2	1	
+51	07/27/24	Ballston Lake	NY	42.9	-73.8	1	
+52	07/27/24	Blacksburg	VA	37.3	-80.4	1	
+53	07/27/24	Tupper Lake	NY	44.2	-74.5	1	
+54	07/27/24	London	ON	43	-81.2	1	
+55	07/27/24	Avon	OH	41.4	-82	1	
+56	07/27/24	Toronto	ON	43.6	-79.4	1	
+57	07/27/24	Klamath Falls	OR	42.3	-121.8	1	
+58	07/27/24	Cantley	QC	45.6	-75.9	2	
+59	07/27/24	Bowmanville	ON	43.9	-78.7	2	
+60	07/27/24	Bowmanville	ON	43.9	-78.7	1	
+61	07/27/24	Farmington	MI	42.5	-83.4	1	
+62	07/27/24	Hudson	NC	35.8	-81.5	1	
+63	07/27/24	Bowmanville	ON	43.9	-78.7	1	
+64	07/27/24	Pasco	WA	46.3	-119.2	1	
+65	07/27/24	Kaysville	UT	41	-111.9	1	
+66	07/27/24	Portage	WI	43.5	-89.5	1	
+67	07/27/24	Salisbury	MA	42.8	-70.9	1	
+68	07/26/24	Easton	MD	38.8	-76.1	0	
+69	07/26/24	Brunswick	ME	43.9	-69.9	1	
+70	07/26/24	Elizabethtown	PA	40.2	-76.6	1	
+71	07/26/24	Tupper Lake	NY	44.2	-74.5	1	
+72	07/26/24	Schenectady	NY	42.8	-73.9	1	
+73	07/26/24	Windsor	VT	43.5	-72.4	1	
+74	07/26/24	Cincinnati	OH	39.2	-84.4	1	
+75	07/26/24	Port Perry	ON	44.1	-78.9	0	
+76	07/26/24	Sunset Beach	OR	46.1	-123.9	1	
+77	07/26/24	Port Perry	ON	44.1	-78.9	0	
+78	07/26/24	Kingston	ON	44.2	-76.5	1	
+79	07/26/24	Tupper Lake	NY	44.2	-74.5	1	
+80	07/26/24	Cincinnati	OH	39.3	-84.6	1	
+81	07/26/24	Madison	WI	43	-89.5	1	
+82	07/26/24	Bedford	IN	38.8	-86.4	1	
+83	07/26/24	Trappe	MD	38.7	-76.1	0	
+84	07/26/24	Woburn	MA	42.5	-71.2	1	
+85	07/26/24	Middletown	DE	39.5	-75.7	2	
+86	07/26/24	Nichols Hills	OK	35.5	-97.5	1	
+87	07/26/24	Oceanside	CA	33.2	-117.3	1	
+88	07/26/24	Webster	NY	43.2	-77.5	1	
+89	07/26/24	Sterling	VA	39	-77.4	1	
+90	07/26/24	Lewes	DE	38.7	-75.2	1	
+91	07/26/24	Whitsett	NC	36	-79.6	1	
+92	07/26/24	Jamestown	NY	42.1	-79.2	1	
+93	07/26/24	Omaha	NE	41.3	-95.9	1	
+94	07/26/24	Lower Coverdale	NB	46	-64.7	1	
+95	07/26/24	Brunswick	ME	43.9	-70	1	
+96	07/25/24	South Hero	VT	44.6	-73.3	1	
+97	07/25/24	Concord	NH	43.3	-71.6	1	
+98	07/25/24	Chicago	IL	41.9	-87.7	1	
+99	07/25/24	Chester	VA	37.3	-77.3	1	
+100	07/25/24	Valparaiso	IN	41.4	-87.1	2	
+101	07/25/24	Davison	MI	43	-83.5	2	
+102	07/25/24	Harrington	QC	45.8	-74.6	3	
+103	07/25/24	Fairfield	OH	39.3	-84.6	2	
+104	07/25/24	Whitney Point	NY	42.4	-76	1	
+105	07/24/24	Whitby	ON	43.9	-78.9	1	
+106	07/24/24	Stratford	PE	46.2	-63.1	0	
+107	07/24/24	Grosse Ile Township	MI	42.1	-83.1	1	
+108	07/24/24	Rochester	NH	43.3	-71	1	
+109	07/24/24	Charlotte	NC	35.4	-80.8	1	
+110	07/24/24	Kaysville	UT	41	-111.9	1	
+111	07/24/24	Paradise	NS	44.9	-65.2	1	
+112	07/24/24	Beeville	TX	28.5	-97.9	8	
+113	07/24/24	Worcester	MA	42.3	-71.8	1	
+114	07/24/24	Canal Winchester	OH	39.8	-82.8	1	
+115	07/24/24	Davidson	NC	35.5	-80.8	1	
+116	07/24/24	Dartmouth	NS	44.7	-63.5	1	
+117	07/23/24	Rothesay	NB	45.4	-66	1	
+118	07/23/24	Kinderhook	NY	42.4	-73.7	1	
+119	07/23/24	Morin-Heights	QC	45.9	-74.2	1	
+120	07/23/24	Wilmette	IL	42.1	-87.7	1	
+121	07/23/24	Lakewood	OH	41.5	-81.8	1	
+122	07/23/24	Wattenwyle	ON	45.8	-79.6	3	
+123	07/23/24	Odessa	ON	44.2	-76.7	1	
+124	07/23/24	Waynesville	OH	39.5	-84.1	1	
+125	07/23/24	Flagstaff	AZ	35.2	-111.6	1	
+126	07/23/24	Mont-Blanc	QC	46.1	-74.5	1	
+127	07/23/24	Scottsville	NY	43	-77.7	1	
+128	07/23/24	Annapolis	MD	39	-76.5	1	
+129	07/23/24	Montville	ME	44.4	-69.3	3	
+130	07/22/24	Billerica	MA	42.5	-71.2	1	
+131	07/22/24	Gomer	OH	40.8	-84.2	1	
+132	07/22/24	Piedmont	SC	34.7	-82.5	2	
+133	07/22/24	Sainte-Adèle	QC	46	-74.1	2	
+134	07/22/24	Simi Valley	CA	34.3	-118.7	1	
+135	07/22/24	South River	ON	45.8	-79.4	1	
+136	07/22/24	Farmington	MI	42.4	-83.4	2	
+137	07/22/24	Springville	NY	42.5	-78.7	1	
+138	07/22/24	Wilmington	OH	39.4	-83.8	1	
+139	07/22/24	Colorado Springs	CO	38.8	-104.8	1	
+140	07/21/24	Millinocket	ME	45.6	-68.7	1	
+141	07/21/24	Antigonish	NS	45.6	-62	1	
+142	07/21/24	East Greenbush	NY	42.6	-73.7	1	
+143	07/21/24	Monroe	NC	35	-80.7	1	
+144	07/21/24	Toronto	ON	43.7	-79.4	4	
+145	07/21/24	Broomfield	CO	39.9	-105.1	1	
+146	07/21/24	Corvallis	OR	44.5	-123.3	1	
+147	07/21/24	Antigonish	NS	45.6	-62	1	
+148	07/21/24	Fairfield	CT	41.1	-73.3	1	
+149	07/21/24	Dartmouth	NS	44.7	-63.6	1	
+150	07/21/24	York	PA	39.9	-76.7	2	
+151	07/21/24	West Boylston	MA	42.4	-71.8	1	
+152	07/21/24	Ann Arbor	MI	42.3	-83.7	1	
+153	07/21/24	Clarington	ON	43.9	-78.7	1	
+154	07/21/24	Ashland	NY	42.8	-76.5	1	
+155	07/21/24	Novelty	OH	41.4	-81.3	1	
+156	07/21/24	Le Roy	MI	44	-85.4	5	
+157	07/21/24	Danbury	WI	46	-92.4	1	
+158	07/21/24	North East	PA	42.2	-79.9	2	
+159	07/21/24	Tolland	CT	41.9	-72.3	1	
+160	07/20/24	Millinocket	ME	45.7	-68.7	1	
+161	07/20/24	Kingston	ON	44.3	-76.6	3	
+162	07/20/24	Waynesville	OH	39.5	-84.1	1	
+163	07/20/24	Antigonish	NS	45.7	-62	1	
+164	07/20/24	Geneseo	NY	42.8	-77.8	1	
+165	07/20/24	Moncton	NB	46.1	-64.9	1	
+166	07/20/24	Lockport	NY	43.2	-78.7	1	
+167	07/20/24	Haverhill	MA	42.8	-71.1	2	
+168	07/20/24	Aden	AB	49.1	-111.6	3	
+169	07/20/24	Woodstock	VT	43.6	-72.5	1	
+170	07/20/24	Millinocket	ME	45.7	-68.7	1	
+171	07/20/24	New Kensington	PA	40.5	-79.7	1	
+172	07/20/24	Syracuse	NY	43	-76.2	1	
+173	07/20/24	Pickering	ON	43.9	-79.1	1	
+174	07/20/24	New York	NY	40.9	-73.9	1	
+175	07/20/24	Hammonds Plains	NS	44.7	-63.7	2	
+176	07/20/24	Douglas	MA	42	-71.7	1	
+177	07/20/24	Bruce Mines	ON	46.3	-83.8	1	
+178	07/20/24	Toronto	ON	43.6	-79.3	1	
+179	07/20/24	Milk River	AB	49.2	-112.1	3	
+180	07/19/24	North Reading	MA	42.6	-71.1	0	
+181	07/19/24	Hallowell	ME	44.3	-69.8	2	
+182	07/19/24	Bernardsville	NJ	40.7	-74.6	1	
+183	07/19/24	Lunenburg	MA	42.6	-71.7	1	
+184	07/19/24	Canton	OH	40.8	-81.4	1	
+185	07/19/24	Antigonish	NS	45.6	-62	1	
+186	07/19/24	Antigonish	NS	45.6	-62	1	
+187	07/19/24	Stratford	PE	46.2	-63.1	1	
+188	07/19/24	Stonington	CT	41.3	-71.9	1	
+189	07/19/24	Eureka	NS	45.4	-62.6	1	
+190	07/19/24	Saratoga Springs	UT	40.3	-111.9	1	
+191	07/19/24	Sag Harbor	NY	41	-72.3	2	
+192	07/19/24	Sherborn	MA	42.2	-71.4	1	
+193	07/19/24	Lincoln	ND	46.8	-100.7	1	
+194	07/19/24	Kunkletown	PA	40.9	-75.5	1	
+195	07/19/24	Sag Harbor	NY	41	-72.3	2	
+196	07/19/24	Fairfax	VT	44.7	-73	1	
+197	07/19/24	Bourne	MA	41.7	-70.6	1	
+198	07/19/24	Los Angeles	CA	34.1	-118.2	1	
+199	07/19/24	Chesapeake	VA	36.8	-76.3	8	
+200	07/19/24	Bellefonte	PA	40.9	-77.8	1	
+201	07/18/24	Wattsburg	PA	42.1	-79.9	1	
+202	07/18/24	Antigonish	NS	45.6	-62	2	
+203	07/18/24	North Versailles	PA	40.4	-79.8	1	
+204	07/18/24	Green Bay	NS	44.2	-64.4	1	
+205	07/18/24	Springfield	VA	38.7	-77.2	1	
+206	07/18/24	Springfield	VA	38.7	-77.2	1	
+207	07/18/24	Montgomery Village	MD	39.2	-77.2	1	
+208	07/18/24	Hancock	ME	44.5	-68.3	1	
+209	07/18/24	Green Bay	NS	44.2	-64.4	1	
+210	07/18/24	South Haven	MI	42.4	-86.3	1	
+211	07/18/24	Niagara Falls	ON	43.1	-79.1	1	
+212	07/17/24	Northford	CT	41.4	-72.8	1	
+213	07/17/24	Holland	MI	42.8	-86.1	0	
+214	07/17/24	Covington	LA	30.5	-90.1	1	
+215	07/17/24	St Stephen	NB	45.2	-67.3	1	
+216	07/17/24	Mt Vernon	OH	40.4	-82.5	1	
+217	07/17/24	Clifford	ON	44	-81	1	
+218	07/17/24	Mayville	MI	43.4	-83.3	1	
+219	07/17/24	Paragonah	UT	37.9	-112.8	1	
+220	07/17/24	Paso Robles	CA	35.6	-120.6	0	
+221	07/17/24	Oakton	VA	38.9	-77.3	1	
+222	07/17/24	Hingham	MA	42.2	-70.9	1	
+223	07/17/24	Hingham	MA	42.2	-70.9	1	
+224	07/17/24	Hingham	MA	42.2	-70.9	1	
+225	07/17/24	Grand Portage	MN	48	-89.7	1	
+226	07/17/24	Iona Station	ON	42.7	-81.4	0	
+227	07/16/24	Pointe-du-Chêne	NB	46.2	-64.5	1	
+228	07/16/24	Montpelier	VT	44.3	-72.6	1	
+229	07/16/24	Quincy	MA	42.3	-71	0	
+230	07/16/24	Ottawa	ON	45.2	-75.7	1	
+231	07/16/24	Prattsville	NY	42.3	-74.4	1	
+232	07/16/24	Norwalk	CT	41.1	-73.4	1	
+233	07/16/24	Snyder	CO	40.3	-103.6	1	
+234	07/15/24	Odon	IN	38.8	-87	1	
+235	07/15/24	Standish	ME	43.8	-70.6	1	
+236	07/15/24	Richmond	VA	37.5	-77.6	1	
+237	07/15/24	Winchester	KY	37.9	-84.2	1	
+238	07/15/24	Belleville	ON	44.1	-77.5	1	
+239	07/15/24	Kooskia	ID	46.1	-115.8	1	
+240	07/15/24	Ada	MN	47.3	-96.5	1	
+241	07/15/24	Trent	SD	43.9	-96.6	1	
+242	07/15/24	Santa Fe	NM	35.6	-106.1	1	
+243	07/15/24	Newton	MA	42.3	-71.2	1	
+244	07/15/24	Houston	TX	30.1	-95.2	1	
+245	07/15/24	Waterford Twp	MI	42.7	-83.3	1	
+246	07/15/24	Innisfil	ON	44.3	-79.6	1	
+247	07/15/24	Lincolnville	ME	44.3	-69.1	2	
+248	07/15/24	Gouldsboro	ME	44.4	-68	3	
+249	07/14/24	Yonkers	NY	40.9	-73.9	1	
+250	07/14/24	Concord	NH	43.3	-71.5	1	
+251	07/14/24	Fargo	ND	46.8	-96.8	1	
+252	07/14/24	Sharon	MA	42.1	-71.2	1	
+253	07/14/24	Lockport	NY	43.2	-78.7	1	
+254	07/14/24	Wynnewood	PA	40	-75.3	1	
+255	07/14/24	Garrison	MN	46.2	-93.9	1	
+256	07/14/24	Westernport	MD	39.5	-79	1	
+257	07/14/24	Westlake	OH	41.5	-81.9	1	
+258	07/14/24	Mont-Blanc	QC	46.1	-74.5	1	
+259	07/14/24	Cary	NC	35.8	-78.9	5	
+260	07/14/24	New York	NY	40.6	-74.1	1	
+261	07/14/24	Leeds	ME	44.2	-70.1	1	
+262	07/13/24	Burlington	PA	41.8	-76.6	1	
+263	07/13/24	Stratford	PE	46.2	-63.1	1	
+264	07/13/24	Salisbury	NC	35.6	-80.5	1	
+265	07/13/24	Westfield	NJ	40.7	-74.3	1	
+266	07/13/24	Rochester	NY	43.1	-77.7	1	
+267	07/13/24	Little Falls	NJ	40.9	-74.2	1	
+268	07/13/24	Wilmington	OH	39.4	-83.9	2	
+269	07/13/24	Lincolnville	ME	44.3	-69	1	
+270	07/13/24	Egg Harbor City	NJ	39.5	-74.6	2	
+271	07/13/24	Lexington	KY	38	-84.5	1	
+272	07/13/24	Dartmouth	NS	44.7	-63.6	1	
+273	07/13/24	Winter Harbor	ME	44.4	-68.1	1	
+274	07/13/24	Fairfax	VA	38.9	-77.3	1	
+275	07/13/24	Northborough	MA	42.3	-71.6	1	
+276	07/12/24	Mableton	GA	33.8	-84.5	1	
+277	07/12/24	Cherryville	NC	35.3	-81.5	1	
+278	07/12/24	Fair Lawn	NJ	40.9	-74.1	1	
+279	07/12/24	Columbus	OH	39.9	-83.1	1	
+280	07/12/24	Columbus	OH	39.9	-83.1	1	
+281	07/12/24	Fairport	NY	43.1	-77.4	1	
+282	07/12/24	Pickering	ON	43.8	-79.2	1	
+283	07/12/24	Groveland	MA	42.8	-71	1	
+284	07/12/24	Long Reach	NB	45.5	-66.1	1	
+285	07/12/24	Westland	MI	42.3	-83.4	1	
+286	07/12/24	Fairport	NY	43.1	-77.4	1	
+287	07/12/24	New Tecumseth	ON	44.2	-79.9	1	
+288	07/12/24	Drexel Hill	PA	39.9	-75.3	1	
+289	07/12/24	Chester	NS	44.6	-64.2	1	
+290	07/12/24	Mayfield	OH	41.6	-81.4	1	
+291	07/12/24	Kirtland	OH	41.6	-81.3	2	
+292	07/12/24	Novato	CA	38.1	-122.5	2	
+293	07/12/24	Hubbard Lake	MI	44.8	-83.5	1	
+294	07/12/24	Sault Ste. Marie	ON	46.5	-84.3	2	
+295	07/12/24	Sault Ste. Marie	ON	46.5	-84.3	2	
+296	07/11/24	Saint Andrews	NS	45.6	-61.9	1	
+297	07/11/24	Centreville	MD	39.1	-76.1	1	
+298	07/11/24	Brooklyn	MI	42.1	-84.3	1	
+299	07/11/24	Baton Rouge	LA	30.4	-91	1	
+300	07/11/24	Ottawa	ON	45.5	-76.1	1	
+301	07/11/24	Brooklyn	MI	42.1	-84.3	1	
+302	07/11/24	Elmhurst	IL	41.9	-87.9	1	
+303	07/11/24	Franklin Township	NJ	40.5	-74.5	1	
+304	07/11/24	Wilmette	IL	42.1	-87.7	0	
+305	07/11/24	Wilmette	IL	42.1	-87.7	0	
+306	07/11/24	Wilmette	IL	42.1	-87.7	2	
+307	07/11/24	Cato	NY	43.2	-76.6	1	
+308	07/11/24	Cooperstown	NY	42.7	-74.9	1	
+309	07/11/24	Pleasant Grove	UT	40.4	-111.7	1	
+310	07/11/24	Waterville	ME	44.5	-69.7	1	
+311	07/11/24	New Tecumseth	ON	44.2	-79.9	1	
+312	07/11/24	Billerica	MA	42.6	-71.2	1	
+313	07/11/24	Auburn Hills	MI	42.7	-83.2	1	
+314	07/10/24	Chester Springs	PA	40.1	-75.6	1	
+315	07/10/24	Menifee	CA	33.7	-117.1	3	
+316	07/10/24	Trenton	ME	44.4	-68.4	1	
+317	07/10/24	Granby	MA	42.3	-72.5	1	
+318	07/10/24	Watertown	MA	42.4	-71.2	1	
+319	07/10/24	Salisbury	MA	42.8	-70.9	1	
+320	07/10/24	Meteghan River	NS	44.2	-66.1	2	
+321	07/10/24	Peru	NY	44.6	-73.6	0	
+322	07/10/24	Columbia	TN	35.6	-87	1	
+323	07/10/24	Columbia	TN	35.6	-87	1	
+324	07/10/24	Columbia	TN	35.6	-87	1	
+325	07/10/24	Lake George	NY	43.4	-73.7	1	
+326	07/10/24	Lake George	NY	43.4	-73.7	1	
+327	07/10/24	Catonsville	MD	39.3	-76.8	1	
+328	07/09/24	Cannon Township	MI	43.1	-85.5	1	
+329	07/09/24	Norton	OH	41	-81.6	1	
+330	07/09/24	Louisville	KY	38.3	-85.5	2	
+331	07/09/24	Carlsbad	CA	33.2	-117.3	1	
+332	07/09/24	Smyrna	DE	39.3	-75.6	2	
+333	07/09/24	Smyrna	DE	39.3	-75.6	2	
+334	07/09/24	Ottawa	ON	45.3	-75.9	1	
+335	07/09/24	Barrie	ON	44.4	-79.7	1	
+336	07/09/24	Lower Salem	OH	39.6	-81.4	1	
+337	07/09/24	Inlet	NY	43.8	-74.8	1	
+338	07/09/24	Darien	CT	41.1	-73.5	2	
+339	07/09/24	Swampscott	MA	42.5	-70.9	1	
+340	07/09/24	Ypsilanti	MI	42.2	-83.6	1	
+341	07/09/24	Lower Sackville	NS	44.8	-63.7	1	
+342	07/09/24	Rhodes Corner	NS	44.4	-64.4	2	
+343	07/09/24	Lunenburg	NS	44.4	-64.3	1	
+344	07/09/24	Dartmouth	NS	44.7	-63.5	1	
+345	07/09/24	Richmond	RI	41.5	-71.7	1	
+346	07/09/24	Clinton	CT	41.3	-72.5	2	
+347	07/09/24	South Williamsport	PA	41.2	-77	1	
+348	07/09/24	West Jefferson	NC	36.4	-81.5	1	
+349	07/09/24	Hillsborough Township	NJ	40.5	-74.7	1	
+350	07/08/24	Lorain	OH	41.5	-82.2	8	
+351	07/08/24	Syracuse	NY	43.1	-76.1	1	
+352	07/08/24	Newmarket	ON	44.1	-79.5	1	
+353	07/08/24	Roxbury	CT	41.6	-73.3	1	
+354	07/08/24	Biglerville	PA	39.9	-77.3	1	
+355	07/08/24	Papillion	NE	41.1	-96	1	
+356	07/08/24	West Orange	NJ	40.8	-74.2	1	
+357	07/08/24	Montréal	QC	45.6	-73.6	1	
+358	07/08/24	Dutch John	UT	40.9	-109.2	1	
+359	07/08/24	East River	NS	44.6	-64.2	1	
+360	07/08/24	Woodbridge	VA	38.7	-77.3	1	
+361	07/08/24	Livonia	MI	42.4	-83.4	1	
+362	07/08/24	Prince Edward	ON	44	-77.5	2	
+363	07/08/24	Riverview	NB	46.1	-64.8	3	
+364	07/07/24	Fleetwood	PA	40.4	-75.8	2	
+365	07/07/24	Reno	NV	39.5	-119.8	1	
+366	07/07/24	New Tecumseth	ON	44.2	-79.9	3	
+367	07/07/24	Barrington	NH	43.2	-71.1	1	
+368	07/07/24	Norway	ME	44.2	-70.6	1	
+369	07/07/24	Aurora	CO	39.7	-104.7	1	
+370	07/07/24	Laurel	MD	39.1	-76.8	1	
+371	07/07/24	Lincoln	VT	44.1	-73	2	
+372	07/07/24	Norwood	MA	42.2	-71.2	1	
+373	07/07/24	Reno	NV	39.5	-119.8	1	
+374	07/07/24	Saginaw	MI	43.4	-84	1	
+375	07/07/24	Effingham	NH	43.7	-71	0	
+376	07/07/24	Alsip	IL	41.7	-87.7	1	
+377	07/07/24	Bellevue	OH	41.3	-82.8	1	
+378	07/07/24	Elmira	NY	42.1	-76.8	1	
+379	07/07/24	Brighton	MI	42.5	-83.8	1	
+380	07/07/24	Orono	ME	44.9	-68.7	1	
+381	07/07/24	Long Lake	NY	44	-74.4	1	
+382	07/07/24	Mansfield	NJ	40.1	-74.7	1	
+383	07/07/24	Simpsonville	KY	38.2	-85.4	2	
+384	07/06/24	Newcastle	WY	43.9	-104.3	1	
+385	07/06/24	Kawartha Lakes	ON	44.5	-78.6	1	
+386	07/06/24	Schenectady	NY	42.8	-73.9	2	
+387	07/06/24	Exeter	NH	43	-71	1	
+388	07/06/24	Mize	KY	37.9	-83.4	2	
+389	07/06/24	Stonington	CT	41.4	-72	2	
+390	07/06/24	Yonkers	NY	40.9	-73.9	1	
+391	07/06/24	Exeter	NH	43	-71	1	
+392	07/06/24	West Palm Beach	FL	26.7	-80.1	1	
+393	07/06/24	Apple Valley	MN	44.7	-93.2	1	
+394	07/06/24	Worcester	MA	42.3	-71.8	1	
+395	07/06/24	Hannibal	NY	43.3	-76.5	1	
+396	07/06/24	Lancaster	PA	40.1	-76.3	1	
+397	07/06/24	Hannibal	NY	43.3	-76.5	1	
+398	07/06/24	Tuftonboro	NH	43.7	-71.2	1	
+399	07/06/24	Vermontville	NY	44.6	-74	6	
+400	07/06/24	Vermontville	NY	44.6	-74	6	
+401	07/05/24	Manchester	NH	43	-71.4	1	
+402	07/05/24	Arden	NC	35.5	-82.5	1	
+403	07/05/24	St Charles	MI	43.3	-84.1	1	
+404	07/05/24	Langdon	NH	43.2	-72.3	1	
+405	07/05/24	Wernersville	PA	40.3	-76.1	1	
+406	07/05/24	Savannah	NY	43	-76.7	1	
+407	07/05/24	Sunbury	PA	40.9	-76.7	1	
+408	07/05/24	New London	NH	43.4	-72	1	
+409	07/05/24	Plainview	NY	40.8	-73.5	1	
+410	07/05/24	Hobart	IN	41.5	-87.3	1	
+411	07/05/24	Middletown	MD	39.4	-77.6	2	
+412	07/05/24	South Portland	ME	43.6	-70.3	1	
+413	07/05/24	St Joseph	MI	42	-86.4	1	
+414	07/05/24	Hanover	NH	43.7	-72.2	1	
+415	07/05/24	Rochester	NY	43.2	-77.5	1	
+416	07/05/24	Parsons	WV	39.1	-79.7	1	
+417	07/05/24	St Joseph	MO	39.8	-94.8	2	
+418	07/05/24	Norristown	PA	40.1	-75.3	1	
+419	07/04/24	Oakville	ON	43.5	-79.7	1	
+420	07/04/24	Town of Rockingham	VT	43.2	-72.5	1	
+421	07/04/24	Palmer	MA	42.2	-72.3	2	
+422	07/04/24	Westland	MI	42.3	-83.4	1	
+423	07/04/24	Boulder Junction	WI	46.1	-89.6	1	
+424	07/04/24	Bucksport	ME	44.6	-68.8	1	
+425	07/04/24	Cambridge Springs	PA	41.8	-79.9	1	
+426	07/04/24	Ivesdale	IL	39.9	-88.5	1	
+427	07/04/24	Fort Erie	ON	42.9	-79.1	1	
+428	07/04/24	Round Lake	NY	42.9	-73.8	1	
+429	07/04/24	Quincy	MA	42.3	-71	1	
+430	07/04/24	Milwaukie	OR	45.4	-122.6	1	
+431	07/04/24	Dover	DE	39.2	-75.6	1	
+432	07/04/24	Milton	ON	43.5	-79.8	1	
+433	07/04/24	Mt Pleasant	UT	39.5	-111.4	1	
+434	07/03/24	Smyrna	GA	33.9	-84.5	1	
+435	07/03/24	Chester	NH	43	-71.3	1	
+436	07/03/24	Old Town	ME	44.9	-68.6	1	
+437	07/03/24	Hampden	MA	42.1	-72.4	1	
+438	07/03/24	Tuxedo Park	NY	41.2	-74.2	0	
+439	07/03/24	Aurora	ME	44.9	-68.3	1	
+440	07/03/24	Joliet	IL	41.5	-88.1	1	
+441	07/03/24	Lakeview	OH	40.5	-83.9	1	
+442	07/03/24	Fort Wayne	IN	41	-85.3	1	
+443	07/03/24	Gansevoort	NY	43.2	-73.7	1	
+444	07/03/24	Thunder Bay	ON	48.4	-89.2	1	
+445	07/03/24	Nicholasville	KY	37.9	-84.6	1	
+446	07/03/24	Saint John	NB	45.3	-66	1	
+447	07/03/24	Eagle Point	OR	42.5	-122.8	0	
+448	07/03/24	Eagle Point	OR	42.5	-122.8	0	
+449	07/03/24	Puslinch	ON	43.4	-80.1	1	
+450	07/03/24	Bunker Hill	WV	39.3	-78.1	1	
+451	07/03/24	Chicago	IL	41.8	-87.8	1	
+452	07/03/24	Spartanburg	IN	40.1	-84.9	3	
+453	07/02/24	Madison	CT	41.3	-72.6	1	
+454	07/02/24	Carbondale	IL	37.7	-89.2	1	
+455	07/02/24	Elyria	OH	41.3	-82.1	1	
+456	07/02/24	Blue Hill	ME	44.4	-68.6	0	
+457	07/02/24	Naperville	IL	41.8	-88.2	1	
+458	07/02/24	Broomfield	CO	39.9	-105.1	1	
+459	07/02/24	Hamden	CT	41.4	-72.9	0	
+460	07/02/24	Keeseville	NY	44.5	-73.4	1	
+461	07/02/24	Sackville	NB	45.9	-64.4	1	
+462	07/02/24	Odell	IL	41	-88.5	2	
+463	07/02/24	Clinton Twp	MI	42.6	-82.9	1	
+464	07/02/24	Medford	OR	42.4	-122.8	1	
+465	07/02/24	Frederick	MD	39.4	-77.4	1	
+466	07/02/24	Houston	TX	29.7	-95.5	1	
+467	07/02/24	Freeland	PA	41	-75.9	2	
+468	07/02/24	Fremont	OH	41.3	-83.2	1	
+469	07/02/24	Midlothian	TX	32.5	-97	1	
+470	07/02/24	Jamestown	NY	42.1	-79.2	1	
+471	07/02/24	Fullerton	CA	33.9	-118	9	
+472	07/02/24	St Marys	GA	30.7	-81.6	1	
+473	07/01/24	Emigrant	MT	45.3	-110.8	1	
+474	07/01/24	Belgrade	ME	44.5	-69.8	1	
+475	07/01/24	Youngsville	LA	30.1	-92	1	
+476	07/01/24	Claremont	NH	43.4	-72.3	1	
+477	07/01/24	Dennis	MA	41.7	-70.2	1	
+478	07/01/24	Columbus	OH	39.9	-82.9	3	
+479	07/01/24	East Windsor	NJ	40.3	-74.6	1	
+480	07/01/24	Toronto	ON	43.6	-79.5	2	
+481	07/01/24	Claremont	NH	43.4	-72.3	1	
+482	07/01/24	Hamilton	NJ	39.4	-74.7	1	
+483	07/01/24	Portland	OR	45.6	-122.6	1	
+484	07/01/24	Jefferson	NC	36.4	-81.5	1	
+485	07/01/24	Claremont	NH	43.4	-72.3	1	
+486	07/01/24	Jericho	VT	44.5	-73	1	
+487	07/01/24	Claremont	NH	43.4	-72.3	1	
+488	07/01/24	Grand Terrace	CA	34	-117.3	1	
+489	07/01/24	Claremont	NH	43.4	-72.3	1	
+490	07/01/24	Muskegon	MI	43.2	-86.3	1	
+491	07/01/24	Stevensville	MD	39	-76.3	0	
+492	07/01/24	Milton	NH	43.5	-71	1	
+493	07/01/24	Claremont	NH	43.4	-72.3	1	
+494	07/01/24	Jefferson	NJ	41	-74.6	1	
+495	07/01/24	Claremont	NH	43.4	-72.3	1	
+496	06/30/24	Grosse Pointe Farms	MI	42.4	-82.9	1	
+497	06/30/24	Williston	VT	44.4	-73.1	1	
+498	06/30/24	Albion	IN	41.3	-85.5	1	
+499	06/30/24	South Glens Falls	NY	43.3	-73.6	1	
+500	06/30/24	Bowmanville	ON	43.9	-78.7	1	
+501	06/30/24	Mooreland	OK	36.4	-99.2	1	
+502	06/30/24	Grosse Pointe Farms	MI	42.4	-82.9	1	
+503	06/30/24	Newport	VT	44.9	-72.2	1	
+504	06/30/24	Gardiner	MT	45	-110.7	1	
+505	06/30/24	Gardiner	MT	45	-110.7	1	
+506	06/29/24	Holland	MI	42.8	-86.1	0	
+507	06/29/24	Holland	MI	42.8	-86.1	0	
+508	06/29/24	Mt Prospect	IL	42	-87.9	2	
+509	06/29/24	Ogden	UT	41.2	-112	1	
+510	06/29/24	Saskatoon	SK	52.1	-106.6	1	
+511	06/29/24	Portage	MI	42.2	-85.6	1	
+512	06/29/24	Holland	MI	42.8	-86.1	0	
+513	06/29/24	Saskatoon	SK	52.1	-106.6	1	
+514	06/29/24	Johnsburg	NY	43.5	-74	6	
+515	06/28/24	Easthampton	MA	42.2	-72.7	1	
+516	06/28/24	Sanford	ME	43.4	-70.8	1	
+517	06/28/24	Hebbville	NS	44.4	-64.5	1	
+518	06/28/24	Otsego	MN	45.3	-93.6	1	
+519	06/28/24	Indian Lake	NY	43.8	-74.3	4	
+520	06/28/24	Pittsburgh	PA	40.4	-80	1	
+521	06/28/24	Media	PA	39.9	-75.4	1	
+522	06/28/24	Murrells Inlet	SC	33.5	-79	3	
+523	06/28/24	Piqua	OH	40.1	-84.2	1	
+524	06/28/24	Ridgefield	CT	41.3	-73.5	1	
+525	06/27/24	Bradley Beach	NJ	40.2	-74	1	
+526	06/27/24	Sarnia	ON	43	-82.4	1	
+527	06/27/24	Hull	MA	42.3	-70.9	1	
+528	06/27/24	Chicago	IL	41.7	-87.6	1	
+529	06/27/24	Watsontown	PA	41.1	-76.9	1	
+530	06/27/24	Pewaukee	WI	43.1	-88.3	1	
+531	06/27/24	Rapid City	SD	44	-103.1	1	
+532	06/27/24	Moravia	NY	42.8	-76.5	1	
+533	06/27/24	Stillwater	OK	36.1	-97	1	
+534	06/27/24	Rapid City	SD	44	-103.1	1	
+535	06/27/24	Chicago	IL	41.7	-87.6	1	
+536	06/27/24	Meridian Charter Township	MI	42.7	-84.5	1	
+537	06/27/24	Willis	MI	42.2	-83.6	1	
+538	06/27/24	Blackstock	ON	44.1	-78.8	1	
+539	06/27/24	Bethany	CT	41.5	-73	1	
+540	06/26/24	Massapequa	NY	40.7	-73.5	1	
+541	06/26/24	Rockford	IL	42.3	-89	1	
+542	06/26/24	Morrisonville	NY	44.7	-73.6	1	
+543	06/26/24	Lake Villa	IL	42.4	-88.1	1	
+544	06/26/24	Chester	NS	44.6	-64.3	1	
+545	06/26/24	Ottawa	ON	45.4	-75.7	1	
+546	06/26/24	Lincoln	VT	44.1	-73	1	
+547	06/26/24	Seymour	TN	35.9	-83.7	1	
+548	06/26/24	Hillsboro	OR	45.5	-122.9	1	
+549	06/26/24	Waterloo	ON	43.5	-80.5	1	
+550	06/26/24	Mahone Bay	NS	44.5	-64.3	0	
+551	06/26/24	Buhler	KS	38.1	-97.8	1	
+552	06/26/24	Massapequa	NY	40.7	-73.5	1	
+553	06/26/24	Hackettstown	NJ	40.8	-74.9	1	
+554	06/26/24	Barrie	ON	44.4	-79.7	1	
+555	06/26/24	Massapequa	NY	40.7	-73.5	1	
+556	06/26/24	Massapequa	NY	40.7	-73.5	1	
+557	06/26/24	Massapequa	NY	40.7	-73.5	1	
+558	06/25/24	Greenville	OH	40.1	-84.6	1	
+559	06/25/24	Waterford	CT	41.4	-72.1	1	
+560	06/25/24	Ypsilanti	MI	42.2	-83.6	1	
+561	06/25/24	Toronto	ON	43.7	-79.3	2	
+562	06/25/24	Toronto	ON	43.7	-79.4	1	
+563	06/25/24	Yarmouth	MA	41.7	-70.2	1	
+564	06/25/24	Salem	WI	42.6	-88.1	2	
+565	06/25/24	Sterling Heights	MI	42.5	-83.1	1	
+566	06/25/24	Gardena	CA	33.9	-118.3	1	
+567	06/25/24	Batavia	NY	43	-78.3	1	
+568	06/25/24	Batavia	NY	43	-78.3	1	
+569	06/25/24	Swampscott	MA	42.5	-70.9	1	
+570	06/25/24	Batavia	NY	43	-78.3	1	
+571	06/25/24	Prior Lake	MN	44.7	-93.5	2	
+572	06/25/24	Easton	PA	40.7	-75.2	1	
+573	06/25/24	Alexander	ME	45.1	-67.5	1	
+574	06/25/24	Fletcher	NC	35.4	-82.5	1	
+575	06/25/24	Barnstead	NH	43.4	-71.2	0	
+576	06/25/24	Chester	WV	40.6	-80.6	1	
+577	06/25/24	Mifflinburg	PA	40.9	-77	1	
+578	06/24/24	Oshkosh	WI	44	-88.5	1	
+579	06/24/24	Pelham	ON	43	-79.3	2	
+580	06/24/24	Antioch	IL	42.5	-88.1	1	
+581	06/24/24	Wauwatosa	WI	43.1	-88	1	
+582	06/24/24	Sharon	PA	41.2	-80.5	1	
+583	06/24/24	Canonsburg	PA	40.3	-80.2	1	
+584	06/24/24	Rochester	NY	43.2	-77.7	1	
+585	06/24/24	Antioch	IL	42.5	-88.1	1	
+586	06/24/24	Antioch	IL	42.5	-88.1	1	
+587	06/24/24	Oak Lawn	IL	41.7	-87.8	1	
+588	06/24/24	Eaton Rapids	MI	42.5	-84.6	1	
+589	06/24/24	Canton	OH	40.8	-81.4	1	
+590	06/24/24	Antioch	IL	42.5	-88.1	1	
+591	06/24/24	Rutland Charter Twp	MI	42.5	-85.3	4	
+592	06/24/24	Kaysville	UT	41	-112	1	
+593	06/24/24	Niagara Falls	ON	43.1	-79.1	1	
+594	06/24/24	Antioch	IL	42.5	-88.1	1	
+595	06/24/24	Schoolcraft	MI	42.1	-85.6	1	
+596	06/24/24	Temperance	MI	41.7	-83.6	1	
+597	06/24/24	Asbury Park	NJ	40.2	-74	1	
+598	06/24/24	Marion	NY	43.1	-77.2	1	
+599	06/23/24	Reston	VA	38.9	-77.3	1	
+600	06/23/24	Whitby	ON	43.9	-78.9	2	
+601	06/23/24	Sparks	NV	39.6	-119.7	1	
+602	06/23/24	Fish Haven	ID	42	-111.4	1	
+603	06/23/24	Horsham	PA	40.2	-75.1	1	
+604	06/23/24	Bradford	NH	43.2	-72	2	
+605	06/23/24	Timmins	ON	48.5	-81.2	1	
+606	06/23/24	Horsham	PA	40.2	-75.1	1	
+607	06/23/24	Chadds Ford	PA	39.9	-75.6	1	
+608	06/23/24	Chadds Ford	PA	39.9	-75.6	1	
+609	06/22/24	West Porters Lake	NS	44.7	-63.3	1	
+610	06/22/24	Eastpointe	MI	42.5	-83	1	
+611	06/22/24	Toronto	ON	43.8	-79.1	1	
+612	06/22/24	Irwin	PA	40.3	-79.8	1	
+613	06/22/24	Cashiers	NC	35.1	-83.1	2	
+614	06/22/24	Kirkland Lake	ON	48.1	-80.1	1	
+615	06/22/24	West Haverstraw	NY	41.2	-74	1	
+616	06/22/24	Thunder Bay	ON	48.4	-89.3	0	
+617	06/22/24	Cumberland	ME	43.8	-70.3	1	
+618	06/22/24	Louisville	KY	38.2	-85.7	1	
+619	06/22/24	Rockbridge	OH	39.6	-82.5	1	
+620	06/22/24	Princeton	WV	37.3	-81.1	1	
+621	06/22/24	Amherst	NY	43	-78.8	1	
+622	06/22/24	Kokomo	IN	40.5	-86.1	1	
+623	06/21/24	Davenport	IA	41.6	-90.6	1	
+624	06/21/24	Detroit	MI	42.4	-83.3	1	
+625	06/21/24	Portland	OR	45.6	-122.7	1	
+626	06/21/24	Grosse Pointe Park	MI	42.4	-82.9	1	
+627	06/21/24	Dickerson	MD	39.2	-77.4	1	
+628	06/21/24	Rhein	SK	51.4	-102.2	1	
+629	06/21/24	Portland	OR	45.5	-122.7	1	
+630	06/21/24	Torrey	UT	38.3	-111.2	1	
+631	06/21/24	Torrey	UT	38.3	-111.2	1	
+632	06/21/24	Smith River	CA	41.9	-124.2	1	
+633	06/21/24	Waterford	NY	42.8	-73.7	1	
+634	06/21/24	Smith River	CA	41.9	-124.2	1	
+635	06/21/24	Thunder Bay	ON	48.4	-89.3	1	
+636	06/21/24	Jordan	NY	43.1	-76.5	1	
+637	06/21/24	Reno	NV	39.5	-119.9	1	
+638	06/21/24	Shuniah	ON	48.6	-88.6	3	
+639	06/21/24	Columbus	OH	40.1	-83.1	1	
+640	06/20/24	Bradenton	FL	27.5	-82.6	10	
+641	06/20/24	Livonia	MI	42.4	-83.4	1	
+642	06/20/24	Scotia	NY	42.8	-74	1	
+643	06/20/24	Joshua Tree	CA	34.1	-116.3	1	
+644	06/20/24	Portland	OR	45.6	-122.6	1	
+645	06/20/24	Aurora	CO	39.8	-104.8	1	
+646	06/20/24	Buffalo	NY	42.8	-78.7	1	
+647	06/20/24	Falmouth	MA	41.6	-70.5	1	
+648	06/20/24	Salt Lake City	UT	40.8	-111.8	1	
+649	06/20/24	Tamworth	NH	43.9	-71.4	1	
+650	06/20/24	Newberg	OR	45.3	-123	1	
+651	06/20/24	North Tonawanda	NY	43	-78.9	1	
+652	06/20/24	Grove City	OH	39.9	-83.1	1	
+653	06/20/24	Stevensville	MI	42	-86.5	1	
+654	06/19/24	Willowick	OH	41.6	-81.5	1	
+655	06/19/24	Spring City	PA	40.2	-75.6	1	
+656	06/19/24	Mentor	OH	41.7	-81.3	1	
+657	06/19/24	Stoke	QC	45.5	-71.8	1	
+658	06/19/24	Tamworth	NH	43.9	-71.3	1	
+659	06/19/24	Louisville	KY	38.2	-85.8	1	
+660	06/19/24	West Springfield	VA	38.8	-77.2	1	
+661	06/19/24	Bethel	ME	44.4	-70.8	1	
+662	06/19/24	Spring	TX	30.1	-95.4	1	
+663	06/19/24	Portland	OR	45.6	-122.7	1	
+664	06/19/24	Portland	OR	45.6	-122.7	1	
+665	06/19/24	Winnipeg	MB	49.9	-97.1	1	
+666	06/19/24	Richmond	UT	41.9	-111.8	1	
+667	06/18/24	Chesapeake	VA	36.8	-76.4	1	
+668	06/18/24	Salem	MA	42.5	-70.9	1	
+669	06/18/24	Eastern Passage	NS	44.6	-63.5	1	
+670	06/18/24	Boise	ID	43.7	-116.2	1	
+671	06/18/24	Old Orchard Beach	ME	43.5	-70.4	1	
+672	06/18/24	Blackfoot	ID	43.2	-112.3	1	
+673	06/18/24	Washington Court House	OH	39.5	-83.4	1	
+674	06/18/24	Port Hope	ON	43.9	-78.3	1	
+675	06/18/24	Watertown	MA	42.4	-71.2	1	
+676	06/18/24	Adamsville	NY	43.3	-73.4	1	
+677	06/17/24	Cobourg	ON	44	-78.2	1	
+678	06/17/24	Belfast	ME	44.4	-69	1	
+679	06/17/24	Pleasant Plain	OH	39.3	-84.1	1	
+680	06/17/24	Rochester	NY	43.2	-77.6	1	
+681	06/17/24	Rochester	NY	43.2	-77.6	1	
+682	06/17/24	Oxford	OH	39.5	-84.8	1	
+683	06/17/24	Temecula	CA	33.5	-117.1	1	
+684	06/17/24	Temecula	CA	33.5	-117.1	1	
+685	06/17/24	Rushville	IN	39.7	-85.4	1	
+686	06/17/24	Baltimore	MD	39.4	-76.7	1	
+687	06/17/24	St. Catharines	ON	43.2	-79.2	1	
+688	06/17/24	Burlington	ON	43.3	-79.8	1	
+689	06/17/24	Frederick	MD	39.4	-77.5	1	
+690	06/17/24	Marilla	NY	42.8	-78.6	1	
+691	06/17/24	Albany	NY	42.7	-73.7	1	
+692	06/17/24	Hilton Head Island	SC	32.2	-80.8	5	
+693	06/17/24	Webster	NY	43.2	-77.5	1	
+694	06/17/24	Langdon	NH	43.2	-72.3	1	
+695	06/17/24	Webster	NY	43.2	-77.5	1	
+696	06/16/24	Waterloo	QC	45.3	-72.5	1	
+697	06/16/24	Sarnia	ON	43	-82.4	1	
+698	06/16/24	Pittsburgh	PA	40.5	-80.1	1	
+699	06/16/24	Kawartha Lakes	ON	44.4	-78.7	1	
+700	06/16/24	Keene	NH	42.9	-72.3	1	
+701	06/16/24	Winnipeg	MB	49.9	-97	1	
+702	06/16/24	Ozawkie	KS	39.2	-95.5	1	
+703	06/16/24	Dartmouth	NS	44.7	-63.6	1	
+704	06/16/24	Grayling	MI	44.6	-84.7	1	
+705	06/16/24	Milton	ON	43.5	-79.9	1	
+706	06/16/24	Woodbridge	CT	41.4	-73	1	
+707	06/16/24	Hagerstown	MD	39.7	-77.7	1	
+708	06/16/24	Tupper Lake	NY	44.2	-74.3	1	
+709	06/16/24	Gatineau	QC	45.4	-75.8	1	
+710	06/16/24	Marcellus	NY	43	-76.3	1	
+711	06/16/24	Versailles	KY	38	-84.7	1	
+712	06/16/24	Portland	ME	43.7	-70.3	1	
+713	06/16/24	Langdon	NH	43.2	-72.4	1	
+714	06/15/24	Montréal	QC	45.5	-73.9	1	
+715	06/15/24	Bismarck	ND	46.8	-100.8	1	
+716	06/15/24	Hastings-On-Hudson	NY	41	-73.9	1	
+717	06/15/24	Bismarck	ND	46.8	-100.8	1	
+718	06/15/24	Milford	MA	42.1	-71.5	1	
+719	06/15/24	Moselle	MS	31.5	-89.3	1	
+720	06/15/24	Iowa City	IA	41.6	-91.6	1	
+721	06/15/24	Cobourg	ON	44	-78.2	1	
+722	06/15/24	Mesilla	NM	32.3	-106.8	1	
+723	06/15/24	Monroe	CT	41.3	-73.2	1	
+724	06/15/24	Dunrobin	ON	45.5	-76	1	
+725	06/15/24	Schmidt	ND	46.7	-100.8	1	
+726	06/15/24	North East	PA	42.3	-79.8	2	
+727	06/15/24	McGaheysville	VA	38.4	-78.7	1	
+728	06/14/24	Welland	ON	43	-79.2	1	
+729	06/14/24	Carol Stream	IL	41.9	-88.1	1	
+730	06/14/24	East Rockaway	NY	40.6	-73.7	1	
+731	06/14/24	Walworth	NY	43.1	-77.3	1	
+732	06/14/24	Munster	IN	41.6	-87.5	1	
+733	06/14/24	Peabody	KS	38.2	-97.1	1	
+734	06/14/24	East Rockaway	NY	40.6	-73.7	1	
+735	06/14/24	Lake Station	IN	41.6	-87.3	1	
+736	06/14/24	Farmington	MO	37.8	-90.4	1	
+737	06/14/24	National City	MI	44.3	-83.6	1	
+738	06/14/24	Buena Park	CA	33.8	-118	2	
+739	06/14/24	Discovery Bay	CA	37.9	-121.6	1	
+740	06/14/24	Stoughton	MA	42.1	-71.1	1	
+741	06/14/24	Martinsville	VA	36.7	-79.8	1	
+742	06/14/24	Reston	VA	38.9	-77.4	1	
+743	06/14/24	Sturgis	MI	41.8	-85.4	1	
+744	06/14/24	Sturgis	MI	41.8	-85.4	1	
+745	06/14/24	Winnipeg	MB	49.9	-97.1	0	
+746	06/14/24	Chagrin Falls	OH	41.4	-81.4	1	
+747	06/13/24	Saint-Calixte	QC	46	-73.8	1	
+748	06/13/24	Clinton Twp	MI	42.6	-83	1	
+749	06/13/24	Mississauga	ON	43.5	-79.6	1	
+750	06/13/24	Mokena	IL	41.5	-87.9	1	
+751	06/13/24	Pittsfield	PA	41.8	-79.4	1	
+752	06/13/24	Missoula	MT	46.9	-114.1	1	
+753	06/13/24	Lancaster	NY	42.9	-78.7	1	
+754	06/13/24	Trent Hills	ON	44.3	-78	1	
+755	06/13/24	Long Beach	CA	33.8	-118.2	1	
+756	06/13/24	Ashton-Sandy Spring	MD	39.1	-77	1	
+757	06/13/24	Oakton	VA	38.9	-77.3	1	
+758	06/13/24	Franklin	WI	42.9	-88	1	
+759	06/13/24	Minden Hills	ON	45	-78.6	1	
+760	06/13/24	Milwaukee	WI	43.2	-88	1	
+761	06/13/24	Lansing	MI	42.7	-84.5	2	
+762	06/13/24	Richlandtown	PA	40.5	-75.3	1	
+763	06/12/24	Newbury Township	OH	41.5	-81.3	1	
+764	06/12/24	Waterbury Center	VT	44.4	-72.7	1	
+765	06/12/24	Hazard	KY	37.2	-83.2	1	
+766	06/12/24	Ypsilanti	MI	42.2	-83.6	1	
+767	06/12/24	Keswick	NB	46	-66.8	1	
+768	06/12/24	Danville	KY	37.7	-84.8	1	
+769	06/12/24	Danville	KY	37.7	-84.8	1	
+770	06/12/24	Danville	KY	37.7	-84.8	1	
+771	06/12/24	Warren	ME	44.1	-69.3	1	
+772	06/12/24	Bountiful	UT	40.9	-111.9	0	
+773	06/12/24	San Leandro	CA	37.7	-122.1	1	
+774	06/12/24	New Cumberland	PA	40.2	-76.9	1	
+775	06/12/24	KCMO	MO	39.2	-94.5	1	
+776	06/12/24	KCMO	MO	39.2	-94.5	1	
+777	06/12/24	Vernal	UT	40.4	-109.5	1	
+778	06/12/24	Portland	OR	45.5	-122.6	1	
+779	06/12/24	Broadalbin	NY	43.1	-74.1	1	
+780	06/12/24	Manistee	MI	44.2	-86.4	2	
+781	06/12/24	Cathance Twp	ME	44.9	-67.4	2	
+782	06/12/24	Columbia	SC	34	-81	0	
+783	06/12/24	Grosse Pointe Park	MI	42.4	-82.9	1	
+784	06/12/24	Worcester	MA	42.3	-71.8	1	
+785	06/12/24	Winnipeg	MB	49.9	-97.3	1	
+786	06/12/24	Warren	MI	42.5	-83	2	
+787	06/12/24	Belfast	ME	44.4	-69	1	
+788	06/12/24	Winchendon	MA	42.7	-72	1	
+789	06/12/24	Salt Lake City	UT	40.8	-111.9	1	
+790	06/12/24	Winnipeg	MB	49.9	-97.1	1	
+791	06/12/24	Shannon	NC	34.9	-79.2	1	
+792	06/11/24	Vernal	UT	40.5	-109.5	1	
+793	06/11/24	Vernal	UT	40.5	-109.5	1	
+794	06/11/24	Newcastle	ON	43.9	-78.6	1	
+795	06/11/24	Bath Twp	MI	42.8	-84.4	1	
+796	06/11/24	Plymouth	MA	41.9	-70.6	1	
+797	06/11/24	Plymouth	MA	41.9	-70.6	1	
+798	06/11/24	Hagerman	ID	42.8	-114.9	1	
+799	06/11/24	Newcastle	ON	43.9	-78.6	1	
+800	06/11/24	Clearview	ON	44.3	-80.2	1	
+801	06/11/24	Highland	MI	44.2	-85.3	3	
+802	06/11/24	Shelton	CT	41.3	-73.1	1	
+803	06/11/24	Broomfield	CO	39.9	-105.1	1	
+804	06/11/24	Mississauga	ON	43.5	-79.7	1	
+805	06/10/24	Wanaque	NJ	41	-74.3	1	
+806	06/10/24	Tamworth	NH	43.8	-71.3	1	
+807	06/10/24	Snow Hill	MD	38.2	-75.4	1	
+808	06/10/24	Charlotte	NC	35.2	-80.8	1	
+809	06/10/24	Eagle Point	OR	42.4	-122.8	1	
+810	06/10/24	Woodland	CA	38.7	-121.8	2	
+811	06/10/24	Tridell	UT	40.4	-109.8	1	
+812	06/10/24	Cape May	NJ	38.9	-74.9	1	
+813	06/10/24	Stanardsville	VA	38.4	-78.5	1	
+814	06/10/24	Northport	NY	40.9	-73.3	1	
+815	06/10/24	Biddeford	ME	43.5	-70.5	1	
+816	06/10/24	Clarksville	MD	39.2	-76.9	1	
+817	06/10/24	Edwardsburg	MI	41.8	-86.1	1	
+818	06/10/24	Omaha	NE	41.3	-96	1	
+819	06/09/24	Autryville	NC	35	-78.7	1	
+820	06/09/24	Marietta	GA	34	-84.4	1	
+821	06/09/24	Jarrettsville	MD	39.6	-76.5	1	
+822	06/09/24	Lubec	ME	44.8	-67	1	
+823	06/09/24	Boise	ID	43.6	-116.3	1	
+824	06/09/24	Altonah	UT	40.4	-110.3	2	
+825	06/09/24	Shaw	OR	44.9	-122.9	1	
+826	06/09/24	Woodstock	GA	34.2	-84.4	1	
+827	06/09/24	Corvallis	OR	44.5	-123.3	1	
+828	06/09/24	Williamsburg	MA	42.4	-72.7	1	
+829	06/09/24	Catawba	VA	37.4	-80.1	1	
+830	06/09/24	Grants Pass	OR	42.6	-123.3	0	
+831	06/09/24	Chagrin Falls	OH	41.4	-81.3	1	
+832	06/08/24	Reynoldsburg	OH	40	-82.8	2	
+833	06/08/24	Fernley	NV	39.6	-119.2	1	
+834	06/08/24	Valley River	MB	51.2	-100.1	1	
+835	06/08/24	Ogden	UT	41.3	-112.1	1	
+836	06/08/24	Wellesley	MA	42.3	-71.3	0	
+837	06/08/24	Fulton	MD	39.2	-76.9	1	
+838	06/08/24	Winnipeg	MB	49.8	-97.1	1	
+839	06/08/24	Brigantine	NJ	39.4	-74.4	1	
+840	06/08/24	Naperville	IL	41.7	-88.1	1	
+841	06/08/24	Winston-Salem	NC	36.1	-80.3	1	
+842	06/08/24	Blairsville	PA	40.4	-79.3	1	
+843	06/08/24	Winchester	CT	41.9	-73.1	1	
+844	06/08/24	Heber City	UT	40.5	-111.4	1	
+845	06/08/24	Winchester	CT	41.9	-73.1	1	
+846	06/08/24	Meridian	ID	43.7	-116.4	1	
+847	06/08/24	Winchester	CT	41.9	-73.1	1	
+848	06/08/24	Mooresville	IN	39.6	-86.4	1	
+849	06/07/24	Greensburg	PA	40.3	-79.5	1	
+850	06/07/24	Savannah	GA	31.9	-81.1	1	
+851	06/07/24	Washington Township	NJ	39.8	-75.1	1	
+852	06/07/24	Little Egg Harbor Township	NJ	39.6	-74.3	1	
+853	06/07/24	Gainesville	GA	34.4	-83.9	1	
+854	06/07/24	Westhampton Beach	NY	40.8	-72.6	1	
+855	06/07/24	Regina	SK	50.4	-104.6	1	
+856	06/07/24	Middleton	ID	43.8	-116.6	2	
+857	06/07/24	Hayward	CA	37.7	-122.1	1	
+858	06/07/24	Morden	MB	49.2	-98.1	1	
+859	06/07/24	Winnipeg	MB	49.9	-97.2	1	
+860	06/07/24	Ogema	WI	45.4	-90.2	1	
+861	06/07/24	Oldtown	MD	39.6	-78.6	1	
+862	06/07/24	Oldtown	MD	39.6	-78.6	1	
+863	06/07/24	Oscoda	MI	44.4	-83.3	0	
+864	06/07/24	North Muskegon	MI	43.2	-86.3	1	
+865	06/06/24	Lancaster	PA	40.1	-76.4	1	
+866	06/06/24	Brigham City	UT	41.5	-112.3	1	
+867	06/06/24	Toronto	ON	43.6	-79.4	1	
+868	06/06/24	Richmond	VA	37.6	-77.6	1	
+869	06/06/24	Hillsboro	ND	47.4	-97.1	2	
+870	06/06/24	McMurray	PA	40.2	-80.1	2	
+871	06/06/24	Gardner	MA	42.6	-72	1	
+872	06/06/24	Dartmouth	NS	44.7	-63.5	0	
+873	06/06/24	Lansdowne	PA	39.9	-75.3	1	
+874	06/06/24	Marshall	MN	44.4	-95.8	2	
+875	06/06/24	Kawartha Lakes	ON	44.5	-78.5	8	
+876	06/06/24	Advocate Harbour	NS	45.4	-64.9	1	
+877	06/06/24	Grants Pass	OR	42.6	-123.3	0	
+878	06/06/24	Hamilton	ON	43.3	-79.9	1	
+879	06/06/24	Sarnia	ON	43	-82.4	1	
+880	06/06/24	Winnipeg	MB	49.9	-97.2	1	
+881	06/05/24	Tollesboro	KY	38.5	-83.5	1	
+882	06/05/24	Greater Sudbury	ON	46.6	-81	1	
+883	06/05/24	Hunts Point	NS	44	-64.7	1	
+884	06/05/24	Red Hook	NY	42	-73.9	1	
+885	06/05/24	Hyde Park	NY	41.8	-73.8	1	
+886	06/05/24	Paris	ME	44.2	-70.5	1	
+887	06/05/24	Chatham	ON	42.4	-82.2	1	
+888	06/05/24	Mattapoisett	MA	41.7	-70.8	1	
+889	06/05/24	Rough and Ready	CA	39.2	-121.2	1	
+890	06/05/24	Greeley	CO	40.4	-104.8	1	
+891	06/05/24	Schaumburg	IL	42	-88.1	1	
+892	06/05/24	Windsor	ON	42.2	-83.1	1	
+893	06/05/24	Falmouth	MA	41.6	-70.6	2	
+894	06/05/24	Valley	NS	45.4	-63.2	3	
+895	06/05/24	Watertown	SD	44.9	-96.9	2	
+896	06/05/24	Roy	UT	41.2	-112.1	1	
+897	06/05/24	Laurel	DE	38.5	-75.5	1	
+898	06/05/24	Upper Freehold	NJ	40.1	-74.5	1	
+899	06/05/24	Schaumburg	IL	42	-88.1	1	
+900	06/05/24	Greater Sudbury	ON	46.6	-81.2	1	
+901	06/05/24	Kaysville	UT	41	-111.9	1	
+902	06/05/24	Newport	KY	39.1	-84.5	1	
+903	06/04/24	Walpole	MA	42.2	-71.2	1	
+904	06/04/24	Richville	MN	46.4	-95.8	1	
+905	06/04/24	Spring City	PA	40.2	-75.5	1	
+906	06/04/24	London	ON	43	-81.3	1	
+907	06/04/24	Ipswich	MA	42.7	-70.9	1	
+908	06/04/24	Stockbridge	MA	42.3	-73.3	1	
+909	06/04/24	Grayslake	IL	42.4	-88	1	
+910	06/04/24	Hopewell Junction	NY	41.6	-73.7	1	
+911	06/04/24	Statesville	NC	35.9	-80.8	1	
+912	06/04/24	Highland	UT	40.4	-111.8	1	
+913	06/04/24	Sparks	NV	39.6	-119.7	1	
+914	06/04/24	Hanover	MA	42.1	-70.9	1	
+915	06/04/24	Richmond	VA	37.6	-77.5	1	
+916	06/04/24	Buckfield	NS	44.3	-64.8	1	
+917	06/04/24	Buckfield	NS	44.3	-64.8	1	
+918	06/04/24	Halifax	NS	44.6	-63.7	1	
+919	06/04/24	Halifax	NS	44.6	-63.6	1	
+920	06/04/24	Tweed	ON	44.5	-77.3	1	
+921	06/04/24	Andover	MN	45.2	-93.3	2	
+922	06/04/24	Franklin	TN	35.9	-86.9	0	
+923	06/04/24	Kittery	ME	43.1	-70.7	1	
+924	06/04/24	Florence	KY	39	-84.7	1	
+925	06/04/24	Hopewell Junction	NY	41.6	-73.8	1	
+926	06/04/24	Empire	MI	44.8	-86.1	1	
+927	06/04/24	Mildmay	ON	44.1	-81.1	2	
+928	06/04/24	Wallingford	CT	41.4	-72.8	1	
+929	06/04/24	Wilkerson	CA	37.3	-118.4	2	
+930	06/04/24	Arvada	CO	39.8	-105.1	1	
+931	06/04/24	Bath Twp	MI	42.8	-84.4	1	
+932	06/04/24	Charlotte	VT	44.3	-73.3	1	
+933	06/04/24	Chagrin Falls	OH	41.4	-81.4	1	
+934	06/03/24	Ottawa	ON	45.5	-76.1	1	
+935	06/03/24	Ottawa	ON	45.5	-76.1	1	
+936	06/03/24	Winnipeg	MB	49.9	-97.1	0	
+937	06/03/24	Medford	NJ	39.9	-74.8	1	
+938	06/03/24	East Haven	CT	41.3	-72.9	1	
+939	06/03/24	Lewes	DE	38.7	-75.2	1	
+940	06/03/24	Newark	DE	39.7	-75.7	1	
+941	06/03/24	Windber	PA	40.2	-78.8	1	
+942	06/03/24	Lockport	NY	43.2	-78.7	1	
+943	06/03/24	Ottawa	ON	45.4	-75.7	1	
+944	06/03/24	Ottawa	ON	45.4	-75.7	1	
+945	06/03/24	Clarksburg	MA	42.7	-73.1	1	
+946	06/03/24	Greenfield	IN	39.8	-85.8	1	
+947	06/03/24	Milbank	SD	45.2	-96.6	1	
+948	06/03/24	Wellesley	MA	42.3	-71.3	1	
+949	06/03/24	Toronto	ON	43.8	-79.2	1	
+950	06/03/24	Newark	DE	39.7	-75.7	1	
+951	06/03/24	Connellsville	PA	40	-79.6	2	
+952	06/03/24	Brighton	MI	42.5	-83.8	1	
+953	06/03/24	Farmington	MO	37.8	-90.4	1	
+954	06/03/24	Newburgh	NY	41.6	-74	1	
+955	06/03/24	Sarnia	ON	43	-82.4	1	
+956	06/03/24	Monmouth Beach	NJ	40.3	-74	2	
+957	06/03/24	Skaneateles	NY	42.9	-76.4	1	
+958	06/03/24	Sanbornton	NH	43.5	-71.6	1	
+959	06/03/24	Thurso	QC	45.6	-75.2	1	
+960	06/03/24	Breaux Bridge	LA	30.3	-91.9	1	
+961	06/03/24	Souderton	PA	40.3	-75.3	1	
+962	06/03/24	Chatham	ON	42.4	-82.2	1	
+963	06/03/24	Tolland	CT	41.9	-72.4	1	
+964	06/03/24	Windsor	ME	44.3	-69.6	1	
+965	06/03/24	Farwell	MI	43.8	-84.9	2	
+966	06/02/24	Freeport	ME	43.9	-70.1	1	
+967	06/02/24	Madison	WI	43.1	-89.4	1	
+968	06/02/24	Greenwich	NY	43.2	-73.4	1	
+969	06/02/24	Groton	CT	41.3	-72	1	
+970	06/02/24	Grafton	MA	42.2	-71.7	1	
+971	06/02/24	Friendswood	TX	29.5	-95.2	1	
+972	06/02/24	Phoenix	AZ	33.6	-112	1	
+973	06/02/24	Thunder Bay	ON	48.5	-89.2	1	
+974	06/02/24	Boise	ID	43.5	-116.1	1	
+975	06/02/24	Newburgh	IN	37.9	-87.4	1	
+976	06/02/24	Traverse City	MI	44.7	-85.6	1	
+977	06/02/24	Rochester	MN	44	-92.5	1	
+978	06/02/24	Unionville	NY	41.3	-74.5	5	
+979	06/02/24	Morganton	NC	35.8	-81.7	1	
+980	06/02/24	Lake Elmo	MN	45	-92.9	1	
+981	06/02/24	Warren	MI	42.5	-83.1	1	
+982	06/02/24	Westland	MI	42.3	-83.3	1	
+983	06/02/24	Pembroke	NH	43.1	-71.4	1	
+984	06/02/24	White Bear Lake	MN	45.1	-93	1	
+985	06/02/24	Willington	CT	41.9	-72.2	1	
+986	06/01/24	Sherman Corner	MN	47.8	-92.7	1	
+987	06/01/24	Pinconning	MI	43.9	-84	1	
+988	06/01/24	Dallas	PA	41.3	-76	1	
+989	06/01/24	Freeville	NY	42.5	-76.4	1	
+990	06/01/24	Middletown Township	NJ	40.4	-74.1	1	
+991	06/01/24	Fertile	MN	47.6	-96.2	1	
+992	06/01/24	Whitchurch-Stouffville	ON	44	-79.4	1	
+993	06/01/24	Barnard	VT	43.7	-72.6	1	
+994	06/01/24	Parker	CO	39.5	-104.7	1	
+995	06/01/24	Clarksville	MD	39.2	-77	1	
+996	06/01/24	Narol	MB	50.1	-97	1	
+997	06/01/24	Monroe	NY	41.3	-74.2	1	
+998	06/01/24	Lakeland	MN	44.9	-92.8	1	
+999	06/01/24	Old Lyme	CT	41.3	-72.3	1	
+1000	06/01/24	Hamilton	ON	43.5	-80	1	
+1001	06/01/24	Ipswich	MA	42.7	-70.8	1	
+1002	06/01/24	Hamilton	ON	43.5	-80	1	
+1003	06/01/24	Salem	CT	41.5	-72.3	1	
+1004	06/01/24	Mapleton	ND	46.9	-97.2	5	
+1005	06/01/24	Sherborn	MA	42.3	-71.3	1	
+1006	06/01/24	Wheeling	WV	40	-80.6	1	
+1007	06/01/24	Ipswich	MA	42.7	-70.8	1	
+1008	06/01/24	Blossvale	NY	43.2	-75.7	2	
+1009	06/01/24	Concord	NH	43.2	-71.5	1	
+1010	06/01/24	Wharton	TX	29.3	-96.1	3	
+1011	06/01/24	Setauket- East Setauket	NY	41	-73.1	1	
+1012	06/01/24	Martinsville	IN	39.4	-86.4	1	
+1013	06/01/24	Hookstown	PA	40.6	-80.5	1	
+1014	06/01/24	Topsham	ME	43.9	-70	1	
+1015	06/01/24	Cabin John	MD	39	-77.2	1	
+1016	06/01/24	Conmee	ON	48.4	-89.7	2	
+1017	06/01/24	Morden	MB	49.2	-98.1	1	
+1018	06/01/24	Morden	MB	49.2	-98.1	1	
+1019	06/01/24	Wilton	CT	41.2	-73.4	1	
+1020	06/01/24	Princeton	WV	37.4	-81.1	50	
+1021	06/01/24	Myrtle Beach	SC	33.7	-78.9	0	
+1022	05/31/24	Steinbach	MB	49.5	-96.7	1	
+1023	05/31/24	Brampton	ON	43.7	-79.8	1	
+1024	05/31/24	Monterey	VA	38.4	-79.6	1	
+1025	05/31/24	Osceola	WI	45.3	-92.7	1	
+1026	05/31/24	Winnipeg	MB	49.9	-97.2	1	
+1027	05/31/24	Indianapolis	IN	39.8	-86.2	1	
+1028	05/31/24	Altona	MB	49.1	-97.5	1	
+1029	05/31/24	Starbuck	MB	49.8	-97.6	2	
+1030	05/31/24	Hingham	MA	42.2	-70.9	1	
+1031	05/31/24	White Cloud	MI	43.6	-85.8	1	
+1032	05/31/24	Pittsburgh	PA	40.5	-80.1	1	
+1033	05/31/24	Pleasantville	PA	41.5	-79.5	1	
+1034	05/31/24	Asheville	NC	35.6	-82.6	1	
+1035	05/31/24	Winnipeg	MB	49.8	-97.1	0	
+1036	05/31/24	Groveland Station	NY	42.7	-77.8	1	
+1037	05/31/24	Fair Oaks	CA	38.7	-121.3	1	
+1038	05/31/24	Bolton	NY	43.6	-73.7	1	
+1039	05/31/24	Annapolis Royal	NS	44.8	-65.4	1	
+1040	05/31/24	Fort Edward	NY	43.3	-73.6	1	
+1041	05/31/24	Virginia Beach	VA	36.9	-76.1	2	
+1042	05/30/24	Fredericktown	OH	40.5	-82.5	1	
+1043	05/30/24	Bel Air	MD	39.5	-76.3	1	
+1044	05/30/24	Stewartstown	NH	44.9	-71.5	1	
+1045	05/30/24	Winnipeg	MB	50	-97.1	1	
+1046	05/30/24	Annapolis	MD	39	-76.6	1	
+1047	05/30/24	Culver City	CA	34	-118.4	1	
+1048	05/30/24	Manistee	MI	44.2	-86.3	1	
+1049	05/30/24	Buffalo	NY	42.9	-78.9	1	
+1050	05/30/24	Santa Clarita	CA	34.4	-118.5	1	
+1051	05/30/24	Tinley Park	IL	41.6	-87.8	1	
+1052	05/30/24	Alexandria	VA	38.8	-77.1	1	
+1053	05/30/24	Tinley Park	IL	41.6	-87.8	1	
+1054	05/30/24	Hugoton	KS	37.2	-101.3	1	
+1055	05/30/24	Itasca	IL	42	-88	1	
+1056	05/30/24	York	PA	39.9	-76.7	1	
+1057	05/30/24	Winnipeg	MB	49.9	-97.1	1	
+1058	05/30/24	Suttons Bay	MI	45	-85.7	2	
+1059	05/30/24	Hamilton	ON	43.2	-79.8	1	
+1060	05/30/24	Shuniah	ON	48.5	-89	1	
+1061	05/30/24	Farmington	NY	43	-77.4	1	
+1062	05/30/24	Stony Mountain	MB	50.1	-97.3	2	
+1063	05/30/24	London	ON	43	-81.2	1	
+1064	05/30/24	Waverly	IL	39.6	-90	1	
+1065	05/30/24	Selkirk	MB	50.1	-96.9	1	
+1066	05/30/24	Giroux	MB	49.6	-96.6	1	
+1067	05/30/24	Springwater	ON	44.5	-79.8	1	
+1068	05/30/24	Vacaville	CA	38.4	-122	1	
+1069	05/30/24	Waupaca	WI	44.4	-89.1	1	
+1070	05/30/24	Hackensack	NJ	40.9	-74	1	
+1071	05/30/24	Essex	ON	42	-82.9	1	
+1072	05/30/24	Toronto	ON	43.8	-79.2	1	
+1073	05/30/24	Cambridge Station	NS	45.1	-64.6	1	
+1074	05/30/24	Hardwick Township	NJ	41.1	-74.9	1	
+1075	05/30/24	Gores Landing	ON	44.1	-78.2	1	
+1076	05/30/24	Novato	CA	38.1	-122.5	0	
+1077	05/30/24	Watsontown	PA	41.1	-76.9	1	
+1078	05/29/24	Harwinton	CT	41.7	-73	1	
+1079	05/29/24	Newcastle Creek	NB	46.1	-66	1	
+1080	05/29/24	Newcastle Creek	NB	46.1	-66	1	
+1081	05/29/24	Brandon	SD	43.5	-96.6	1	
+1082	05/29/24	Wilmington	NC	34.2	-77.9	1	
+1083	05/29/24	Eagle River	WI	45.9	-89.3	1	
+1084	05/29/24	Suffolk	VA	36.7	-76.6	1	
+1085	05/29/24	Lusby	MD	38.4	-76.5	1	
+1086	05/29/24	Dennison	MN	44.4	-93	1	
+1087	05/29/24	Leonia	NJ	40.9	-74	1	
+1088	05/29/24	Salt Lake City	UT	40.7	-111.9	0	
+1089	05/29/24	Easton	PA	40.7	-75.3	1	
+1090	05/29/24	Englewood	NJ	40.9	-74	1	
+1091	05/29/24	Rockford	IL	42.2	-89.2	1	
+1092	05/29/24	St Hilaire	MN	48	-96.2	1	
+1093	05/29/24	Manitoulin, Unorganized, West Part	ON	45.9	-83.1	1	
+1094	05/29/24	Le Roy	NY	43	-77.9	1	
+1095	05/29/24	St. Martins	NB	45.3	-65.6	1	
+1096	05/29/24	Wenham	MA	42.6	-70.9	1	
+1097	05/29/24	Englewood	NJ	40.9	-74	1	
+1098	05/29/24	Lafayette Hill	PA	40.1	-75.3	2	
+1099	05/29/24	Moorhead	MN	46.9	-96.8	1	
+1100	05/29/24	Thunder Bay	ON	48.4	-89.2	0	
+1101	05/29/24	Stevens Point	WI	44.5	-89.5	1	
+1102	05/29/24	Terre Haute	IN	39.5	-87.4	1	
+1103	05/29/24	Plattsburg	MO	39.6	-94.4	1	
+1104	05/29/24	Easton	PA	40.7	-75.3	1	
+1105	05/29/24	Lusby	MD	38.4	-76.5	1	
+1106	05/29/24	West Hartford	CT	41.8	-72.7	1	
+1107	05/29/24	Virden	MB	49.9	-100.9	1	
+1108	05/29/24	Lusby	MD	38.4	-76.5	1	
+1109	05/28/24	Traverse City	MI	44.7	-85.6	3	
+1110	05/28/24	Chagrin Falls	OH	41.4	-81.3	1	
+1111	05/28/24	Wartburg	TN	36.1	-84.5	1	
+1112	05/28/24	Mansfield	CT	41.8	-72.2	1	
+1113	05/28/24	Bristol	VT	44.1	-73.1	1	
+1114	05/28/24	Derry	NH	42.9	-71.3	1	
+1115	05/28/24	Salt Lake City	UT	40.8	-111.9	1	
+1116	05/28/24	Greater Sudbury	ON	46.5	-81	1	
+1117	05/28/24	Virginia Beach	VA	36.8	-76	1	
+1118	05/28/24	Wartburg	TN	36.1	-84.5	1	
+1119	05/28/24	Palisades Park	NJ	40.8	-74	1	
+1120	05/28/24	Council Bluffs	IA	41.2	-95.8	1	
+1121	05/28/24	Lancaster	PA	40.1	-76.3	1	
+1122	05/28/24	Annapolis	MD	39	-76.5	1	
+1123	05/28/24	Brainerd	MN	46.4	-94.2	1	
+1124	05/28/24	Portland	CT	41.6	-72.6	1	
+1125	05/28/24	Arnold	MD	39.1	-76.5	1	
+1126	05/28/24	Chagrin Falls	OH	41.4	-81.3	1	
+1127	05/28/24	Oracle	AZ	32.6	-110.8	2	
+1128	05/28/24	Somerset	MA	41.8	-71.1	1	
+1129	05/28/24	Newbury	MA	42.8	-70.9	1	
+1130	05/28/24	Barrington	RI	41.7	-71.3	2	
+1131	05/28/24	Mayville	WI	43.5	-88.5	1	
+1132	05/28/24	Margaretville	NY	42.1	-74.6	1	
+1133	05/28/24	Richmond	VA	37.4	-77.5	1	
+1134	05/28/24	Seaford	NY	40.7	-73.5	1	
+1135	05/28/24	Huntington Park	CA	34	-118.2	1	
+1136	05/27/24	Friendsville	TN	35.7	-84.1	5	
+1137	05/27/24	Southern Pines	NC	35.2	-79.4	1	
+1138	05/27/24	Columbus	OH	40	-83	1	
+1139	05/27/24	Aurora	MN	47.4	-92.2	1	
+1140	05/27/24	Niskayuna	NY	42.8	-73.8	1	
+1141	05/27/24	Terre Haute	IN	39.5	-87.4	1	
+1142	05/27/24	Two Harbors	MN	47.2	-91.4	1	
+1143	05/27/24	Herman	MN	45.8	-96.2	1	
+1144	05/27/24	San Ramon	CA	37.7	-121.9	1	
+1145	05/27/24	Mechanicsville	VA	37.6	-77.4	1	
+1146	05/27/24	Johns Island	SC	32.6	-80.2	1	
+1147	05/26/24	Newton	NJ	41.1	-74.8	1	
+1148	05/26/24	Brick Township	NJ	40.1	-74.1	1	
+1149	05/26/24	Ann Arbor	MI	42.3	-83.8	1	
+1150	05/26/24	Portage	MI	42.2	-85.5	1	
+1151	05/26/24	Val-David	QC	46	-74.2	1	
+1152	05/26/24	Val-David	QC	46	-74.2	1	
+1153	05/26/24	Huron Shores	ON	46.2	-83.2	1	
+1154	05/26/24	Hendersonville	TN	36.3	-86.6	1	
+1155	05/26/24	Woodbridge Township	NJ	40.5	-74.3	1	
+1156	05/26/24	Crosby	MN	46.6	-94.1	2	
+1157	05/26/24	Washington	NC	35.6	-77	1	
+1158	05/26/24	Friendsville	TN	35.7	-84.1	1	
+1159	05/26/24	Ann Arbor	MI	42.3	-83.8	1	
+1160	05/26/24	Montréal	QC	45.5	-73.7	1	
+1161	05/26/24	Toronto	ON	43.7	-79.4	1	
+1162	05/26/24	Stapleton	NE	41.3	-100.7	1	
+1163	05/26/24	Eveleth	MN	47.5	-92.5	1	
+1164	05/26/24	Bracebridge	ON	45.1	-79.4	1	
+1165	05/26/24	Ann Arbor	MI	42.3	-83.8	1	
+1166	05/26/24	Guilford	CT	41.3	-72.7	1	
+1167	05/26/24	Black River	MI	44.8	-83.3	2	
+1168	05/26/24	Allenton	MI	42.9	-82.9	1	
+1169	05/26/24	Atkinson	NE	42.5	-99	1	
+1170	05/26/24	Thief River Falls	MN	48.1	-96.4	1	
+1171	05/26/24	Winchester	VA	39.2	-78.2	2	
+1172	05/26/24	Vass	NC	35.2	-79.3	1	
+1173	05/26/24	Livonia	MI	42.4	-83.4	1	
+1174	05/26/24	Fort Gratiot Twp	MI	43.1	-82.5	1	
+1175	05/26/24	Ocean Pines	MD	38.4	-75.1	1	
+1176	05/26/24	Hamilton	OH	39.4	-84.4	1	
+1177	05/26/24	Jasper	IN	38.4	-86.9	1	
+1178	05/26/24	Tulsa	OK	36.1	-95.9	1	
+1179	05/26/24	Reile's Acres	ND	46.9	-96.9	1	
+1180	05/25/24	Battersea	ON	44.4	-76.4	1	
+1181	05/25/24	Jarrettsville	MD	39.6	-76.5	1	
+1182	05/25/24	Brookings	SD	44.3	-96.8	1	
+1183	05/25/24	Palisade	MN	46.7	-93.7	1	
+1184	05/25/24	West Chester	PA	39.9	-75.7	1	
+1185	05/25/24	Stevens Point	WI	44.6	-89.6	1	
+1186	05/25/24	Superior	WI	46.7	-92.1	1	
+1187	05/25/24	Solon Springs	WI	46.5	-91.8	1	
+1188	05/25/24	Virginia Beach	VA	36.8	-76	1	
+1189	05/25/24	West Grey	ON	44.2	-80.6	1	
+1190	05/25/24	Battersea	ON	44.4	-76.4	1	
+1191	05/25/24	Bluffton	SC	32.3	-80.9	3	
+1192	05/25/24	Mars	PA	40.7	-80	0	
+1193	05/25/24	Minneapolis	MN	45	-93.2	1	
+1194	05/25/24	Virginia Beach	VA	36.9	-76	1	
+1195	05/25/24	Brainerd	MN	46.4	-94.2	1	
+1196	05/25/24	Grand Marais	MN	47.8	-90.2	1	
+1197	05/25/24	Iron Mountain	MI	46	-88.1	1	
+1198	05/25/24	Waukesha	WI	43.1	-88.2	2	
+1199	05/25/24	Brainerd	MN	46.4	-94.2	1	
+1200	05/25/24	Ashland	WI	46.6	-90.9	4	
+1201	05/25/24	Eau Claire	WI	44.8	-91.5	1	
+1202	05/25/24	Bruce	WI	45.3	-91.3	1	
+1203	05/25/24	Madison	WI	43.1	-89.4	1	
+1204	05/25/24	Crystal Lake	IL	42.2	-88.4	1	
+1205	05/25/24	Manheim	PA	40.1	-76.4	1	
+1206	05/25/24	Friendsville	TN	35.7	-84.1	4	
+1207	05/25/24	Grayling	MI	44.7	-84.4	1	
+1208	05/25/24	Milwaukee	WI	43	-87.9	1	
+1209	05/25/24	Minneapolis	MN	44.9	-93.2	1	
+1210	05/25/24	Milwaukee	WI	43	-87.9	1	
+1211	05/25/24	Bakersville	NC	36	-82.1	1	
+1212	05/25/24	Lake Villa	IL	42.4	-88.1	1	
+1213	05/25/24	Frelighsburg	QC	45.1	-72.8	1	
+1214	05/25/24	St. Andrews	NB	45.1	-67.1	1	
+1215	05/25/24	Medford	OR	42.3	-122.9	3	
+1216	05/25/24	Frankenmuth	MI	43.3	-83.7	1	
+1217	05/25/24	Bishopville	MD	38.4	-75.1	1	
+1218	05/25/24	Charleston	SC	32.8	-80.1	3	
+1219	05/24/24	East Hartford	CT	41.8	-72.6	2	
+1220	05/24/24	St James	NY	40.9	-73.1	0	
+1221	05/24/24	Trout Lake	MI	46.2	-85.1	2	
+1222	05/24/24	Bristol	CT	41.7	-72.9	1	
+1223	05/24/24	Royal Oak	MI	42.5	-83.1	1	
+1224	05/24/24	Rye	NY	41	-73.7	1	
+1225	05/24/24	Parry Sound	ON	45.4	-80	1	
+1226	05/24/24	Dépôt-Davidson	QC	46	-76.6	1	
+1227	05/24/24	East Jordan	MI	45.2	-85.1	1	
+1228	05/24/24	St Michael	MN	45.2	-93.6	1	
+1229	05/24/24	Sandy	UT	40.6	-111.9	1	
+1230	05/24/24	Redondo Beach	CA	33.9	-118.4	1	
+1231	05/24/24	Sandusky	MI	43.4	-82.8	2	
+1232	05/24/24	Centreville	MD	39	-76.1	1	
+1233	05/24/24	Oakville	ON	43.4	-79.7	1	
+1234	05/24/24	Oakville	ON	43.4	-79.7	1	
+1235	05/24/24	Choctaw	OK	35.4	-97.3	1	
+1236	05/24/24	Murray	KY	36.6	-88.3	1	
+1237	05/24/24	Cape Charles	VA	37.3	-76	1	
+1238	05/24/24	Oakville	ON	43.4	-79.7	1	
+1239	05/24/24	Lyman	SC	34.9	-82.1	1	
+1240	05/24/24	Minneapolis	MN	45.1	-93.3	2	
+1241	05/24/24	Minneapolis	MN	44.9	-93.3	1	
+1242	05/24/24	South Burlington	VT	44.4	-73.2	1	
+1243	05/24/24	Asheboro	NC	35.6	-79.8	1	
+1244	05/24/24	Mississauga	ON	43.6	-79.6	1	
+1245	05/24/24	Friendsville	TN	35.7	-84.1	5	
+1246	05/24/24	Wausau	WI	45	-89.6	1	
+1247	05/24/24	Ontonagon	MI	46.8	-89.4	1	
+1248	05/24/24	Milton	DE	38.8	-75.3	1	
+1249	05/24/24	Lake Park	MN	46.7	-96.1	1	
+1250	05/24/24	Huntingdon	PA	40.5	-78	1	
+1251	05/24/24	Wausau	WI	45	-89.6	1	
+1252	05/24/24	Minneapolis	MN	44.9	-93.3	1	
+1253	05/24/24	Paynesville	MN	45.4	-94.8	2	
+1254	05/24/24	Marion	IN	40.6	-85.7	1	
+1255	05/23/24	Walker	MI	43	-85.8	1	
+1256	05/23/24	Grayslake	IL	42.4	-88	1	
+1257	05/23/24	Buffalo	NY	42.9	-78.8	1	
+1258	05/23/24	Sheboygan	WI	43.8	-87.8	2	
+1259	05/23/24	Hudson	WI	44.9	-92.7	1	
+1260	05/23/24	Chicago	IL	41.9	-87.7	1	
+1261	05/23/24	Grand Rapids	MI	43	-85.7	1	
+1262	05/23/24	Palos Hills	IL	41.7	-87.8	1	
+1263	05/23/24	Sullivan	WI	43	-88.6	1	
+1264	05/23/24	Courtice	ON	43.9	-78.8	1	
+1265	05/23/24	Yardley	PA	40.2	-74.9	1	
+1266	05/23/24	Marietta	GA	33.9	-84.5	1	
+1267	05/23/24	Carmel	IN	40	-86.1	1	
+1268	05/23/24	Shawano	WI	44.8	-88.6	1	
+1269	05/23/24	Savage	MN	44.8	-93.3	1	
+1270	05/23/24	Xenia	OH	39.7	-83.9	1	
+1271	05/23/24	St Charles	MN	44	-92.1	1	
+1272	05/23/24	Hudson	WI	45	-92.7	1	
+1273	05/23/24	Schenectady	NY	42.8	-73.9	1	
+1274	05/23/24	Grand Rapids	MI	43	-85.6	1	
+1275	05/23/24	Commerce Charter Twp	MI	42.6	-83.5	1	
+1276	05/23/24	Commerce Charter Twp	MI	42.6	-83.5	1	
+1277	05/23/24	Minneapolis	MN	44.9	-93.3	2	
+1278	05/23/24	Sarnia	ON	43	-82.4	0	
+1279	05/23/24	Bayfield	WI	46.8	-90.8	1	
+1280	05/23/24	Neenah	WI	44.2	-88.5	1	
+1281	05/23/24	Neenah	WI	44.2	-88.5	1	
+1282	05/23/24	Mercer	WI	46.2	-90.1	2	
+1283	05/23/24	Brooklyn	MI	42.1	-84.2	1	
+1284	05/23/24	Manton	MI	44.4	-85.5	1	
+1285	05/23/24	Loyal	WI	44.8	-90.4	2	
+1286	05/23/24	Ocqueoc	MI	45.5	-84.1	1	
+1287	05/23/24	Oakes	ND	46.1	-98.1	1	
+1288	05/23/24	Madison	WI	43.1	-89.4	1	
+1289	05/23/24	Waunakee	WI	43.1	-89.4	1	
+1290	05/23/24	Woodruff	WI	45.9	-89.7	1	
+1291	05/23/24	Sheboygan	WI	43.8	-87.8	2	
+1292	05/23/24	St Albans City	VT	44.8	-73.1	1	
+1293	05/23/24	Port Hope	ON	43.9	-78.3	1	
+1294	05/23/24	Ann Arbor	MI	42.3	-83.8	1	
+1295	05/23/24	Buffalo	NY	42.8	-78.8	2	
+1296	05/23/24	Blenheim	ON	42.3	-82	2	
+1297	05/23/24	Ferndale	MI	42.5	-83.1	1	
+1298	05/23/24	Toronto	ON	43.6	-79.6	1	
+1299	05/23/24	Green Lake	WI	43.9	-89	1	
+1300	05/23/24	Somers	CT	42	-72.4	1	
+1301	05/23/24	Elmvale	ON	44.6	-79.9	1	
+1302	05/23/24	Weston	CT	41.2	-73.4	1	
+1303	05/23/24	Grantsville	UT	40.6	-112.5	1	
+1304	05/23/24	McCordsville	IN	39.9	-85.9	1	
+1305	05/23/24	Grantsville	UT	40.6	-112.5	1	
+1306	05/23/24	Farr West	UT	41.3	-112	1	
+1307	05/22/24	New Haven	CT	41.3	-72.9	1	
+1308	05/22/24	North Bay	ON	46.3	-79.4	1	
+1309	05/22/24	Lake Lillian	MN	45	-94.9	1	
+1310	05/22/24	South Haven	MI	42.4	-86.2	1	
+1311	05/22/24	Hightstown	NJ	40.3	-74.6	1	
+1312	05/22/24	Yardley	PA	40.2	-74.9	1	
+1313	05/22/24	Baroda	MI	42	-86.5	1	
+1314	05/22/24	Huntsville	ON	45.3	-79.2	1	
+1315	05/22/24	Whitewater	WI	42.8	-88.7	1	
+1316	05/22/24	Orillia	ON	44.6	-79.4	1	
+1317	05/22/24	Atlanta	GA	33.8	-84.4	1	
+1318	05/22/24	Sables-Spanish Rivers	ON	46.3	-81.9	2	
+1319	05/22/24	Decatur	IL	39.9	-89	1	
+1320	05/22/24	The Hills	TX	30.3	-98	1	
+1321	05/22/24	Omaha	NE	41.3	-95.9	1	
+1322	05/22/24	Omaha	NE	41.2	-95.9	2	
+1323	05/22/24	La Farge	WI	43.6	-90.7	1	
+1324	05/22/24	Ann Arbor	MI	42.4	-83.8	1	
+1325	05/22/24	Alexander	NC	35.7	-82.6	1	
+1326	05/22/24	Santa Clarita	CA	34.4	-118.6	1	
+1327	05/22/24	Brant	ON	43.1	-80.1	1	
+1328	05/22/24	St Paul	MN	44.9	-93.1	1	
+1329	05/22/24	Cleveland	TN	35.2	-84.8	1	
+1330	05/22/24	Daleville	IN	40.1	-85.5	1	
+1331	05/22/24	Windsor	ON	42.2	-83.1	1	
+1332	05/22/24	Mt Airy	MD	39.4	-77.1	1	
+1333	05/22/24	Sarnia	ON	43	-82.3	1	
+1334	05/22/24	Barnesville	MN	46.7	-96.4	1	
+1335	05/22/24	Belle River	ON	42.3	-82.7	2	
+1336	05/22/24	Sussex	WI	43.2	-88.2	2	
+1337	05/22/24	Cary	IL	42.2	-88.2	3	
+1338	05/22/24	Dysart	IA	42.2	-92.3	2	
+1339	05/22/24	Markdale	ON	44.3	-80.6	5	
+1340	05/22/24	Quincy	MA	42.3	-71	1	
+1341	05/22/24	Virginia Beach	VA	36.9	-76.1	1	
+1342	05/22/24	Appleton	WI	44.3	-88.4	1	
+1343	05/22/24	St Paul	MN	44.9	-93.1	1	
+1344	05/21/24	Aquasco	MD	38.6	-76.7	1	
+1345	05/21/24	Blue Bell	PA	40.2	-75.3	1	
+1346	05/21/24	Grand Rapids	MI	42.9	-85.6	1	
+1347	05/21/24	Aquasco	MD	38.6	-76.7	1	
+1348	05/21/24	Sterling Heights	MI	42.6	-83	1	
+1349	05/21/24	Manistee	MI	44.2	-86.3	1	
+1350	05/21/24	Sault Ste. Marie	ON	46.5	-84.3	1	
+1351	05/21/24	Swarthmore	PA	39.9	-75.4	1	
+1352	05/21/24	Crestwood	KY	38.3	-85.5	1	
+1353	05/21/24	Holt	MI	42.6	-84.5	1	
+1354	05/21/24	Whiting	IN	41.7	-87.5	1	
+1355	05/21/24	St Ignace	MI	45.9	-84.7	1	
+1356	05/21/24	Manchester	MI	42.1	-84.1	1	
+1357	05/21/24	Grand Haven	MI	43.1	-86.2	1	
+1358	05/21/24	Thorndale	ON	43.1	-81.1	1	
+1359	05/21/24	Skokie	IL	42	-87.7	1	
+1360	05/21/24	Lehi	UT	40.4	-111.9	1	
+1361	05/21/24	Ridgeland	SC	32.5	-81	1	
+1362	05/21/24	Milford Charter Twp	MI	42.6	-83.6	1	
+1363	05/21/24	Silver Islet	ON	48.3	-88.8	1	
+1364	05/21/24	Augusta	MI	42.4	-85.4	1	
+1365	05/21/24	Stockton	CA	38	-121.3	1	
+1366	05/21/24	Gulliver	MI	46.1	-86.1	1	
+1367	05/21/24	Meridianville	AL	34.9	-86.6	1	
+1368	05/21/24	Boyne City	MI	45.3	-84.9	1	
+1369	05/21/24	Jefferson	LA	30	-90.2	1	
+1370	05/21/24	Davenport	IA	41.5	-90.6	1	
+1371	05/21/24	Charlotte	NC	35.2	-80.8	1	
+1372	05/21/24	Sarnia	ON	43	-82.4	1	
+1373	05/21/24	Marietta	OH	39.4	-81.4	1	
+1374	05/21/24	Ocean Springs	MS	30.4	-88.8	1	
+1375	05/21/24	Philadelphia	NY	44.3	-75.7	1	
+1376	05/21/24	Little Cedar	IA	43.3	-92.7	3	
+1377	05/21/24	New Holstein	WI	44	-88.1	1	
+1378	05/21/24	Orleans	IA	43.4	-95.1	1	
+1379	05/21/24	Norfolk	VA	36.8	-76.3	1	
+1380	05/21/24	Burlington	ON	43.3	-79.8	1	
+1381	05/21/24	Sinking Spring	OH	39.1	-83.3	2	
+1382	05/21/24	Kalkaska	MI	44.7	-85.1	1	
+1383	05/21/24	Gregory	MI	42.5	-84.1	1	
+1384	05/21/24	Charlotte	NC	35.3	-81	1	
+1385	05/21/24	Madison	WI	43	-89.5	1	
+1386	05/21/24	Greenville	NC	35.6	-77.3	1	
+1387	05/21/24	Greenville	NC	35.6	-77.3	1	
+1388	05/21/24	Greenville	NC	35.6	-77.3	1	
+1389	05/20/24	Winnsboro	SC	34.4	-81.1	1	
+1390	05/20/24	Perley	MN	47.2	-96.6	1	
+1391	05/20/24	Madison	WI	43.1	-89.3	1	
+1392	05/20/24	Charlotte	MI	42.6	-84.8	1	
+1393	05/20/24	Laona	WI	45.6	-88.7	1	
+1394	05/20/24	Vermillion	SD	42.8	-96.9	1	
+1395	05/20/24	Wasaga Beach	ON	44.5	-80	1	
+1396	05/20/24	Wasaga Beach	ON	44.5	-80	1	
+1397	05/20/24	Wasaga Beach	ON	44.5	-80	1	
+1398	05/20/24	Minneapolis	MN	44.9	-93.3	1	
+1399	05/20/24	Newton	NC	35.7	-81.3	6	
+1400	05/20/24	Eau Claire	WI	44.8	-91.5	1	
+1401	05/20/24	Rose Township	MI	42.8	-83.6	1	
+1402	05/20/24	Charlotte	MI	42.6	-84.8	1	
+1403	05/20/24	Weston	CT	41.2	-73.3	1	
+1404	05/20/24	Loring	ON	46	-80	1	
+1405	05/20/24	Houston	TX	29.6	-95.2	1	
+1406	05/20/24	Maquoketa	IA	42.1	-90.7	1	
+1407	05/20/24	Kalona	IA	41.5	-91.7	2	
+1408	05/20/24	Aitkin	MN	46.4	-93.7	1	
+1409	05/20/24	Madison	WI	43	-89.5	1	
+1410	05/20/24	Hudson	WI	45	-92.7	1	
+1411	05/20/24	Hanover	ON	44.2	-80.9	1	
+1412	05/20/24	Jackson	MI	42.2	-84.4	1	
+1413	05/20/24	Oconomowoc	WI	43.1	-88.5	1	
+1414	05/20/24	Fort Wayne	IN	41.1	-85.1	2	
+1415	05/20/24	Wright	MN	46.7	-93	1	
+1416	05/20/24	Wright	MN	46.7	-93	1	
+1417	05/20/24	Yorktown	VA	37.1	-76.4	1	
+1418	05/20/24	Armour	ON	45.6	-79.4	1	
+1419	05/20/24	Yorktown	VA	37.1	-76.4	1	
+1420	05/20/24	Adel	IA	41.6	-94	1	
+1421	05/20/24	St. Agatha	ON	43.4	-80.6	1	
+1422	05/20/24	Lakeville	OH	40.7	-82.1	1	
+1423	05/19/24	Council Bluffs	IA	41.3	-95.8	1	
+1424	05/19/24	Marysville	PA	40.3	-76.9	1	
+1425	05/19/24	Ballwin	MO	38.6	-90.6	1	
+1426	05/19/24	Chicago	IL	41.9	-87.7	1	
+1427	05/19/24	Ballwin	MO	38.6	-90.6	1	
+1428	05/19/24	Annapolis	MD	39	-76.4	1	
+1429	05/19/24	Carson City	MI	43.2	-84.8	1	
+1430	05/19/24	Marysville	PA	40.3	-76.9	1	
+1431	05/19/24	Harvard	IL	42.5	-88.6	1	
+1432	05/19/24	Beach Park	IL	42.4	-87.9	1	
+1433	05/19/24	Dayton	OH	39.8	-84.1	1	
+1434	05/19/24	Westmont	IL	41.8	-88	1	
+1435	05/19/24	Beach Park	IL	42.4	-87.9	1	
+1436	05/19/24	Lawrence Township	NJ	40.3	-74.7	1	
+1437	05/19/24	Tupper Lake	NY	44.2	-74.5	1	
+1438	05/19/24	Lion's Head	ON	45	-81.3	2	
+1439	05/19/24	Grand Ledge	MI	42.8	-84.7	1	
+1440	05/19/24	Frankfort	IN	40.3	-86.5	1	
+1441	05/19/24	Oakland	CA	37.8	-122.3	1	
+1442	05/19/24	Hammond	IN	41.6	-87.5	1	
+1443	05/19/24	Evanston	IL	42.1	-87.7	1	
+1444	05/19/24	West Peoria	IL	40.7	-89.6	1	
+1445	05/19/24	Empire	MI	44.8	-86.1	1	
+1446	05/19/24	New Germany	MN	44.9	-94	1	
+1447	05/19/24	Illinois City	IL	41.4	-90.9	1	
+1448	05/19/24	Lisle	IL	41.8	-88.1	1	
+1449	05/19/24	Minneapolis	MN	44.9	-93.3	1	
+1450	05/19/24	Port Wing	WI	46.8	-91.3	1	
+1451	05/19/24	Grand Marais	MN	47.7	-90.5	2	
+1452	05/19/24	Vaughan	ON	43.8	-79.4	1	
+1453	05/19/24	Marine on St Croix	MN	45.2	-92.8	1	
+1454	05/19/24	Shell Lake	WI	45.8	-92.1	4	
+1455	05/19/24	Hobart	IN	41.5	-87.2	1	
+1456	05/19/24	Duncan	IL	41	-89.7	1	
+1457	05/19/24	Auburn Hills	MI	42.7	-83.2	1	
+1458	05/19/24	Chicago	IL	42	-87.7	1	
+1459	05/19/24	Appleton	WI	44.3	-88.4	2	
+1460	05/19/24	Chicago	IL	41.9	-87.7	1	
+1461	05/19/24	Haviland	OH	41	-84.6	1	
+1462	05/19/24	Kirkwood	MO	38.6	-90.4	1	
+1463	05/19/24	Toronto	ON	43.7	-79.4	1	
+1464	05/19/24	Ballwin	MO	38.6	-90.6	1	
+1465	05/19/24	Stratford	ON	43.4	-81	1	
+1466	05/19/24	Two Rivers	WI	44.2	-87.5	1	
+1467	05/19/24	Boynton Beach	FL	26.5	-80.1	2	
+1468	05/19/24	Stratford	ON	43.4	-81	1	
+1469	05/19/24	Skokie	IL	42	-87.7	1	
+1470	05/19/24	Skokie	IL	42	-87.7	1	
+1471	05/19/24	Zimmerman	MN	45.4	-93.5	1	
+1472	05/19/24	Des Moines	IA	41.6	-93.7	1	
+1473	05/19/24	New Richmond	WI	45.1	-92.6	1	
+1474	05/18/24	Newburgh	IN	37.9	-87.4	1	
+1475	05/18/24	Brookfield	WI	43.1	-88.2	1	
+1476	05/18/24	St Bonifacius	MN	44.9	-93.8	1	
+1477	05/18/24	St Bonifacius	MN	44.9	-93.8	1	
+1478	05/18/24	Sioux Falls	SD	43.5	-96.6	1	
+1479	05/18/24	Elk River	MN	45.3	-93.6	1	
+1480	05/18/24	Shakopee	MN	44.8	-93.5	1	
+1481	05/18/24	Le Claire	IA	41.6	-90.3	1	
+1482	05/18/24	Howard Lake	MN	45	-94.1	1	
+1483	05/18/24	Chatham	ON	42.4	-82.2	1	
+1484	05/18/24	Bloomington	MN	44.8	-93.3	1	
+1485	05/18/24	Madison	WI	43	-89.5	1	
+1486	05/18/24	Spring Lake	MI	43.1	-86.2	1	
+1487	05/18/24	Troy	MI	42.6	-83.1	1	
+1488	05/18/24	Cumberland	WI	45.6	-92.1	1	
+1489	05/18/24	Stanton	WI	45.2	-92.5	2	
+1490	05/18/24	West Bloomfield Township	MI	42.5	-83.4	1	
+1491	05/18/24	Highland	MN	47.2	-91.7	1	
+1492	05/18/24	Sturgeon Bay	WI	44.8	-87.5	1	
+1493	05/18/24	Albertville	MN	45.2	-93.7	1	
+1494	05/18/24	Hampton	MN	44.6	-92.9	0	
+1495	05/18/24	Vadnais Heights	MN	45.1	-93.1	1	
+1496	05/18/24	Bloomfield	NJ	40.8	-74.2	1	
+1497	05/18/24	Lakeside	CA	32.9	-116.9	1	
+1498	05/18/24	Morton Grove	IL	42	-87.8	1	
+1499	05/18/24	St Louis Park	MN	45	-93.4	1	
+1500	05/18/24	Plymouth	MN	45.1	-93.5	2	
+1501	05/18/24	Racine	WI	42.7	-87.8	1	
+1502	05/18/24	St. Louis	MO	38.6	-90.3	1	
+1503	05/18/24	Menomonie	WI	44.9	-92	1	
+1504	05/18/24	Youngsville	LA	30.1	-92	1	
+1505	05/18/24	Phillips	WI	45.7	-90.4	1	
+1506	05/18/24	Mercer	WI	46.1	-90	1	
+1507	05/18/24	Kenosha	WI	42.6	-87.8	0	
+1508	05/18/24	Tulsa	OK	36.1	-95.9	1	
+1509	05/18/24	Minnetonka	MN	44.9	-93.5	1	
+1510	05/18/24	Minneapolis	MN	44.9	-93.3	1	
+1511	05/18/24	Minneapolis	MN	44.9	-93.3	2	
+1512	05/18/24	Kenton	OH	40.5	-83.7	2	
+1513	05/18/24	Coopersville	MI	43.1	-85.9	1	
+1514	05/18/24	Little Round Lake	WI	46.1	-91.2	1	
+1515	05/18/24	Moose Lake	MN	46.4	-92.7	1	
+1516	05/18/24	Cologne	MN	44.8	-93.8	1	
+1517	05/18/24	Shakopee	MN	44.8	-93.5	1	
+1518	05/18/24	Rockton	WI	43.7	-90.6	3	
+1519	05/18/24	Castle Rock	MN	44.5	-93.1	2	
+1520	05/18/24	Lake in the Hills	IL	42.2	-88.4	1	
+1521	05/17/24	Commerce Charter Twp	MI	42.6	-83.5	1	
+1522	05/17/24	Saco	ME	43.5	-70.4	1	
+1523	05/17/24	Colgate	WI	43.2	-88.3	1	
+1524	05/17/24	Green Bay	WI	44.5	-88.1	1	
+1525	05/17/24	Peshtigo	WI	45.1	-87.8	1	
+1526	05/17/24	Overland Park	KS	38.9	-94.7	4	
+1527	05/17/24	Green Bay	WI	44.5	-88.1	1	
+1528	05/17/24	Stoughton	WI	43	-89.2	1	
+1529	05/17/24	Wichita	KS	37.7	-97.5	2	
+1530	05/17/24	Garland	TX	32.8	-96.6	2	
+1531	05/17/24	Akron	IA	42.8	-96.6	1	
+1532	05/17/24	Monona	WI	43.1	-89.3	1	
+1533	05/17/24	Peshtigo	WI	45.1	-87.8	1	
+1534	05/17/24	Mason City	IA	43.1	-93.2	1	
+1535	05/17/24	Viroqua	WI	43.5	-90.8	1	
+1536	05/17/24	Viroqua	WI	43.5	-90.8	1	
+1537	05/17/24	Des Plaines	IL	42.1	-87.9	1	
+1538	05/17/24	Pigeon	MI	43.9	-83.2	1	
+1539	05/17/24	Cincinnati	OH	39	-84.3	1	
+1540	05/17/24	Lyons	NE	41.9	-96.5	6	
+1541	05/17/24	Little Silver	NJ	40.3	-74	1	
+1542	05/17/24	Chicago	IL	41.9	-87.7	1	
+1543	05/17/24	Toronto	ON	43.7	-79.3	1	
+1544	05/17/24	Valparaiso	IN	41.6	-87	1	
+1545	05/17/24	Valparaiso	IN	41.6	-87	1	
+1546	05/17/24	Valparaiso	IN	41.6	-87	1	
+1547	05/17/24	Valparaiso	IN	41.6	-87	1	
+1548	05/17/24	Aiken	SC	33.6	-81.7	1	
+1549	05/17/24	Glendale	WI	43.1	-87.9	1	
+1550	05/17/24	Creighton	NE	42.5	-97.9	2	
+1551	05/16/24	Savannah	GA	32	-81.1	1	
+1552	05/16/24	Noblesville	IN	40	-86	1	
+1553	05/16/24	Caulfield	MO	36.6	-92	2	
+1554	05/16/24	St Paul	MN	45	-93.1	1	
+1555	05/16/24	Apex	NC	35.7	-78.9	1	
+1556	05/16/24	Dubuque	IA	42.5	-90.7	1	
+1557	05/16/24	Madison	WI	43.1	-89.4	2	
+1558	05/16/24	Dodge Center	MN	44	-92.9	1	
+1559	05/16/24	Brookfield	WI	43.1	-88.2	1	
+1560	05/16/24	Meriden	KS	39.2	-95.6	1	
+1561	05/16/24	Raleigh	NC	35.9	-78.8	1	
+1562	05/16/24	Novi	MI	42.5	-83.5	1	
+1563	05/16/24	Roseneath	ON	44.2	-78.1	1	
+1564	05/16/24	St Paul	MN	45	-93.1	1	
+1565	05/16/24	St Paul	MN	45	-93.1	1	
+1566	05/16/24	Orillia	ON	44.7	-79.4	1	
+1567	05/16/24	Pulaski	PA	41.1	-80.5	1	
+1568	05/16/24	Tecumseh	ON	42.2	-82.9	1	
+1569	05/16/24	Lawrenceville	GA	34	-83.9	1	
+1570	05/16/24	Pierre	SD	44.4	-100.4	1	
+1571	05/16/24	Alcoa	TN	35.8	-84	1	
+1572	05/16/24	DeKalb	IL	42	-88.8	1	
+1573	05/16/24	Blue Grass	IA	41.5	-90.7	1	
+1574	05/16/24	Bluffton	SC	32.3	-80.9	1	
+1575	05/16/24	Avon	IN	39.7	-86.4	1	
+1576	05/16/24	Caulfield	MO	36.6	-92	2	
+1577	05/16/24	Castle Valley	UT	38.6	-109.4	1	
+1578	05/16/24	Menomonee Falls	WI	43.1	-88.1	1	
+1579	05/16/24	Princes Lakes	IN	39.3	-86.1	1	
+1580	05/15/24	Norwood	NC	35.2	-80.2	1	
+1581	05/15/24	St Peters	MO	38.8	-90.6	1	
+1582	05/15/24	Madison	WI	43	-89.3	6	
+1583	05/15/24	Blue Mounds	WI	43	-89.8	1	
+1584	05/15/24	Omaha	NE	41.2	-96.2	1	
+1585	05/15/24	Madison	WI	43.1	-89.5	1	
+1586	05/15/24	Madison	WI	43.1	-89.3	1	
+1587	05/15/24	Lakeshore	ON	42.2	-82.9	1	
+1588	05/15/24	Murrells Inlet	SC	33.6	-79.1	1	
+1589	05/15/24	Woodstock	GA	34.1	-84.6	1	
+1590	05/15/24	Big Rock	IL	41.7	-88.5	1	
+1591	05/15/24	Cedar Grove	WI	43.6	-87.8	1	
+1592	05/15/24	Santa Fe	NM	35.7	-105.9	1	
+1593	05/15/24	Madison	WI	43	-89.4	2	
+1594	05/15/24	Derby	CT	41.3	-73.1	1	
+1595	05/14/24	Chelsea	MI	42.3	-84	1	
+1596	05/14/24	Garretson	SD	43.7	-96.5	1	
+1597	05/14/24	Apple Valley	MN	44.7	-93.2	1	
+1598	05/14/24	Apple Valley	MN	44.7	-93.2	1	
+1599	05/14/24	O'Fallon	MO	38.8	-90.7	1	
+1600	05/14/24	Buda	TX	30.1	-97.8	2	
+1601	05/14/24	Rochester	MN	44	-92.5	1	
+1602	05/14/24	Burlington	ON	43.3	-79.8	1	
+1603	05/14/24	Aiken	SC	33.5	-81.7	1	
+1604	05/14/24	Cambridge	England	52.2	0.1	1	
+1605	05/14/24	Warrens	WI	44.1	-90.5	1	
+1606	05/14/24	Grundy Center	IA	42.4	-92.8	1	
+1607	05/14/24	Glenwood	IA	41	-95.7	1	
+1608	05/14/24	Chula Vista	CA	32.6	-117.1	8	
+1609	05/14/24	Fairport Harbor	OH	41.8	-81.3	1	
+1610	05/14/24	Patterson	LA	29.7	-91.3	1	
+1611	05/13/24	Chesapeake	VA	36.8	-76.4	1	
+1612	05/13/24	Palos Hills	IL	41.7	-87.8	1	
+1613	05/13/24	Richmond	IN	39.8	-84.9	1	
+1614	05/13/24	Newport News	VA	37.1	-76.6	0	
+1615	05/13/24	Manitou Beach-Devils Lake	MI	42	-84.3	1	
+1616	05/13/24	Spring Grove	IL	42.4	-88.2	1	
+1617	05/13/24	Windsor	ON	42.3	-83	1	
+1618	05/13/24	Evanston	IL	42	-87.7	1	
+1619	05/13/24	Williamsburg	VA	37.3	-76.8	1	
+1620	05/13/24	Milwaukee	WI	43	-87.9	2	
+1621	05/13/24	Homewood	IL	41.5	-87.6	1	
+1622	05/13/24	Bohners Lake	WI	42.6	-88.3	1	
+1623	05/13/24	Belding	MI	43.1	-85.2	1	
+1624	05/13/24	Auburn	IN	41.4	-85.1	1	
+1625	05/13/24	Fort Worth	TX	32.7	-97.4	1	
+1626	05/13/24	Glenview	IL	42.1	-87.8	1	
+1627	05/13/24	Cary	NC	35.7	-78.8	1	
+1628	05/12/24	Prairie du Sac	WI	43.3	-89.8	5	
+1629	05/12/24	Geneseo	IL	41.4	-90.2	1	
+1630	05/12/24	Regina	SK	50.4	-104.6	1	
+1631	05/12/24	Regina	SK	50.4	-104.6	1	
+1632	05/12/24	Mabel	MN	43.5	-91.9	1	
+1633	05/12/24	Hinsdale	IL	41.8	-87.9	1	
+1634	05/12/24	Montevideo	MN	45.1	-95.6	1	
+1635	05/12/24	Boone	IA	42	-94	1	
+1636	05/12/24	Hinsdale	IL	41.8	-87.9	1	
+1637	05/12/24	Jacksonville	FL	30.3	-81.8	4	
+1638	05/12/24	Iowa City	IA	41.7	-91.6	1	
+1639	05/12/24	Prairie du Sac	WI	43.3	-89.7	2	
+1640	05/12/24	Iowa City	IA	41.7	-91.6	1	
+1641	05/12/24	Edgerton	WI	42.8	-89.1	1	
+1642	05/12/24	Woodbury	MN	44.9	-92.9	1	
+1643	05/12/24	Blythewood	SC	34.2	-81	1	
+1644	05/12/24	Wauseon	OH	41.5	-84.1	1	
+1645	05/12/24	Lexington	KY	38.1	-84.5	1	
+1646	05/12/24	Waukegan	IL	42.4	-87.8	1	
+1647	05/12/24	Bloomington	IN	39.2	-86.5	1	
+1648	05/12/24	Gary	IN	41.6	-87.3	2	
+1649	05/12/24	Cape Charles	VA	37.3	-76	1	
+1650	05/12/24	Ada	OK	34.8	-96.7	1	
+1651	05/12/24	Walworth	WI	42.5	-88.6	1	
+1652	05/12/24	Munster	IN	41.5	-87.5	1	
+1653	05/12/24	Faribault	MN	44.3	-93.3	0	
+1654	05/12/24	Faribault	MN	44.3	-93.3	0	
+1655	05/12/24	Ramona	CA	33	-116.8	1	
+1656	05/11/24	Cedar Falls	IA	42.5	-92.5	1	
+1657	05/11/24	Hamilton	Hamilton Parish	32.3	-64.7	1	
+1658	05/11/24	Clayton	NC	35.7	-78.5	1	
+1659	05/11/24	Springfield	MO	37.1	-93.3	2	
+1660	05/11/24	Clayton	NC	35.7	-78.5	1	
+1661	05/11/24	Long Beach	IN	41.7	-86.9	1	
+1662	05/11/24	Monett	MO	36.9	-93.9	1	
+1663	05/11/24	Mankato	MN	44.2	-94	1	
+1664	05/11/24	Bay Village	OH	41.5	-81.9	1	
+1665	05/11/24	Monett	MO	36.9	-93.9	1	
+1666	05/11/24	Topeka	KS	39	-95.7	1	
+1667	05/11/24	Topeka	KS	39	-95.7	1	
+1668	05/11/24	Elmhurst	IL	41.9	-88	2	
+1669	05/11/24	Barnsdall	OK	36.5	-96	1	
+1670	05/11/24	Monett	MO	36.9	-93.9	1	
+1671	05/11/24	Clayton	NC	35.7	-78.5	1	
+1672	05/11/24	KCMO	MO	39	-94.5	1	
+1673	05/11/24	Northfield	MN	44.5	-93.2	0	
+1674	05/11/24	Cedar Falls	IA	42.5	-92.5	1	
+1675	05/10/24	Vernon Hill	VA	36.8	-79.1	1	
+1676	05/10/24	Park Ridge	IL	42	-87.8	1	
+1677	05/10/24	Richland Center	WI	43.3	-90.4	1	
+1678	05/10/24	Northbrook	IL	42.1	-87.8	1	
+1679	05/10/24	Ames	IA	42	-93.6	1	
+1680	05/10/24	Akron	OH	41.1	-81.7	1	
+1681	05/10/24	Le Sueur	MN	44.4	-93.9	2	
+1682	05/10/24	Bellville	OH	40.6	-82.5	1	
+1683	05/10/24	Fontanet	IN	39.6	-87.2	1	
+1684	05/10/24	Rogers	AR	36.3	-94.1	2	
+1685	05/10/24	Jewett	WI	45.1	-92.4	1	
+1686	05/10/24	Herndon	VA	38.9	-77.4	1	
+1687	05/10/24	Mariaville	NE	42.8	-99.4	1	
+1688	05/10/24	Costa Mesa	CA	33.7	-117.9	1	
+1689	05/09/24	Lone Oak	TX	32.9	-96	1	
+1690	05/09/24	Overland Park	KS	38.9	-94.7	1	
+1691	05/09/24	Lee's Summit	MO	38.9	-94.3	1	
+1692	05/09/24	Broken Arrow	OK	36.1	-95.7	1	
+1693	05/09/24	Broken Arrow	OK	36.1	-95.7	1	
+1694	05/09/24	Wichita	KS	37.7	-97.3	1	
+1695	05/09/24	Humboldt	KS	37.8	-95.4	1	
+1696	05/09/24	Chapel Hill	NC	36	-79	1	
+1697	05/09/24	Northfield	MN	44.5	-93.1	1	
+1698	05/09/24	Grand Terrace	CA	34	-117.3	2	
+1699	05/08/24	Madison	WI	43.1	-89.5	1	
+1700	05/08/24	Milwaukee	WI	43	-87.9	1	
+1701	05/08/24	Alexandria	MN	45.9	-95.5	1	
+1702	05/08/24	Gurnee	IL	42.4	-87.9	1	
+1703	05/08/24	Wheaton	IL	41.9	-88.1	1	
+1704	05/08/24	Clawson	MI	42.5	-83.2	1	
+1705	05/08/24	Ankeny	IA	41.7	-93.6	1	
+1706	05/08/24	Braidwood	IL	41.3	-88.2	1	
+1707	05/08/24	Waterloo	ON	43.5	-80.5	1	
+1708	05/08/24	Algona	IA	43.1	-94.2	1	
+1709	05/08/24	Mequon	WI	43.2	-87.9	1	
+1710	05/08/24	Sparks Glencoe	MD	39.6	-76.7	1	
+1711	05/08/24	Valley City	ND	46.9	-98.1	1	
+1712	05/08/24	Sarnia	ON	43	-82.4	1	
+1713	05/08/24	Highland	WI	43	-90.4	2	
+1714	05/08/24	Woodbury	MN	44.9	-92.9	1	
+1715	05/08/24	Peoria	IL	40.8	-89.6	1	
+1716	05/08/24	Edmond	OK	35.7	-97.5	1	
+1717	05/08/24	Topeka	KS	39.1	-95.9	2	
+1718	05/08/24	Holland	MI	42.7	-86.2	1	
+1719	05/08/24	Red Wing	MN	44.6	-92.5	1	
+1720	05/08/24	Arlington	WI	43.3	-89.4	1	
+1721	05/08/24	Middleton	WI	43.1	-89.5	1	
+1722	05/08/24	Knoxville	MD	39.4	-77.7	1	
+1723	05/08/24	Cottage Grove	MN	44.8	-92.9	1	
+1724	05/08/24	Mundelein	IL	42.3	-88	1	
+1725	05/08/24	New Glarus	WI	42.8	-89.6	1	
+1726	05/08/24	Wahoo	NE	41.2	-96.6	1	
+1727	05/08/24	Seaford	VA	37.2	-76.4	1	
+1728	05/08/24	West Liberty	IA	41.5	-91.2	1	
+1729	05/08/24	Mundelein	IL	42.3	-88	1	
+1730	05/08/24	Shoreview	MN	45.1	-93.1	1	
+1731	05/07/24	Woodbridge	CT	41.3	-73	1	
+1732	05/07/24	Millersville	MD	39.1	-76.6	1	
+1733	05/07/24	Fort Wayne	IN	41	-85.2	1	
+1734	05/07/24	Independence	IA	42.4	-92	5	
+1735	05/07/24	Trent Woods	NC	35.1	-77.1	1	
+1736	05/07/24	Williamston	SC	34.7	-82.6	1	
+1737	05/07/24	Hartley	IA	43.1	-95.4	1	
+1738	05/07/24	Lincoln	NE	40.7	-96.7	1	
+1739	05/07/24	Barco	NC	36.4	-76	1	
+1740	05/07/24	Lincoln	NE	40.7	-96.7	1	
+1741	05/07/24	Rio	WI	43.4	-89.2	1	
+1742	05/07/24	Burlington	WI	42.6	-88.2	1	
+1743	05/07/24	Chatsworth	GA	34.8	-84.8	1	
+1744	05/06/24	Kansas City	KS	39.1	-94.6	1	
+1745	05/06/24	Prairie Village	KS	39	-94.6	1	
+1746	05/06/24	Port Haywood	VA	37.4	-76.3	1	
+1747	05/06/24	Dysart	IA	42.2	-92.3	0	
+1748	05/06/24	Dallas	TX	32.8	-96.7	1	
+1749	05/06/24	Kemble	ON	44.7	-80.9	1	
+1750	05/06/24	Ooltewah	TN	35.1	-85.1	1	
+1751	05/06/24	Ludlow	IA	43.2	-91.6	1	
+1752	05/06/24	Rockford	IL	42.3	-89.1	1	
+1753	05/06/24	Katy	TX	29.7	-95.8	2	
+1754	05/06/24	Salem	MO	37.7	-91.5	1	
+1755	05/06/24	Toronto	ON	43.7	-79.5	1	
+1756	05/06/24	Manchester	IA	42.5	-91.5	1	
+1757	05/06/24	Shawnee	KS	39	-94.7	1	
+1758	05/06/24	Hamilton	ON	43.3	-79.9	1	
+1759	05/06/24	Winona	MN	44.1	-91.7	1	
+1760	05/05/24	Johnston	IA	41.7	-93.7	1	
+1761	05/05/24	Simpsonville	SC	34.7	-82.3	1	
+1762	05/05/24	Chicago	IL	42	-87.7	1	
+1763	05/05/24	Lisbon	IA	42	-91.4	1	
+1764	05/05/24	Rancho Santa Margarita	CA	33.6	-117.6	1	
+1765	05/05/24	Rancho Santa Margarita	CA	33.6	-117.6	1	
+1766	05/05/24	Lake Villa	IL	42.4	-88.1	2	
+1767	05/05/24	Tiffin	IA	41.7	-91.7	1	
+1768	05/05/24	Omaha	NE	41.3	-95.9	1	
+1769	05/05/24	Naperville	IL	41.8	-88.1	1	
+1770	05/05/24	Killeen	TX	31	-97.8	1	
+1771	05/05/24	Kewaskum	WI	43.5	-88.2	2	
+1772	05/05/24	Kewaskum	WI	43.5	-88.2	2	
+1773	05/05/24	Gloucester Point	VA	37.3	-76.6	2	
+1774	05/04/24	Perry	MO	39.5	-91.7	1	
+1775	05/04/24	Monee	IL	41.4	-87.8	1	
+1776	05/04/24	Ozark	MO	37.1	-93.2	1	
+1777	05/04/24	Streator	IL	41.1	-89.1	1	
+1778	05/04/24	Goderich	ON	44	-81.7	2	
+1779	05/04/24	Ozark	MO	37.1	-93.2	1	
+1780	05/04/24	Madrid	IA	42	-93.8	1	
+1781	05/04/24	Burlington	WI	42.7	-88.3	1	
+1782	05/04/24	Broken Arrow	OK	36.1	-95.7	1	
+1783	05/04/24	Baldwin City	KS	38.8	-95.3	1	
+1784	05/04/24	Sault Ste. Marie	ON	46.5	-84.3	2	
+1785	05/04/24	Mt Vernon	IA	41.9	-91.5	1	
+1786	05/04/24	Cedar Hill	TN	36.5	-87.1	1	
+1787	05/04/24	St. Charles	IL	41.9	-88.3	1	
+1788	05/04/24	Decatur	GA	33.8	-84.3	1	
+1789	05/04/24	Savanna	IL	42.1	-90.1	15	
+1790	05/04/24	La Porte	TX	29.7	-95.1	1	
+1791	05/03/24	Madison	WI	43.1	-89.5	1	
+1792	05/03/24	Overland Park	KS	38.9	-94.7	1	
+1793	05/03/24	Cedar Rapids	IA	42	-91.7	1	
+1794	05/03/24	Ligonier Township	PA	40.2	-79.2	1	
+1795	05/03/24	Rye	NY	41	-73.7	1	
+1796	05/03/24	Los Angeles	CA	34.2	-118.6	1	
+1797	05/03/24	Los Angeles	CA	34.2	-118.6	1	
+1798	05/03/24	Springville	IA	42.1	-91.5	1	
+1799	05/03/24	St. Louis	MO	38.6	-90.3	1	
+1800	05/03/24	Stuart	FL	27.2	-80.2	1	
+1801	05/03/24	Lansdale	PA	40.2	-75.3	1	
+1802	05/03/24	Fairbury	IL	40.8	-88.5	1	
+1803	05/03/24	St. Louis	MO	38.6	-90.2	1	
+1804	05/03/24	Brodhead	WI	42.7	-89.3	1	
+1805	05/03/24	Santa Rosa Beach	FL	30.4	-86.3	1	
+1806	05/03/24	Buffalo	IA	41.5	-90.7	1	
+1807	05/03/24	Windsor	ON	42.2	-83.1	1	
+1808	05/03/24	Cottage Grove	WI	43.1	-89.2	1	
+1809	05/03/24	Omaha	NE	41.3	-96	1	
+1810	05/03/24	Iowa City	IA	41.6	-91.5	1	
+1811	05/03/24	Hudson	NY	42.2	-73.7	2	
+1812	05/03/24	Peabody	MA	42.5	-71	1	
+1813	05/03/24	Warsaw	IN	41.2	-85.9	1	
+1814	05/03/24	Richmond	VA	37.6	-77.5	1	
+1815	05/02/24	Greensburg	PA	40.3	-79.5	1	
+1816	05/02/24	Crossingville	PA	41.8	-80.2	1	
+1817	05/02/24	Knoxville	TN	35.9	-84.2	1	
+1818	05/02/24	Fitchburg	WI	43	-89.4	1	
+1819	05/02/24	Durham	CT	41.5	-72.7	1	
+1820	05/02/24	South Bend	IN	41.6	-86.3	1	
+1821	05/02/24	Lexington	VA	37.8	-79.5	1	
+1822	05/02/24	Nashua	NH	42.8	-71.5	2	
+1823	05/02/24	Asheville	NC	35.6	-82.6	1	
+1824	05/02/24	Meaford	ON	44.6	-80.6	0	
+1825	05/02/24	Jackson	MI	42.2	-84.3	2	
+1826	05/02/24	Asheville	NC	35.6	-82.6	1	
+1827	05/01/24	Wichita	KS	37.7	-97.3	6	
+1828	05/01/24	Falls Church	VA	38.9	-77.2	1	
+1829	05/01/24	Lawrence	KS	38.9	-95.3	1	
+1830	05/01/24	Stone Mountain	GA	33.8	-84.2	1	
+1831	05/01/24	Madison	WI	43.1	-89.4	1	
+1832	05/01/24	Lawrence	KS	38.9	-95.3	1	
+1833	05/01/24	Charlotte	NC	35.2	-80.9	1	
+1834	05/01/24	Des Moines	IA	41.6	-93.6	1	
+1835	05/01/24	Pataskala	OH	40	-82.7	1	
+1836	05/01/24	Newport	PA	40.5	-77.2	1	
+1837	04/30/24	Tabernacle	NJ	39.8	-74.7	1	
+1838	04/30/24	Clinton	IN	39.7	-87.5	1	
+1839	04/30/24	Omaha	NE	41.3	-96.1	1	
+1840	04/30/24	Vittoria	ON	42.7	-80.3	1	
+1841	04/30/24	Chesapeake	VA	36.8	-76.3	1	
+1842	04/30/24	Chelsea	OK	36.5	-95.4	1	
+1843	04/30/24	Malvern	IA	41	-95.6	1	
+1844	04/30/24	Malvern	IA	41	-95.6	1	
+1845	04/30/24	Olathe	KS	38.9	-95	2	
+1846	04/30/24	Tuscola	IL	39.8	-88.3	1	
+1847	04/30/24	Killeen	TX	31	-97.8	2	
+1848	04/30/24	Ashland	NE	41	-96.4	1	
+1849	04/30/24	Chicago	IL	41.9	-87.6	0	
+1850	04/30/24	Vittoria	ON	42.7	-80.3	1	
+1851	04/30/24	Grand Rapids	MI	43	-85.7	1	
+1852	04/30/24	Windsor	ON	42.3	-83.1	1	
+1853	04/30/24	Fort Leavenworth	KS	39.4	-94.9	1	
+1854	04/30/24	KCMO	MO	39.2	-94.7	1	
+1855	04/30/24	Wooddale Farms	MD	39.6	-76.6	1	
+1856	04/30/24	Leshara	NE	41.3	-96.5	1	
+1857	04/29/24	Aurora	IL	41.7	-88.3	1	
+1858	04/29/24	Catonsville	MD	39.3	-76.8	1	
+1859	04/29/24	Washington Township	NJ	39.7	-75.1	1	
+1860	04/29/24	Springfield	MO	37.2	-93.2	1	
+1861	04/29/24	Lexington	KY	37.9	-84.4	1	
+1862	04/29/24	Aurora	IL	41.7	-88.3	1	
+1863	04/29/24	Catonsville	MD	39.3	-76.8	1	
+1864	04/29/24	Reston	VA	38.9	-77.3	1	
+1865	04/29/24	Wamego	KS	39.3	-96.3	1	
+1866	04/29/24	Leander	TX	30.6	-97.9	1	
+1867	04/29/24	Aurora	IL	41.7	-88.3	1	
+1868	04/29/24	Pacific Junction	IA	41.1	-95.8	0	
+1869	04/29/24	Oak Creek	WI	42.9	-87.8	1	
+1870	04/29/24	Macon	MO	39.8	-92.5	1	
+1871	04/29/24	Morton	IL	40.6	-89.4	1	
+1872	04/29/24	Lexington	KY	37.9	-84.4	1	
+1873	04/29/24	Hilton Head Island	SC	32.1	-80.8	1	
+1874	04/29/24	Pekin	IL	40.6	-89.6	1	
+1875	04/29/24	Oskaloosa	IA	41.3	-92.6	1	
+1876	04/29/24	Leamington	ON	41.9	-82.5	1	
+1877	04/28/24	Ridgewood	NJ	41	-74.1	1	
+1878	04/27/24	Ooltewah	TN	35.2	-85	1	
+1879	04/26/24	Lawrence	KS	39.1	-95.2	1	
+1880	04/26/24	Overland Park	KS	39	-94.7	1	
+1881	04/26/24	Iowa	LA	30.2	-93	1	
+1882	04/26/24	Kenansville	NC	35	-77.9	1	
+1883	04/26/24	Kenansville	NC	35	-77.9	1	
+1884	04/25/24	CaserÃ­o la Gironda	AN	37.2	-5.6	1	
+1885	04/25/24	New Orleans	LA	29.9	-90.1	1	
+1886	04/25/24	Old Fort	NC	35.6	-82.2	1	
+1887	04/25/24	Avondale Estates	GA	33.8	-84.3	1	
+1888	04/25/24	Plano	TX	33	-96.7	1	
+1889	04/24/24	Grove	OK	36.7	-94.8	0	
+1890	04/24/24	Los Angeles	CA	34.1	-118.2	2	
+1891	04/24/24	Monmouth Beach	NJ	40.3	-74	2	
+1892	04/23/24	Wichita	KS	37.7	-97.3	1	
+1893	04/23/24	Wake Forest	NC	36	-78.6	2	
+1894	04/22/24	Atlanta	GA	33.9	-84.2	1	
+1895	04/22/24	Georgetown	TX	30.7	-97.7	1	
+1896	04/22/24	Columbia	IL	38.4	-90.2	1	
+1897	04/21/24	New Hanover	IL	38.4	-90.2	1	
+1898	04/21/24	Pawnee	OK	36.3	-96.8	1	
+1899	04/21/24	Pawnee	OK	36.3	-96.8	1	
+1900	04/21/24	Tulsa	OK	36.1	-96	1	
+1901	04/20/24	Chapel Hill	NC	36	-79.1	1	
+1902	04/20/24	Chapel Hill	NC	36	-79.1	1	
+1903	04/19/24	Corpus Christi	TX	27.7	-97.4	1	
+1904	04/19/24	Sand Springs	OK	36.1	-96.3	1	
+1905	04/19/24	Pinopolis	SC	33.2	-80.1	1	
+1906	04/19/24	Houston	TX	29.8	-95.6	1	
+1907	04/18/24	Conway	AR	35.1	-92.4	1	
+1908	04/18/24	Norfolk	VA	36.9	-76.2	1	
+1909	04/18/24	Sachse	TX	33	-96.6	1	
+1910	04/18/24	Camp Lejeune	NC	34.7	-77.3	1	
+1911	04/18/24	Roswell	GA	34	-84.3	1	
+1912	04/18/24	DeLand	FL	29	-81.3	2	
+1913	04/16/24	Tulsa	OK	36.1	-95.9	1	
+1914	04/16/24	Tulsa	OK	36.1	-96	1	
+1915	04/16/24	Satellite Beach	FL	28.2	-80.6	1	
+1916	04/16/24	Fairview	OK	36.4	-98.6	1	
+1917	04/16/24	Gainesville	GA	34.4	-83.8	1	
+1918	04/16/24	Tulsa	OK	36.1	-95.9	1	
+1919	04/16/24	Shelby	NC	35.3	-81.5	1	
+1920	04/16/24	Midwest City	OK	35.5	-97.4	1	
+1921	04/15/24	Nevada	MO	37.9	-94.4	1	
+1922	04/15/24	Hesston	KS	38.1	-97.4	1	
+1923	04/15/24	Dublin	TX	32.1	-98.4	1	
+1924	04/15/24	Buford	GA	34.1	-84	1	
+1925	04/15/24	Victoria	TX	28.8	-97	2	
+1926	04/15/24	Dublin	TX	32.1	-98.4	1	
+1927	04/15/24	Marshall	VA	38.8	-77.9	2	
+1928	04/15/24	Kenly	NC	35.6	-78.2	1	
+1929	04/15/24	Rocky Mount	NC	36	-77.7	1	
+1930	04/15/24	Kilmarnock	VA	37.8	-76.4	1	
+1931	04/15/24	St Helena Island	SC	32.4	-80.6	1	
+1932	04/14/24	Oklahoma City	OK	35.5	-97.6	1	
+1933	04/14/24	Richlands	NC	34.9	-77.6	1	
+1934	04/14/24	Calhoun	GA	34.4	-85	1	
+1935	04/14/24	Virginia Beach	VA	36.8	-76.1	1	
+1936	04/14/24	Virginia Beach	VA	36.8	-76.1	1	
+1937	04/14/24	Enid	OK	36.4	-97.9	1	
+1938	04/14/24	Oklahoma City	OK	35.5	-97.6	1	
+1939	04/14/24	Pawleys Island	SC	33.5	-79.1	1	
+1940	04/14/24	Lawrence	KS	39	-95.2	1	
+1941	04/14/24	Snake Creek	OK	36.2	-95.1	1	
+1942	04/14/24	Charleston	SC	32.7	-80	1	
+1943	04/14/24	Joplin	MO	37	-94.5	1	
+1944	04/13/24	Mounds	OK	35.9	-96	1	
+1945	04/13/24	McLoud	OK	35.4	-97.1	1	
+1946	04/13/24	Tuttle	OK	35.3	-97.7	1	
+1947	04/13/24	Mocksville	NC	35.9	-80.5	1	
+1948	04/13/24	Springfield	MO	37.2	-93.2	1	
+1949	04/13/24	Huntsville	AL	34.6	-86.6	1	
+1950	04/13/24	Fairfax	VA	38.9	-77.3	0	
+1951	04/12/24	El Reno	OK	35.5	-98	1	
+1952	04/12/24	Thibodaux	LA	29.8	-90.8	1	
+1953	04/12/24	Palm Desert	CA	33.7	-116.3	1	
+1954	04/12/24	Edmond	OK	35.7	-97.5	1	
+1955	04/11/24	Bluffton	SC	32.2	-80.9	1	
+1956	04/11/24	Fayetteville	AR	36.1	-94.2	1	
+1957	04/11/24	Yukon	OK	35.5	-97.7	1	
+1958	04/09/24	Richmond Hill	GA	31.9	-81.3	1	
+1959	04/09/24	Pittsburg	KS	37.4	-94.7	1	
+1960	04/08/24	Drumright	OK	36	-96.5	1	
+1961	04/08/24	Wichita	KS	37.7	-97.4	1	
+1962	04/08/24	Tulsa	OK	36.1	-95.9	1	
+1963	04/08/24	Norman	OK	35.2	-97.4	1	
+1964	04/08/24	Broken Arrow	OK	36	-95.8	1	
+1965	04/08/24	Arlington	TX	32.7	-97.1	1	
+1966	04/08/24	Seneca	SC	34.8	-82.9	1	
+1967	04/08/24	New Bern	NC	35	-77	1	
+1968	04/07/24	Corpus Christi	TX	27.8	-97.4	1	
+1969	04/07/24	Oklahoma City	OK	35.5	-97.5	1	
+1970	04/07/24	Aiken	SC	33.5	-81.8	1	
+1971	04/07/24	Oklahoma City	OK	35.5	-97.6	1	
+1972	04/07/24	Chelsea	AL	33.3	-86.7	0	
+1973	04/07/24	Cross Hill	SC	34.3	-82	1	
+1974	04/07/24	Dewey	OK	36.8	-95.9	1	
+1975	04/07/24	Thomas	WV	39.1	-79.5	2	
+1976	04/07/24	Tunica	MS	34.7	-90.4	1	
+1977	04/07/24	Fort Smith	AR	35.4	-94.4	1	
+1978	04/06/24	Ada	OK	34.8	-96.6	1	
+1979	04/06/24	Baton Rouge	LA	30.4	-91	1	
+1980	04/06/24	Howe	OK	35	-94.6	1	
+1981	04/06/24	Aspermont	TX	33.1	-100.2	1	
+1982	04/06/24	Tampa	FL	28	-82.5	1	
+1983	04/06/24	Durant	OK	34	-96.4	1	
+1984	04/06/24	Tampa	FL	28	-82.5	1	
+1985	04/06/24	Atlanta	TX	33.1	-94.2	1	
+1986	04/06/24	Belknap	IL	37.3	-88.9	1	
+1987	04/05/24	Mesquite	TX	32.7	-96.6	1	
+1988	04/05/24	Durant	OK	34	-96.3	1	
+1989	04/04/24	Bellaire	TX	29.7	-95.5	1	
+1990	04/04/24	Norman	OK	35.3	-97.5	1	
+1991	04/04/24	Oklahoma City	OK	35.5	-97.6	1	
+1992	04/04/24	Allen	TX	33.1	-96.6	1	
+1993	04/04/24	Sand Springs	OK	36.2	-96.2	1	
+1994	04/04/24	Tulsa	OK	36.2	-96.1	1	
+1995	04/04/24	Norman	OK	35.2	-97.5	1	
+1996	04/04/24	Norman	OK	35.2	-97.5	1	
+1997	04/04/24	Wichita	KS	37.7	-97.4	1	
+1998	04/03/24	Guthrie	OK	35.8	-97.6	1	
+1999	04/03/24	Oceanside	CA	33.2	-117.3	0	
+2000	04/03/24	Slocomb	AL	31.1	-85.6	1	
+2001	04/03/24	Oklahoma City	OK	35.4	-97.4	1	
+2002	04/03/24	Fort Sill	OK	34.7	-98.4	1	
+2003	04/03/24	Norman	OK	35.2	-97.4	2	
+2004	04/03/24	Placerville	CA	38.7	-120.8	1	
+2005	04/02/24	Austin	TX	30.4	-97.7	1	
+2006	04/02/24	Jonesboro	AR	35.8	-90.7	2	
+2007	04/02/24	North Little Rock	AR	34.8	-92.3	1	
+2008	04/02/24	Erwin	TN	36.2	-82.4	1	
+2009	04/02/24	Georgetown	TX	30.6	-97.6	1	
+2010	04/02/24	San Marcos	TX	29.9	-97.9	4	
+2011	04/02/24	Norman	OK	35.2	-97.5	1	
+2012	04/02/24	Georgetown	TX	30.6	-97.6	1	
+2013	04/01/24	Katy	TX	29.8	-95.8	1	
+2014	04/01/24	Baton Rouge	LA	30.4	-91.2	1	
+2015	04/01/24	Clearwater	FL	28	-82.7	1	
+2016	04/01/24	Savannah	GA	31.9	-81.1	1	
+2017	04/01/24	Ashland	GA	34.3	-83.4	1	
+2018	04/01/24	Ozark	AL	31.5	-85.6	1	
+2019	04/01/24	Abilene	TX	32.5	-99.7	1	
+2020	04/01/24	San Luis Obispo	CA	35.2	-120.6	1	
+2021	04/01/24	Dripping Springs	TX	30.3	-98.1	1	
+2022	03/31/24	Mounds	OK	35.9	-95.9	1	
+2023	03/31/24	Ada	OK	34.8	-96.8	1	
+2024	03/31/24	DeBary	FL	28.9	-81.4	1	
+2025	03/31/24	China Spring	TX	31.7	-97.3	1	
+2026	03/31/24	DeBary	FL	28.9	-81.4	1	
+2027	03/31/24	Pensacola	FL	30.4	-87.2	1	
+2028	03/31/24	Fernandina Beach	FL	30.6	-81.5	4	
+2029	03/31/24	Fernandina Beach	FL	30.6	-81.5	4	
+2030	03/31/24	Metairie	LA	30	-90.2	1	
+2031	03/31/24	Ada	OK	34.8	-96.8	1	
+2032	03/31/24	Ada	OK	34.8	-96.8	1	
+2033	03/30/24	Greensboro	NC	36	-79.8	0	
+2034	03/30/24	Greensboro	NC	36	-79.8	0	
+2035	03/30/24	Edinburg	TX	26.3	-98.2	1	
+2036	03/30/24	Broken Arrow	OK	36.1	-95.8	1	
+2037	03/30/24	Oklahoma City	OK	35.4	-97.6	1	
+2038	03/30/24	Dallas	TX	32.9	-96.8	3	
+2039	03/30/24	Monroe	LA	32.5	-92.1	2	
+2040	03/30/24	Alden	OK	35	-98.5	1	
+2041	03/30/24	Alden	OK	35	-98.5	1	
+2042	03/30/24	Morris	OK	35.6	-95.8	1	
+2043	03/30/24	Glenpool	OK	36	-96	1	
+2044	03/30/24	Tahlequah	OK	35.9	-95	1	
+2045	03/30/24	Edmond	OK	35.7	-97.5	1	
+2046	03/29/24	Melbourne	FL	28	-80.6	1	
+2047	03/29/24	Yukon	OK	35.5	-97.8	1	
+2048	03/29/24	Richardson	TX	33	-96.7	1	
+2049	03/28/24	Carrollton	TX	33	-96.9	1	
+2050	03/28/24	Pasadena	TX	29.7	-95.2	1	
+2051	03/28/24	Katy	TX	29.9	-95.7	1	
+2052	03/28/24	Lexington	KY	38	-84.5	1	
+2053	03/27/24	Jefferson City	MO	38.6	-92.2	1	
+2054	03/27/24	Anna	TX	33.4	-96.6	1	
+2055	03/27/24	Katy	TX	29.8	-95.8	1	
+2056	03/27/24	Houma	LA	29.7	-90.8	1	
+2057	03/27/24	Cibolo	TX	29.6	-98.2	1	
+2058	03/26/24	Rockport	TX	28.2	-97	1	
+2059	03/26/24	Lafayette	LA	30.2	-92	1	
+2060	03/26/24	Slidell	LA	30.3	-89.7	1	
+2061	03/26/24	Rice	TX	32.2	-96.5	2	
+2062	03/26/24	Harper	TX	30.3	-99.3	1	
+2063	03/26/24	Whites City	NM	32.1	-104.5	5	
+2064	03/26/24	Austin	TX	30.4	-97.7	1	
+2065	03/25/24	Oakland	TX	29.6	-96.8	2	
+2066	03/25/24	Mead	OK	34.1	-96.5	1	
+2067	03/23/24	Fernandina Beach	FL	30.6	-81.4	1	
+2068	03/23/24	Atlanta	TX	33.1	-94.2	1	
+2069	03/23/24	Dallas	TX	32.9	-96.7	1	
+2070	03/23/24	College Station	TX	30.6	-96.3	1	
+2071	03/23/24	Dallas	TX	32.8	-96.8	1	
+2072	03/23/24	New Orleans	LA	29.9	-90.1	1	
+2073	03/22/24	Indianola	TX	28.5	-96.5	1	
+2074	03/22/24	Glendora	CA	34.1	-117.9	1	
+2075	03/22/24	Mansfield	TX	32.6	-97.1	1	
+2076	03/22/24	Pasadena	CA	34.1	-118.1	1	
+2077	03/22/24	Coppell	TX	33	-97	1	
+2078	03/22/24	Gunter	TX	33.4	-96.7	3	
+2079	03/22/24	Oxnard	CA	34.2	-119.2	1	
+2080	03/22/24	Seguin	TX	29.5	-98	6	
+2081	03/22/24	Seguin	TX	29.5	-98	6	
+2082	03/22/24	Seguin	TX	29.5	-98	6	
+2083	03/22/24	Cut Off	LA	29.5	-90.3	3	
+2084	03/22/24	Cut Off	LA	29.5	-90.3	1	
+2085	03/21/24	Mt Pleasant	SC	32.8	-79.9	1	
+2086	03/20/24	Bedford	TX	32.8	-97.1	1	
+2087	03/20/24	Bedford	TX	32.8	-97.1	1	
+2088	03/20/24	Summerfield	FL	29	-82	5	
+2089	03/20/24	Carrollton	TX	33	-96.9	1	
+2090	03/20/24	Plano	TX	33.1	-96.7	1	
+2091	03/20/24	Metairie	LA	30	-90.1	1	
+2092	03/20/24	Cameron	LA	29.8	-93.6	3	
+2093	03/20/24	Sapulpa	OK	36	-96.1	1	
+2094	03/20/24	Elmore City	OK	34.6	-97.4	1	
+2095	03/20/24	El Paso	TX	31.8	-106.5	1	
+2096	03/19/24	Houston	TX	30	-95.2	1	
+2097	03/19/24	Calera	OK	33.9	-96.4	1	
+2098	03/19/24	Houston	TX	30	-95.2	1	
+2099	03/19/24	Hackberry	LA	29.9	-93.5	1	
+2100	03/19/24	Blossom	TX	33.6	-95.3	3	
+2101	03/19/24	Irving	TX	32.9	-96.9	1	
+2102	03/18/24	Willow Spring	TX	33.8	-96.8	1	
+2103	03/18/24	Salado	TX	31	-97.6	1	
+2104	03/18/24	Gause	TX	30.7	-96.7	1	
+2105	03/18/24	Plano	TX	33	-96.7	2	
+2106	03/18/24	Plano	TX	33.1	-96.8	2	
+2107	03/17/24	Allen	TX	33.1	-96.6	2	
+2108	03/17/24	Crowley	TX	32.5	-97.4	1	
+2109	03/17/24	Mineola	TX	32.7	-95.5	1	
+2110	03/17/24	Forney	TX	32.7	-96.4	1	
+2111	03/17/24	Dallas	TX	32.9	-96.8	1	
+2112	03/17/24	Dallas	TX	32.8	-96.8	1	
+2113	03/17/24	Plano	TX	33	-96.7	1	
+2114	03/17/24	Mineola	TX	32.7	-95.5	1	
+2115	03/17/24	Ozark	AR	35.4	-93.8	1	
+2116	03/17/24	Cleburne	TX	32.3	-97.6	1	
+2117	03/17/24	Orange	CA	33.8	-117.9	1	
+2118	03/17/24	Keller	TX	33	-97.2	1	
+2119	03/17/24	Fernandina Beach	FL	30.6	-81.5	1	
+2120	03/16/24	Darrow	LA	30.1	-90.9	1	
+2121	03/16/24	Corpus Christi	TX	27.6	-97.2	1	
+2122	03/16/24	Smithfield	VA	37	-76.6	1	
+2123	03/16/24	Sherman	TX	33.6	-96.6	1	
+2124	03/16/24	Pleasant Garden	NC	35.9	-79.8	1	
+2125	03/16/24	Pass Christian	MS	30.4	-89.3	1	
+2126	03/16/24	Cathedral City	CA	33.8	-116.5	1	
+2127	03/15/24	Austin	TX	30.3	-97.8	1	
+2128	03/15/24	Kurten	TX	30.8	-96.3	1	
+2129	03/15/24	Charleston	SC	32.8	-79.9	1	
+2130	03/15/24	Charleston	SC	32.8	-79.9	1	
+2131	03/15/24	Kingsland	GA	30.8	-81.7	1	
+2132	03/15/24	Fernandina Beach	FL	30.7	-81.4	1	
+2133	03/15/24	Kingsland	GA	30.8	-81.7	1	
+2134	03/15/24	The Village	OK	35.6	-97.6	1	
+2135	03/15/24	West Lake Hills	TX	30.3	-97.8	1	
+2136	03/14/24	St. Petersburg	FL	27.8	-82.7	4	
+2137	03/14/24	Austin	TX	30.3	-97.7	1	
+2138	03/14/24	La Mesa	CA	32.8	-117	1	
+2139	03/14/24	Glen Rose	TX	32.2	-97.8	1	
+2140	03/14/24	Glenn Heights	TX	32.5	-96.9	0	
+2141	03/14/24	Waxahachie	TX	32.5	-96.9	2	
+2142	03/14/24	Chico	TX	33.2	-97.9	1	
+2143	03/14/24	Mansfield	TX	32.6	-97.1	1	
+2144	03/14/24	Spicewood	TX	30.5	-98.2	1	
+2145	03/14/24	Austin	TX	30.2	-97.9	1	
+2146	03/13/24	Temple	TX	31.1	-97.4	1	
+2147	03/13/24	Hutto	TX	30.5	-97.6	1	
+2148	03/13/24	Jacksonville	AL	33.8	-85.8	1	
+2149	03/13/24	Tulsa	OK	36.1	-95.9	1	
+2150	03/13/24	Austin	TX	30.3	-97.8	0	
+2151	03/13/24	Menard	TX	30.9	-99.5	1	
+2152	03/13/24	Marietta	GA	34	-84.4	0	
+2153	03/12/24	Bay St Louis	MS	30.3	-89.3	1	
+2154	03/12/24	Belton	TX	31.1	-97.6	1	
+2155	03/12/24	Missouri City	TX	29.6	-95.5	1	
+2156	03/12/24	Belton	TX	31.1	-97.6	1	
+2157	03/12/24	Creedmoor	NC	36.1	-78.7	1	
+2158	03/12/24	Corpus Christi	TX	27.7	-97.4	2	
+2159	03/12/24	Houston	TX	29.8	-95.6	1	
+2160	03/12/24	Orange Park	FL	30.1	-81.8	1	
+2161	03/11/24	Southport	NC	34	-78.1	1	
+2162	03/11/24	Mary Esther	FL	30.4	-86.7	1	
+2163	03/10/24	Austin	TX	30.4	-97.8	2	
+2164	03/10/24	San Antonio	TX	29.2	-98.4	1	
+2165	03/10/24	Weimar	TX	29.7	-96.8	1	
+2166	03/10/24	McDade	TX	30.2	-97.2	0	
+2167	03/09/24	Taylor	TX	30.6	-97.5	1	
+2168	03/09/24	Taylor	TX	30.6	-97.5	1	
+2169	03/09/24	Melbourne	FL	28.2	-80.6	1	
+2170	03/09/24	Corona	CA	33.9	-117.6	1	
+2171	03/09/24	Corona	CA	33.9	-117.6	1	
+2172	03/09/24	Corona	CA	33.9	-117.6	1	
+2173	03/08/24	Gainesville	FL	29.7	-82.4	2	
+2174	03/08/24	McKinney	TX	33.2	-96.6	1	
+2175	03/08/24	McKinney	TX	33.2	-96.6	1	
+2176	03/08/24	McKinney	TX	33.2	-96.6	1	
+2177	03/08/24	Bastrop	TX	30.1	-97.4	1	
+2178	03/08/24	Long Beach	CA	33.8	-118.1	1	
+2179	03/07/24	Enterprise	AL	31.4	-85.8	0	
+2180	03/07/24	Austin	TX	30.2	-97.9	1	
+2181	03/07/24	Round Rock	TX	30.5	-97.6	1	
+2182	03/07/24	Burbank	CA	34.2	-118.3	1	
+2183	03/07/24	Tallahassee	FL	30.6	-84.2	0	
+2184	03/06/24	Plant City	FL	28	-82.1	1	
+2185	03/06/24	Boerne	TX	29.8	-98.7	1	
+2186	03/06/24	Houma	LA	29.7	-90.8	1	
+2187	03/06/24	Pass Christian	MS	30.3	-89.2	1	
+2188	03/06/24	Canyon Lake	TX	29.9	-98.3	1	
+2189	03/06/24	Montgomery	TX	30.4	-95.8	2	
+2190	03/06/24	Pearsall	TX	28.9	-99.1	1	
+2191	03/06/24	Bay St Louis	MS	30.3	-89.3	1	
+2192	03/05/24	Austwell	TX	28.2	-96.9	1	
+2193	03/05/24	Austwell	TX	28.2	-96.9	1	
+2194	03/05/24	Taylor	TX	30.6	-97.4	1	
+2195	03/05/24	Driftwood	TX	30.1	-98	1	
+2196	03/05/24	Austin	TX	30.2	-97.9	1	
+2197	03/05/24	Austin	TX	30.4	-97.9	15	
+2198	03/05/24	Lakeland	FL	28.1	-81.9	1	
+2199	03/05/24	Austin	TX	30.4	-97.9	15	
+2200	03/04/24	Marietta	GA	34	-84.5	1	
+2201	03/04/24	Lakeland	FL	28	-82	1	
+2202	03/04/24	Lecanto	FL	28.9	-82.4	1	
+2203	03/04/24	Phoenix	AZ	33.5	-112	2	
+2204	03/04/24	Blanco	TX	30.1	-98.4	1	
+2205	03/03/24	Canton	TX	32.6	-95.9	1	
+2206	03/03/24	Canton	TX	32.6	-95.9	1	
+2207	03/03/24	Montgomery	TX	30.3	-95.6	1	
+2208	03/03/24	Corpus Christi	TX	27.7	-97.4	1	
+2209	03/03/24	Carlsbad	CA	33.1	-117.3	1	
+2210	03/03/24	Carlsbad	CA	33.1	-117.3	1	
+2211	03/02/24	Austin	TX	30.3	-97.7	1	
+2212	03/01/24	Delray Beach	FL	26.5	-80.1	1	
+2213	02/29/24	El Cajon	CA	32.9	-116.9	1	
+2214	02/28/24	Baton Rouge	LA	30.4	-91.1	1	
+2215	02/28/24	Baton Rouge	LA	30.4	-91.1	1	
+2216	02/28/24	Metairie	LA	30	-90.2	1	
+2217	02/28/24	Poway	CA	33	-117	1	
+2218	02/27/24	Merryville	LA	30.8	-93.5	1	
+2219	02/27/24	Indian Wells	CA	33.7	-116.4	3	
+2220	02/27/24	San Diego	CA	32.9	-117.2	1	
+2221	02/27/24	Indian Wells	CA	33.7	-116.4	3	
+2222	02/27/24	Indian Wells	CA	33.7	-116.4	3	
+2223	02/27/24	Avondale	AZ	33.4	-112.3	1	
+2224	02/26/24	Patterson	LA	29.7	-91.3	1	
+2225	02/26/24	DeRidder	LA	30.8	-93.4	1	
+2226	02/26/24	Bradenton	FL	27.5	-82.4	1	
+2227	02/25/24	Inverness	FL	28.9	-82.3	1	
+2228	02/25/24	Alameda	CA	37.7	-122.2	1	
+2229	02/24/24	Pasadena	CA	34.1	-118.1	1	
+2230	02/24/24	West Covina	CA	34.1	-117.9	1	
+2231	02/22/24	Fernandina Beach	FL	30.6	-81.4	1	
+2232	02/22/24	Fernandina Beach	FL	30.6	-81.4	1	
+2233	02/22/24	Amer Cyn	CA	38.2	-122.3	0	
+2234	02/22/24	Glendora	CA	34.1	-117.8	1	
+2235	02/21/24	Las Vegas	NV	36.2	-115.1	1	
+2236	02/18/24	Ogilby	CA	32.8	-114.8	1	
+2237	02/18/24	Ogilby	CA	32.8	-114.8	1	
+2238	02/16/24	Naples	FL	26	-81.6	1	
+2239	02/15/24	Welaka	FL	29.5	-81.7	1	
+2240	02/15/24	Bonita Springs	FL	26.4	-81.8	3	
+2241	02/15/24	Richmond Hill	GA	31.9	-81.3	1	
+2242	02/15/24	Richmond Hill	GA	31.9	-81.3	1	
+2243	02/15/24	New Iberia	LA	30	-91.8	1	
+2244	02/14/24	Coronado	CA	32.6	-117.1	1	
+2245	02/14/24	Webster	TX	29.6	-95.1	1	
+2246	02/14/24	Houston	TX	29.8	-95.4	1	
+2247	02/14/24	Houston	TX	29.8	-95.4	1	
+2248	02/13/24	Dauphin Island	AL	30.2	-88.1	1	
+2249	02/12/24	San Diego	CA	32.7	-117.2	1	
+2250	02/12/24	San Diego	CA	32.7	-117.2	1	
+2251	02/12/24	Guate	Guatemala	14.6	-90.5	1	
+2252	02/11/24	New Braunfels	TX	29.6	-98.2	3	
+2253	02/09/24	Tybee Island	GA	32	-80.8	1	
+2254	02/09/24	Miami	FL	25.8	-80.2	1	
+2255	02/09/24	Miami	FL	25.8	-80.2	1	
+2256	02/09/24	Houston	TX	29.7	-95.5	1	
+2257	02/09/24	Fairhope	AL	30.6	-87.9	1	
+2258	02/06/24	Panama City Beach	FL	30.3	-86	1	
+2259	02/06/24	Miami	FL	25.8	-80.2	2	
+2260	02/05/24	Phoenix	AZ	33.5	-112	1	
+2261	02/04/24	McAllen	TX	26.3	-98.2	1	
+2262	02/03/24	Palm Bay	FL	28	-80.6	1	
+2263	02/01/24	Jacksonville	FL	30.3	-81.5	1	
+2264	02/01/24	Alamo	CA	37.9	-122	1	
+2265	01/31/24	Rosemead	CA	34.1	-118.1	1	
+2266	01/31/24	Bradenton	FL	27.5	-82.6	1	
+2267	01/31/24	Deltona	FL	28.9	-81.2	3	
+2268	01/30/24	Orlando	FL	28.6	-81.4	1	
+2269	01/29/24	Berkeley	CA	37.9	-122.3	1	
+2270	01/28/24	San Diego	CA	32.8	-117.2	1	
+2271	01/27/24	Charleston	SC	32.9	-79.8	1	
+2272	01/25/24	Fernandina Beach	FL	30.7	-81.5	1	
+2273	01/25/24	Tempe	AZ	33.3	-111.9	1	
+2274	01/24/24	Miramar	FL	26	-80.4	3	
+2275	01/24/24	Green Cove Springs	FL	30	-81.7	1	
+2276	01/24/24	Cape Coral	FL	26.5	-82	1	
+2277	01/24/24	Green Cove Springs	FL	30	-81.7	1	
+2278	01/23/24	Rancho Viejo	TX	26	-97.5	1	
+2279	01/22/24	Oakland Park	FL	26.2	-80.1	1	
+2280	01/19/24	Skidaway Island	GA	32	-81	1	
+2281	01/15/24	Jacksonville	FL	30.3	-81.7	1	
+2282	01/14/24	Corpus Christi	TX	27.8	-97.4	1	
+2283	01/13/24	Houston	TX	29.8	-95.5	1	
+2284	01/13/24	Dickinson	TX	29.5	-95.1	1	
+2285	01/10/24	League City	TX	29.5	-95	1	
+2286	01/10/24	Austin	TX	30.2	-97.9	1	
+2287	01/10/24	Austin	TX	30.2	-97.9	1	
+2288	01/09/24	Houston	TX	29.9	-95.6	1	
+2289	01/09/24	Midway	FL	30.4	-87	1	
+2290	01/09/24	Miami	FL	25.7	-80.3	1	
+2291	01/08/24	St. Augustine	FL	29.9	-81.3	1	
+2292	01/06/24	Plantation	FL	26.1	-80.2	1	
+2293	01/06/24	Statesboro	GA	32.4	-81.7	1	
+2294	01/06/24	Austin	TX	30.4	-97.8	1	
+2295	01/06/24	Port Aransas	TX	27.8	-97.1	2	
+2296	01/06/24	Pensacola	FL	30.4	-87.2	0	
+2297	01/06/24	Ochlockonee Bay	FL	29.9	-84.4	1	
+2298	01/06/24	Kingston	OK	34	-96.7	1	
+2299	01/06/24	Wellsville	NY	42.1	-78	1	
+2300	01/04/24	Coral Gables	FL	25.8	-80.3	1	
+2301	01/03/24	Berkeley	CA	37.9	-122.3	2	
+2302	01/02/24	Clearwater	FL	27.9	-82.7	2	
+2303	01/01/24	Walnut Creek	CA	37.9	-122.1	3	
+2304	01/01/24	Edinburg	TX	26.3	-98.2	1	
+ 
