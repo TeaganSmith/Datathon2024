@@ -23,8 +23,8 @@ def write_data_to_csv(data, output_file):
             csv_writer.writerow(row)
 
 def main():
-    input_txt_file = 'text-files-data/2010-data.txt'  # Path to your input txt file
-    output_csv_file = 'csv-files-data/2010/monarch_sightings2010.csv'  # Path to the output CSV file
+    input_txt_file = 'text-files-data/2023-data.txt'  # Path to your input txt file
+    output_csv_file = 'csv-files-data/2023/monarch_sightings2023.csv'  # Path to the output CSV file
     
     # Step 1: Read data from txt file
     data = read_data_from_txt(input_txt_file)

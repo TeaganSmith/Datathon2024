@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the monarch sightings dataset
-df = pd.read_csv('csv-files-data/2018/monarch_sightings2018_with_fips.csv')
+df = pd.read_csv('csv-files-data/2019/monarch_sightings2019_with_fips.csv')
 
 # Ensure 'FIPS' is of type string
 df['FIPS'] = pd.to_numeric(df['FIPS'], errors='coerce').astype('Int64')  # Convert to integers
@@ -42,7 +42,7 @@ ax.set_aspect('auto')
 # Add title
 ax.set_title('Monarch Sightings by County', fontsize=15)
 
-output_file = 'generated_maps/monarch_sightings_map_2018.png'  # Change the filename and extension as needed
+output_file = 'generated_maps/monarch_sightings_map_2019.png'  # Change the filename and extension as needed
 plt.savefig(output_file, dpi=300, bbox_inches='tight')
 
 
