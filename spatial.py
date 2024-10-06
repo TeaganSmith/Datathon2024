@@ -2,9 +2,13 @@ import geopandas as gpd
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import os
 
 # Load the monarch sightings dataset
-df = pd.read_csv('monarch_sightings2021_with_fips.csv')
+file_path = 'monarch_sightings_csv/monarch_sightings2010_with_fips.csv'
+df = pd.read_csv(file_path)
+file_name = os.path.basename(file_path)
+year = file_name[17:21]
 
 # Ensure 'FIPS' is of type string
 df['FIPS'] = pd.to_numeric(df['FIPS'], errors='coerce').astype('Int64')  # Convert to integers
@@ -51,13 +55,13 @@ pc = counties_sightings.plot(column='log_count', ax=ax, linewidth=0.8, edgecolor
 
 # Set the aspect ratio and add title
 ax.set_aspect('auto')
-ax.set_title('Monarch Sightings by County (Log Scale)', fontsize=15)
+ax.set_title('Monarch Butterfly sightings in ' + (year), fontsize=15)
 
 # Create a colorbar manually
 sm = plt.cm.ScalarMappable(cmap='OrRd', norm=plt.Normalize(vmin=0, vmax=counties_sightings['log_count'].max()))
 sm.set_array([])
 cbar = fig.colorbar(sm, ax=ax)
-cbar.set_label('Log of Count of Monarch Sightings')  # Add label to the colorbar
+cbar.set_label('Count of Monarch Sightings')  # Add label to the colorbar
 
 # Calculate min and max sightings
 max_sightings = df_county_sightings['Count'].max()
