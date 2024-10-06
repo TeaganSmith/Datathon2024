@@ -1,0 +1,4348 @@
+Date	Town	State/Province	Latitude	Longitude	Number	Image
+1	12/30/13	san Clemente	CA	33.4	-117.6	1	
+2	12/29/13	Houston	TX	29.8	-95.4	1	
+3	12/26/13	Angangueo	MIC	19.6	-100.3	1	
+4	12/25/13	Boerne	TX	29.8	-98.8	1	
+5	12/22/13	Kerrville	TX	30	-99.1	1	
+6	12/22/13	San AgustÃ­n Ahuehuetla	PUE	18.8	-98.2	1	
+7	12/21/13	Houston	TX	29.8	-95.4	1	
+8	12/21/13	Costa Mesa	CA	33.7	-117.9	1	
+9	12/17/13	Katy	TX	29.8	-95.7	1	
+10	12/16/13	Rosenberg	TX	29.5	-95.9	1	
+11	12/15/13	new smyrna beach	FL	29	-81.1	1	
+12	12/15/13	Kingwood	TX	30	-95.3	1	
+13	12/13/13	Ellabell	GA	32.1	-81.5	1	
+14	12/12/13	Santa Cruz	CA	37	-122.1	1	
+15	12/11/13	Valrico	FL	27.9	-82.2	3	
+16	12/10/13	Moreno Valley	CA	34	-117.2	1	
+17	12/10/13	Mary Esther	FL	30.4	-86.8	1	
+18	12/09/13	Ocala	FL	29.2	-82.1	1	
+19	12/08/13	Tallahassee	FL	30.4	-84.3	1	
+20	12/04/13	Rogers	TX	31	-97.2	1	
+21	12/02/13	Salado	TX	30.9	-97.6	7	
+22	12/02/13	Eagle Pass	TX	28.5	-100.5	2	
+23	12/02/13	Austin	TX	30.2	-97.7	1	
+24	12/02/13	Pasadena	CA	34.1	-118.2	1	
+25	12/02/13	Salado	TX	30.9	-97.6	8	
+26	12/02/13	Pattison	TX	29.8	-96	1	
+27	12/01/13	Austin	TX	30.2	-97.7	1	
+28	12/01/13	Long Beach	CA	33.8	-118.2	2	
+29	12/01/13	Ruskin	FL	27.7	-82.5	1	
+30	11/29/13	Salado	TX	30.9	-97.6	2	
+31	11/29/13	Katy	TX	29.8	-95.7	1	
+32	11/28/13	Austin	TX	30.2	-97.7	1	
+33	11/27/13	Alamogordo	NM	32.8	-106.1	1	
+34	11/27/13	Alamogordo	NM	32.8	-106.1	1	
+35	11/25/13	Austin	TX	30.2	-97.7	1	
+36	11/24/13	St George Island	FL	42.2	-84.4	3	
+37	11/23/13	Half moon bay	CA	37.5	-122.4	1	
+38	11/23/13	Inverness	FL	28.8	-82.3	3	
+39	11/23/13	Long Beach	CA	33.8	-118.2	1	
+40	11/22/13	Austin	TX	30.2	-97.7	12	
+41	11/21/13	Austin	TX	30.2	-97.7	1	
+42	11/21/13	austin	TX	30.2	-97.7	2	
+43	11/20/13	Cutler Bay	FL	25.6	-80.3	5	
+44	11/20/13	Horseshoe Bay	TX	30.5	-98.4	1	
+45	11/19/13	Katy	TX	29.8	-95.7	2	
+46	11/19/13	Salado	TX	30.9	-97.6	6	
+47	11/19/13	Katy	TX	29.8	-95.7	5	
+48	11/19/13	San Antonio	TX	29.5	-98.5	1	
+49	11/18/13	Houston	TX	29.8	-95.4	1	
+50	11/18/13	Groesbeck	TX	31.5	-96.6	1	
+51	11/18/13	Salado	TX	30.9	-97.6	3	
+52	11/18/13	Bryan	TX	30.6	-96.4	1	
+53	11/18/13	Pattison	TX	29.8	-96	1	
+54	11/18/13	Tarpley	TX	29.7	-99.4	2	
+55	11/18/13	Austin	TX	30.2	-97.7	1	
+56	11/17/13	Monterrey	NL	25.7	-100.3	10	
+57	11/17/13	Pflugerville	TX	30.4	-97.6	4	
+58	11/17/13	San Antonio	TX	29.5	-98.5	1	
+59	11/16/13	willis	TX	30.4	-95.5	1	
+60	11/16/13	Inverness	FL	28.8	-82.3	3	
+61	11/15/13	Eagle Pass	TX	28.5	-100.5	2	
+62	11/15/13	Spring	TX	30.1	-95.4	5	
+63	11/14/13	Mary Esther	FL	30.4	-86.8	2	
+64	11/14/13	Tarpley	TX	29.7	-99.4	1	
+65	11/14/13	Center Point	TX	29.9	-99	1	
+66	11/14/13	Tucson	AZ	32.2	-111	1	
+67	11/13/13	Austin	TX	30.2	-97.7	1	
+68	11/12/13	Nashville	TN	36.2	-86.8	1	
+69	11/11/13	Allen	TX	33.1	-96.6	1	
+70	11/11/13	Charleston	SC	32.8	-79.9	1	
+71	11/11/13	Panama City Beach	FL	30.1	-85.5	1	
+72	11/11/13	sunset valley	TX	30.2	-97.8	6	
+73	11/11/13	Daytona beach	FL	29.2	-81.1	1	
+74	11/11/13	king george	VA	38.3	-77.1	1	
+75	11/11/13	Tarpley	TX	29.7	-99.4	3	
+76	11/11/13	Driftwood	TX	30.1	-98	1	
+77	11/10/13	Katy	TX	29.8	-95.7	3	
+78	11/10/13	Jersey Village	TX	29.9	-95.6	1	
+79	11/10/13	Chandler	AZ	33.3	-111.9	4	
+80	11/10/13	Ellicott City	MD	39.3	-76.9	1	
+81	11/10/13	Mary Esther	FL	30.4	-86.8	3	
+82	11/10/13	Tarpley	TX	29.7	-99.4	3	
+83	11/10/13	Los Alamos	NM	35.9	-106.3	1	
+84	11/09/13	Houston	TX	29.8	-95.4	1	
+85	11/09/13	Myrtle Beach	SC	33.8	-78.8	1	
+86	11/09/13	Panama City Beach	FL	30.2	-85.8	1	
+87	11/09/13	Ellicott City	MD	39.3	-76.9	1	
+88	11/09/13	sunset valley	TX	30.2	-97.8	5	
+89	11/09/13	Pflugerville	TX	30.4	-97.6	7	
+90	11/08/13	West Hills	CA	34.2	-118.6	1	
+91	11/08/13	monterrey	NL	25.7	-100.3	10	
+92	11/08/13	Boerne	TX	29.8	-98.8	1	
+93	11/08/13	Acworth	GA	34	-84.7	1	
+94	11/08/13	Mary Esther	FL	30.4	-86.8	2	
+95	11/07/13	Myrtle Beach	SC	33.8	-78.8	2	
+96	11/07/13	Montgomery	AL	32.4	-86.3	6	
+97	11/06/13	Ormond Beach	FL	29.3	-81.1	1	
+98	11/06/13	Conway	SC	33.9	-79	1	
+99	11/06/13	Ormond Beach	FL	29.3	-81.1	2	
+100	11/06/13	Gause	TX	30.8	-96.7	1	
+101	11/06/13	ridgeland	MS	32.4	-90.1	2	
+102	11/06/13	Mount Pleasant	SC	32.8	-79.8	20	
+103	11/06/13	willis	TX	30.4	-95.5	18	
+104	11/06/13	Prosperity	SC	34.2	-81.5	1	
+105	11/06/13	Freeport	TX	29	-95.3	10	
+106	11/06/13	Myrtle Beach	SC	33.8	-78.8	2	
+107	11/06/13	Zaragoza	SLP	22.2	-100.9	15	
+108	11/05/13	Sugar Land	TX	29.6	-95.6	1	
+109	11/05/13	lebanon	TN	36.3	-86.3	1	
+110	11/05/13	Ailsa Craig	ON	43.1	-81.6	1	
+111	11/05/13	Horseshoe Bay	TX	30.5	-98.4	1	
+112	11/05/13	Boerne	TX	29.8	-98.8	1	
+113	11/05/13	Cades Cove	TN	35.6	-83.8	1	
+114	11/05/13	willis	TX	30.4	-95.5	12	
+115	11/05/13	Jersey village	TX	29.9	-95.6	1	
+116	11/05/13	Acworth	GA	34	-84.7	1	
+117	11/05/13	Lexington	KY	38	-84.5	1	
+118	11/04/13	Boston	MA	42.4	-71.1	1	
+119	11/04/13	San antonio	TX	29.6	-98.4	2	
+120	11/04/13	willis	TX	30.4	-95.5	5	
+121	11/04/13	Cades Cove	TN	35.6	-83.8	2	
+122	11/04/13	Elizabethton,	TN	36.4	-82.1	1	
+123	11/04/13	Aiken	SC	33.6	-81.7	1	
+124	11/03/13	Maumelle	AR	34.9	-92.4	1	
+125	11/03/13	Houston	TX	29.8	-95.4	1	
+126	11/03/13	San Antonio	TX	29.5	-98.5	3	
+127	11/03/13	Tarpley	TX	29.7	-99.4	38	
+128	11/03/13	Spicewood	TX	30.4	-98.1	25	
+129	11/02/13	Lexington	VA	37.8	-79.5	1	
+130	11/02/13	San Antonio	TX	29.5	-98.5	1	
+131	11/02/13	San Diego	CA	32.7	-117.2	4	
+132	11/02/13	Santa Monica	CA	34	-118.5	6	
+133	11/02/13	Friendswood	TX	29.5	-95.2	2	
+134	11/02/13	Greenbackville	VA	38	-75.4	1	
+135	11/02/13	Panama City Beach	FL	30.2	-85.8	1	
+136	11/02/13	Joplin	MO	37.1	-94.5	1	
+137	11/02/13	Roseland	VA	37.8	-79	1	
+138	11/02/13	Baltimore	MD	39.3	-76.6	1	
+139	11/02/13	Brandon	MS	32.3	-89.9	4	
+140	11/02/13	Waynesboro	VA	38.1	-78.9	2	
+141	11/02/13	Ridgeway	CO	38.2	-107.8	1	
+142	11/02/13	Stanton	KY	37.8	-83.8	1	
+143	11/02/13	Napa	CA	38.5	-122.3	4	
+144	11/01/13	Cameron	TX	30.8	-97	2	
+145	11/01/13	Buncombe	IL	37.5	-89	3	
+146	11/01/13	Houston	TX	29.8	-95.4	4	
+147	11/01/13	Stephenville	TX	32.2	-98.2	1	
+148	11/01/13	McLean	VA	38.9	-77.2	1	
+149	11/01/13	Franklin	LA	29.7	-91.6	1	
+150	11/01/13	Louisville	TN	35.8	-84	3	
+151	11/01/13	San Antonio	TX	29.5	-98.5	1	
+152	11/01/13	Garland	TX	32.9	-96.6	2	
+153	11/01/13	Corsicana	TX	32.1	-96.4	15	
+154	11/01/13	Pittsboro	NC	35.8	-79.2	1	
+155	11/01/13	Allen	TX	33.1	-96.6	4	
+156	11/01/13	Oak hill	VA	38.9	-77.4	1	
+157	11/01/13	Austin	TX	30.2	-97.7	1	
+158	11/01/13	Austin	TX	30.2	-97.7	4	
+159	11/01/13	Westfield	NJ	40.6	-74.3	1	
+160	11/01/13	Chalk Mountain	TX	32.1	-97.9	1	
+161	11/01/13	Vienna	VA	38.9	-77.3	1	
+162	11/01/13	Monterrey	NL	25.7	-100.3	15	
+163	11/01/13	San NicolÃ¡s de los Garza	NL	25.8	-100.3	3	
+164	11/01/13	QuerÃ©taro	QUE	20.6	-100.4	2	
+165	10/31/13	Deer Park	TX	29.7	-95.1	1	
+166	10/31/13	Myrtle Beach	SC	33.8	-78.8	1	
+167	10/31/13	Granbury	TX	32.4	-97.7	4	
+168	10/31/13	Katy	TX	29.8	-95.7	1	
+169	10/31/13	Panama City	FL	30.2	-85.6	2	
+170	10/31/13	San Diego	CA	32.7	-117.2	5	
+171	10/31/13	McKinney	TX	33.2	-96.6	1	
+172	10/31/13	Sebastian	FL	27.8	-80.5	3	
+173	10/31/13	willis	TX	30.4	-95.5	2	
+174	10/31/13	Bluffton	SC	32.2	-80.9	1	
+175	10/31/13	Waynesboro	VA	38.1	-78.9	4	
+176	10/31/13	SPRING	TX	30.1	-95.4	4	
+177	10/31/13	Chalk Mountain	TX	32.1	-97.9	3	
+178	10/31/13	Monterrey	NL	25.7	-100.3	5	
+179	10/30/13	Charleston	SC	32.8	-79.9	1	
+180	10/30/13	Inverness	FL	28.8	-82.3	2	
+181	10/30/13	Leesburg	VA	39.1	-77.6	1	
+182	10/30/13	Franklin	TN	35.9	-86.9	1	
+183	10/30/13	Damascus	MD	39.3	-77.2	5	
+184	10/30/13	Deer Park	TX	29.7	-95.1	1	
+185	10/30/13	Fort Payne	AL	34.4	-85.7	1	
+186	10/30/13	Upper Marlboro	MD	38.8	-76.8	1	
+187	10/30/13	Houston	TX	29.8	-95.4	1	
+188	10/30/13	Wellsboro	PA	41.7	-77.4	1	
+189	10/30/13	Statham	GA	34	-83.6	1	
+190	10/30/13	Spicewood	TX	30.4	-98.1	15	
+191	10/30/13	West Monroe	LA	32.5	-92.2	1	
+192	10/30/13	Louisville	TN	35.8	-84	1	
+193	10/30/13	Daniel Island	SC	32.9	-79.9	1	
+194	10/30/13	Saltillo	COA	25.4	-101	4	
+195	10/29/13	Katy	TX	29.8	-95.7	1	
+196	10/29/13	New Braunfels	TX	29.7	-98.1	30	
+197	10/29/13	Laredo	TX	27.5	-99.5	3	
+198	10/29/13	Austin	TX	30.2	-97.7	1	
+199	10/29/13	Woodstock	GA	34.1	-84.5	1	
+200	10/29/13	San Antonio	TX	29.5	-98.5	2	
+201	10/29/13	Pipe Creek	TX	29.7	-98.9	5	
+202	10/29/13	San Angelo	TX	31.6	-100.5	4	
+203	10/29/13	Mer Rouge	LA	32.8	-91.7	1	
+204	10/29/13	Bluffton	SC	32.2	-80.9	1	
+205	10/29/13	Saltillo	COA	25.4	-101	14	
+206	10/29/13	London	ON	43	-81.2	1	
+207	10/29/13	Newport	FL	30.2	-84.2	4	
+208	10/28/13	columbia	MS	31.2	-89.8	2	
+209	10/28/13	Baltimore	MD	39.3	-76.6	2	
+210	10/28/13	Dover	DE	39.1	-75.5	1	
+211	10/28/13	Austin	TX	30.2	-97.7	3	
+212	10/28/13	Brenham	TX	30.2	-96.4	1	
+213	10/28/13	San Antonio	TX	29.5	-98.5	2	
+214	10/28/13	Garland	TX	32.9	-96.6	4	
+215	10/28/13	cameron	TX	30.8	-97	1	
+216	10/28/13	Loganville	GA	33.8	-83.9	1	
+217	10/28/13	winston salem	NC	36.1	-80.2	1	
+218	10/28/13	Santa Ana	CA	33.8	-117.9	5	
+219	10/28/13	willis	TX	30.4	-95.5	4	
+220	10/28/13	Arteaga	COA	25.4	-101.8	6	
+221	10/27/13	Bloomfield	NM	36.9	-107.8	1	
+222	10/27/13	Tarpley	TX	29.7	-99.4	3	
+223	10/27/13	Mer Rouge	LA	32.8	-91.7	1	
+224	10/27/13	Albuquerque	NM	35.1	-106.6	1	
+225	10/27/13	Chattanooga	TN	35	-85.2	1	
+226	10/27/13	Robert Moses Beach, Babylon	NY	40.6	-73.3	1	
+227	10/27/13	Pipe Creek	TX	29.7	-98.9	7	
+228	10/27/13	Katy	TX	29.8	-95.7	4	
+229	10/27/13	Jemez Springs	NM	35.8	-106.9	1	
+230	10/27/13	Yorkville	OH	40.2	-80.7	1	
+231	10/27/13	West LIberty	IA	41.6	-91.3	1	
+232	10/27/13	Buzzard's Bay	MA	41.6	-70.8	3	
+233	10/27/13	Rockport	TX	28.2	-97	5	
+234	10/27/13	Estancia	NM	34.7	-106.2	1	
+235	10/27/13	Arlington	TX	32.6	-97.2	30	
+236	10/27/13	winston salem	NC	36.1	-80.2	2	
+237	10/27/13	Fort Davis	TX	30.7	-103.9	1	
+238	10/27/13	Paw Paw	MI	42.4	-85.7	1	
+239	10/26/13	Saint Petersburg	FL	27.8	-82.7	2	
+240	10/26/13	Fall Creek Falls	TN	35.7	-85.4	1	
+241	10/26/13	Austin	TX	30.2	-97.7	1	
+242	10/26/13	Smith Point	TX	29.5	-94.8	12	
+243	10/26/13	West Monroe	LA	32.5	-92.2	1	
+244	10/26/13	Driftwood	TX	30.1	-98	3	
+245	10/26/13	Lago Vista	TX	30.5	-98	5	
+246	10/26/13	Temecula	CA	33.5	-117.1	1	
+247	10/26/13	Saltillo	COA	25.4	-101	7	
+248	10/26/13	Saltillo	COA	25.4	-101	2	
+249	10/26/13	Outer Banks	NC	35.6	-75.5	12	
+250	10/26/13	Canyon Lake	TX	29.9	-98.3	20	
+251	10/26/13	New Braunfels	TX	29.7	-98.2	4	
+252	10/25/13	Mer Rouge	LA	32.8	-91.7	2	
+253	10/25/13	San antonio	TX	29.6	-98.4	5	
+254	10/25/13	safety harbor	FL	28	-82.7	1	
+255	10/25/13	Houston	TX	29.8	-95.4	1	
+256	10/25/13	Katy	TX	29.8	-95.7	2	
+257	10/25/13	Arlington	TX	32.6	-97.2	6	
+258	10/25/13	Caswell Beach	NC	33.9	-78.1	8	
+259	10/25/13	Mer Rouge	LA	32.8	-91.7	1	
+260	10/25/13	McCordsville	IN	39.9	-85.9	1	
+261	10/25/13	Pipe Creek	TX	29.7	-98.9	3	
+262	10/25/13	Thomasville	GA	30.8	-84	3	
+263	10/25/13	Old Tunnel State Park	TX	29.7	-99.4	2	
+264	10/25/13	Blacklick	OH	40	-82.8	1	
+265	10/25/13	San Antonio	TX	29.5	-98.5	1	
+266	10/25/13	Kingstree	SC	33.7	-79.8	1	
+267	10/25/13	Monterrey	NL	25.7	-100.3	1	
+268	10/25/13	Austin	TX	30.2	-98	2	
+269	10/25/13	Ramos Arizpe	COA	25.6	-101	6	
+270	10/25/13	New Braunfels	TX	29.7	-98.2	4	
+271	10/25/13	JimÃ©nez	COA	29.1	-100.7	4	
+272	10/25/13	MÃºzquiz	COA	27.9	-101.5	9	
+273	10/24/13	Marshall	TX	32.5	-94.3	2	
+274	10/24/13	san antonio	TX	29.5	-98.5	10	
+275	10/24/13	Comfort	TX	30	-98.7	6	
+276	10/24/13	Laredo	TX	27.5	-99.5	1	
+277	10/24/13	Mc Kinney	TX	33.2	-96.6	1	
+278	10/24/13	Katy	TX	29.8	-95.7	1	
+279	10/24/13	San Benito	TX	26.1	-97.7	5	
+280	10/24/13	houston	TX	29.9	-95.6	1	
+281	10/24/13	Pittsboro	NC	35.8	-79.2	1	
+282	10/24/13	Saginaw	TX	32.9	-97.4	10	
+283	10/24/13	Leander	TX	30.6	-97.9	1	
+284	10/24/13	Mer Rouge	LA	32.8	-91.7	1	
+285	10/24/13	Tyler	TX	32.3	-95.3	2	
+286	10/24/13	Theodore	AL	30.5	-88.2	1	
+287	10/24/13	beach city	TX	29.7	-94.9	4	
+288	10/24/13	Ruckersville	VA	38.2	-78.4	1	
+289	10/24/13	Monclova	COA	26.9	-101.4	3	
+290	10/24/13	San NicolÃ¡s de los Garza	NL	25.8	-100.3	2	
+291	10/24/13	Birmignham	AL	33.4	-86.7	1	
+292	10/24/13	Montgomery	AL	32.4	-86.3	3	
+293	10/23/13	Cub Run	KY	37.3	-86.1	1	
+294	10/23/13	Katy	TX	29.8	-95.7	1	
+295	10/23/13	Spring	TX	30.1	-95.4	6	
+296	10/23/13	Ada	OK	34.8	-96.8	1	
+297	10/23/13	Joplin	MO	37.1	-94.5	2	
+298	10/23/13	League City	TX	29.5	-95.1	2	
+299	10/23/13	Port Lavaca	TX	28.5	-96.7	11	
+300	10/23/13	Apalachicola	FL	29.7	-85.1	2	
+301	10/23/13	St. Marks	FL	30.2	-84.2	4	
+302	10/23/13	fayetteville	AR	36	-94.1	4	
+303	10/23/13	Salado	TX	30.9	-97.6	4	
+304	10/23/13	San Antonio	TX	29.5	-98.5	15	
+305	10/23/13	Friendswood	TX	29.5	-95.2	3	
+306	10/23/13	Mer Rouge	LA	32.8	-91.7	2	
+307	10/23/13	East Lyme	CT	41.4	-72.2	2	
+308	10/23/13	Springfield	MO	37.2	-93.3	1	
+309	10/23/13	Nowata	OK	36.7	-95.6	14	
+310	10/23/13	Cape Hatteras	NC	35.2	-75.5	12	
+311	10/23/13	Muzquiz	COA	27.9	-101.5	2	
+312	10/23/13	San Pedro Garza GarcÃ­a	NL	25.8	-100.3	1	
+313	10/23/13	Guadalupe	NL	25.7	-100.3	2	
+314	10/23/13	Saltillo	COA	25.4	-101	4	
+315	10/23/13	San Antonio	TX	29.7	-98.5	4	
+316	10/23/13	La Muralla	COA	26.3	-101.4	18	
+317	10/23/13	Piedras Negras	COA	28.7	-100.5	1	
+318	10/22/13	Pittsburgh	PA	40.5	-80	1	
+319	10/22/13	MT. PLEASANT	PA	40.2	-79.5	1	
+320	10/22/13	Lexington	TN	35.7	-88.4	1	
+321	10/22/13	marmora	NJ	39.3	-74.7	1	
+322	10/22/13	Gainesville	GA	34.3	-83.8	2	
+323	10/22/13	Plains	GA	32	-84.4	1	
+324	10/22/13	Gainesville	GA	34.3	-83.8	3	
+325	10/22/13	Keller	TX	32.9	-97.3	7	
+326	10/22/13	Greensboro	NC	36.1	-79.8	1	
+327	10/22/13	Bulverde	TX	29.8	-98.5	3	
+328	10/22/13	Vian	OK	35.5	-95	1	
+329	10/22/13	winston salem	NC	36.1	-80.2	1	
+330	10/22/13	Montgomery	AL	32.4	-86.3	4	
+331	10/22/13	Spring	TX	30.1	-95.4	5	
+332	10/22/13	Brevard	NC	35.2	-82.8	3	
+333	10/22/13	Eatonton	GA	33.3	-83.4	1	
+334	10/22/13	San Benito	TX	26.1	-97.7	13	
+335	10/22/13	Little Rock	AR	34.8	-92.4	3	
+336	10/22/13	Nantucket	MA	41.3	-70.1	1	
+337	10/22/13	Santa Catarina	NL	25.7	-100.5	7	
+338	10/22/13	Cole Camp, Mo.65325	MO	38.5	-93.2	1	
+339	10/22/13	Hattiesburg	MS	31.2	-89.3	1	
+340	10/22/13	Escobedo	NL	25.8	-100.2	1	
+341	10/22/13	Piedras Negras	COA	28.7	-100.5	1	
+342	10/22/13	Mountain View	AR	35.9	-92.1	1	
+343	10/21/13	acuna	COA	29.4	-100.9	1	
+344	10/21/13	Greenville	SC	34.8	-82.4	2	
+345	10/21/13	LaGrange	KY	38.4	-85.3	5	
+346	10/21/13	Lindale	TX	32.5	-95.4	1	
+347	10/21/13	Katy	TX	29.8	-95.7	2	
+348	10/21/13	Greensboro	NC	36.1	-79.8	1	
+349	10/21/13	College Station	TX	30.6	-96.3	1	
+350	10/21/13	Lancaster,Ohio 43130	OH	39.7	-82.6	1	
+351	10/21/13	Plainfield	IL	41.5	-88.2	1	
+352	10/21/13	Woodstock	GA	34.1	-84.5	1	
+353	10/21/13	San Benito	TX	26.1	-97.7	23	
+354	10/21/13	Austin	TX	30.2	-97.7	2	
+355	10/21/13	Robesonia	PA	40.4	-76.1	2	
+356	10/21/13	Cockeysville	MD	39.5	-76.6	1	
+357	10/21/13	Nescopeck	PA	41	-76.2	1	
+358	10/21/13	MT. PLEASANT	PA	40.2	-79.5	5	
+359	10/21/13	Hawley	PA	41.5	-75.2	1	
+360	10/21/13	Houston	TX	29.8	-95.4	1	
+361	10/21/13	Scottsville	KY	36.8	-86.2	2	
+362	10/21/13	Dawsonville	GA	34.4	-84.2	3	
+363	10/21/13	cortland	NY	42.6	-76.2	1	
+364	10/21/13	Dunkirk	MD	38.7	-76.6	1	
+365	10/21/13	Athens	GA	34	-83.6	6	
+366	10/21/13	Lehighton	PA	40.8	-75.7	1	
+367	10/21/13	Round Lake	NY	42.9	-73.8	1	
+368	10/21/13	Boerne	TX	29.8	-98.8	1	
+369	10/21/13	Austin	TX	30.2	-97.7	1	
+370	10/21/13	Austin	TX	30.2	-97.7	10	
+371	10/21/13	Gainesville	GA	34.3	-83.8	6	
+372	10/21/13	Port Burwell	ON	42.7	-80.8	50	
+373	10/21/13	Middle Bay Lighthouse	AL	30.4	-88	3	
+374	10/21/13	Port Stanley	ON	42.7	-81.2	2	
+375	10/21/13	Carrollton	VA	37	-76.5	1	
+376	10/21/13	Bloomingdale	NJ	41	-74.3	1	
+377	10/21/13	San Antonio	TX	29.5	-98.5	1	
+378	10/21/13	Monterrey	NL	25.7	-100.3	1	
+379	10/21/13	Piedras Negras	COA	28.7	-100.5	4	
+380	10/21/13	Leander	TX	30.6	-97.9	2	
+381	10/21/13	Annapolis	MD	39	-76.6	1	
+382	10/21/13	Linares	NL	24.9	-99.6	5	
+383	10/20/13	Austin	TX	30.2	-97.7	1	
+384	10/20/13	Fort erie	ON	42.9	-78.9	1	
+385	10/20/13	Champaign	IL	40.1	-88.2	1	
+386	10/20/13	Charlotte	VT	44.3	-73.2	1	
+387	10/20/13	Acuna	COA	29.4	-101	1	
+388	10/20/13	Hallsville	TX	32.5	-94.5	1	
+389	10/20/13	columbia	MO	38.9	-92.2	1	
+390	10/20/13	Brooklyn	NY	40.7	-74	1	
+391	10/20/13	Austin	TX	30.2	-97.7	5	
+392	10/20/13	Austin	TX	30.2	-97.7	3	
+393	10/20/13	Austin	TX	30.2	-97.7	5	
+394	10/20/13	Fordyce	AR	33.8	-92.4	1	
+395	10/20/13	Lexington	KY	38	-84.5	1	
+396	10/20/13	Catawissa	MO	38.4	-90.8	2	
+397	10/20/13	Pipe Creek	TX	29.7	-98.9	7	
+398	10/20/13	Tarpley	TX	29.7	-99.4	23	
+399	10/20/13	Chicago	IL	41.9	-87.6	1	
+400	10/20/13	Cypress	TX	30	-95.7	2	
+401	10/20/13	Champaign	IL	40.1	-88.2	1	
+402	10/20/13	Maumelle	AR	34.9	-92.4	13	
+403	10/20/13	Joplin	MO	37.1	-94.5	4	
+404	10/20/13	Kirkwood	MO	38.6	-90.4	1	
+405	10/20/13	Kirkwood	MO	38.6	-90.4	1	
+406	10/20/13	Chattanooga	TN	35	-85.2	1	
+407	10/20/13	San Benito	TX	26.1	-97.7	4	
+408	10/20/13	Thomasville	GA	30.8	-84	2	
+409	10/20/13	Amelia	OH	39	-84.2	1	
+410	10/20/13	New Richmond	OH	39	-84.2	2	
+411	10/20/13	Temecula	CA	33.5	-117.2	5	
+412	10/20/13	MIDDLETOWN	VA	39	-78.3	3	
+413	10/20/13	Kerrville	TX	30	-99.1	52	
+414	10/20/13	Ecru	MS	34.3	-89	1	
+415	10/20/13	Greenville	SC	34.8	-82.4	1	
+416	10/20/13	Cameron	TX	30.8	-97	10	
+417	10/20/13	Carmel	IN	40	-86.2	2	
+418	10/20/13	Greenville	SC	34.8	-82.4	1	
+419	10/20/13	Lexington	VA	37.8	-79.5	2	
+420	10/20/13	Lindale	TX	32.5	-95.4	2	
+421	10/20/13	Keller	TX	32.9	-97.3	12	
+422	10/20/13	Chalk Mountain	TX	32.1	-97.9	75	
+423	10/20/13	greensboro	NC	36.1	-79.8	1	
+424	10/20/13	Tyler	TX	32.3	-95.3	7	
+425	10/20/13	Waterford	VA	39.2	-77.6	1	
+426	10/20/13	Prairieville	LA	30.3	-90.9	1	
+427	10/20/13	Houston	TX	29.8	-95.4	1	
+428	10/20/13	Nixa	MO	37	-93.3	1	
+429	10/20/13	Arlington	TX	32.7	-97.1	7	
+430	10/20/13	Lago Vista	TX	30.5	-98	3	
+431	10/20/13	Grand Rapids	MI	43	-85.7	1	
+432	10/20/13	Laurel Springs	NC	36.4	-81.3	1	
+433	10/20/13	Springfield	OH	39.9	-83.8	2	
+434	10/20/13	Saltillo	COA	25.4	-101	1	
+435	10/20/13	Mer Rouge	LA	32.8	-91.7	7	
+436	10/20/13	Bergman	AR	36.3	-93	2	
+437	10/20/13	Kingsland	TX	30.7	-98.5	2	
+438	10/20/13	Driftwood	TX	30.1	-98	16	
+439	10/20/13	Ottumwa	IA	41	-92.4	1	
+440	10/20/13	Pismo	CA	35.1	-120.6	25	
+441	10/20/13	Salado	TX	30.9	-97.6	3	
+442	10/20/13	Blowing Rock	NC	36	-81.8	1	
+443	10/20/13	lebanon	TN	36.3	-86.3	1	
+444	10/20/13	MÃºzquiz	COA	27.9	-101.5	3	
+445	10/20/13	Los Pinolillos	NL	25.6	-100.1	16	
+446	10/20/13	Point Dume, Malibu	CA	34	-118.8	3	
+447	10/20/13	Carmel	IN	40	-86.2	2	
+448	10/20/13	Kingstree	SC	33.7	-79.8	3	
+449	10/19/13	Hartselle	AL	34.4	-86.9	1	
+450	10/19/13	Thousand Oaks	CA	34.2	-118.9	1	
+451	10/19/13	mckinney	TX	33.2	-96.6	20	
+452	10/19/13	Allen	TX	33.1	-96.6	1	
+453	10/19/13	bradenton	FL	27.4	-82.5	2	
+454	10/19/13	Jackson Center	PA	41.3	-80.1	4	
+455	10/19/13	Fair Oaks Ranch	TX	29.7	-98.6	1	
+456	10/19/13	Elephant Butte	NM	33.2	-107.2	1	
+457	10/19/13	Prairieville	LA	30.3	-90.9	1	
+458	10/19/13	WESTLAKE VILLAGE	CA	34.1	-118.9	1	
+459	10/19/13	Gainesville	GA	34.3	-83.8	2	
+460	10/19/13	Braidwood	IL	41.2	-88.2	2	
+461	10/19/13	Peoria	IL	40.7	-89.6	1	
+462	10/19/13	Tucson	AZ	32.2	-111	1	
+463	10/19/13	San Benito	TX	26.1	-97.7	10	
+464	10/19/13	San Benito	TX	26.1	-97.7	10	
+465	10/19/13	Keller	TX	32.9	-97.3	23	
+466	10/19/13	Rutherford	NJ	40.8	-74.1	1	
+467	10/19/13	Asheville	NC	35.6	-82.6	1	
+468	10/19/13	Nescopeck	PA	41	-76.2	1	
+469	10/19/13	Saint-Armand	QC	45	-73.1	1	
+470	10/19/13	Robert Moses Beach, Babylon	NY	40.6	-73.3	9	
+471	10/19/13	Cooperstown	NY	42.7	-74.9	2	
+472	10/19/13	Toms River	NJ	40	-74.2	1	
+473	10/19/13	Saltillo	COA	25.4	-101	1	
+474	10/19/13	Parkville	MD	39.4	-74.4	1	
+475	10/19/13	Lincoln	VT	44.1	-73	1	
+476	10/19/13	Austin	TX	30.2	-97.7	7	
+477	10/18/13	Charlotte	NC	35.2	-80.8	1	
+478	10/18/13	Dover	DE	39.1	-75.5	2	
+479	10/18/13	Waring	TX	29.9	-98.8	11	
+480	10/18/13	Herndon	VA	39	-77.4	1	
+481	10/18/13	Rio Medina	TX	29.5	-98.9	6	
+482	10/18/13	Lexington	TN	35.7	-88.4	1	
+483	10/18/13	Derwood	MD	39.1	-77.1	3	
+484	10/18/13	Murfreesboro	TN	35.9	-86.4	1	
+485	10/18/13	DeLancey	NY	42.2	-75	1	
+486	10/18/13	Lexington	KY	38	-84.5	1	
+487	10/18/13	Pipe Creek, TX	TX	29.7	-98.9	24	
+488	10/18/13	Plano	TX	33.1	-96.7	1	
+489	10/18/13	palmyra	VA	37.9	-78.3	1	
+490	10/18/13	Harrisville	MI	44.6	-83.4	3	
+491	10/18/13	Fair Oaks Ranch	TX	29.7	-98.6	8	
+492	10/18/13	Thousand Oaks	CA	34.2	-118.9	1	
+493	10/18/13	king george	VA	38.3	-77.1	1	
+494	10/18/13	Keller	TX	32.9	-97.3	3	
+495	10/18/13	Kirkwood	MO	38.6	-90.4	1	
+496	10/18/13	Rocky Point	NY	40.9	-72.9	1	
+497	10/18/13	San Benito	TX	26.1	-97.7	14	
+498	10/18/13	Sugar Land	TX	29.6	-95.6	2	
+499	10/18/13	Denair	CA	37.5	-120.7	1	
+500	10/18/13	Old Tunnel State Park	TX	29.7	-99.4	4	
+501	10/18/13	Tarpley	TX	29.7	-99.4	98	
+502	10/18/13	Bluffton	SC	32.2	-80.9	2	
+503	10/18/13	Farmers Branch	TX	32.9	-96.9	2	
+504	10/18/13	Lookout Mountain	TN	35	-85.4	2	
+505	10/18/13	Buncombe	IL	37.5	-89	3	
+506	10/18/13	Chalk Mountain	TX	32.1	-97.9	6	
+507	10/18/13	Ciudad Victoria	TAM	23.7	-99.1	9	
+508	10/18/13	Ocean City	NJ	39.3	-74.6	3	
+509	10/18/13	Portsmouth	OH	38.8	-82.9	1	
+510	10/18/13	Cd. Victoria	TAM	23.7	-99.1	9	
+511	10/18/13	AcuÃ±a	COA	29.5	-101.8	3	
+512	10/18/13	BROOKLYN	NY	40.7	-74	1	
+513	10/18/13	Allendale	NJ	41	-74.1	1	
+514	10/18/13	Fort Worth	TX	32.8	-97.3	2	
+515	10/17/13	Edinburg	TX	26.3	-98.1	2	
+516	10/17/13	austin	TX	30.2	-97.7	14	
+517	10/17/13	Arlington	TX	32.6	-97.2	17	
+518	10/17/13	Harrisville	MI	44.6	-83.4	1	
+519	10/17/13	Minnetonka	MN	44.9	-93.5	1	
+520	10/17/13	Toronto	ON	43.7	-79.4	1	
+521	10/17/13	Nottingham	PA	39.7	-76	1	
+522	10/17/13	Flower Mound	TX	33	-97.1	6	
+523	10/17/13	Charlotte	NC	35.2	-80.8	1	
+524	10/17/13	Dover	DE	39.1	-75.5	3	
+525	10/17/13	State College	PA	40.8	-77.8	1	
+526	10/17/13	Garland	TX	32.9	-96.6	8	
+527	10/17/13	San Antonio	TX	29.5	-98.5	20	
+528	10/17/13	Colleyville	TX	32.9	-97.1	10	
+529	10/17/13	Springfield	MO	37.2	-93.3	1	
+530	10/17/13	Branson	MO	36.6	-93.2	1	
+531	10/17/13	Maumelle	AR	34.9	-92.4	3	
+532	10/17/13	Benton	AR	34.6	-92.7	1	
+533	10/17/13	Raleigh	NC	35.8	-78.6	1	
+534	10/17/13	Marble Falls	TX	30.6	-98.2	10	
+535	10/17/13	Pipe Creek	TX	29.7	-98.9	40	
+536	10/17/13	Abilene	TX	32.5	-99.7	2	
+537	10/17/13	Cypress	TX	30	-95.7	8	
+538	10/17/13	Dalworthington Gardens	TX	32.4	-97.1	3	
+539	10/17/13	Mer Rouge	LA	32.8	-91.7	5	
+540	10/17/13	Clearville Park	ON	42.5	-81.8	4	
+541	10/17/13	Chalk Mountain	TX	32.1	-97.9	20	
+542	10/17/13	Driftwood	TX	30.1	-98	8	
+543	10/16/13	Bolling AFB	DC	38.8	-77	1	
+544	10/16/13	Prosperity	SC	34.2	-81.5	1	
+545	10/16/13	London	AR	35.3	-93.2	1	
+546	10/16/13	Essex	ON	42.2	-82.8	1	
+547	10/16/13	Cumberland	MD	39.7	-78.8	1	
+548	10/16/13	Saginaw	TX	32.9	-97.4	10	
+549	10/16/13	Kirkwood	MO	38.6	-90.4	1	
+550	10/16/13	Skokie	IL	42	-87.7	2	
+551	10/16/13	Asheville	NC	35.6	-82.6	1	
+552	10/16/13	Staunton	VA	38.1	-79.1	1	
+553	10/16/13	Oak hill	VA	38.9	-77.4	3	
+554	10/16/13	Bertram	TX	30.7	-98	28	
+555	10/16/13	Hartley	IA	43.2	-95.5	1	
+556	10/16/13	Madison and Fremont properties	WI	43.1	-89.4	1	
+557	10/16/13	Hayes	VA	37.3	-76.5	8	
+558	10/16/13	Chalk Mountain	TX	32.1	-97.9	1	
+559	10/16/13	Lake Ozark	MO	38.2	-92.7	1	
+560	10/16/13	king george	VA	38.3	-77.1	1	
+561	10/16/13	Columbus	OH	40.1	-83	1	
+562	10/16/13	Silver Spring	MD	39	-77	1	
+563	10/16/13	Lookout Mountain	TN	35	-85.4	8	
+564	10/16/13	havre de grace	MD	39.6	-76.1	2	
+565	10/16/13	Winston-Salem	NC	36.1	-80.2	2	
+566	10/16/13	Winston-Salem	NC	36.1	-80.2	2	
+567	10/16/13	Prosperity	SC	34.2	-81.5	1	
+568	10/16/13	Fort Worth	TX	32.8	-97.3	10	
+569	10/16/13	Hogansburg	NY	45	-74.7	1	
+570	10/16/13	Ormond Beach	FL	29.3	-81.1	1	
+571	10/16/13	Ebony	VA	36.6	-78	3	
+572	10/16/13	Kensington	MD	39	-77.1	1	
+573	10/16/13	Endicott	NY	42.1	-76.1	1	
+574	10/16/13	Greenwood	SC	34.1	-82.2	6	
+575	10/15/13	Montgomery	AL	32.4	-86.3	2	
+576	10/15/13	Glenelg	MD	39.3	-77	1	
+577	10/15/13	Herndon	VA	39	-77.4	1	
+578	10/15/13	Stratford	ON	43.4	-81	1	
+579	10/15/13	Ballwin	MO	38.6	-90.6	1	
+580	10/15/13	Ballwin	MO	38.6	-90.6	2	
+581	10/15/13	Dover	DE	39.1	-75.5	2	
+582	10/15/13	Hawley	PA	41.5	-75.2	2	
+583	10/15/13	bradenton	FL	27.4	-82.5	1	
+584	10/15/13	Charleston	SC	32.8	-79.9	1	
+585	10/15/13	Austin	TX	30.2	-97.7	3	
+586	10/15/13	marathon	NY	42.5	-76	1	
+587	10/15/13	Mentor	OH	41.7	-81.3	1	
+588	10/15/13	Lookout Mountain	TN	35	-85.4	2	
+589	10/15/13	Denton	TX	33.2	-97.1	6	
+590	10/15/13	Goose Rocks Beach	ME	41	-74	2	
+591	10/15/13	Milwaukee	WI	43.1	-87.9	1	
+592	10/15/13	Arlington	TX	32.6	-97.2	4	
+593	10/15/13	Metairie	LA	30	-90.2	1	
+594	10/14/13	Bergman	AR	36.3	-93	6	
+595	10/14/13	Larchmont	NY	40.9	-73.8	1	
+596	10/14/13	Murfreesboro	TN	35.9	-86.4	1	
+597	10/14/13	Murfreesboro	TN	35.9	-86.4	1	
+598	10/14/13	Murfreesboro	TN	35.9	-86.4	1	
+599	10/14/13	Murfreesboro	TN	35.9	-86.4	1	
+600	10/14/13	Waring	TX	29.9	-98.8	3	
+601	10/14/13	Ruckersville	VA	38.2	-78.4	1	
+602	10/14/13	Crofton	MD	39	-76.7	1	
+603	10/14/13	Ruckersville	VA	38.2	-78.4	7	
+604	10/14/13	Asheville	NC	35.6	-82.6	1	
+605	10/14/13	Champaign	IL	40.1	-88.2	1	
+606	10/14/13	Hawley	PA	41.5	-75.2	1	
+607	10/14/13	Memphis	TN	35	-89.9	1	
+608	10/14/13	Verona	WI	43	-89.5	1	
+609	10/14/13	Clearville Park, Ontario	ON	42.5	-81.8	1	
+610	10/14/13	virginia beach	VA	36.8	-76.1	1	
+611	10/14/13	Eagle Pass	TX	28.6	-100.3	1	
+612	10/14/13	Rosenberg	TX	29.5	-95.9	2	
+613	10/14/13	Chicago	IL	41.9	-87.6	1	
+614	10/14/13	Hattiesburg	MS	31.2	-89.3	1	
+615	10/14/13	Frisco	TX	33.2	-96.8	2	
+616	10/14/13	New Hampton	NY	41.3	-74.5	1	
+617	10/14/13	Whittier	CA	34	-118	2	
+618	10/14/13	Sydenham	ON	44.4	-76.6	1	
+619	10/14/13	Lookout Mountain	TN	35	-85.4	2	
+620	10/14/13	Brighton	ON	44	-77.7	5	
+621	10/14/13	Mill Valley	CA	37.9	-122.6	1	
+622	10/14/13	Pennsburg	PA	40.4	-75.5	1	
+623	10/14/13	Balm beach	ON	44.7	-80	1	
+624	10/14/13	Roland	AR	34.9	-92.5	12	
+625	10/14/13	Raleigh	NC	35.8	-78.6	1	
+626	10/14/13	Port St. Joe	FL	29.8	-85.3	6	
+627	10/14/13	Victoria	TAM	23.7	-99.1	10	
+628	10/14/13	Wittmann	AZ	33.7	-112.6	2	
+629	10/13/13	Greensboro	NC	36.1	-79.8	1	
+630	10/13/13	Bandera	TX	29.7	-99.1	3	
+631	10/13/13	CEDAR HILL	TX	32.6	-97	8	
+632	10/13/13	Champaign	IL	40.1	-88.2	1	
+633	10/13/13	Murfreesboro	TN	35.9	-86.4	1	
+634	10/13/13	Spur	TX	33.5	-100.8	1	
+635	10/13/13	Harrisville	NY	44.1	-75.3	1	
+636	10/13/13	Benton	AR	34.6	-92.7	1	
+637	10/13/13	Cleveland	OH	41.5	-81.7	1	
+638	10/13/13	Harrisville	MI	44.6	-83.4	39	
+639	10/13/13	Washington	DC	38.9	-77	1	
+640	10/13/13	farmington hills	MI	42.5	-83.2	1	
+641	10/13/13	Lancaster	PA	40.1	-76.3	3	
+642	10/13/13	Lake Michigan	WI	42.7	-87.6	1	
+643	10/13/13	mascoutah	IL	38.5	-89.8	1	
+644	10/13/13	New Carlisle	OH	40	-84	1	
+645	10/13/13	Austin	TX	30.2	-97.7	3	
+646	10/13/13	Terre Haute	IN	39.4	-87.4	1	
+647	10/13/13	Nebraska City	NE	40.7	-95.9	6	
+648	10/13/13	Santa Barbara	CA	34.4	-119.7	2	
+649	10/13/13	Queens Co.,	NS	44	-64.7	1	
+650	10/13/13	portsmouth	VA	36.8	-76.4	1	
+651	10/13/13	Pittsburgh	PA	40.4	-80	1	
+652	10/13/13	ann arbor	MI	42.3	-83.8	5	
+653	10/13/13	Wynnewood	PA	40	-75.3	1	
+654	10/12/13	Waterford	MI	42.6	-83.4	1	
+655	10/12/13	BURLINGTON	CT	41.8	-73	1	
+656	10/12/13	Kerrville	TX	30	-99.1	1	
+657	10/12/13	Kerrville	TX	30	-99.1	1	
+658	10/12/13	Indianapolis	IN	39.9	-86.2	1	
+659	10/12/13	Indianapolis	IN	39.9	-86.2	1	
+660	10/12/13	Champaign	IL	40.1	-88.2	2	
+661	10/12/13	lasalle	ON	42.2	-83.1	1	
+662	10/12/13	pooler	GA	32.1	-81.3	2	
+663	10/12/13	Cape Charles.	VA	39	-76.7	2	
+664	10/12/13	Vienna	VA	38.9	-77.3	1	
+665	10/12/13	Murfreesboro	TN	35.9	-86.4	1	
+666	10/12/13	Murfreesboro	TN	35.9	-86.4	1	
+667	10/12/13	Murfreesboro	TN	35.9	-86.4	2	
+668	10/12/13	Indianapolis	IN	39.9	-86.3	1	
+669	10/12/13	Plains	GA	32	-84.4	2	
+670	10/12/13	Gainesville	GA	34.3	-83.8	2	
+671	10/12/13	Maidstone	ON	42.2	-82.9	3	
+672	10/12/13	Essex	ON	42.2	-82.8	1	
+673	10/12/13	Bertram	TX	30.7	-98	3	
+674	10/12/13	Goshen	IN	41.6	-85.8	1	
+675	10/12/13	Harrisville	MI	44.6	-83.4	1	
+676	10/12/13	Hartley	IA	43.2	-95.5	2	
+677	10/12/13	Gualala	CA	38.8	-123.4	1	
+678	10/12/13	Hawley	PA	41.5	-75.2	1	
+679	10/12/13	Spring Branch	TX	29.9	-98.4	1	
+680	10/12/13	Bushnell	SD	44.3	-96.6	1	
+681	10/12/13	Kenton	OH	40.6	-83.6	2	
+682	10/12/13	Baltimore	MD	39.3	-76.6	1	
+683	10/12/13	Laurel Springs	NC	36.4	-81.3	1	
+684	10/12/13	Herndon	VA	39	-77.4	1	
+685	10/12/13	Bandera	TX	29.7	-99.1	23	
+686	10/12/13	Kerrville	TX	30	-99.1	18	
+687	10/12/13	Clarkston	MI	42.7	-83.4	8	
+688	10/12/13	Lawrence	KS	39	-95.2	1	
+689	10/12/13	Middlebury	VT	44	-73.2	1	
+690	10/12/13	Waring	TX	29.9	-98.8	1	
+691	10/12/13	Mio	MI	44.7	-84.1	2	
+692	10/12/13	Memphis	TN	35.2	-90	3	
+693	10/12/13	Findlay	OH	41	-83.7	1	
+694	10/12/13	Cameron	ON	44.4	-78.8	1	
+695	10/12/13	Pipe Creek	TX	29.7	-98.9	1	
+696	10/12/13	N. MYRTLE BEACH	SC	36.1	-78.2	1	
+697	10/12/13	Austin	TX	30.2	-97.7	3	
+698	10/12/13	McCordsville	IN	39.9	-85.9	4	
+699	10/12/13	East Greenville	PA	40.4	-75.5	2	
+700	10/12/13	Tobermory	ON	45.3	-81.7	3	
+701	10/12/13	Gore	OK	35.5	-95.1	4	
+702	10/12/13	Dalton	GA	34.8	-84.9	1	
+703	10/12/13	Chatsworth	ON	44.5	-80.9	1	
+704	10/12/13	Cleveland	OH	41.5	-81.7	1	
+705	10/12/13	Joplin	MO	37.1	-94.5	5	
+706	10/12/13	Sunbury	PA	40.8	-76.8	1	
+707	10/12/13	Poughkeepsie	NY	41.7	-73.9	1	
+708	10/12/13	Pennsburg	PA	40.4	-75.5	1	
+709	10/12/13	Douglassville	TX	33.2	-94.4	2	
+710	10/12/13	Evans	GA	33.6	-82.2	1	
+711	10/11/13	St Jacobs	ON	43.5	-80.6	1	
+712	10/11/13	Moline	IL	41.5	-90.5	1	
+713	10/11/13	Raytown	MO	39	-94.5	5	
+714	10/11/13	Cumming	GA	34.2	-84.2	1	
+715	10/11/13	Goshen	IN	41.6	-85.8	1	
+716	10/11/13	Lansing	IL	41.6	-87.5	1	
+717	10/11/13	Murfreesboro	TN	35.9	-86.4	1	
+718	10/11/13	Murfreesboro	TN	35.9	-86.4	1	
+719	10/11/13	Murfreesboro	TN	35.9	-86.4	1	
+720	10/11/13	Murfreesboro	TN	35.9	-86.4	1	
+721	10/11/13	Goshen	IN	41.6	-85.8	2	
+722	10/11/13	Fairport	MI	45.6	-86.7	1	
+723	10/11/13	Champaign	IL	40.1	-88.2	3	
+724	10/11/13	Colonie	NY	42.7	-73.8	1	
+725	10/11/13	Clarkston	MI	42.7	-83.4	2	
+726	10/11/13	Dallas	TX	32.8	-96.8	18	
+727	10/11/13	Springfield	MO	37.2	-93.3	6	
+728	10/11/13	Benton	AR	34.6	-92.7	30	
+729	10/11/13	Champaign	IL	40.1	-88.2	1	
+730	10/11/13	Graham	NC	36	-79.3	1	
+731	10/11/13	Springfield	MO	37.2	-93.3	17	
+732	10/11/13	Leamington	ON	42.1	-82.6	5	
+733	10/11/13	Hawley	PA	41.5	-75.2	1	
+734	10/11/13	Garland	TX	32.9	-96.6	20	
+735	10/11/13	Garland	TX	32.9	-96.6	1	
+736	10/11/13	Atchison	KS	39.5	-95.1	15	
+737	10/11/13	Dallas	TX	32.8	-96.8	10	
+738	10/11/13	Waterford	MI	42.6	-83.4	4	
+739	10/11/13	McCordsville	IN	39.9	-85.9	2	
+740	10/11/13	Fishers	IN	40	-86	1	
+741	10/11/13	Naples	FL	26.1	-81.8	2	
+742	10/11/13	Moline	IL	41.5	-90.5	1	
+743	10/11/13	Moline	IL	41.5	-90.5	1	
+744	10/11/13	Horseshoe Bay	TX	30.5	-98.4	2	
+745	10/11/13	Woolrich	PA	41.2	-77.3	4	
+746	10/11/13	bradenton	FL	27.4	-82.5	2	
+747	10/11/13	Bandera	TX	29.7	-99.1	4	
+748	10/11/13	Dalworthington Gardens	TX	32.7	-97.2	5	
+749	10/11/13	Evergreen Park	IL	41.7	-87.7	1	
+750	10/11/13	Fenelon Falls	ON	44.5	-78.8	1	
+751	10/11/13	Nowata	OK	36.7	-95.6	5	
+752	10/11/13	Nowata	OK	36.7	-95.6	14	
+753	10/11/13	Lawrence	KS	39	-95.2	20	
+754	10/11/13	Allen	TX	33.1	-96.6	1	
+755	10/11/13	Clifford	ND	47.4	-97.4	1	
+756	10/11/13	Tucson	AZ	32.2	-111	3	
+757	10/11/13	Evans	GA	33.6	-82.2	2	
+758	10/10/13	Bennington	VT	42.9	-73.1	1	
+759	10/10/13	Fair Oaks Ranch	TX	29.7	-98.6	1	
+760	10/10/13	Picture Rocks	PA	41.3	-76.7	3	
+761	10/10/13	New Douglas	IL	39	-89.7	1	
+762	10/10/13	Williamsburg	PA	40.4	-78.2	4	
+763	10/10/13	Toronto	ON	43.7	-79.4	1	
+764	10/10/13	Fishers	IN	39.9	-86.1	1	
+765	10/10/13	Bedford	TX	32.9	-97.1	5	
+766	10/10/13	Central Lake	MI	45.1	-85.3	1	
+767	10/10/13	Dallas	TX	32.8	-96.8	9	
+768	10/10/13	Springfield	MO	37.2	-93.3	4	
+769	10/10/13	Lawrence	KS	39	-95.2	28	
+770	10/10/13	Ballwin	MO	38.6	-90.6	3	
+771	10/10/13	brownsburg	IN	39.9	-86.4	3	
+772	10/10/13	Murfreesboro	TN	35.9	-86.4	1	
+773	10/10/13	Murfreesboro	TN	35.9	-86.4	6	
+774	10/10/13	Macomb	MI	42.6	-82.9	1	
+775	10/10/13	novar	ON	45.5	-79.3	1	
+776	10/10/13	Rogers	AR	36.4	-94	1	
+777	10/10/13	Tupper Lake	NY	44.2	-74.4	1	
+778	10/10/13	Plano	TX	33.1	-96.7	7	
+779	10/10/13	PIckett	WI	43.9	-88.7	1	
+780	10/10/13	Clarkston	MI	42.7	-83.4	4	
+781	10/10/13	Alton	IL	38.9	-90.1	1	
+782	10/10/13	Lenexa	KS	39	-94.7	12	
+783	10/10/13	Lansing	IL	41.6	-87.5	1	
+784	10/10/13	Caledon	ON	43.9	-79.9	1	
+785	10/10/13	Dallas	TX	32.8	-96.8	4	
+786	10/10/13	Plains	GA	32	-84.4	1	
+787	10/10/13	Clemson	SC	34.7	-82.8	6	
+788	10/10/13	bradenton	FL	27.4	-82.5	1	
+789	10/10/13	Houston	TX	29.8	-95.4	5	
+790	10/10/13	Smithfield	KY	38.4	-85.3	1	
+791	10/10/13	Garland	TX	32.9	-96.6	15	
+792	10/10/13	Kress	TX	34.4	-101.7	2	
+793	10/10/13	Fayetteville	AR	36	-94.1	1	
+794	10/10/13	Statham	GA	34	-83.6	1	
+795	10/10/13	Burton	OH	41.4	-81.2	2	
+796	10/10/13	Toronto	ON	43.7	-79.4	2	
+797	10/10/13	Canton	GA	34.2	-84.5	1	
+798	10/10/13	Ft. Leavenworth	KS	39.1	-95	3	
+799	10/10/13	Horseshoe Bay	TX	30.5	-98.4	3	
+800	10/10/13	Toronto	ON	43.7	-79.4	1	
+801	10/10/13	Pipe Creek	TX	29.7	-98.9	8	
+802	10/10/13	SPRINGDALE	AR	36.2	-94.2	6	
+803	10/10/13	Austin	TX	30.2	-97.7	2	
+804	10/10/13	Bartlett	TN	35.2	-89.9	2	
+805	10/10/13	Hartley	IA	43.2	-95.5	4	
+806	10/10/13	Gualala	CA	38.8	-123.4	1	
+807	10/10/13	Piqua	OH	40.2	-84.3	1	
+808	10/10/13	Shawano	WI	44.8	-88.6	2	
+809	10/10/13	Whitby	ON	43.9	-78.9	1	
+810	10/10/13	New Carlisle	OH	40	-84	1	
+811	10/10/13	New Carlisle	OH	40	-84	1	
+812	10/10/13	Austin	TX	30.2	-97.7	3	
+813	10/10/13	Allen	TX	33.1	-96.6	25	
+814	10/10/13	Garland	TX	32.9	-96.6	1	
+815	10/10/13	Vian	OK	35.5	-95	1	
+816	10/10/13	Vian	OK	35.5	-95	1	
+817	10/09/13	Cypress	TX	30	-95.7	1	
+818	10/09/13	Copemish	MI	44.4	-85.9	1	
+819	10/09/13	Austin	TX	30.2	-97.7	1	
+820	10/09/13	Kokomo	IN	40.5	-86.2	1	
+821	10/09/13	Hawthorn Woods	IL	42.2	-88.1	1	
+822	10/09/13	Bridgeview	IL	41.8	-87.8	2	
+823	10/09/13	Scarborough	ON	43.8	-79.3	7	
+824	10/09/13	Grass lake	MI	42.3	-84.2	1	
+825	10/09/13	Ajax	ON	43.9	-79	1	
+826	10/09/13	Murfreesboro	TN	35.9	-86.4	1	
+827	10/09/13	Murfreesboro	TN	35.9	-86.4	1	
+828	10/09/13	Minneapolis	MN	45	-93.3	1	
+829	10/09/13	Lawrence	KS	39	-95.2	20	
+830	10/09/13	Bloomington	MN	44.8	-93.3	1	
+831	10/09/13	Gulfport	FL	27.7	-82.7	2	
+832	10/09/13	McKinney	TX	33.2	-96.6	36	
+833	10/09/13	Carrollton	TX	33	-96.9	5	
+834	10/09/13	lasalle	ON	42.2	-83.1	2	
+835	10/09/13	Champaign	IL	40.1	-88.2	1	
+836	10/09/13	Muskego	WI	42.9	-88.1	2	
+837	10/09/13	Fair Oaks Ranch	TX	29.7	-98.6	1	
+838	10/09/13	Goshen	IN	41.6	-85.8	1	
+839	10/09/13	Clarkston	MI	42.7	-83.4	2	
+840	10/09/13	Springfield	MO	37.2	-93.3	3	
+841	10/09/13	San Antonio	TX	29.4	-98.5	1	
+842	10/09/13	Waterford	MI	42.6	-83.4	2	
+843	10/09/13	lake dallas	TX	33.1	-97	4	
+844	10/09/13	Homeworth	OH	40.9	-81.1	1	
+845	10/09/13	Eureka Springs	AR	36.4	-93.7	1	
+846	10/09/13	Freeport	TX	29	-95.3	10	
+847	10/09/13	Two Rivers	WI	44.2	-87.6	2	
+848	10/09/13	Sauble Beach	ON	44	-79.5	1	
+849	10/09/13	Minneapolis	MN	45	-93.3	1	
+850	10/09/13	Santa Fe	NM	35.8	-106	1	
+851	10/09/13	Leamington	ON	42.1	-82.6	12	
+852	10/09/13	Westerly	RI	41.4	-71.8	2	
+853	10/09/13	Menomonie	WI	44.8	-91.9	1	
+854	10/09/13	Dallas	TX	32.9	-96.8	1	
+855	10/09/13	New Richmond	WI	45.1	-92.5	1	
+856	10/09/13	Hartley	IA	43.2	-95.5	5	
+857	10/09/13	Hesston	KS	38.1	-97.5	1	
+858	10/09/13	Garland	TX	32.9	-96.6	15	
+859	10/09/13	Indianapolis	IN	39.8	-86.3	1	
+860	10/09/13	Dallas	TX	32.8	-96.8	6	
+861	10/09/13	Lake Elmo	MN	45	-92.9	1	
+862	10/09/13	McCordsville	IN	39.9	-85.9	1	
+863	10/09/13	Indianapolis	IN	39.8	-86.1	1	
+864	10/09/13	Detroit Lakes	MN	47	-95.7	1	
+865	10/09/13	Harrisville	MI	44.6	-83.4	1	
+866	10/09/13	Tulsa	OK	36.1	-96	1	
+867	10/09/13	ClarkLake	MI	42.1	-84.4	1	
+868	10/09/13	Pittsford	MI	41.9	-84.4	3	
+869	10/09/13	Austin	TX	30.2	-97.7	3	
+870	10/09/13	Gerald	MO	38.3	-91.3	1	
+871	10/09/13	North Platte	NE	41.1	-100.8	1	
+872	10/09/13	Montgomery	AL	32.4	-86.3	1	
+873	10/09/13	Dubuque	IA	42.5	-90.7	2	
+874	10/09/13	fayetteville	AR	36	-94.1	10	
+875	10/09/13	Nashville	TN	36.2	-86.8	2	
+876	10/09/13	Charlotte	NC	35.2	-80.8	5	
+877	10/09/13	Lexington	KY	38	-84.5	1	
+878	10/09/13	Grand Junction	CO	39.1	-108.5	1	
+879	10/09/13	Toronto	ON	43.7	-79.4	5	
+880	10/09/13	Greensboro	NC	36.1	-79.8	1	
+881	10/09/13	Waxahachie	TX	32.3	-96.8	2	
+882	10/09/13	Horseshoe Bay	TX	30.5	-98.4	1	
+883	10/09/13	Dyer	IN	41.5	-87.5	1	
+884	10/09/13	Moline	IL	41.5	-90.5	1	
+885	10/09/13	Claremore	OK	36.3	-95.6	3	
+886	10/09/13	Joplin	MO	37.1	-94.5	12	
+887	10/09/13	Caledon	ON	43.9	-79.9	1	
+888	10/09/13	San Antonio	TX	29.5	-98.5	1	
+889	10/09/13	Memphis	TN	35	-89.9	30	
+890	10/09/13	Ann Arbor	MI	42.3	-83.8	1	
+891	10/09/13	Menomonie	WI	44.8	-91.9	1	
+892	10/09/13	Pipe Creek	TX	29.7	-98.9	1	
+893	10/09/13	Grayling	MI	44.7	-84.6	2	
+894	10/09/13	Glenelg	MD	39.3	-77	2	
+895	10/09/13	Evergreen Park	IL	41.7	-87.7	3	
+896	10/09/13	Shallow Lake	ON	49.6	-83.3	1	
+897	10/09/13	Knoxville	TN	35.9	-84	1	
+898	10/09/13	Temecula	CA	33.5	-117.2	1	
+899	10/09/13	Boerne	TX	29.8	-98.8	12	
+900	10/09/13	Fairmont	MN	43.6	-94.4	3	
+901	10/09/13	Round Lake	NY	42.9	-73.8	1	
+902	10/09/13	Keysville	VA	37	-78.5	1	
+903	10/09/13	Scarborough	ON	43.8	-79.3	6	
+904	10/09/13	Omaha	NE	41.3	-95.9	9	
+905	10/08/13	Onley	VA	37.7	-75.7	4	
+906	10/08/13	Waco	TX	31.6	-97.1	10	
+907	10/08/13	columbia	MO	38.9	-92.2	2	
+908	10/08/13	Fredericksburg	TX	30.3	-98.9	3	
+909	10/08/13	lasalle	ON	42.2	-83.1	2	
+910	10/08/13	Austin	TX	30.2	-97.7	5	
+911	10/08/13	Round Rock	TX	30.5	-97.7	12	
+912	10/08/13	Corinth	TX	33.2	-97.1	1	
+913	10/08/13	Fort Wayne	IN	41.1	-85.2	1	
+914	10/08/13	Evergreen Park	IL	41.7	-87.7	3	
+915	10/08/13	Murfreesboro	TN	35.9	-86.4	1	
+916	10/08/13	Murfreesboro	TN	35.9	-86.4	1	
+917	10/08/13	Harrisville	MI	44.6	-83.4	9	
+918	10/08/13	Stratford	ON	43.4	-81	1	
+919	10/08/13	Dallas	TX	32.8	-96.8	16	
+920	10/08/13	Findlay	OH	41	-83.7	1	
+921	10/08/13	Salado	TX	30.9	-97.6	1	
+922	10/08/13	Tarpley	TX	29.7	-99.4	27	
+923	10/08/13	Essex	ON	42.2	-82.8	4	
+924	10/08/13	Flandreau	SD	44.1	-96.7	4	
+925	10/08/13	Fort Worth	TX	32.8	-97.5	6	
+926	10/08/13	Hawthorn Woods	IL	42.2	-88.1	2	
+927	10/08/13	Champaign	IL	40.1	-88.2	1	
+928	10/08/13	Las Vegas	NV	36.1	-115.3	3	
+929	10/08/13	Grapevine	TX	32.9	-97.1	8	
+930	10/08/13	Austin	TX	30.2	-97.7	3	
+931	10/08/13	Garland	TX	32.9	-96.6	12	
+932	10/08/13	Waterford	MI	42.6	-83.4	1	
+933	10/08/13	Westland	MI	42.3	-83.4	3	
+934	10/08/13	grand prairie	TX	32.7	-97	9	
+935	10/08/13	SCOTIA	NY	42.9	-74	1	
+936	10/08/13	Burleson	TX	32.5	-97.3	3	
+937	10/08/13	Saint Louis	MO	38.6	-90.2	4	
+938	10/08/13	Austin	TX	30.2	-97.7	1	
+939	10/08/13	Kenton	OH	40.6	-83.6	4	
+940	10/08/13	Clarkston	MI	42.7	-83.4	6	
+941	10/08/13	Wellsboro	PA	41.7	-77.4	1	
+942	10/08/13	Sauk Centre	MN	45.7	-95	1	
+943	10/08/13	Stratford	ON	43.4	-81	3	
+944	10/08/13	Vian	OK	35.5	-95	1	
+945	10/08/13	Asheboro	NC	35.6	-79.8	1	
+946	10/08/13	Toronto	ON	43.7	-79.4	1	
+947	10/08/13	Midland	MI	43.6	-84.3	1	
+948	10/08/13	Hattiesburg	MS	31.2	-89.3	1	
+949	10/08/13	Lawrence	KS	39	-95.2	12	
+950	10/08/13	Fremont	OH	41.4	-83.1	1	
+951	10/08/13	Woodstock	GA	34.1	-84.5	1	
+952	10/08/13	West Alton	MO	38.9	-90.2	1	
+953	10/08/13	Loveland	OH	39.3	-84.2	1	
+954	10/08/13	Wapwallopen	PA	41.1	-76.1	1	
+955	10/08/13	East Grand Rapids	MI	42.9	-85.6	1	
+956	10/08/13	Surf City	NJ	39.7	-74.2	2	
+957	10/08/13	West Hills	CA	34.2	-118.6	1	
+958	10/08/13	Brookfield	WI	43.1	-88.1	3	
+959	10/08/13	Burnet	TX	30.8	-98.3	1	
+960	10/08/13	Chicago	IL	41.9	-87.6	3	
+961	10/08/13	Westerville	OH	40.1	-82.9	1	
+962	10/08/13	Delta	CO	38.7	-108.2	1	
+963	10/08/13	Pennsburg	PA	40.4	-75.5	1	
+964	10/08/13	Milwaukee	WI	43.1	-87.9	3	
+965	10/08/13	Wyoming	MI	42.9	-85.7	1	
+966	10/08/13	LaGrange	KY	38.4	-85.3	2	
+967	10/08/13	Junction	TX	30.4	-99.6	1	
+968	10/08/13	Grayling	MI	44.7	-84.6	1	
+969	10/08/13	Linares	NL	24.9	-99.6	2	
+970	10/08/13	Pittsburgh	PA	40.5	-80	1	
+971	10/08/13	Linares	NL	24.9	-99.6	2	
+972	10/08/13	Vian	OK	35.5	-95	5	
+973	10/08/13	sylvania	OH	41.7	-83.7	2	
+974	10/08/13	McFarland	WI	43	-89.3	4	
+975	10/07/13	Lawrence	KS	39	-95.2	25	
+976	10/07/13	Corsicana	TX	32.1	-96.4	5	
+977	10/07/13	Mexico	NY	43.5	-76.2	11	
+978	10/07/13	Lookout Mountain	TN	35	-85.4	3	
+979	10/07/13	Old Greenwich	CT	41	-73.6	1	
+980	10/07/13	Cape May Point	NJ	38.9	-75	1	
+981	10/07/13	Bristol	VT	44.1	-73	1	
+982	10/07/13	Austin	TX	30.2	-97.7	1	
+983	10/07/13	Palatine	IL	42.1	-88.1	1	
+984	10/07/13	Flower Mound	TX	33	-97.1	1	
+985	10/07/13	Murfreesboro	TN	35.9	-86.4	4	
+986	10/07/13	Murfreesboro	TN	35.9	-86.4	3	
+987	10/07/13	Alba	TX	32.8	-95.6	6	
+988	10/07/13	Muskogee	OK	35.7	-95.3	1	
+989	10/07/13	Dallas	TX	32.8	-96.8	6	
+990	10/07/13	Plano	TX	33.1	-96.7	10	
+991	10/07/13	Harrisville	MI	44.6	-83.4	2	
+992	10/07/13	Highland Village	TX	33.1	-97	1	
+993	10/07/13	Godfrey	IL	39	-90.2	1	
+994	10/07/13	Comfort	TX	30	-98.7	5	
+995	10/07/13	Bergheim	TX	29.8	-98.6	2	
+996	10/07/13	Boerne	TX	29.8	-98.8	3	
+997	10/07/13	Garden Grove	CA	33.8	-117.9	2	
+998	10/07/13	White Plains	NY	41	-73.8	1	
+999	10/07/13	Sibley	IA	43.4	-95.7	1	
+1000	10/07/13	Blue Grass	IA	41.5	-90.7	1	
+1001	10/07/13	melrose	NY	42.9	-73.6	1	
+1002	10/07/13	Plano	TX	33.1	-96.7	20	
+1003	10/07/13	San Antonio	TX	29.5	-98.5	1	
+1004	10/07/13	Pewaukee	WI	43.1	-88.3	1	
+1005	10/07/13	Fair Oaks Ranch	TX	29.7	-98.6	2	
+1006	10/07/13	Keller	TX	32.9	-97.3	2	
+1007	10/07/13	Joplin	MO	37.1	-94.5	24	
+1008	10/07/13	Detroit Lakes	MN	47	-95.7	1	
+1009	10/07/13	Fishers	IN	40	-86	1	
+1010	10/07/13	Helotes	TX	29.6	-98.7	1	
+1011	10/07/13	Atchison	KS	39.5	-95.1	25	
+1012	10/07/13	North Massapequa	NY	40.7	-73.5	2	
+1013	10/07/13	Marble Falls	TX	30.6	-98.2	2	
+1014	10/07/13	Austin	TX	30.2	-97.7	1	
+1015	10/07/13	king george	VA	38.3	-77.1	1	
+1016	10/07/13	Milan	MO	40.2	-93.2	1	
+1017	10/07/13	BETHLEHEM	PA	40.6	-75.4	2	
+1018	10/07/13	San Marcial	NM	33.7	-107.1	1	
+1019	10/07/13	Winston	NM	33.3	-107.8	1	
+1020	10/07/13	Janesville	WI	42.7	-89.1	1	
+1021	10/07/13	Chatham	NJ	40.7	-74.4	1	
+1022	10/07/13	Saline	MI	42.2	-83.8	1	
+1023	10/07/13	Pennsburg	PA	40.4	-75.5	1	
+1024	10/07/13	MÃºzquiz	COA	27.9	-101.5	4	
+1025	10/07/13	Gore	OK	35.5	-95.1	4	
+1026	10/06/13	Ballwin	MO	38.6	-90.6	1	
+1027	10/06/13	Murfreesboro	TN	35.9	-86.4	1	
+1028	10/06/13	Murfreesboro	TN	35.9	-86.4	1	
+1029	10/06/13	Dover	DE	39.1	-75.5	8	
+1030	10/06/13	Haymarket	VA	38.9	-77.6	1	
+1031	10/06/13	Weston	CT	41.2	-73.4	1	
+1032	10/06/13	Champaign	IL	40.1	-88.2	1	
+1033	10/06/13	Asbury Park	NJ	40.2	-74	1	
+1034	10/06/13	Russellville	AR	35.3	-93.1	1	
+1035	10/06/13	Murfreesboro	TN	35.9	-86.4	1	
+1036	10/06/13	Murfreesboro	TN	35.9	-86.4	2	
+1037	10/06/13	Murfreesboro	TN	35.9	-86.4	1	
+1038	10/06/13	Joplin	MO	37.1	-94.5	1	
+1039	10/06/13	Glen Mills	PA	39.9	-75.5	1	
+1040	10/06/13	Richardson	TX	33	-96.7	1	
+1041	10/06/13	Eagle	ON	42.6	-81.6	4	
+1042	10/06/13	Eagle	ON	42.6	-81.6	5	
+1043	10/06/13	Chincoteague NWR	VA	39.2	-77.3	1	
+1044	10/06/13	Flower Mound	TX	33	-97.1	8	
+1045	10/06/13	Highland Village	TX	33.1	-97	20	
+1046	10/06/13	Westland	MI	42.3	-83.4	1	
+1047	10/06/13	Pennsburg	PA	40.4	-75.5	1	
+1048	10/06/13	Ruckersville	VA	38.2	-78.4	1	
+1049	10/06/13	Herndon	VA	39	-77.4	4	
+1050	10/06/13	Nowata	OK	36.7	-95.6	5	
+1051	10/06/13	Annapolis	MD	39	-76.6	3	
+1052	10/06/13	Gates	NC	36.5	-76.8	1	
+1053	10/06/13	Salisbury	NC	35.7	-80.5	1	
+1054	10/06/13	Big Rock	IL	41.8	-88.5	1	
+1055	10/06/13	Wynnewood	PA	40	-75.3	1	
+1056	10/06/13	Tarpley	TX	29.7	-99.4	1	
+1057	10/06/13	Lookout Mountain	TN	35	-85.4	4	
+1058	10/06/13	Mocksville	NC	35.9	-80.5	1	
+1059	10/06/13	Claremore	OK	36.3	-95.6	3	
+1060	10/06/13	Carbondale	IL	37.7	-89.2	1	
+1061	10/06/13	Sugar Land	TX	29.6	-95.6	1	
+1062	10/06/13	Anchor Bay	CA	38.8	-123.6	1	
+1063	10/06/13	Connellsville	PA	40	-79.6	1	
+1064	10/06/13	MT. PLEASANT	PA	40.2	-79.5	30	
+1065	10/06/13	Wolfe City	TX	33.3	-96.1	3	
+1066	10/06/13	Floresville	TX	29.2	-98.2	6	
+1067	10/06/13	Ann Arbor	MI	42.3	-83.8	1	
+1068	10/06/13	Marble Falls	TX	30.6	-98.2	1	
+1069	10/06/13	Kingstree	SC	33.7	-79.8	1	
+1070	10/06/13	Ozark	MO	37	-93.2	1	
+1071	10/06/13	Columbia	MD	39.2	-76.9	2	
+1072	10/05/13	Cincinnati	OH	39.1	-84.5	1	
+1073	10/05/13	Beamsville	ON	43.2	-79.5	2	
+1074	10/05/13	Champaign	IL	40.1	-88.2	4	
+1075	10/05/13	Herndon	VA	39	-77.4	2	
+1076	10/05/13	Westminster	MD	39.5	-77	1	
+1077	10/05/13	lathrup village	MI	42.5	-83.2	1	
+1078	10/05/13	Fripp Island	SC	32.4	-80.8	1	
+1079	10/05/13	Roaring Gap	NC	36.4	-81	2	
+1080	10/05/13	Allenton	WI	43.5	-88.4	2	
+1081	10/05/13	Clarkston	MI	42.7	-83.4	5	
+1082	10/05/13	Lancaster	PA	40.1	-76.3	4	
+1083	10/05/13	Murfreesboro	TN	35.9	-86.4	6	
+1084	10/05/13	Murfreesboro	TN	35.9	-86.4	2	
+1085	10/05/13	Murfreesboro	TN	35.9	-86.4	4	
+1086	10/05/13	Carbondale	IL	37.7	-89.2	1	
+1087	10/05/13	Cedar Rapids	IA	42	-91.7	1	
+1088	10/05/13	Gaithersburg	MD	39.1	-77.2	1	
+1089	10/05/13	Clarkston	MI	42.7	-83.4	2	
+1090	10/05/13	Tuckahoe	NJ	39.3	-74.8	1	
+1091	10/05/13	Portage	MI	42.2	-85.6	1	
+1092	10/05/13	Holt	MI	42.6	-84.5	4	
+1093	10/05/13	Bartlesville	OK	36.7	-96.1	1	
+1094	10/05/13	Bronx	NY	40.8	-73.9	2	
+1095	10/05/13	summerfield	NC	36.2	-79.9	1	
+1096	10/05/13	Greensburg	PA	40.4	-79.5	2	
+1097	10/05/13	Bakersville	NC	36.1	-82.2	1	
+1098	10/05/13	West LIberty	IA	41.6	-91.3	2	
+1099	10/05/13	Wynnewood	PA	40	-75.3	1	
+1100	10/05/13	Wapwallopen	PA	41.1	-76.1	3	
+1101	10/05/13	Dover	DE	39.1	-75.5	20	
+1102	10/05/13	Baltimore	MD	39.3	-76.5	1	
+1103	10/05/13	Westland	MI	42.3	-83.4	1	
+1104	10/05/13	Belleville	IL	38.5	-90	1	
+1105	10/05/13	Brookfield	CT	41.5	-73.4	1	
+1106	10/05/13	McCordsville	IN	39.9	-85.9	4	
+1107	10/05/13	Kenton	OH	40.6	-83.6	3	
+1108	10/05/13	Mahwah	NJ	41.1	-74.2	1	
+1109	10/05/13	Buchanan	VA	37.5	-79.7	2	
+1110	10/05/13	Camden	ME	44.2	-69.1	1	
+1111	10/05/13	Elgin	AZ	31.6	-110.5	1	
+1112	10/05/13	melrose	NY	42.9	-73.6	1	
+1113	10/05/13	Huntington Beach	CA	33.7	-118	15	
+1114	10/05/13	Graham	NC	36	-79.3	1	
+1115	10/05/13	Woodstock	GA	34.1	-84.5	1	
+1116	10/05/13	Connellsville	PA	40	-79.6	8	
+1117	10/05/13	New Carlisle	OH	40	-84	1	
+1118	10/05/13	Kirkwood	MO	38.6	-90.4	2	
+1119	10/05/13	Wellsboro	PA	41.7	-77.4	1	
+1120	10/05/13	The Sea Ranch	CA	38.7	-123.5	1	
+1121	10/05/13	Jaumave	TAM	23.4	-99.4	10	
+1122	10/05/13	Los Pinolillos	NL	25.6	-100.1	1	
+1123	10/05/13	Johnsville	SC	33.1	-80.8	4	
+1124	10/05/13	Cranberry	PA	41.3	-79.7	6	
+1125	10/05/13	Jaumave	TAM	23.4	-99.4	10	
+1126	10/05/13	Santa Fe	NM	35.8	-106	1	
+1127	10/05/13	Spring	TX	30.1	-95.4	5	
+1128	10/05/13	Brooklyn	NY	40.7	-74	1	
+1129	10/05/13	LaVergne	TN	36.2	-86.8	1	
+1130	10/04/13	Minden	ON	44.9	-78.7	1	
+1131	10/04/13	Glenwood	IA	41	-95.7	2	
+1132	10/04/13	Savannah	GA	32.1	-81.1	7	
+1133	10/04/13	Greensboro	NC	36.1	-79.8	1	
+1134	10/04/13	Lancaster	PA	40.1	-76.3	1	
+1135	10/04/13	East Grand Rapids	MI	42.9	-85.6	1	
+1136	10/04/13	lasalle	ON	42.2	-83.1	2	
+1137	10/04/13	East Marion	NY	41.1	-72.3	1	
+1138	10/04/13	Englishtown	NJ	40.3	-74.4	1	
+1139	10/04/13	Woodbridge	VA	38.6	-77.3	2	
+1140	10/04/13	Quakertown	PA	40.5	-75.3	1	
+1141	10/04/13	Bronx	NY	40.8	-73.9	1	
+1142	10/04/13	Springfield	MO	37.2	-93.3	1	
+1143	10/04/13	Charleston	SC	32.8	-79.9	2	
+1144	10/04/13	Greensboro	NC	36.1	-79.8	1	
+1145	10/04/13	Yorkville	OH	40.2	-80.7	7	
+1146	10/04/13	Silver Spring	MD	39	-77	2	
+1147	10/04/13	Norman	OK	35.2	-97.5	10	
+1148	10/04/13	Tarpley	TX	29.7	-99.4	1	
+1149	10/04/13	Chattanooga	TN	35	-85.2	1	
+1150	10/04/13	Crofton	MD	39	-76.7	2	
+1151	10/04/13	Murfreesboro	TN	35.9	-86.4	5	
+1152	10/04/13	Cub Run	KY	37.3	-86.1	2	
+1153	10/04/13	Knox	PA	41.2	-79.5	1	
+1154	10/04/13	Murfreesboro	TN	35.9	-86.4	1	
+1155	10/04/13	Murfreesboro	TN	35.9	-86.4	1	
+1156	10/04/13	Clarkston	MI	42.7	-83.4	5	
+1157	10/04/13	Lawrence	KS	39	-95.2	20	
+1158	10/04/13	Linville	NC	36.1	-81.9	6	
+1159	10/04/13	Ellicott City	MD	39.3	-76.8	3	
+1160	10/04/13	Lehighton	PA	40.8	-75.7	2	
+1161	10/04/13	Herndon	VA	39	-77.4	1	
+1162	10/04/13	Cedar Rapids	IA	42	-91.7	1	
+1163	10/04/13	Collegedale	TN	35.1	-85.1	1	
+1164	10/04/13	richmond	VA	37.6	-77.5	1	
+1165	10/04/13	Pittsford	MI	41.9	-84.4	2	
+1166	10/04/13	Portsmouth	NH	43.1	-70.8	3	
+1167	10/04/13	Wichita Falls, TX	TX	33.8	-98.6	30	
+1168	10/04/13	Hawley	PA	41.5	-75.2	2	
+1169	10/04/13	Big Rock	IL	41.8	-88.5	1	
+1170	10/04/13	Fishers	IN	40	-86	1	
+1171	10/04/13	Harper Woods	MI	42.4	-82.9	1	
+1172	10/04/13	Lookout Mountain	TN	35	-85.4	4	
+1173	10/04/13	Stafford	VA	38.5	-77.4	1	
+1174	10/04/13	Welland	ON	43	-79.3	1	
+1175	10/04/13	Summertown	TN	35.4	-87.3	3	
+1176	10/04/13	Melbourne	IA	41.9	-93.1	7	
+1177	10/04/13	WHITEHALL	PA	40.7	-75.5	1	
+1178	10/04/13	Portage	MI	42.2	-85.6	1	
+1179	10/04/13	Bartlett	TN	35.2	-89.9	1	
+1180	10/04/13	Tulsa	OK	36.1	-96	2	
+1181	10/04/13	Spur	TX	33.5	-100.8	1	
+1182	10/04/13	Fairfield	CT	41.2	-73.3	1	
+1183	10/04/13	Wellsboro	PA	41.7	-77.4	1	
+1184	10/04/13	Apex	NC	35.7	-78.9	1	
+1185	10/04/13	Glen Mills	PA	39.9	-75.5	1	
+1186	10/04/13	Keller	TX	32.9	-97.3	1	
+1187	10/04/13	Westland	MI	42.3	-83.4	4	
+1188	10/04/13	Fair Oaks Ranch	TX	29.7	-98.6	1	
+1189	10/04/13	Charlotte	NC	35.2	-80.8	1	
+1190	10/04/13	McLean	VA	38.9	-77.2	1	
+1191	10/04/13	Pensacola Beach	FL	30.3	-87.1	15	
+1192	10/04/13	Linville Falls	NC	35.9	-81.9	6	
+1193	10/04/13	Piedras Negras	COA	28.7	-100.5	20	
+1194	10/03/13	Grand Rapids	MI	43	-85.7	1	
+1195	10/03/13	Eau Claire	WI	44.7	-91.5	1	
+1196	10/03/13	Spring Hill	FL	28.5	-82.6	10	
+1197	10/03/13	Sedgwick	ME	44.3	-68.6	3	
+1198	10/03/13	lasalle	ON	42.2	-83.1	1	
+1199	10/03/13	Guelph	ON	43.6	-80.3	1	
+1200	10/03/13	Viroqua	WI	43.5	-90.9	1	
+1201	10/03/13	WHITEHALL	PA	40.7	-75.5	1	
+1202	10/03/13	Larchmont	NY	40.9	-73.8	1	
+1203	10/03/13	ann arbor	MI	42.3	-83.8	1	
+1204	10/03/13	Dover	DE	39.1	-75.5	3	
+1205	10/03/13	Louisville	TN	35.8	-84	4	
+1206	10/03/13	Eldora	IA	42.3	-93.1	1	
+1207	10/03/13	Buncombe	IL	37.5	-89	1	
+1208	10/03/13	Herndon	VA	39	-77.4	1	
+1209	10/03/13	New Market	TN	36.1	-83.6	1	
+1210	10/03/13	Murfreesboro	TN	35.9	-86.4	4	
+1211	10/03/13	Murfreesboro	TN	35.9	-86.4	1	
+1212	10/03/13	Murfreesboro	TN	35.9	-86.4	1	
+1213	10/03/13	Larchmont	NY	40.9	-73.8	1	
+1214	10/03/13	Fuquay-Varina	NC	35.6	-78.8	2	
+1215	10/03/13	Cobden	IL	37.6	-89.2	1	
+1216	10/03/13	Cedar Rapids	IA	42	-91.7	1	
+1217	10/03/13	Bath	MI	42.8	-84.5	1	
+1218	10/03/13	Harrisville	MI	44.6	-83.4	1	
+1219	10/03/13	Austin	TX	30.2	-97.7	1	
+1220	10/03/13	Wilson	NC	35.7	-77.9	2	
+1221	10/03/13	New Hampton	NY	41.3	-74.5	1	
+1222	10/03/13	Holt	MI	42.6	-84.5	2	
+1223	10/03/13	Ruckersville	VA	38.2	-78.4	1	
+1224	10/03/13	Dallas	TX	32.8	-96.8	3	
+1225	10/03/13	Wynnewood	PA	40	-75.3	1	
+1226	10/03/13	Plandome	NY	40.8	-73.7	3	
+1227	10/03/13	Purcellville	VA	39.2	-77.7	2	
+1228	10/03/13	atlanta	GA	33.8	-84.4	1	
+1229	10/03/13	Plateau	NC	35.6	-81.4	1	
+1230	10/03/13	East Marion	NY	41.1	-72.3	3	
+1231	10/03/13	Alexandria Bay	NY	44.3	-75.9	2	
+1232	10/03/13	Coventry	RI	41.7	-71.6	1	
+1233	10/03/13	COBOURG	ON	44	-78.2	1	
+1234	10/03/13	Buncombe	IL	37.5	-89	1	
+1235	10/03/13	Annapolis	MO	37.4	-90.7	2	
+1236	10/03/13	melrose	NY	42.9	-73.6	1	
+1237	10/03/13	New Caney	TX	30.2	-95.2	4	
+1238	10/03/13	Wichita	KS	37.7	-97.3	3	
+1239	10/03/13	Silver Spring	MD	39	-77	1	
+1240	10/03/13	Toronto	ON	43.7	-79.4	1	
+1241	10/03/13	scotrun	PA	41.1	-75.3	3	
+1242	10/03/13	Bergheim	TX	29.8	-98.8	1	
+1243	10/03/13	Maidstone	ON	42.2	-82.9	1	
+1244	10/03/13	Cambridge	ON	43.4	-80.3	4	
+1245	10/03/13	Charleston	SC	32.8	-79.9	1	
+1246	10/03/13	Potter brook	PA	41.9	-77.6	2	
+1247	10/03/13	Sabinsville	PA	41.8	-77.5	1	
+1248	10/03/13	Copperas Cove	TX	31.3	-98.1	1	
+1249	10/03/13	Lookout Mountain	TN	35	-85.4	4	
+1250	10/03/13	Bandera	TX	29.7	-99.1	2	
+1251	10/03/13	Lenexa	KS	39	-94.7	1	
+1252	10/03/13	Lake Ozark	MO	38.2	-92.7	2	
+1253	10/03/13	Muskogee	OK	35.7	-95.3	3	
+1254	10/03/13	Burlington	ON	43.4	-79.8	1	
+1255	10/03/13	Kokomo	IN	40.5	-86.2	1	
+1256	10/03/13	Tawas	MI	44.3	-83.5	20	
+1257	10/03/13	Saint Louis	MO	38.6	-90.2	4	
+1258	10/03/13	San Diego	CA	32.7	-117.2	1	
+1259	10/03/13	Connellsville	PA	40	-79.6	4	
+1260	10/03/13	Ledgewood	NJ	40.9	-74.7	1	
+1261	10/03/13	Hendersonville	NC	35.3	-82.5	1	
+1262	10/03/13	Lex	KY	38.1	-84.5	1	
+1263	10/03/13	Gates	NC	36.5	-76.8	1	
+1264	10/03/13	Sabinas	COA	27.8	-101.1	6	
+1265	10/03/13	San NicolÃ¡s de los Garza	NL	25.8	-100.3	8	
+1266	10/03/13	Chalk Mountain	TX	32.1	-97.9	1	
+1267	10/03/13	Havertown	PA	40	-75.3	1	
+1268	10/02/13	Choctaw	OK	35.5	-97.3	15	
+1269	10/02/13	East Marion	NY	41.1	-72.3	2	
+1270	10/02/13	mountain top	PA	41.1	-76	3	
+1271	10/02/13	Springfield	MO	37.2	-93.3	2	
+1272	10/02/13	Dover	DE	39.1	-75.5	1	
+1273	10/02/13	Davis	CA	38.6	-121.8	1	
+1274	10/02/13	garrettsville	OH	41.3	-81.1	1	
+1275	10/02/13	Dover	DE	39.1	-75.5	2	
+1276	10/02/13	Minnetonka	MN	44.9	-93.5	1	
+1277	10/02/13	East Marion	NY	41.1	-72.3	6	
+1278	10/02/13	Waterford	MI	42.6	-83.4	1	
+1279	10/02/13	Crofton	MD	39	-76.7	3	
+1280	10/02/13	Cameron	ON	44.4	-78.8	1	
+1281	10/02/13	ashland	WI	46.5	-90.9	1	
+1282	10/02/13	Royal Oak	MI	42.5	-83.1	2	
+1283	10/02/13	Allen	TX	33.1	-96.6	1	
+1284	10/02/13	Harrisville	MI	44.6	-83.4	32	
+1285	10/02/13	Portsmouth	NH	43.1	-70.8	1	
+1286	10/02/13	Maryville	TN	35.7	-84.1	3	
+1287	10/02/13	Irapuato	GUA	20.7	-101.4	6	
+1288	10/02/13	Toronto	ON	43.7	-79.4	2	
+1289	10/02/13	Cypress	TX	30	-95.7	8	
+1290	10/02/13	Nekoosa	WI	44.3	-89.9	1	
+1291	10/02/13	Toronto	ON	43.7	-79.4	2	
+1292	10/02/13	Hampton	NJ	40.7	-75	2	
+1293	10/02/13	Leander	TX	30.6	-97.9	4	
+1294	10/02/13	Murfreesboro	TN	35.9	-86.4	1	
+1295	10/02/13	Saginaw	TX	32.9	-97.4	4	
+1296	10/02/13	Beloit	WI	42.5	-89.1	2	
+1297	10/02/13	Mount Cory	OH	40.9	-83.8	2	
+1298	10/02/13	West Tisbury	MA	41.4	-70.7	3	
+1299	10/02/13	Newtown	PA	40.3	-75	1	
+1300	10/02/13	Mishicot	WI	44.3	-87.6	1	
+1301	10/02/13	Lindale	TX	32.5	-95.4	1	
+1302	10/02/13	Connellsville	PA	40	-79.6	1	
+1303	10/02/13	Holly Springs	NC	35.6	-78.9	1	
+1304	10/02/13	Lancaster	PA	40.1	-76.3	2	
+1305	10/02/13	manitowoc	WI	44.1	-87.7	2	
+1306	10/02/13	Hawley	PA	41.5	-75.2	2	
+1307	10/02/13	Toronto	ON	43.7	-79.4	1	
+1308	10/02/13	hamilton	OH	39.4	-84.5	1	
+1309	10/02/13	Coon Rapids	IA	41.9	-94.7	2	
+1310	10/02/13	Allenton	WI	43.5	-88.4	1	
+1311	10/02/13	Ham Lake	MN	45.3	-93.3	1	
+1312	10/02/13	Pierpont	MO	38.9	-92.3	2	
+1313	10/02/13	Olean	NY	42.1	-78.4	1	
+1314	10/02/13	Westhoff	TX	29.1	-97.4	17	
+1315	10/02/13	Middle River	MD	39.4	-76.4	1	
+1316	10/02/13	Oden	MI	45.4	-84.8	7	
+1317	10/02/13	Onley	VA	37.7	-75.7	1	
+1318	10/02/13	Winnipeg	MB	49.9	-97.1	1	
+1319	10/02/13	Green Bay	WI	44.5	-88	2	
+1320	10/02/13	Indianapolis	IN	39.8	-86.1	1	
+1321	10/02/13	Onalaska	WI	43.9	-91.3	1	
+1322	10/02/13	La Crosse	WI	43.8	-91.2	1	
+1323	10/02/13	West Salem	WI	43.9	-91.1	1	
+1324	10/02/13	La Crosse	WI	43.8	-91.2	1	
+1325	10/02/13	La Crosse	WI	43.8	-91.2	1	
+1326	10/02/13	Wheatland	IN	38.7	-87.3	4	
+1327	10/02/13	Hanson	KY	37.4	-87.4	2	
+1328	10/02/13	Hawthorne	NJ	41	-74.2	2	
+1329	10/02/13	Wellsboro	PA	41.7	-77.4	1	
+1330	10/02/13	Ballwin	MO	38.6	-90.6	1	
+1331	10/02/13	Stafford	VA	38.5	-77.4	1	
+1332	10/02/13	columbus	OH	40.1	-83	1	
+1333	10/02/13	Newport	RI	41.5	-71.3	1	
+1334	10/02/13	Santa Fe	NM	35.8	-106	1	
+1335	10/02/13	Fort Worth	TX	32.8	-97.3	12	
+1336	10/02/13	WHITEHALL	PA	40.7	-75.5	1	
+1337	10/02/13	Larchmont	NY	40.9	-73.8	1	
+1338	10/02/13	ann arbor	MI	42.3	-83.8	1	
+1339	10/02/13	Ponder	TX	33.2	-97.3	15	
+1340	10/02/13	mequon	WI	43.2	-88	1	
+1341	10/02/13	Bushnell	SD	44.3	-96.6	1	
+1342	10/02/13	Robert Moses Beach, Babylon	NY	40.6	-73.3	6	
+1343	10/02/13	Uxbridge	ON	44.1	-79.2	1	
+1344	10/02/13	Fort Worth	TX	32.8	-97.3	7	
+1345	10/02/13	Lake Geneva	WI	42.6	-88.5	1	
+1346	10/02/13	West Hartford	CT	41.7	-72.7	1	
+1347	10/02/13	tawas	MI	42.3	-83.8	4	
+1348	10/02/13	Montclair	NJ	40.8	-74.2	1	
+1349	10/02/13	West Des Moines	IA	41.6	-93.7	10	
+1350	10/02/13	Dunvegan	ON	45.4	-74.8	1	
+1351	10/02/13	Dunvegan	ON	45.4	-74.8	1	
+1352	10/02/13	Lake Ozark	MO	38.2	-92.7	2	
+1353	10/02/13	Glen Mills	PA	39.9	-75.5	1	
+1354	10/02/13	Tawas	MI	44.3	-83.5	15	
+1355	10/02/13	Wichita	KS	37.7	-97.3	1	
+1356	10/02/13	Saltillo	COA	25.4	-101	1	
+1357	10/02/13	Monterrey	NL	25.7	-100.3	3	
+1358	10/02/13	Gore	OK	35.5	-95.1	2	
+1359	10/01/13	College Station	TX	30.6	-96.3	2	
+1360	10/01/13	Duluth	MN	47.1	-91.9	1	
+1361	10/01/13	Lancaster	PA	40.1	-76.3	3	
+1362	10/01/13	New Caney	TX	30.2	-95.2	5	
+1363	10/01/13	Ruckersville	VA	38.2	-78.4	1	
+1364	10/01/13	Lookout Mountain	TN	35	-85.4	4	
+1365	10/01/13	Choctaw	OK	35.5	-97.3	10	
+1366	10/01/13	Cooper	TX	33.4	-95.6	1	
+1367	10/01/13	Ailsa Craig	ON	43.1	-81.6	5	
+1368	10/01/13	Picayune	MS	30.6	-89.7	3	
+1369	10/01/13	Russell	PA	41.9	-79.1	1	
+1370	10/01/13	Russell	PA	41.9	-79.1	2	
+1371	10/01/13	Winston-Salem	NC	36.1	-80.2	1	
+1372	10/01/13	Palmyra	VA	37.9	-78.3	2	
+1373	10/01/13	Charlottesville	VA	38.1	-78.4	1	
+1374	10/01/13	Colfax	NC	36.1	-80	1	
+1375	10/01/13	Beamsville	ON	43.2	-79.5	2	
+1376	10/01/13	Greenville	SC	34.8	-82.4	2	
+1377	10/01/13	plano	TX	33.1	-96.7	1	
+1378	10/01/13	Austin	TX	30.2	-97.7	1	
+1379	10/01/13	Fremont	IN	41.7	-84.9	3	
+1380	10/01/13	Champaign	IL	40.1	-88.2	1	
+1381	10/01/13	Minnetonka	MN	44.9	-93.5	1	
+1382	10/01/13	Murfreesboro	TN	35.9	-86.4	2	
+1383	10/01/13	Murfreesboro	TN	35.9	-86.4	4	
+1384	10/01/13	Murfreesboro	TN	35.9	-86.4	1	
+1385	10/01/13	Murfreesboro	TN	35.9	-86.4	1	
+1386	10/01/13	LIVE OAK	FL	30.3	-83.1	5	
+1387	10/01/13	Wichita Falls	TX	34	-98.5	35	
+1388	10/01/13	Edisto Island	SC	32.6	-80.3	20	
+1389	10/01/13	Newmarket	ON	44.1	-79.5	2	
+1390	10/01/13	Crofton	MD	39	-76.7	3	
+1391	10/01/13	Scranton	PA	41.4	-75.7	1	
+1392	10/01/13	Point lookout	NY	40.6	-73.6	1	
+1393	10/01/13	Wynnewood	PA	40	-75.3	1	
+1394	10/01/13	Mississauga	ON	43.6	-79.7	3	
+1395	10/01/13	Wind Gap	PA	40.8	-75.3	2	
+1396	10/01/13	Osceola	WI	45.3	-92.7	1	
+1397	10/01/13	Dallas	TX	32.8	-96.8	1	
+1398	10/01/13	Columbia	TN	35.6	-87	1	
+1399	10/01/13	WHITEHALL	PA	40.7	-75.5	2	
+1400	10/01/13	Middletown	NY	41.5	-74.4	1	
+1401	10/01/13	Jefferson	TX	32.8	-94.3	1	
+1402	10/01/13	Toronto	ON	43.7	-79.4	1	
+1403	10/01/13	Hillsdale lake	KS	38.5	-94.9	2	
+1404	10/01/13	Midwest City	OK	35.4	-97.4	19	
+1405	10/01/13	Midwest City	OK	35.4	-97.4	13	
+1406	10/01/13	Allenton	WI	43.5	-88.4	1	
+1407	10/01/13	Birmingham	AL	33.5	-86.8	5	
+1408	10/01/13	Hesston	KS	38.1	-97.5	2	
+1409	10/01/13	Atchison	KS	39.5	-95.1	30	
+1410	10/01/13	Brevard	NC	35.2	-82.8	3	
+1411	10/01/13	Shawano	WI	44.8	-88.6	3	
+1412	10/01/13	Cincinnati	OH	39.1	-84.5	3	
+1413	10/01/13	Lake Toxaway	NC	35.1	-82.9	2	
+1414	10/01/13	Alexandria Bay	NY	44.3	-75.9	1	
+1415	10/01/13	Nowata	OK	36.7	-95.6	4	
+1416	10/01/13	Williamsville NY 14221	NY	43	-78.8	1	
+1417	10/01/13	Hayes	VA	37.3	-76.5	1	
+1418	10/01/13	latham	NY	42.8	-73.8	1	
+1419	10/01/13	Chalk Mountain	TX	32.1	-97.9	6	
+1420	10/01/13	duluth	MN	47.1	-91.9	1	
+1421	10/01/13	Thomson	GA	33.5	-82.5	1	
+1422	10/01/13	Moline	IL	41.5	-90.5	1	
+1423	10/01/13	Hampton	NJ	40.7	-75	1	
+1424	10/01/13	Byron	MN	44	-92.6	1	
+1425	10/01/13	Southampton	NY	40.9	-72.4	1	
+1426	10/01/13	Westerly	RI	41.4	-71.8	1	
+1427	10/01/13	Manassas	VA	38.8	-77.5	1	
+1428	10/01/13	owen sound	ON	44.6	-80.9	1	
+1429	10/01/13	Pennsburg	PA	40.4	-75.5	1	
+1430	10/01/13	Barre Mills	WI	43.8	-91.1	1	
+1431	10/01/13	Lehighton	PA	40.8	-75.7	1	
+1432	10/01/13	Lehighton	PA	40.8	-75.7	2	
+1433	10/01/13	Saltillo	COA	25.4	-101	1	
+1434	10/01/13	Lexington	VA	37.8	-79.5	3	
+1435	10/01/13	Westerville	OH	40.1	-82.9	1	
+1436	10/01/13	Toronto	ON	43.7	-79.4	1	
+1437	10/01/13	Asheville	NC	35.6	-82.6	1	
+1438	10/01/13	Boerne	TX	29.8	-98.8	2	
+1439	10/01/13	SILVER SPRING	MD	39	-77	1	
+1440	10/01/13	Boerne	TX	29.8	-98.8	1	
+1441	10/01/13	Zaragoza	COA	28.5	-100.9	1	
+1442	10/01/13	Hanksville	UT	38.1	-110.7	2	
+1443	09/30/13	Austin	TX	30.2	-97.7	2	
+1444	09/30/13	Charleston	SC	32.8	-79.9	1	
+1445	09/30/13	Scotrun	PA	41.1	-75.3	1	
+1446	09/30/13	Boerne	TX	29.8	-98.8	1	
+1447	09/30/13	Menominee	MI	45.2	-87.6	1	
+1448	09/30/13	Cleburne	TX	32.3	-97.4	4	
+1449	09/30/13	new york	NY	40.8	-74	1	
+1450	09/30/13	Russell	PA	41.9	-79.1	2	
+1451	09/30/13	Russell	PA	41.9	-79.1	1	
+1452	09/30/13	Russell	PA	41.9	-79.1	1	
+1453	09/30/13	Russell	PA	41.9	-79.1	1	
+1454	09/30/13	Russell	PA	41.9	-79.1	1	
+1455	09/30/13	Russell	PA	41.9	-79.1	1	
+1456	09/30/13	North Platte	NE	41.1	-100.8	1	
+1457	09/30/13	Kerrville	TX	30	-99.1	1	
+1458	09/30/13	Murfreesboro	TN	35.9	-86.4	7	
+1459	09/30/13	Murfreesboro	TN	35.9	-86.4	1	
+1460	09/30/13	Newport News	VA	37.1	-76.5	1	
+1461	09/30/13	Plains	GA	32	-84.4	1	
+1462	09/30/13	Plains	GA	32	-84.4	1	
+1463	09/30/13	Keene	NH	42.9	-72.3	1	
+1464	09/30/13	Lookout Mountain	TN	35	-85.4	4	
+1465	09/30/13	Champaign	IL	40.1	-88.2	1	
+1466	09/30/13	Champaign	IL	40.1	-88.2	1	
+1467	09/30/13	Fort Worth	TX	32.8	-97.5	2	
+1468	09/30/13	Cambridge	ON	43.4	-80.3	1	
+1469	09/30/13	Comfort	TX	30	-98.7	2	
+1470	09/30/13	Sauk Centre	MN	45.7	-95	3	
+1471	09/30/13	Waterford	VA	39.2	-77.6	1	
+1472	09/30/13	Murfreesboro	TN	35.9	-86.4	1	
+1473	09/30/13	Garland	TX	32.9	-96.6	2	
+1474	09/30/13	Minnetonka	MN	44.9	-93.5	3	
+1475	09/30/13	Chalk Mountain	TX	32.1	-97.9	6	
+1476	09/30/13	Loveland	OH	39.3	-84.2	1	
+1477	09/30/13	Kenton	OH	40.6	-83.6	1	
+1478	09/30/13	Allenton	WI	43.5	-88.4	1	
+1479	09/30/13	Greensboro	NC	36.1	-79.8	1	
+1480	09/30/13	Minneapolis	MN	45	-93.3	2	
+1481	09/30/13	Hesston	KS	38.1	-97.5	1	
+1482	09/30/13	Olathe	KS	38.9	-94.8	3	
+1483	09/30/13	Delta	CO	38.7	-108.2	1	
+1484	09/30/13	Keller	TX	32.9	-97.3	2	
+1485	09/30/13	Herndon	VA	39	-77.4	1	
+1486	09/30/13	Ashland	KY	38.5	-82.7	1	
+1487	09/30/13	Grant	MN	45.1	-92.9	1	
+1488	09/30/13	St. Thomas	ON	42.8	-81.2	1	
+1489	09/30/13	plano	TX	33.1	-96.7	1	
+1490	09/30/13	Albuquerque	NM	35.1	-106.6	1	
+1491	09/30/13	Washington, D.C.	DC	39	-77.3	1	
+1492	09/30/13	Ashland	OR	42.2	-122.6	1	
+1493	09/30/13	Livingston	NJ	40.8	-74.3	1	
+1494	09/30/13	Choctaw	OK	35.5	-97.3	13	
+1495	09/30/13	Winchester	VA	39.2	-78.2	4	
+1496	09/30/13	Joplin	MO	37.1	-94.5	4	
+1497	09/30/13	Louisville	TN	35.8	-84	1	
+1498	09/30/13	Russell	PA	41.9	-79.1	1	
+1499	09/30/13	Bedford	VA	37.3	-79.5	7	
+1500	09/30/13	New Market	TN	36.1	-83.6	1	
+1501	09/30/13	Claremore	OK	36.3	-95.6	2	
+1502	09/30/13	Essex	ON	42.2	-82.8	2	
+1503	09/30/13	Paynesville	MN	45.4	-94.7	1	
+1504	09/30/13	Comfort	TX	30	-98.7	2	
+1505	09/30/13	Wichita Falls	TX	34	-98.5	40	
+1506	09/30/13	Boerne	TX	29.8	-98.8	6	
+1507	09/30/13	Pavo	GA	30.9	-83.7	1	
+1508	09/30/13	Kansas City	MO	39.2	-94.6	10	
+1509	09/30/13	WHITEHALL	PA	40.7	-75.5	1	
+1510	09/30/13	Clearville Park, Ontario	ON	42.5	-81.7	8	
+1511	09/30/13	grosse pointe	MI	42.4	-82.9	1	
+1512	09/30/13	benezette pa	PA	41.3	-78.4	6	
+1513	09/30/13	Madison	CT	41.3	-72.6	6	
+1514	09/30/13	Toronto	ON	43.7	-79.4	1	
+1515	09/30/13	mequon	WI	43.2	-88	1	
+1516	09/30/13	Mina	NL	26	-100.5	1	
+1517	09/30/13	Bandera	TX	29.7	-99.1	2	
+1518	09/30/13	White Sulfur Springs	WV	37.8	-80.3	1	
+1519	09/30/13	Tawas Point, Michigan	MI	44.2	-83.5	5	
+1520	09/30/13	Lexington	OK	35	-97.2	20	
+1521	09/30/13	Mina	NL	26	-100.5	1	
+1522	09/30/13	Mina	NL	29.4	-100.9	1	
+1523	09/29/13	Lexington	VA	37.8	-79.5	1	
+1524	09/29/13	McCaysville	GA	35	-84.4	2	
+1525	09/29/13	Toronto	ON	43.7	-79.4	1	
+1526	09/29/13	Menomonie	WI	44.8	-91.9	3	
+1527	09/29/13	New Market	TN	36.1	-83.6	1	
+1528	09/29/13	Douglasville	GA	33.8	-84.8	1	
+1529	09/29/13	Asbury Park	NJ	40.2	-74	1	
+1530	09/29/13	Saginaw	TX	32.9	-97.4	4	
+1531	09/29/13	Millstadt	IL	38.4	-90.1	3	
+1532	09/29/13	New Richmond	WI	45.1	-92.5	2	
+1533	09/29/13	Harrisville	MI	44.6	-83.4	6	
+1534	09/29/13	Murfreesboro	TN	35.9	-86.4	1	
+1535	09/29/13	Dallas	TX	32.8	-96.8	15	
+1536	09/29/13	Forney	TX	32.7	-96.5	2	
+1537	09/29/13	Minnetonka	MN	44.9	-93.5	1	
+1538	09/29/13	El Paso	TX	31.8	-106.5	4	
+1539	09/29/13	Whitehouse	OH	41.5	-83.8	1	
+1540	09/29/13	springtown	TX	33	-97.7	20	
+1541	09/29/13	Hartley	IA	43.2	-95.5	4	
+1542	09/29/13	Raytown	MO	39	-94.5	1	
+1543	09/29/13	Cherryville, MO 65446	MO	37.9	-91.3	1	
+1544	09/29/13	Fairfax	VA	39	-77.3	1	
+1545	09/29/13	Menomonie	WI	44.8	-91.9	4	
+1546	09/29/13	Robert Moses Beach, Babylon	NY	40.6	-73.3	1	
+1547	09/29/13	Fairview	NC	35.5	-82.4	2	
+1548	09/29/13	Toronto	ON	43.7	-79.4	1	
+1549	09/29/13	Hartland	VT	43.5	-72.5	1	
+1550	09/29/13	Midwest City	OK	35.3	-97.3	21	
+1551	09/29/13	saratoga springs	NY	43.1	-73.8	1	
+1552	09/29/13	Kansas City	MO	39.2	-94.6	10	
+1553	09/29/13	Chalk Mountain	TX	32.1	-97.9	1	
+1554	09/29/13	Jacksons Point	ON	44.3	-79.4	1	
+1555	09/29/13	Billingsley	AL	32.6	-86.7	1	
+1556	09/29/13	Amarillo	TX	35.2	-101.8	6	
+1557	09/29/13	New Douglas	IL	39	-89.7	1	
+1558	09/29/13	Dallas	TX	32.8	-96.8	6	
+1559	09/29/13	Garland	TX	32.9	-96.6	3	
+1560	09/29/13	Allenton	WI	43.5	-88.4	1	
+1561	09/29/13	Keller	TX	32.9	-97.3	3	
+1562	09/29/13	Lexington	VA	37.8	-79.5	3	
+1563	09/29/13	Herndon	VA	39	-77.4	1	
+1564	09/29/13	Peterborough	ON	44.6	-78.3	1	
+1565	09/29/13	Indian River	MI	45.4	-84.5	1	
+1566	09/29/13	Boyertown	PA	40.3	-75.7	1	
+1567	09/29/13	New Haven	CT	41.3	-72.9	8	
+1568	09/29/13	Park Rapids	MN	47	-95	1	
+1569	09/29/13	ann arbor	MI	42.3	-83.8	2	
+1570	09/29/13	Saint Michael	MN	45.2	-93.7	2	
+1571	09/29/13	Bandera	TX	29.7	-99.1	1	
+1572	09/29/13	Vienna	VA	38.9	-77.3	1	
+1573	09/29/13	Jefferson City	MO	38.5	-92.2	1	
+1574	09/28/13	Ballwin	MO	38.6	-90.6	1	
+1575	09/28/13	Severn Bridge	ON	44.8	-79.3	3	
+1576	09/28/13	Menomonie	WI	44.8	-91.9	1	
+1577	09/28/13	Horseshoe Bay	TX	30.5	-98.4	1	
+1578	09/28/13	park forest	IL	41.5	-87.7	1	
+1579	09/28/13	Hillsboro	MO	38.2	-90.6	1	
+1580	09/28/13	Tulsa	OK	36.1	-96	7	
+1581	09/28/13	Lexington	KY	38	-84.5	5	
+1582	09/28/13	Snyder	CO	40.3	-103.6	1	
+1583	09/28/13	WESTLAKE VILLAGE	CA	34.1	-118.9	1	
+1584	09/28/13	Champaign	IL	40.1	-88.2	2	
+1585	09/28/13	Decatur	IL	39.8	-88.9	1	
+1586	09/28/13	Jasper	GA	34.5	-84.5	5	
+1587	09/28/13	Harrisville	NY	44.1	-75.3	1	
+1588	09/28/13	Murfreesboro	TN	35.9	-86.4	8	
+1589	09/28/13	Maidstone	ON	42.2	-82.9	1	
+1590	09/28/13	Mamaroneck	NY	41	-73.7	1	
+1591	09/28/13	new franken	WI	44.6	-87.8	1	
+1592	09/28/13	Hartley	IA	43.2	-95.5	5	
+1593	09/28/13	Boerne	TX	29.8	-98.8	2	
+1594	09/28/13	Hawley	PA	41.5	-75.2	9	
+1595	09/28/13	Hawley	PA	41.5	-75.2	3	
+1596	09/28/13	Ann Arbor	MI	42.3	-83.8	1	
+1597	09/28/13	Waldoboro	ME	44.1	-69.4	1	
+1598	09/28/13	Sugar Land	TX	29.6	-95.6	1	
+1599	09/28/13	Toronto	ON	43.7	-79.4	2	
+1600	09/28/13	Toronto	ON	43.7	-79.4	2	
+1601	09/28/13	Woodstock	GA	34.1	-84.5	1	
+1602	09/28/13	Toronto	ON	43.7	-79.4	1	
+1603	09/28/13	Vicksburg	MI	42.1	-85.5	1	
+1604	09/28/13	Mountain View	CA	37.4	-122.1	1	
+1605	09/28/13	Loveladies	NJ	40.8	-74.3	2	
+1606	09/28/13	Essex Junction	VT	44.5	-73.1	1	
+1607	09/28/13	Jericho Center	VT	44.5	-73.1	1	
+1608	09/28/13	Knox	PA	41.2	-79.5	6	
+1609	09/28/13	Knox	PA	41.2	-79.5	3	
+1610	09/28/13	Kingfisher	OK	35.9	-98	5	
+1611	09/28/13	Waterford	MI	42.6	-83.4	1	
+1612	09/28/13	Clifford	ON	44	-81	1	
+1613	09/28/13	Knox	PA	41.2	-79.5	3	
+1614	09/28/13	Herndon	VA	39	-77.4	1	
+1615	09/28/13	Clearville Park, Ontario	ON	42.5	-81.8	2	
+1616	09/28/13	Fremont	CA	37.6	-122.1	5	
+1617	09/28/13	Ramos Arizpe	COA	25.6	-101	4	
+1618	09/28/13	Ramos Arizpe	COA	25.6	-101	1	
+1619	09/28/13	Nelsonville	OH	39.4	-82.3	1	
+1620	09/28/13	Bristol	VT	44.1	-73	1	
+1621	09/28/13	Chicago	IL	41.9	-87.6	4	
+1622	09/28/13	Indianapolis	IN	39.9	-86.1	2	
+1623	09/28/13	Placerville	CA	38.7	-120.8	1	
+1624	09/28/13	Kyle	TX	30	-97.8	2	
+1625	09/28/13	Ventura	CA	34.3	-119.3	1	
+1626	09/28/13	durham	NC	36	-78.9	1	
+1627	09/28/13	Norman	OK	35.2	-97.4	6	
+1628	09/27/13	Ballwin	MO	38.6	-90.6	1	
+1629	09/27/13	Sedalia	MO	38.7	-93.3	5	
+1630	09/27/13	Charleston	SC	32.8	-79.9	1	
+1631	09/27/13	Essex	ON	42.2	-82.8	1	
+1632	09/27/13	Huntsville	AL	34.7	-86.5	2	
+1633	09/27/13	Goshen	IN	41.6	-85.8	1	
+1634	09/27/13	cape girardeau	MO	37.3	-89.6	1	
+1635	09/27/13	Ponca City	OK	36.7	-97.1	1	
+1636	09/27/13	Lothian	MD	38.8	-76.7	1	
+1637	09/27/13	Broken Arrow	OK	36	-95.8	2	
+1638	09/27/13	Ballwin	MO	38.6	-90.6	1	
+1639	09/27/13	Champaign	IL	40.1	-88.2	1	
+1640	09/27/13	Cape May	NJ	39	-74.9	3	
+1641	09/27/13	Austin	TX	30.2	-97.7	2	
+1642	09/27/13	Lemoyne	PA	40.2	-76.9	2	
+1643	09/27/13	Murfreesboro	TN	35.9	-86.4	2	
+1644	09/27/13	Lancaster	PA	40.1	-76.3	5	
+1645	09/27/13	Oak hill	VA	38.9	-77.4	2	
+1646	09/27/13	Granger	IN	41.7	-86.1	1	
+1647	09/27/13	Gatlinburg	TN	35.7	-83.5	1	
+1648	09/27/13	Lehighton	PA	40.8	-75.7	1	
+1649	09/27/13	Murfreesboro	TN	35.9	-86.4	1	
+1650	09/27/13	Leamington	ON	42.1	-82.6	31	
+1651	09/27/13	Allenton	WI	43.5	-88.4	1	
+1652	09/27/13	Humboldt	KS	37.8	-95.4	2	
+1653	09/27/13	Canyon Lake	TX	29.9	-98.2	1	
+1654	09/27/13	Claremore	OK	36.3	-95.6	1	
+1655	09/27/13	Hesston	KS	38.1	-97.5	5	
+1656	09/27/13	Cincinnati	OH	39.1	-84.5	2	
+1657	09/27/13	Fayetteville	AR	36	-94.1	16	
+1658	09/27/13	Hawley	PA	41.5	-75.2	2	
+1659	09/27/13	Peoria	IL	40.7	-89.6	3	
+1660	09/27/13	Toronto	ON	43.7	-79.4	2	
+1661	09/27/13	Charleston	SC	32.8	-79.9	1	
+1662	09/27/13	Madison	WI	43.1	-89.4	3	
+1663	09/27/13	Asheville	NC	35.6	-82.6	1	
+1664	09/27/13	Swannanoa	NC	35.6	-82.4	1	
+1665	09/27/13	Spinnerstown	PA	40.4	-75.4	1	
+1666	09/27/13	Lenexa	KS	39	-94.7	5	
+1667	09/27/13	Peninsula	OH	41.2	-81.6	4	
+1668	09/27/13	Saint Louis	MO	38.6	-90.2	6	
+1669	09/27/13	Washington, D.C.	DC	39	-77.3	1	
+1670	09/27/13	Charlotte	NC	35.2	-80.8	2	
+1671	09/27/13	Belen	NM	34.6	-106.7	1	
+1672	09/27/13	Wynnewood	PA	40	-75.3	1	
+1673	09/27/13	Connellsville	PA	40	-79.6	1	
+1674	09/27/13	San NicolÃ¡s de los Garza	NL	25.8	-100.3	5	
+1675	09/27/13	cape girardeau	MO	37.3	-89.6	8	
+1676	09/27/13	Bandera	TX	29.7	-99.1	2	
+1677	09/27/13	Chicago	IL	41.9	-87.6	4	
+1678	09/26/13	Kellogg	MN	44.3	-92	8	
+1679	09/26/13	Guthrie	OK	35.8	-97.5	10	
+1680	09/26/13	Minneapolis	MN	45	-93.3	1	
+1681	09/26/13	Ballwin	MO	38.6	-90.6	1	
+1682	09/26/13	Ormond Beach	FL	29.3	-81.1	1	
+1683	09/26/13	Baldwin	NY	40.7	-73.6	5	
+1684	09/26/13	Leesburg	VA	39.1	-77.6	1	
+1685	09/26/13	dripping springs	TX	30.3	-98.1	1	
+1686	09/26/13	Lenexa	KS	39	-94.7	3	
+1687	09/26/13	Fayetteville	AR	36	-94.3	7	
+1688	09/26/13	New Hampton	NY	41.3	-74.5	3	
+1689	09/26/13	Russell	PA	41.9	-79.1	2	
+1690	09/26/13	Celina	TX	33.3	-96.8	3	
+1691	09/26/13	Kerrville	TX	30	-99.1	2	
+1692	09/26/13	Celina	TX	33.3	-96.8	3	
+1693	09/26/13	Ballwin	MO	38.6	-90.6	1	
+1694	09/26/13	Rutherglen	ON	46.3	-79.1	1	
+1695	09/26/13	Eden Prairie	MN	44.9	-93.4	1	
+1696	09/26/13	Austin	TX	30.2	-97.7	1	
+1697	09/26/13	Kansas City	MO	39.2	-94.6	15	
+1698	09/26/13	Joplin	MO	37.1	-94.5	3	
+1699	09/26/13	Fayetteville	AR	36.1	-94.2	1	
+1700	09/26/13	Daleville	VA	37.4	-79.9	1	
+1701	09/26/13	Vicksburg	MI	42.1	-85.5	1	
+1702	09/26/13	Gerald	MO	38.3	-91.3	5	
+1703	09/26/13	Brooklyn	NY	40.7	-74	1	
+1704	09/26/13	Plano	TX	33.1	-96.7	15	
+1705	09/26/13	Junction	TX	30.4	-99.6	3	
+1706	09/26/13	Minneapolis	MN	45	-93.3	1	
+1707	09/26/13	Papillion	NE	41.2	-96	24	
+1708	09/26/13	Drums	PA	41	-76	3	
+1709	09/26/13	Joshua Springs Park	TX	29.7	-99.4	1	
+1710	09/26/13	New Richmond	WI	45.1	-92.5	3	
+1711	09/26/13	McKinney	TX	33.2	-96.6	15	
+1712	09/26/13	Woolrich	PA	41.2	-77.3	4	
+1713	09/26/13	Waynesboro	VA	38.1	-78.9	1	
+1714	09/26/13	Bartlesville	OK	36.7	-96.1	3	
+1715	09/26/13	Toronto	ON	43.7	-79.4	1	
+1716	09/26/13	Joplin	MO	37.1	-94.5	3	
+1717	09/26/13	bellevue	NE	41.1	-95.9	1	
+1718	09/26/13	Ardmore	OK	34.2	-97.2	1	
+1719	09/26/13	Fishers	IN	40	-86	1	
+1720	09/26/13	Glen Cove	NY	40.9	-73.6	3	
+1721	09/26/13	Gadsden	AL	34	-85.9	3	
+1722	09/26/13	Kenton	OH	40.6	-83.6	1	
+1723	09/26/13	Nowata	OK	36.7	-95.6	4	
+1724	09/26/13	Toronto	ON	43.7	-79.4	11	
+1725	09/26/13	Honey Grove	TX	33.6	-95.9	1	
+1726	09/26/13	Chalk Mountain	TX	32.1	-97.9	1	
+1727	09/26/13	Hampton	NJ	40.7	-75	1	
+1728	09/26/13	Burlington	ON	43.4	-79.8	1	
+1729	09/26/13	Washington	MO	38.5	-91	3	
+1730	09/26/13	Hughesville	PA	41.3	-76.7	1	
+1731	09/26/13	Braidwood	IL	41.2	-88.2	1	
+1732	09/26/13	Moline	IL	41.5	-90.5	2	
+1733	09/26/13	Franklin	NC	35.2	-83.4	1	
+1734	09/26/13	Santa Fe	NM	35.8	-106	1	
+1735	09/26/13	Palmyra	VA	37.9	-78.3	2	
+1736	09/26/13	Detroit	MI	42.3	-83.1	2	
+1737	09/26/13	Sheboygan	WI	43.7	-88	10	
+1738	09/26/13	Houston	TX	29.8	-95.4	1	
+1739	09/26/13	Titonka	IA	43.3	-94	5	
+1740	09/26/13	Fincastle	VA	37.5	-79.9	2	
+1741	09/26/13	king george	VA	38.3	-77.1	1	
+1742	09/26/13	Lexington	KY	38	-84.5	1	
+1743	09/26/13	Connellsville	PA	40	-79.6	2	
+1744	09/26/13	Chicago	IL	41.9	-87.6	1	
+1745	09/26/13	Lexington	KY	38	-84.5	1	
+1746	09/26/13	Clifford	ND	47.4	-97.4	5	
+1747	09/25/13	Austin	TX	30.2	-97.7	1	
+1748	09/25/13	New Market	TN	36.1	-83.6	1	
+1749	09/25/13	Madison	WI	43.1	-89.4	1	
+1750	09/25/13	Shelby Twp.	MI	43.6	-86.3	1	
+1751	09/25/13	Fredericksburg	TX	30.3	-98.9	1	
+1752	09/25/13	Winnipeg	MB	49.9	-97.1	1	
+1753	09/25/13	Ashburn	VA	39	-77.5	1	
+1754	09/25/13	Cherryville	MO	37.9	-91.3	1	
+1755	09/25/13	Ballwin	MO	38.6	-90.6	1	
+1756	09/25/13	ilderton	ON	43.1	-81.4	1	
+1757	09/25/13	Junction	TX	30.4	-99.6	1	
+1758	09/25/13	Stillwater	OK	36.1	-97.1	1	
+1759	09/25/13	Edmond	OK	35.7	-97.6	4	
+1760	09/25/13	San Antonio	TX	29.6	-98.4	2	
+1761	09/25/13	Glen Mills	PA	39.9	-75.5	1	
+1762	09/25/13	Thomasville	GA	30.8	-84	2	
+1763	09/25/13	El Dorado	KS	37.9	-96.8	5	
+1764	09/25/13	Celina	TX	33.3	-96.8	12	
+1765	09/25/13	Celina	TX	33.3	-96.8	12	
+1766	09/25/13	Joplin	MO	37.1	-94.5	6	
+1767	09/25/13	Round Lake	NY	42.9	-73.8	2	
+1768	09/25/13	New richmond	WI	45.1	-92.6	1	
+1769	09/25/13	El Dorado	CA	38.6	-120.9	3	
+1770	09/25/13	Winnipeg	MB	49.9	-97.1	1	
+1771	09/25/13	Vincentown	NJ	39.8	-74.6	2	
+1772	09/25/13	Toronto	ON	43.7	-79.4	1	
+1773	09/25/13	SAN SABA	TX	31.1	-98.8	3	
+1774	09/25/13	Lehighton	PA	40.8	-75.7	2	
+1775	09/25/13	Lake Ozark	MO	38.2	-92.7	2	
+1776	09/25/13	Pampa	TX	35.4	-100.8	3	
+1777	09/25/13	Fort Worth	TX	32.8	-97.3	2	
+1778	09/25/13	East Lansing	MI	42.8	-84.4	3	
+1779	09/25/13	Sharpsburg	MD	39.4	-77.8	2	
+1780	09/25/13	Glencoe	AR	36.3	-91.8	2	
+1781	09/25/13	detroit	MI	42.5	-83.2	1	
+1782	09/25/13	Fergus Falls	MN	46.3	-96.1	1	
+1783	09/25/13	Onalaska	WI	43.9	-91.3	1	
+1784	09/25/13	Hudson	OH	41.2	-81.4	1	
+1785	09/25/13	campbellsville	KY	37.4	-85.4	3	
+1786	09/25/13	council bluffs	IA	41.2	-95.9	1	
+1787	09/25/13	Russell	KS	38.8	-98.9	20	
+1788	09/25/13	Lancaster	PA	40.1	-76.3	3	
+1789	09/25/13	Fort Worth	TX	32.8	-97.3	2	
+1790	09/25/13	San Carlos Sonora	SON	28	-111	1	
+1791	09/25/13	Wisconsin Rapids	WI	44.3	-89.7	1	
+1792	09/25/13	Dripping Springs	TX	30.3	-98.1	3	
+1793	09/25/13	Hurley	WI	46.4	-90.2	1	
+1794	09/25/13	columbus	OH	40.1	-83	1	
+1795	09/25/13	San Angelo	TX	31.6	-100.5	1	
+1796	09/25/13	Middletown	DE	39.5	-75.7	2	
+1797	09/25/13	steedman	OK	34.9	-96.4	1	
+1798	09/25/13	Ballston Spa	NY	43	-73.9	1	
+1799	09/25/13	Clifford	ND	47.4	-97.4	3	
+1800	09/25/13	Joplin	MO	37.1	-94.5	11	
+1801	09/25/13	Keysville	VA	37	-78.5	3	
+1802	09/25/13	Montreal	QC	45.5	-73.6	1	
+1803	09/25/13	Valley Center	KS	37.9	-97.3	1	
+1804	09/25/13	Philadelphia	PA	40.1	-75	1	
+1805	09/25/13	hamilton	OH	39.4	-84.5	1	
+1806	09/25/13	Saint Louis	MO	38.6	-90.2	1	
+1807	09/25/13	Junction	TX	30.4	-99.6	3	
+1808	09/25/13	Llano	TX	30.6	-98.7	5	
+1809	09/25/13	Junction	TX	30.4	-99.6	1	
+1810	09/25/13	Leavenworth	KS	39.3	-95	2	
+1811	09/25/13	Cooper	TX	33.4	-95.6	2	
+1812	09/25/13	Phoenix	AZ	33.5	-112.1	1	
+1813	09/25/13	Bartlesville	OK	36.7	-96.1	1	
+1814	09/25/13	Spraggs	PA	39.8	-80.3	1	
+1815	09/25/13	Winnipeg	MB	49.9	-97.1	1	
+1816	09/25/13	Wyoming	MI	42.9	-85.7	2	
+1817	09/25/13	Ham Lake	MN	45.3	-93.3	2	
+1818	09/25/13	Chalk Mountain	TX	32.1	-97.9	1	
+1819	09/25/13	Fayetteville	AR	36	-94.1	1	
+1820	09/25/13	Huntsville	AL	34.7	-86.5	3	
+1821	09/25/13	Hampton	NJ	40.7	-75	1	
+1822	09/25/13	Burlington	ON	43.4	-79.8	1	
+1823	09/25/13	Severn Bridge	ON	44.8	-79.3	2	
+1824	09/25/13	WESTLAKE VILLAGE	CA	34.1	-118.9	1	
+1825	09/25/13	Peabody	KS	38.2	-97.1	3	
+1826	09/25/13	Cross Lanes	WV	38.4	-81.8	3	
+1827	09/25/13	Jefferson	TX	32.8	-94.3	1	
+1828	09/25/13	Queens	NY	40.6	-73.8	2	
+1829	09/25/13	Connellsville	PA	40	-79.6	3	
+1830	09/25/13	Stratford	CT	41.2	-73.1	1	
+1831	09/25/13	West Lorne	ON	42.6	-81.6	1	
+1832	09/25/13	Winnipeg	MB	49.9	-97.1	1	
+1833	09/25/13	Chicago	IL	41.9	-87.6	1	
+1834	09/24/13	Smiths Point County Park, Mastic	NY	40.7	-72.9	3	
+1835	09/24/13	Waterford	NY	42.8	-73.7	1	
+1836	09/24/13	Saint Louis	MO	38.6	-90.2	3	
+1837	09/24/13	East Marion	NY	41.1	-72.3	1	
+1838	09/24/13	Ormond Beach	FL	29.3	-81.1	1	
+1839	09/24/13	Mesa	AZ	33.4	-111.8	1	
+1840	09/24/13	Forked River	NJ	39.9	-74.3	3	
+1841	09/24/13	Keysville	VA	37	-78.5	2	
+1842	09/24/13	Ormond Beach	FL	29.3	-81.1	1	
+1843	09/24/13	London	AR	35.3	-93.2	1	
+1844	09/24/13	palmyra	VA	37.9	-78.3	1	
+1845	09/24/13	Oshkosh	WI	43.9	-88.5	1	
+1846	09/24/13	Pompton Lakes	NJ	41	-74.3	1	
+1847	09/24/13	Toronto	ON	43.7	-79.4	1	
+1848	09/24/13	Ann Arbor	MI	42.3	-83.8	1	
+1849	09/24/13	South Park	PA	40.3	-80	1	
+1850	09/24/13	HICKSVILLE	OH	41.3	-84.7	1	
+1851	09/24/13	Wildwood	MO	38.6	-90.6	1	
+1852	09/24/13	Pleasantville	NJ	39.4	-74.6	4	
+1853	09/24/13	Champaign	IL	40.1	-88.2	1	
+1854	09/24/13	Round Lake	NY	42.9	-73.8	1	
+1855	09/24/13	Minnetonka	MN	44.9	-93.5	1	
+1856	09/24/13	Hot Springs	AR	34.5	-93.1	9	
+1857	09/24/13	San Antonio	TX	29.5	-98.5	1	
+1858	09/24/13	madison	CT	41.3	-72.6	7	
+1859	09/24/13	Baltimore	MD	39.3	-76.6	1	
+1860	09/24/13	Stroudsburg	PA	41	-75.3	1	
+1861	09/24/13	Olivebridge	NY	41.9	-74.2	1	
+1862	09/24/13	Scottsville	KY	36.8	-86.2	2	
+1863	09/24/13	SAN SABA	TX	31.1	-98.8	2	
+1864	09/24/13	Cedar Rapids	IA	42	-91.7	2	
+1865	09/24/13	garrettsville	OH	41.3	-81.1	1	
+1866	09/24/13	Altamont	NY	42.7	-74	1	
+1867	09/24/13	Saint Louis	MO	38.6	-90.2	2	
+1868	09/24/13	Leamington	ON	42.1	-82.6	8	
+1869	09/24/13	Grey Cloud Island	MN	44.7	-92.6	1	
+1870	09/24/13	London	ON	43	-81.2	2	
+1871	09/24/13	Glendora	CA	34.1	-117.9	12	
+1872	09/24/13	Martindale	TX	29.8	-97.8	3	
+1873	09/24/13	Port Saint Joe	FL	29.8	-85.3	4	
+1874	09/24/13	Myrtle Beach	SC	33.7	-78.9	100	
+1875	09/24/13	Menomonie	WI	44.8	-91.9	2	
+1876	09/24/13	Bronte	TX	31.9	-100.3	10	
+1877	09/24/13	Peoria	IL	40.7	-89.6	2	
+1878	09/24/13	Egg Harbor	WI	45	-87.3	1	
+1879	09/24/13	Afton	NY	42.2	-75.5	1	
+1880	09/24/13	Spruce Pine	NC	35.9	-82.1	1	
+1881	09/24/13	Coon Rapids	IA	41.9	-94.7	3	
+1882	09/24/13	Kensington	MD	39	-77.1	1	
+1883	09/24/13	James Kiel Park, Kendall Co., TX	TX	29.7	-99.4	1	
+1884	09/24/13	Burlington	ON	43.4	-79.8	1	
+1885	09/24/13	Lake Monticello	VA	37.9	-78.3	1	
+1886	09/24/13	Jefferson	TX	32.8	-94.3	2	
+1887	09/24/13	Allenton	WI	43.5	-88.4	1	
+1888	09/24/13	Albuquerque	NM	35.1	-106.6	1	
+1889	09/24/13	Greensburg	PA	40.4	-79.5	1	
+1890	09/24/13	Abilene	KS	39	-97.2	1	
+1891	09/23/13	Sedalia	MO	38.7	-93.3	2	
+1892	09/23/13	Bandera	TX	29.7	-99.1	1	
+1893	09/23/13	Jefferson City	TN	36.1	-83.5	1	
+1894	09/23/13	Boerne	TX	29.8	-98.8	1	
+1895	09/23/13	Syracuse	NY	43	-76.2	1	
+1896	09/23/13	Newbury	MA	42.8	-70.9	1	
+1897	09/23/13	East Marion	NY	41.1	-72.3	1	
+1898	09/23/13	Osceola	WI	45.3	-92.7	2	
+1899	09/23/13	Russellville	AR	35.3	-93.1	2	
+1900	09/23/13	Asheville	NC	35.6	-82.6	1	
+1901	09/23/13	Minnetonka	MN	44.9	-93.5	1	
+1902	09/23/13	El Dorado	KS	37.9	-96.8	4	
+1903	09/23/13	Floresville	TX	29.2	-98.2	3	
+1904	09/23/13	Fergus Falls	MN	46.3	-96.1	2	
+1905	09/23/13	Gaithersburg	MD	39.1	-77.2	1	
+1906	09/23/13	Garland	TX	32.9	-96.6	2	
+1907	09/23/13	Asbury Park	NJ	40.2	-74	1	
+1908	09/23/13	columbia	MS	31.2	-89.8	4	
+1909	09/23/13	Washington, D.C.	DC	39	-77.3	1	
+1910	09/23/13	St. Paul	AR	35.9	-93.7	4	
+1911	09/23/13	melrose	NY	42.9	-73.6	1	
+1912	09/23/13	Kerrville	TX	30	-99.1	1	
+1913	09/23/13	Saint Louis	MO	38.6	-90.2	2	
+1914	09/23/13	Carbondale	IL	37.7	-89.2	1	
+1915	09/23/13	McFarland	WI	43	-89.3	2	
+1916	09/23/13	wellesley island	NY	44.3	-75.9	1	
+1917	09/23/13	North Stonington	CT	41.5	-71.9	1	
+1918	09/23/13	Thomasville	GA	30.8	-84	2	
+1919	09/23/13	Black River Falls	WI	44.3	-90.8	1	
+1920	09/23/13	Chalk Mountain	TX	32.1	-97.9	1	
+1921	09/23/13	Salt Lake City	UT	40.8	-111.9	2	
+1922	09/23/13	Acworth	GA	34	-84.7	1	
+1923	09/23/13	Kerrville	TX	30	-99.1	1	
+1924	09/23/13	McFarland	WI	43	-89.3	2	
+1925	09/23/13	Gualala	CA	38.8	-123.4	1	
+1926	09/22/13	East Marion	NY	41.1	-72.3	6	
+1927	09/22/13	Cleburne	TX	32.4	-97.4	1	
+1928	09/22/13	Kerrville	TX	30	-99.1	2	
+1929	09/22/13	Danville	KY	37.6	-84.8	1	
+1930	09/22/13	Joplin	MO	37.1	-94.5	4	
+1931	09/22/13	Greenville	SC	34.8	-82.4	4	
+1932	09/22/13	Minnetonka	MN	44.9	-93.5	1	
+1933	09/22/13	Osceola	WI	45.3	-92.7	1	
+1934	09/22/13	Humble	TX	30	-95.2	2	
+1935	09/22/13	Allenton	WI	43.5	-88.4	1	
+1936	09/22/13	Minneapolis	MN	45	-93.3	1	
+1937	09/22/13	Atchison	KS	39.5	-95.1	25	
+1938	09/22/13	Fortville	IN	39.9	-85.8	1	
+1939	09/22/13	Stamford	TX	32.9	-99.7	3	
+1940	09/22/13	Eagle Pass	TX	28.5	-100.5	1	
+1941	09/22/13	Garland	TX	32.9	-96.6	1	
+1942	09/22/13	Houston	TX	29.8	-95.4	1	
+1943	09/22/13	Grafton	MA	42.2	-71.7	1	
+1944	09/22/13	Souderton	PA	40.3	-75.3	1	
+1945	09/22/13	Pittsboro	NC	35.8	-79.2	1	
+1946	09/22/13	Ottumwa	IA	41	-92.4	1	
+1947	09/22/13	Ormond Beach	FL	29.3	-81.1	1	
+1948	09/22/13	Kansas City	MO	39.2	-94.6	9	
+1949	09/22/13	Bolinas	CA	37.9	-122.7	40	
+1950	09/22/13	Arlington	VA	38.9	-77.1	1	
+1951	09/22/13	Austin	TX	30.2	-97.7	1	
+1952	09/22/13	North Platte	NE	41.1	-100.8	5	
+1953	09/22/13	Atlantic City	NJ	39.4	-74.4	1	
+1954	09/22/13	Leakey	TX	29.9	-99.8	1	
+1955	09/22/13	Hixson	TN	35.2	-85.2	1	
+1956	09/22/13	Clearville Park, Ontario	ON	42.5	-81.8	4	
+1957	09/22/13	Wheaton	MD	39	-77.3	1	
+1958	09/22/13	Melrose	NM	34.5	-103.6	6	
+1959	09/22/13	Jacksonville, Florida	FL	30.3	-83	2	
+1960	09/22/13	Pilot Mountain SP	NC	36.3	-80.5	21	
+1961	09/22/13	Superior	AZ	33.3	-111.2	1	
+1962	09/22/13	Hobart	IN	41.5	-87.2	1	
+1963	09/22/13	Holiday Beach Conservation Area	ON	42.1	-83.1	2	
+1964	09/22/13	Grant	MN	45.1	-92.9	4	
+1965	09/22/13	Midland	TX	32	-102.1	1	
+1966	09/22/13	Tangier Island	VA	39.2	-77.6	30	
+1967	09/22/13	Saline	MI	42.2	-83.8	1	
+1968	09/22/13	Rosenberg	TX	29.5	-95.9	1	
+1969	09/22/13	Tangier Island	VA	37.8	-76	30	
+1970	09/22/13	Tulsa	OK	36.1	-96	3	
+1971	09/22/13	Monterrey	NL	25.7	-100.3	1	
+1972	09/22/13	Bronx	NY	40.8	-73.9	1	
+1973	09/22/13	Columbus	OH	40	-83	1	
+1974	09/22/13	Baltimore	MD	39.3	-76.5	2	
+1975	09/22/13	East Marion	NY	41.1	-72.3	1	
+1976	09/22/13	Allenton	WI	43.5	-88.4	1	
+1977	09/22/13	Sebago	ME	43.9	-70.6	1	
+1978	09/22/13	Bridport	VT	43.9	-73.4	1	
+1979	09/22/13	Carbondale	IL	37.7	-89.2	1	
+1980	09/22/13	Maple Park	IL	41.9	-88.6	1	
+1981	09/22/13	Joplin	MO	37.1	-94.5	30	
+1982	09/22/13	Queensbury	NY	43.3	-73.7	1	
+1983	09/22/13	Thomson	GA	33.5	-82.5	5	
+1984	09/22/13	Stillwater	OK	36.1	-97.1	6	
+1985	09/22/13	Sedalia	MO	38.7	-93.3	3	
+1986	09/22/13	East Greenville	PA	40.4	-75.5	1	
+1987	09/21/13	Bloomingdale	NJ	41	-74.3	1	
+1988	09/21/13	El Dorado	KS	37.9	-96.8	1	
+1989	09/21/13	Wayzata	MN	45	-93.5	1	
+1990	09/21/13	Garretson	SD	43.8	-96.6	1	
+1991	09/21/13	Harrisville	MI	44.6	-83.4	39	
+1992	09/21/13	Ballwin	MO	38.6	-90.6	2	
+1993	09/21/13	Huntsville	AL	34.7	-86.5	6	
+1994	09/21/13	Wapakoneta	OH	40.6	-84.1	1	
+1995	09/21/13	Berkley	MI	42.5	-83.2	1	
+1996	09/21/13	Hillsboro	MO	38.2	-90.6	1	
+1997	09/21/13	Snyder	CO	40.3	-103.6	1	
+1998	09/21/13	Hawley	PA	41.5	-75.2	4	
+1999	09/21/13	Greentown	PA	41.3	-75.3	1	
+2000	09/21/13	Rocky Point	NY	40.9	-72.9	2	
+2001	09/21/13	Minnetonka	MN	44.9	-93.5	4	
+2002	09/21/13	Waterford	NY	42.8	-73.7	1	
+2003	09/21/13	Toronto	ON	43.7	-79.4	1	
+2004	09/21/13	Canyon Lake/Starksville	TX	29.9	-98.2	3	
+2005	09/21/13	Jimenez	COA	29.1	-100.7	7	
+2006	09/21/13	Junction	TX	30.4	-99.6	1	
+2007	09/21/13	Kansas City	MO	39.2	-94.6	4	
+2008	09/21/13	Geneseo	IL	41.5	-90.2	3	
+2009	09/21/13	Queensbury	NY	43.3	-73.7	1	
+2010	09/21/13	Lasalle	MI	41.5	-83.2	2	
+2011	09/21/13	Sugar Land	TX	29.6	-95.6	2	
+2012	09/21/13	Monona	IA	43.1	-91.4	4	
+2013	09/21/13	Harpersfield	NY	42.5	-74.7	3	
+2014	09/21/13	Dillsburg	PA	40.1	-77	1	
+2015	09/21/13	North Platte	NE	41.1	-100.8	1	
+2016	09/21/13	Chicago	IL	41.9	-87.6	1	
+2017	09/21/13	Odessa	TX	31.8	-102.3	1	
+2018	09/21/13	south new berlin	NY	42.5	-75.3	2	
+2019	09/21/13	Manchester Center	VT	43.2	-73.1	2	
+2020	09/21/13	Bemidji	MN	47.5	-94.7	1	
+2021	09/21/13	Charlotte	NC	35.2	-80.8	3	
+2022	09/21/13	Albuquerque	NM	35.1	-106.6	1	
+2023	09/21/13	Piedras Negras	COA	28.4	-100.3	7	
+2024	09/21/13	Chicago	IL	41.9	-87.6	1	
+2025	09/21/13	Anchor Bay	CA	38.8	-123.6	12	
+2026	09/21/13	Annapolis	MD	39	-76.6	1	
+2027	09/20/13	Saltillo	COA	25.4	-101	1	
+2028	09/20/13	Tulsa	OK	36.1	-96	2	
+2029	09/20/13	Falls Church	VA	39	-77.3	1	
+2030	09/20/13	Saint Louis	MO	38.6	-90.2	5	
+2031	09/20/13	Knox	PA	41.2	-79.5	2	
+2032	09/20/13	Ocampo	COA	29.2	-102.9	6	
+2033	09/20/13	Sandia Park	NM	35.2	-106.3	2	
+2034	09/20/13	port hope	ON	44	-78.3	4	
+2035	09/20/13	Boquillas	COA	29.2	-102.9	6	
+2036	09/20/13	Chicago	IL	42	-87.8	33	
+2037	09/20/13	mountain top	PA	41.1	-76	3	
+2038	09/20/13	Asheville	NC	35.6	-82.6	1	
+2039	09/20/13	Salina	KS	38.9	-97.7	2	
+2040	09/20/13	Fayetteville	AR	36	-94.1	1	
+2041	09/20/13	Palmer Rapids	ON	45.3	-77.5	5	
+2042	09/20/13	Salina	KS	38.9	-97.7	4	
+2043	09/20/13	Toronto	ON	43.7	-79.4	1	
+2044	09/20/13	Hiawatha	IA	42	-91.7	1	
+2045	09/20/13	South Berwick	ME	43.2	-70.7	1	
+2046	09/20/13	Glen Mills	PA	39.9	-75.5	1	
+2047	09/20/13	Ormond Beach	FL	29.3	-81.1	1	
+2048	09/20/13	Columbus	OH	40.1	-83	1	
+2049	09/20/13	columbia	MS	31.2	-89.8	2	
+2050	09/20/13	Ontario	NY	43.2	-77.3	1	
+2051	09/20/13	Toronto	ON	43.7	-79.4	2	
+2052	09/20/13	Kansas City	MO	39.1	-94.6	1	
+2053	09/20/13	Lehighton	PA	40.8	-75.7	1	
+2054	09/20/13	Picture Rocks	PA	41.3	-76.7	1	
+2055	09/20/13	Albany	NY	42.7	-73.7	1	
+2056	09/20/13	westminster	MD	39.5	-77	1	
+2057	09/20/13	Bolling afb	DC	38.8	-77	1	
+2058	09/20/13	Bushnell	SD	44.3	-96.6	1	
+2059	09/20/13	Packwood	IA	41.1	-92.1	1	
+2060	09/20/13	Nunda	NY	42.6	-77.9	1	
+2061	09/20/13	Wapakoneta	OH	40.6	-84.1	3	
+2062	09/20/13	Wapakoneta	OH	40.6	-84.1	1	
+2063	09/20/13	cortland	NY	42.6	-76.2	1	
+2064	09/20/13	Lapel	IN	40.1	-85.9	1	
+2065	09/20/13	St. Thomas	ON	42.8	-81.2	1	
+2066	09/20/13	Sparta	NJ	41	-74.6	2	
+2067	09/20/13	Kenton	OH	40.6	-83.6	2	
+2068	09/20/13	Sabinsville	PA	41.8	-77.5	1	
+2069	09/20/13	Sabinsville	PA	41.8	-77.5	1	
+2070	09/19/13	San Rafael	CA	38	-122.5	2	
+2071	09/19/13	Wilmot	NH	43.5	-71.9	1	
+2072	09/19/13	new brunswick	NJ	40.5	-74.5	1	
+2073	09/19/13	Creve Coeur	MO	38.7	-90.4	4	
+2074	09/19/13	Toronto	ON	43.7	-79.4	1	
+2075	09/19/13	Sedalia	MO	38.7	-93.3	1	
+2076	09/19/13	Sedalia	MO	38.7	-93.3	1	
+2077	09/19/13	East Marion	NY	41.1	-72.3	1	
+2078	09/19/13	Springfield	MO	37.2	-93.3	2	
+2079	09/19/13	Westhampton	MA	42.3	-72.8	2	
+2080	09/19/13	Macomb	MI	42.6	-82.9	2	
+2081	09/19/13	Lucas	KS	39	-98.5	1	
+2082	09/19/13	London	AR	35.3	-93.2	2	
+2083	09/19/13	Fishs Eddy	NY	42	-75.2	1	
+2084	09/19/13	Alexandria	VA	38.8	-77.1	1	
+2085	09/19/13	EAGLE BAY	NY	43.8	-75	1	
+2086	09/19/13	McClellanville	SC	33.1	-79.5	1	
+2087	09/19/13	Champaign	IL	40.1	-88.2	3	
+2088	09/19/13	Syracuse	NY	43	-76.2	1	
+2089	09/19/13	TALLAHASSEE	FL	30.4	-84.3	1	
+2090	09/19/13	Winchester	VA	39.2	-78.2	8	
+2091	09/19/13	St. Louis	MO	38.6	-90.2	1	
+2092	09/19/13	North Platte	NE	41.1	-100.8	1	
+2093	09/19/13	Janesville	WI	42.7	-89.1	1	
+2094	09/19/13	Arlington	VA	38.9	-77.1	1	
+2095	09/19/13	Portage	IN	41.6	-87.2	2	
+2096	09/19/13	Bloomingburg	NY	41.4	-74.3	1	
+2097	09/19/13	Big Flats	NY	42.1	-77	1	
+2098	09/19/13	Eagle Bay	NY	43.8	-75	1	
+2099	09/19/13	Herndon	VA	39	-77.4	1	
+2100	09/19/13	Hesston	KS	38.1	-97.5	13	
+2101	09/19/13	Dingman's Ferry	PA	41.2	-74.9	1	
+2102	09/19/13	Cato	NY	43.2	-76.6	1	
+2103	09/19/13	Garland	TX	32.9	-96.6	4	
+2104	09/19/13	ClarkLake	MI	42.1	-84.4	1	
+2105	09/19/13	Sparland	IL	41	-89.5	1	
+2106	09/19/13	sheboygan	WI	43.7	-87.7	6	
+2107	09/19/13	ann arbor	MI	42.3	-83.8	1	
+2108	09/19/13	mequon	WI	43.2	-88	1	
+2109	09/19/13	Tonawanda	NY	43	-78.9	1	
+2110	09/19/13	Byron	MN	44	-92.6	1	
+2111	09/19/13	Toronto	ON	43.7	-79.4	1	
+2112	09/19/13	Bayville	NJ	39.9	-74.2	1	
+2113	09/19/13	St. Paul	AR	35.9	-93.7	1	
+2114	09/19/13	Walpole	MA	42.1	-71.3	2	
+2115	09/19/13	Tallahassee	FL	30.4	-84.3	1	
+2116	09/19/13	Hampton Bays	NY	40.9	-72.5	1	
+2117	09/19/13	Lansdale	PA	40.2	-75.4	1	
+2118	09/19/13	melrose	NY	42.9	-73.6	1	
+2119	09/19/13	Connellsville	PA	40	-79.6	5	
+2120	09/19/13	Wapakoneta	OH	40.6	-84.1	1	
+2121	09/19/13	Boulder Junction	WI	46.1	-89.6	1	
+2122	09/19/13	Clifton	VA	39	-77.3	2	
+2123	09/19/13	Dauphin	PA	40.4	-76.9	1	
+2124	09/19/13	I 195	NJ	40.1	-74.4	8	
+2125	09/19/13	Belen	NM	34.6	-106.7	12	
+2126	09/18/13	Comfort	TX	30	-98.7	3	
+2127	09/18/13	Oxford	MI	42.8	-83.2	1	
+2128	09/18/13	Lexington	NY	42.2	-74.4	2	
+2129	09/18/13	Sierra de Maderas del Carmen	COA	29	-102.6	9	
+2130	09/18/13	Maderas del Carmen	COA	29.1	-102.6	9	
+2131	09/18/13	Saint-AndrÃ©-Avellin	QC	45.7	-75.1	1	
+2132	09/18/13	Toronto	ON	43.7	-79.4	1	
+2133	09/18/13	Altoona	IA	41.6	-93.7	1	
+2134	09/18/13	North Platte	NE	41.1	-100.8	1	
+2135	09/18/13	Trumbull	CT	41.3	-73.2	1	
+2136	09/18/13	Ladue	MO	38.6	-90.4	1	
+2137	09/18/13	London	AR	35.3	-93.2	1	
+2138	09/18/13	Harrisville	MI	44.6	-83.4	1	
+2139	09/18/13	Nunda	NY	42.6	-77.9	1	
+2140	09/18/13	Los Alamos	NM	35.9	-106.3	1	
+2141	09/18/13	Garden City	KS	38	-100.9	1	
+2142	09/18/13	Crown Point	IN	41.4	-87.3	1	
+2143	09/18/13	Cape Elizabeth	ME	43.6	-70.2	3	
+2144	09/18/13	Lexington	VA	37.8	-79.5	1	
+2145	09/18/13	Springfield	MO	37.2	-93.3	1	
+2146	09/18/13	lake dallas	TX	33.1	-97	1	
+2147	09/18/13	Vincentown	NJ	39.8	-74.6	1	
+2148	09/18/13	Vincentown	NJ	39.8	-74.6	1	
+2149	09/18/13	Ormond Beach	FL	29.3	-81.1	1	
+2150	09/18/13	Brentwood	TN	36	-86.8	1	
+2151	09/18/13	Fergus Falls	MN	46.3	-96.1	2	
+2152	09/18/13	Lexington	KY	38	-84.5	1	
+2153	09/18/13	Welland	ON	43	-79.3	1	
+2154	09/18/13	East Marion	NY	41.1	-72.3	1	
+2155	09/18/13	Tallahassee	FL	30.4	-84.3	1	
+2156	09/18/13	IDAHO FALLS	ID	43.5	-111.9	1	
+2157	09/18/13	La Crosse	WI	43.8	-91.2	1	
+2158	09/18/13	Waterford	NY	42.8	-73.7	1	
+2159	09/18/13	Katy	TX	29.8	-95.7	1	
+2160	09/18/13	Santa Fe	NM	35.8	-106	1	
+2161	09/18/13	Yorktown	VA	37.2	-76.6	3	
+2162	09/18/13	Budd Lake	NJ	40.9	-74.8	1	
+2163	09/18/13	Millersville	MD	39.1	-76.6	1	
+2164	09/18/13	Catawissa	MO	38.4	-90.8	2	
+2165	09/18/13	Beamsville	ON	43.2	-79.5	1	
+2166	09/18/13	port clinton	OH	41.5	-82.9	1	
+2167	09/18/13	Bryan	TX	30.7	-96.4	1	
+2168	09/18/13	Portage	MI	42.2	-85.6	1	
+2169	09/18/13	Hastings	NE	40.6	-98.4	5	
+2170	09/18/13	Leamington	ON	42.1	-82.6	11	
+2171	09/18/13	McCordsville	IN	39.9	-85.9	1	
+2172	09/18/13	Fritch	TX	35.7	-101.5	1	
+2173	09/18/13	McCordsville	IN	39.9	-85.9	5	
+2174	09/18/13	Toronto	ON	43.7	-79.4	6	
+2175	09/18/13	Toronto	ON	43.7	-79.4	6	
+2176	09/18/13	Houlton	WI	45	-92.7	1	
+2177	09/18/13	Chesterfield	VA	37.4	-77.6	1	
+2178	09/18/13	Altoona	IA	41.6	-93.7	3	
+2179	09/18/13	Choctaw	OK	35.5	-97.3	5	
+2180	09/18/13	Pottsville	AR	35.2	-93.1	1	
+2181	09/18/13	Bliss	MI	45.7	-85	1	
+2182	09/18/13	Cambridge	ON	43.4	-80.3	1	
+2183	09/18/13	Fort Wayne	IN	41.1	-85.2	1	
+2184	09/18/13	detroit	MI	42.5	-83.2	1	
+2185	09/18/13	North Platte	NE	41.1	-100.8	1	
+2186	09/18/13	Round Rock	TX	30.5	-97.7	1	
+2187	09/18/13	Rye	NY	41	-73.9	2	
+2188	09/18/13	Bedford	NY	41.2	-73.7	3	
+2189	09/18/13	Roanoke	VA	37.4	-79.7	5	
+2190	09/18/13	Alexandria	VA	38.8	-77.1	1	
+2191	09/18/13	East Lyme	CT	41.4	-72.2	10	
+2192	09/18/13	Clearville Park, Ontario	ON	42.5	-81.8	3	
+2193	09/18/13	Austin	TX	30.2	-97.7	1	
+2194	09/18/13	KIMBALL	NE	41.2	-103.7	1	
+2195	09/18/13	East Longmeadow,	MA	42.1	-72.5	1	
+2196	09/18/13	Nappanee	IN	41.5	-86	5	
+2197	09/18/13	Lenexa	KS	39	-94.7	4	
+2198	09/18/13	Alamo	MI	42.4	-85.7	3	
+2199	09/18/13	Winston Salem	NC	36.1	-80.2	1	
+2200	09/18/13	winston salem	NC	36.1	-80.2	1	
+2201	09/18/13	Davenport	IA	41.5	-90.6	3	
+2202	09/18/13	Rogers	AR	36.4	-94	1	
+2203	09/18/13	garrettsville	OH	41.3	-81.1	1	
+2204	09/18/13	Bolinas	CA	37.9	-122.7	3	
+2205	09/18/13	Bushnell	SD	44.3	-96.6	40	
+2206	09/18/13	Connellsville	PA	40	-79.6	7	
+2207	09/18/13	Wapakoneta	OH	40.6	-84.1	1	
+2208	09/18/13	Wapakoneta	OH	40.6	-84.1	1	
+2209	09/18/13	Waterford	NY	42.8	-73.7	1	
+2210	09/17/13	Rochester	NY	43.2	-77.6	1	
+2211	09/17/13	Greensboro	NC	36.1	-79.8	1	
+2212	09/17/13	SAN SABA	TX	31.1	-98.8	1	
+2213	09/17/13	Albuquerque	NM	35.1	-106.6	1	
+2214	09/17/13	willis	TX	30.4	-95.5	2	
+2215	09/17/13	Lancaster	PA	40.1	-76.3	1	
+2216	09/17/13	McMurray	PA	40.3	-80.1	1	
+2217	09/17/13	Ann Arbor	MI	42.3	-83.8	1	
+2218	09/17/13	Grapevine	TX	32.9	-97.1	1	
+2219	09/17/13	Murfreesboro	TN	35.9	-86.4	1	
+2220	09/17/13	Kennebunkport	ME	43.4	-70.5	1	
+2221	09/17/13	Greensboro	NC	36.1	-79.8	1	
+2222	09/17/13	Keller	TX	32.9	-97.3	1	
+2223	09/17/13	Salt Lake City	UT	40.8	-111.9	1	
+2224	09/17/13	Garden City	KS	38	-100.9	2	
+2225	09/17/13	Delta	CO	38.7	-108.2	1	
+2226	09/17/13	Medford	NJ	39.9	-74.8	1	
+2227	09/17/13	Abilene	TX	32.5	-99.7	5	
+2228	09/17/13	safety harbor	FL	28	-82.7	4	
+2229	09/17/13	Burlington	ON	43.4	-79.8	1	
+2230	09/17/13	North Platte	NE	41.1	-100.8	1	
+2231	09/17/13	Toronto	ON	43.7	-79.4	2	
+2232	09/17/13	Babylon	NY	40.6	-73.2	15	
+2233	09/17/13	Lincoln	NE	40.8	-96.7	5	
+2234	09/17/13	Chandler	AZ	33.3	-111.9	4	
+2235	09/17/13	ClarkLake	MI	42.1	-84.4	1	
+2236	09/17/13	Nibley	UT	41.7	-111.6	2	
+2237	09/17/13	Orwell	OH	41.5	-80.8	1	
+2238	09/17/13	Ballston Spa	NY	43	-73.9	2	
+2239	09/17/13	East Grand Rapids	MI	42.9	-85.6	1	
+2240	09/17/13	Ballwin	MO	38.6	-90.6	1	
+2241	09/17/13	Chicago	IL	41.9	-87.6	1	
+2242	09/17/13	Stillman Valley	IL	42.1	-89.2	3	
+2243	09/17/13	Yorktown	VA	37.2	-76.6	2	
+2244	09/17/13	Catawissa	MO	38.4	-90.8	1	
+2245	09/17/13	Portage	MI	42.2	-85.6	1	
+2246	09/17/13	duluth	MN	47.1	-91.9	1	
+2247	09/17/13	Wyoming	PA	41.3	-75.9	1	
+2248	09/17/13	Murfreesboro	TN	35.9	-86.4	1	
+2249	09/17/13	Presto	PA	40.4	-80.1	1	
+2250	09/17/13	Wheaton	MD	39	-77.1	1	
+2251	09/17/13	Plains	GA	32	-84.4	1	
+2252	09/17/13	Kansas City	MO	39.2	-94.6	1	
+2253	09/17/13	Cleveland Heights	OH	41.5	-81.6	2	
+2254	09/17/13	Wapakoneta	OH	40.6	-84.1	1	
+2255	09/17/13	salt lake city	UT	40.8	-111.9	2	
+2256	09/16/13	London	AR	35.3	-93.2	3	
+2257	09/16/13	Blairsville	GA	34.9	-84	1	
+2258	09/16/13	Greensboro	NC	36.1	-79.8	1	
+2259	09/16/13	Mary Esther	FL	30.4	-86.8	1	
+2260	09/16/13	Godfrey	IL	39	-90.2	1	
+2261	09/16/13	Lexington	KY	38	-84.5	1	
+2262	09/16/13	Beloit	WI	42.5	-89.1	1	
+2263	09/16/13	Candiac	QC	45.4	-73.5	1	
+2264	09/16/13	Clearville Park, Ontario	ON	42.5	-81.8	1	
+2265	09/16/13	Toronto	ON	43.7	-79.4	1	
+2266	09/16/13	Maryville	TN	35.7	-84.1	1	
+2267	09/16/13	willis	TX	30.4	-95.5	2	
+2268	09/16/13	Baldwin	NY	40.7	-73.6	3	
+2269	09/16/13	Crestview Hills	KY	39	-84.6	1	
+2270	09/16/13	Kittery Point	ME	43.1	-70.7	2	
+2271	09/16/13	San Antonio	NM	33.9	-107	1	
+2272	09/16/13	Santa Fe	NM	35.8	-106	1	
+2273	09/16/13	Osceola	WI	45.3	-92.7	1	
+2274	09/16/13	Greenville	GA	33	-84.8	2	
+2275	09/16/13	Tarentum	PA	40.6	-79.8	1	
+2276	09/16/13	Port Stanley	ON	42.7	-81.2	6	
+2277	09/16/13	Amherstburg	ON	42	-83	7	
+2278	09/16/13	North Battleford	SK	52.8	-108.3	1	
+2279	09/16/13	Mer Rouge	LA	32.8	-91.7	3	
+2280	09/16/13	Kenton	OH	40.6	-83.6	2	
+2281	09/16/13	Washington, D.C.	DC	39	-77.3	1	
+2282	09/16/13	Hockessin	DE	39.8	-75.7	3	
+2283	09/16/13	Boonsboro	MD	39.6	-77.6	7	
+2284	09/16/13	Williams	AZ	35.6	-112.4	6	
+2285	09/16/13	Snyder	CO	40.3	-103.6	2	
+2286	09/16/13	Mobile	AL	30.7	-88	2	
+2287	09/16/13	Crestview Hills	KY	39	-84.6	1	
+2288	09/16/13	Menomonie	WI	44.8	-91.9	1	
+2289	09/16/13	Ballston Spa	NY	43	-73.9	1	
+2290	09/16/13	Atlanta	GA	33.8	-84.3	2	
+2291	09/16/13	Lago Vista	TX	30.5	-98	1	
+2292	09/16/13	Justin	TX	33.1	-97.3	1	
+2293	09/16/13	Bountiful	UT	40.9	-111.8	1	
+2294	09/16/13	Bedford	NY	41.2	-73.7	8	
+2295	09/16/13	Pflugerville	TX	30.4	-97.6	2	
+2296	09/16/13	Dallas	TX	32.8	-96.8	1	
+2297	09/16/13	Bushnell	SD	44.3	-96.6	12	
+2298	09/15/13	Toronto	ON	43.7	-79.4	1	
+2299	09/15/13	Toronto	ON	43.7	-79.4	8	
+2300	09/15/13	Syracuse	NY	43	-76.2	2	
+2301	09/15/13	Syracuse	NY	43	-76.2	1	
+2302	09/15/13	Bronx	NY	40.8	-73.9	1	
+2303	09/15/13	Fort Walton Beach	FL	30.4	-86.6	4	
+2304	09/15/13	Lexington	KY	38	-84.5	1	
+2305	09/15/13	Gladstone	MO	39.2	-94.6	2	
+2306	09/15/13	Long Point	ON	42.6	-80.4	2	
+2307	09/15/13	Olney	MD	39.2	-77.1	1	
+2308	09/15/13	lake dallas	TX	33.1	-97	1	
+2309	09/15/13	Sedalia	MO	38.7	-93.3	8	
+2310	09/15/13	Gladstone	MO	39.2	-94.6	3	
+2311	09/15/13	Watertown	MA	42.4	-71.2	1	
+2312	09/15/13	Rye	NY	41	-73.9	1	
+2313	09/15/13	Gaithersburg	MD	39.1	-77.2	3	
+2314	09/15/13	Houston	TX	29.8	-95.4	1	
+2315	09/15/13	Gaithersburg	MD	39.1	-77.2	3	
+2316	09/15/13	Winston-Salem	NC	36.1	-80.2	1	
+2317	09/15/13	columbia	MS	31.2	-89.8	2	
+2318	09/15/13	Dillsburg	PA	40.1	-77	1	
+2319	09/15/13	East Greenville	PA	40.4	-75.5	2	
+2320	09/15/13	Lancaster	PA	40.1	-76.3	1	
+2321	09/15/13	St-stanislas de kostka	QC	45.2	-74.1	1	
+2322	09/15/13	Tunbridge	VT	43.9	-72.5	1	
+2323	09/15/13	Robert Moses Beach	NY	40.6	-73.3	7	
+2324	09/15/13	Middletown	NY	41.5	-74.4	4	
+2325	09/15/13	Inverness	FL	28.8	-82.3	1	
+2326	09/15/13	Charlottesville	VA	38.1	-78.4	1	
+2327	09/15/13	norristown	PA	40.1	-75.3	5	
+2328	09/15/13	newport News	VA	37.1	-76.5	1	
+2329	09/15/13	Wadena	MN	46.5	-95.1	1	
+2330	09/15/13	saratoga springs	NY	43.1	-73.8	1	
+2331	09/15/13	Bedford	NY	41.2	-73.7	4	
+2332	09/15/13	Rockland Lake	NY	41.1	-73.9	2	
+2333	09/15/13	Westminster	MD	39.5	-77	1	
+2334	09/15/13	Blairstown	NJ	41	-75	1	
+2335	09/15/13	Concord	NH	43.2	-71.6	1	
+2336	09/15/13	Kirkwood	MO	38.6	-90.4	3	
+2337	09/15/13	cape girardeau	MO	37.3	-89.6	1	
+2338	09/15/13	Clearville Park	ON	42.5	-81.8	4	
+2339	09/15/13	Halfmoon	NY	42.9	-73.7	2	
+2340	09/15/13	Rye	NH	43	-70.8	1	
+2341	09/15/13	cody	WY	44.5	-109.6	1	
+2342	09/15/13	Wakefield	QC	45.6	-75.9	1	
+2343	09/15/13	Junction	TX	30.4	-99.6	1	
+2344	09/15/13	Bronx	NY	40.8	-73.9	1	
+2345	09/15/13	Organ	NM	32.5	-106.9	1	
+2346	09/15/13	Las Cruces	NM	32.3	-106.7	2	
+2347	09/15/13	San Saba	TX	31.1	-98.8	2	
+2348	09/15/13	Westfield	MA	42.2	-72.8	1	
+2349	09/15/13	Byron	MN	44	-92.6	1	
+2350	09/15/13	Walpole	MA	42.1	-71.3	1	
+2351	09/15/13	Groton	MA	42.6	-71.6	1	
+2352	09/15/13	Hockessin	DE	39.8	-75.7	4	
+2353	09/15/13	Washington	DC	38.9	-77	1	
+2354	09/15/13	Tupper Lake	NY	44.2	-74.4	2	
+2355	09/15/13	Elkridge	MD	39.2	-76.7	1	
+2356	09/15/13	Wall Township	NJ	40.2	-74.1	2	
+2357	09/15/13	Webster Groves	MO	38.6	-90.4	4	
+2358	09/15/13	ann arbor	MI	42.3	-83.8	1	
+2359	09/15/13	Bushnell	SD	44.3	-96.6	6	
+2360	09/15/13	Sabinsville	PA	41.8	-77.5	1	
+2361	09/15/13	Atlantic City	NJ	39.4	-74.4	1	
+2362	09/15/13	cloverdale	CA	38.8	-123	1	
+2363	09/15/13	Delaware	OH	40.3	-83.1	3	
+2364	09/15/13	lake ozark	MO	38.2	-92.7	10	
+2365	09/15/13	Osage Beach	MO	38.1	-92.7	3	
+2366	09/14/13	Conyers	GA	33.7	-84	1	
+2367	09/14/13	Toronto	ON	43.7	-79.4	4	
+2368	09/14/13	Middle Village	NJ	40.7	-73.9	1	
+2369	09/14/13	Webster Groves	MO	38.6	-90.4	7	
+2370	09/14/13	Gladstone	MO	39.2	-94.6	4	
+2371	09/14/13	Long Point	ON	42.6	-80.4	1	
+2372	09/14/13	Hesston	KS	38.1	-97.5	1	
+2373	09/14/13	New Hampton	NY	41.3	-74.5	3	
+2374	09/14/13	richmond hill	ON	43.9	-79.5	1	
+2375	09/14/13	SCARBOROUGH	ON	43.8	-79.3	1	
+2376	09/14/13	Port Stanley	ON	42.7	-81.2	8	
+2377	09/14/13	Harrisville	MI	44.6	-83.4	27	
+2378	09/14/13	Keller	TX	32.9	-97.3	1	
+2379	09/14/13	columbia	MS	31.2	-89.8	1	
+2380	09/14/13	mesa	AZ	33.4	-111.8	2	
+2381	09/14/13	Burleson	TX	32.5	-97.3	1	
+2382	09/14/13	Lansing	MI	42.7	-84.6	1	
+2383	09/14/13	Aurora	OH	41.3	-81.3	1	
+2384	09/14/13	Central City	PA	40.1	-78.8	4	
+2385	09/14/13	king george	VA	38.3	-77.1	1	
+2386	09/14/13	Delafield	WI	43	-88.4	5	
+2387	09/14/13	Denbigh	VA	37.1	-76.4	1	
+2388	09/14/13	Franklin Township	NJ	40.5	-74.5	1	
+2389	09/14/13	Cape St. Claire	MD	39	-76.4	1	
+2390	09/14/13	West Jefferson	NC	36.4	-81.5	1	
+2391	09/14/13	mountain top	PA	41.1	-76	1	
+2392	09/14/13	Friendswood	TX	29.5	-95.2	1	
+2393	09/14/13	Toronto	ON	43.7	-79.4	15	
+2394	09/14/13	Coleman	TX	31.9	-99.4	3	
+2395	09/14/13	Hastings-on-Hudson	NY	41	-73.9	1	
+2396	09/14/13	Hastings-on-Hudson	NY	41	-73.9	1	
+2397	09/14/13	Hastings-on-Hudson	NY	41	-73.9	1	
+2398	09/14/13	Minneapolis	MN	45	-93.3	1	
+2399	09/14/13	Middletown	NY	41.5	-74.4	4	
+2400	09/14/13	Belleville	ON	44.2	-77.4	1	
+2401	09/14/13	Stephenville	TX	32.2	-98.2	1	
+2402	09/14/13	Maidstone	ON	42.2	-82.9	1	
+2403	09/14/13	Edgartown	MA	41.4	-70.5	4	
+2404	09/14/13	Organ	NM	32.5	-106.9	1	
+2405	09/14/13	North Platte	NE	41.1	-100.8	3	
+2406	09/14/13	mequon	WI	43.2	-88	1	
+2407	09/14/13	Buffalo	NY	42.9	-78.9	1	
+2408	09/14/13	Stony Brook	NY	40.9	-73.1	3	
+2409	09/14/13	Webster Groves	MO	38.6	-90.4	1	
+2410	09/14/13	Canelo	AZ	31.5	-110.5	117	
+2411	09/14/13	San Rafael Valley	AZ	31.4	-110.6	40	
+2412	09/14/13	Payson	AZ	34.1	-111.2	15	
+2413	09/14/13	Tucson	AZ	32.2	-111	3	
+2414	09/14/13	Kansas City	MO	39.1	-94.6	2	
+2415	09/14/13	Woodstock	MD	39.3	-76.9	1	
+2416	09/14/13	Severn Bridge	ON	44.8	-79.3	1	
+2417	09/14/13	Big Rock	IL	41.8	-88.5	1	
+2418	09/14/13	robinsonville	MS	34.8	-90.3	1	
+2419	09/14/13	jackson	NJ	40.1	-74.4	1	
+2420	09/14/13	Clearville Park, Ontario	ON	42.5	-81.8	4	
+2421	09/14/13	Cuauhtemoc	CHH	28	-107.1	1	
+2422	09/14/13	Kansas City	MO	39.2	-94.6	3	
+2423	09/14/13	Connellsville	PA	40	-79.6	4	
+2424	09/14/13	Hyannisport	MA	41.7	-70.2	1	
+2425	09/13/13	Londonderry	NH	42.9	-71.4	1	
+2426	09/13/13	Thomson	GA	33.5	-82.5	1	
+2427	09/13/13	Pendleton	NY	43.1	-78.7	1	
+2428	09/13/13	Corolla	NC	36.4	-75.8	1	
+2429	09/13/13	NEW IPSWICH	NH	42.7	-71.9	1	
+2430	09/13/13	Ruckersville	VA	38.2	-78.4	1	
+2431	09/13/13	Fayetteville	AR	36	-94.1	1	
+2432	09/13/13	Papillion	NE	41.2	-96	1	
+2433	09/13/13	Gladstone	MO	39.2	-94.6	1	
+2434	09/13/13	Mer Rouge	LA	32.8	-91.7	2	
+2435	09/13/13	mequon	WI	43.2	-88	1	
+2436	09/13/13	Stover	MO	38.4	-93	1	
+2437	09/13/13	Elverson	PA	40.2	-75.8	1	
+2438	09/13/13	Pottstown	PA	40.3	-75.6	1	
+2439	09/13/13	Churdan	IA	42.2	-94.5	1	
+2440	09/13/13	Port Stanley	ON	42.7	-81.2	32	
+2441	09/13/13	Junction	TX	30.4	-99.6	1	
+2442	09/13/13	Waterloo	IA	42.4	-92.3	5	
+2443	09/13/13	Glen Rose, TX	TX	32.1	-97.9	1	
+2444	09/13/13	Allen	TX	33.1	-96.6	4	
+2445	09/13/13	Hillsboro	MO	38.2	-90.6	1	
+2446	09/13/13	Virginia Beach	VA	36.8	-76.2	1	
+2447	09/13/13	Kansas City	MO	39.2	-94.6	2	
+2448	09/13/13	Bartlett	TN	35.2	-89.9	1	
+2449	09/13/13	Carbondale	IL	37.7	-89.2	1	
+2450	09/13/13	Robert Moses Beach	NY	40.6	-73.3	5	
+2451	09/13/13	Blairstown	NJ	41	-75	4	
+2452	09/13/13	Spring	TX	30.1	-95.4	6	
+2453	09/13/13	Point Pelee National Park	ON	42	-82.5	1	
+2454	09/13/13	Madison	WI	43	-89.4	1	
+2455	09/13/13	Washington, D.C.	DC	39	-77.3	1	
+2456	09/13/13	Superior	AZ	33.3	-111.2	3	
+2457	09/13/13	sheboygan	WI	43.8	-88	43	
+2458	09/13/13	Nerstrand	MN	44.4	-93.1	2	
+2459	09/13/13	Wapakoneta	OH	40.6	-84.1	1	
+2460	09/12/13	Chicago	IL	42	-87.8	36	
+2461	09/12/13	Ormond Beach	FL	29.3	-81.1	1	
+2462	09/12/13	Oak Bluffs	MA	41.4	-70.6	1	
+2463	09/12/13	Kansas City	MO	39.3	-94.6	1	
+2464	09/12/13	Lansing	IL	41.6	-87.5	6	
+2465	09/12/13	North Platte	NE	41.1	-100.8	1	
+2466	09/12/13	melrose	NY	42.9	-73.6	4	
+2467	09/12/13	Thomson	GA	33.5	-82.5	4	
+2468	09/12/13	Pittsford	MI	41.9	-84.4	5	
+2469	09/12/13	Oak Park	MI	42.5	-83.2	1	
+2470	09/12/13	Palmer Rapids	ON	45.3	-77.5	1	
+2471	09/12/13	Metamora, MI	MI	42.7	-83.1	1	
+2472	09/12/13	Hampton	NJ	40.7	-75	1	
+2473	09/12/13	New Caney	TX	30.2	-95.2	2	
+2474	09/12/13	Katy	TX	29.8	-95.7	3	
+2475	09/12/13	Bulverde	TX	29.8	-98.5	1	
+2476	09/12/13	EDGERTON	OH	41.4	-84.7	1	
+2477	09/12/13	Cadiz	KY	36.8	-87.9	10	
+2478	09/12/13	New Douglas	IL	39	-89.7	2	
+2479	09/12/13	latrobe	PA	40.3	-79.4	2	
+2480	09/12/13	North Platte	NE	41.1	-100.8	2	
+2481	09/12/13	Harrisville	MI	44.6	-83.4	13	
+2482	09/12/13	Topeka	KS	39.1	-95.7	1	
+2483	09/12/13	Bulverde	TX	29.8	-98.5	5	
+2484	09/12/13	Alice	TX	27.7	-98.1	3	
+2485	09/12/13	Urbana	IL	40.1	-88.2	1	
+2486	09/12/13	Lake Elmore	VT	44.5	-72.5	1	
+2487	09/12/13	Porter, ME	NH	43.8	-71	1	
+2488	09/12/13	Homeworth	OH	40.9	-81.1	4	
+2489	09/12/13	waupun	WI	43.8	-88.5	1	
+2490	09/12/13	St. Paul	AR	35.9	-93.7	1	
+2491	09/12/13	LaGrange	KY	38.4	-85.3	4	
+2492	09/12/13	Syria	VA	38.5	-78.4	1	
+2493	09/12/13	Apalachicola	FL	29.7	-85.1	10	
+2494	09/12/13	oglesby	IL	41.3	-89	2	
+2495	09/12/13	Amherstburg	ON	42	-83	7	
+2496	09/12/13	Danville	KY	37.6	-84.8	2	
+2497	09/12/13	Mechanicstown	OH	40.6	-81	1	
+2498	09/12/13	Troy	NY	42.7	-73.6	1	
+2499	09/12/13	Mesa	AZ	33.4	-111.8	3	
+2500	09/12/13	Lookout Mountain	TN	35	-85.4	1	
+2501	09/12/13	Topeka	KS	39.1	-95.7	2	
+2502	09/12/13	Herndon	VA	39	-77.4	1	
+2503	09/12/13	Chicago	IL	41.9	-87.6	4	
+2504	09/12/13	Chandler	AZ	33.3	-111.9	12	
+2505	09/12/13	Arivaca	AZ	32	-110.8	3	
+2506	09/12/13	Oxford	AL	33.6	-85.8	4	
+2507	09/12/13	ann arbor	MI	42.3	-83.8	1	
+2508	09/12/13	Cridersville	OH	40.7	-84.1	1	
+2509	09/12/13	Essex Junction	VT	44.5	-73.1	1	
+2510	09/12/13	Tustin	CA	33.7	-117.8	1	
+2511	09/11/13	severna park	MD	39.1	-76.6	1	
+2512	09/11/13	Minneapolis	MN	45	-93.3	2	
+2513	09/11/13	mountain top	PA	41.1	-76	6	
+2514	09/11/13	North Platte	NE	41.1	-100.8	1	
+2515	09/11/13	saratoga springs	NY	43.1	-73.8	1	
+2516	09/11/13	Bridgeview	IL	41.8	-87.8	1	
+2517	09/11/13	Decatur	GA	33.8	-84.3	1	
+2518	09/11/13	White Oak	OK	36.6	-95.3	1	
+2519	09/11/13	Christiana	PA	39.9	-76	1	
+2520	09/11/13	beach haven	NJ	39.6	-74.2	1	
+2521	09/11/13	Troy	MI	42.6	-83.1	1	
+2522	09/11/13	Catonsville	MD	39.3	-76.7	1	
+2523	09/11/13	Minnetonka	MN	44.9	-93.5	3	
+2524	09/11/13	Abilene	TX	32.5	-99.7	1	
+2525	09/11/13	St. Peters	MO	38.8	-90.7	1	
+2526	09/11/13	Wadena	MN	46.5	-95.1	2	
+2527	09/11/13	Coyle	OK	35.9	-97.2	7	
+2528	09/11/13	Wautoma	WI	44.1	-89.3	1	
+2529	09/11/13	Bloomington	MN	44.8	-93.3	6	
+2530	09/11/13	WINSTON SALEM	NC	36.1	-80.2	1	
+2531	09/11/13	Harrisville	MI	44.6	-83.4	1	
+2532	09/11/13	Wautoma	WI	44.1	-89.3	2	
+2533	09/11/13	Florence KY	KY	39	-84.6	15	
+2534	09/11/13	Lancaster	PA	40.1	-76.3	1	
+2535	09/11/13	Bearsville	NY	42	-74.2	1	
+2536	09/11/13	Chalk Mountain	TX	32.1	-97.9	1	
+2537	09/11/13	New Market	TN	36.1	-83.6	1	
+2538	09/11/13	Corcoran	MN	45.1	-93.5	1	
+2539	09/11/13	Joplin	MO	37.1	-94.5	1	
+2540	09/11/13	Minneapolis	MN	45	-93.3	2	
+2541	09/11/13	Round Lake	NY	42.9	-73.8	1	
+2542	09/11/13	West Yarmouth	MA	41.7	-70.2	1	
+2543	09/11/13	West Yarmouth	MA	41.7	-70.2	1	
+2544	09/11/13	Willowick	OH	41.7	-81.4	1	
+2545	09/11/13	Fishs Eddy	NY	42	-75.2	1	
+2546	09/11/13	El Dorado	CA	38.6	-120.9	1	
+2547	09/11/13	Tupper Lake	NY	44.2	-74.4	1	
+2548	09/11/13	Budd Lake	NJ	40.9	-74.8	1	
+2549	09/11/13	Olmsted Falls	OH	41.4	-81.9	1	
+2550	09/11/13	Lancaster	PA	40.1	-76.3	45	
+2551	09/11/13	melrose	NY	42.9	-73.6	1	
+2552	09/11/13	Two Rivers	WI	44.2	-87.6	1	
+2553	09/11/13	Byron	MN	44	-92.6	4	
+2554	09/11/13	Churdan	IA	42.2	-94.5	1	
+2555	09/11/13	Kenton	OH	40.6	-83.6	1	
+2556	09/11/13	Madison	WI	43.1	-89.4	1	
+2557	09/11/13	Webster Groves	MO	38.6	-90.4	7	
+2558	09/11/13	Sedgwick	ME	44.3	-68.6	4	
+2559	09/11/13	Sonoma	CA	38.4	-122.5	2	
+2560	09/11/13	Yonkers	NY	40.9	-73.9	1	
+2561	09/11/13	galloway	NJ	39.5	-74.5	1	
+2562	09/11/13	Kalamazoo	MI	42.2	-85.5	1	
+2563	09/11/13	Toronto	ON	43.7	-79.4	1	
+2564	09/11/13	Yorktown	VA	37.2	-76.6	6	
+2565	09/11/13	Poquoson	VA	37.1	-76.4	2	
+2566	09/11/13	Maidstone	ON	42.2	-82.9	1	
+2567	09/11/13	Abilene	TX	32.5	-99.7	3	
+2568	09/11/13	Rochester	NY	43.2	-77.6	1	
+2569	09/11/13	Lenexa	KS	39	-94.7	1	
+2570	09/11/13	Park City	UT	40.7	-111.5	1	
+2571	09/11/13	Northville	MI	42.4	-83.5	1	
+2572	09/11/13	Coppell	TX	33	-97	2	
+2573	09/11/13	Pasadena	CA	34.1	-118.2	2	
+2574	09/11/13	St. Paul	AR	35.9	-93.7	1	
+2575	09/11/13	cherokee	OK	36.8	-98.4	1	
+2576	09/11/13	Toronto	ON	43.7	-79.4	1	
+2577	09/11/13	new franken	WI	44.6	-87.8	1	
+2578	09/11/13	Burleson	TX	32.5	-97.3	1	
+2579	09/11/13	ClarkLake	MI	42.1	-84.4	1	
+2580	09/11/13	Bluffton	SC	32.2	-80.9	6	
+2581	09/11/13	Hinsdale	IL	41.8	-87.9	1	
+2582	09/11/13	Minden	ON	44.9	-78.7	1	
+2583	09/11/13	Madison	WI	43	-89.4	1	
+2584	09/11/13	Madison	WI	43	-89.4	1	
+2585	09/11/13	Madison	WI	43	-89.4	1	
+2586	09/11/13	Herndon	VA	39	-77.4	1	
+2587	09/11/13	Chicago	IL	41.9	-87.6	2	
+2588	09/11/13	Kerrville	TX	30	-99.1	2	
+2589	09/10/13	Dallas	TX	32.8	-96.8	1	
+2590	09/10/13	Palmer Rapids	ON	45.3	-77.5	1	
+2591	09/10/13	Austin	TX	30.2	-97.7	1	
+2592	09/10/13	Fort Wayne	IN	41.1	-85.2	1	
+2593	09/10/13	lasalle	ON	42.2	-83.1	1	
+2594	09/10/13	Homeworth	OH	40.9	-81.1	12	
+2595	09/10/13	Sibley	IA	43.4	-95.7	3	
+2596	09/10/13	Port Stanley	ON	42.7	-81.2	11	
+2597	09/10/13	Minnetonka	MN	44.9	-93.5	5	
+2598	09/10/13	Russellville	AR	35.3	-93.1	1	
+2599	09/10/13	Russellville	AR	35.3	-93.1	1	
+2600	09/10/13	Minnetrista	MN	44.9	-93.7	2	
+2601	09/10/13	Ostrander	OH	40.3	-83.2	1	
+2602	09/10/13	Minneapolis	MN	45	-93.3	3	
+2603	09/10/13	Christiana	PA	39.9	-76	1	
+2604	09/10/13	Placerville	CA	38.7	-120.8	1	
+2605	09/10/13	Ilderton	ON	43.1	-81.4	1	
+2606	09/10/13	Kenton	OH	40.6	-83.6	1	
+2607	09/10/13	McCordsville	IN	39.9	-85.9	2	
+2608	09/10/13	Eastpointe	MI	42.5	-82.9	1	
+2609	09/10/13	Long Island	ME	43.7	-70.2	1	
+2610	09/10/13	Newcastle	OK	35.2	-97.6	20	
+2611	09/10/13	Horsham	PA	40.2	-75.2	1	
+2612	09/10/13	Yonkers	NY	41	-73.9	1	
+2613	09/10/13	Lewes	DE	38.8	-75.1	1	
+2614	09/10/13	Gray Summit	MO	38.5	-90.8	1	
+2615	09/10/13	Presto	PA	40.4	-80.1	1	
+2616	09/10/13	Chalk Mountain	TX	32.1	-97.9	1	
+2617	09/10/13	Pacifica	CA	37.6	-122.5	1	
+2618	09/10/13	Danville	KY	37.6	-84.8	1	
+2619	09/10/13	Mer Rouge	LA	32.8	-91.7	1	
+2620	09/10/13	Chicago	IL	41.9	-87.6	1	
+2621	09/10/13	maypearl	TX	32.3	-97	1	
+2622	09/10/13	Webster Groves	MO	38.6	-90.4	3	
+2623	09/10/13	Howell	MI	42.6	-83.9	1	
+2624	09/10/13	Choctaw	OK	35.5	-97.3	1	
+2625	09/10/13	Lenexa	KS	39	-94.7	3	
+2626	09/10/13	Pacific Ocean	CA	35.2	-121.1	1	
+2627	09/10/13	Severn Bridge	ON	44.8	-79.3	2	
+2628	09/10/13	Roseland	VA	37.8	-79	2	
+2629	09/10/13	Port Stanley	ON	42.7	-81.2	11	
+2630	09/10/13	Wayzata	MN	45	-93.5	6	
+2631	09/10/13	Chicago	IL	41.9	-87.6	1	
+2632	09/10/13	Chicago	IL	41.9	-87.6	1	
+2633	09/10/13	Melbourne	ON	42.8	-81.6	2	
+2634	09/10/13	Chicago	IL	41.9	-87.6	4	
+2635	09/10/13	Leamington	ON	42.1	-82.6	57	
+2636	09/10/13	Washington, D.C.	DC	39	-77.3	1	
+2637	09/09/13	Lexington	MA	42.4	-71.2	1	
+2638	09/09/13	Ballwin	MO	38.6	-90.6	2	
+2639	09/09/13	Ormond Beach	FL	29.3	-81.1	1	
+2640	09/09/13	mequon	WI	43.2	-88	5	
+2641	09/09/13	Portage	MI	42.2	-85.6	1	
+2642	09/09/13	Watertown	MA	42.4	-71.2	1	
+2643	09/09/13	mequon	WI	43.2	-88	1	
+2644	09/09/13	Homeworth	OH	40.9	-81.1	5	
+2645	09/09/13	Ontario	NY	43.2	-77.3	1	
+2646	09/09/13	Nesseqogue	NY	40.9	-73.2	1	
+2647	09/09/13	Whitefield	NH	44.3	-71.6	1	
+2648	09/09/13	Tyaskin	MD	38.2	-75.9	1	
+2649	09/09/13	Harrisville	MI	44.6	-83.4	3	
+2650	09/09/13	Janesville	WI	42.7	-89.1	1	
+2651	09/09/13	Canton	OH	40.8	-81.4	1	
+2652	09/09/13	Port Stanley	ON	42.7	-81.2	9	
+2653	09/09/13	Los Alamos	NM	35.9	-106.3	1	
+2654	09/09/13	Minneapolis	MN	45	-93.3	1	
+2655	09/09/13	BUXTON	NC	35.2	-75.5	1	
+2656	09/09/13	Herndon	VA	39	-77.4	1	
+2657	09/09/13	Barkhamsted	CT	41.9	-73	4	
+2658	09/09/13	Highland	KS	39.9	-95.2	1	
+2659	09/09/13	Cypress	TX	30	-95.7	1	
+2660	09/09/13	Lancaster	PA	40.1	-76.3	2	
+2661	09/09/13	Hattiesburg	MS	31.2	-89.3	1	
+2662	09/09/13	Santa Fe	NM	35.8	-106	2	
+2663	09/09/13	Lakeville	MN	44.6	-93.2	2	
+2664	09/09/13	Saginaw	TX	32.9	-97.4	2	
+2665	09/09/13	New York	NY	40.8	-74	3	
+2666	09/09/13	Hartley	IA	43.2	-95.5	9	
+2667	09/09/13	Souderton	PA	40.3	-75.3	1	
+2668	09/09/13	Lehighton	PA	40.8	-75.7	1	
+2669	09/09/13	Tupper Lake	NY	44.2	-74.4	1	
+2670	09/09/13	Webster Groves	MO	38.6	-90.4	3	
+2671	09/09/13	columbia	MS	31.2	-89.8	3	
+2672	09/09/13	Washington	DC	38.9	-77	2	
+2673	09/09/13	Pretty Prairie	KS	37.8	-98	2	
+2674	09/09/13	Belfountain	ON	43.8	-80	1	
+2675	09/09/13	Smithville	TX	30	-97.1	2	
+2676	09/09/13	Port Stanley	ON	42.7	-81.2	13	
+2677	09/09/13	Madison	WI	43	-89.4	1	
+2678	09/09/13	Burlington	ON	43.4	-79.8	1	
+2679	09/09/13	Berlin	MD	38.3	-75.2	1	
+2680	09/09/13	Toronto	ON	43.7	-79.4	2	
+2681	09/08/13	Grand Island	NE	40.9	-98.3	1	
+2682	09/08/13	Sidney, IL	IL	40	-88.1	1	
+2683	09/08/13	Myrtle Beach	SC	33.8	-78.8	2	
+2684	09/08/13	Bridgeview	IL	41.7	-87.8	2	
+2685	09/08/13	Minnetonka	MN	44.9	-93.5	2	
+2686	09/08/13	Herndon	VA	39	-77.4	1	
+2687	09/08/13	Katy	TX	29.8	-95.7	1	
+2688	09/08/13	Champaign	IL	40.1	-88.2	1	
+2689	09/08/13	newport News	VA	37.1	-76.5	1	
+2690	09/08/13	Camp creek	WV	37.5	-81.1	1	
+2691	09/08/13	Hampton Bay	NY	40.9	-72.5	2	
+2692	09/08/13	Scarborough	ON	43.8	-79.3	9	
+2693	09/08/13	Lancaster	KY	37.7	-84.6	1	
+2694	09/08/13	Keene	NH	42.9	-72.3	1	
+2695	09/08/13	WHITEHALL	PA	40.7	-75.5	1	
+2696	09/08/13	Homeworth	OH	40.9	-81.1	1	
+2697	09/08/13	Pittstown	NJ	40.6	-75	1	
+2698	09/08/13	Sandy Hook	CT	41.4	-73.2	1	
+2699	09/08/13	Claremore	OK	36.3	-95.6	3	
+2700	09/08/13	Wildwood	MO	38.6	-90.6	1	
+2701	09/08/13	Pottstown	PA	40.3	-75.6	3	
+2702	09/08/13	Omaha	NE	41.3	-95.9	12	
+2703	09/08/13	East Greenville	PA	40.4	-75.5	1	
+2704	09/08/13	Geneva	NE	40.5	-97.6	4	
+2705	09/08/13	Jefferson	TX	32.8	-94.3	3	
+2706	09/08/13	Fergus Falls	MN	46.3	-96.1	1	
+2707	09/08/13	Glen Haven	MI	44.9	-86	1	
+2708	09/08/13	Empire	MI	44.8	-86	2	
+2709	09/08/13	Cranberry Marsh Hawk Watch	ON	43.8	-79	7	
+2710	09/08/13	Louisville	TN	35.8	-84	1	
+2711	09/08/13	Wadena	MN	46.5	-95.1	1	
+2712	09/08/13	Bloomingdale	NJ	41	-74.3	2	
+2713	09/08/13	BURLINGTON	CT	41.8	-73	2	
+2714	09/08/13	McCordsville	IN	39.9	-85.9	3	
+2715	09/08/13	Dillsburg	PA	40.1	-77	1	
+2716	09/08/13	Tarpley	TX	29.7	-99.4	1	
+2717	09/08/13	Chapel Hill	NC	35.9	-79	1	
+2718	09/08/13	Saint Joseph	MI	42	-86.5	1	
+2719	09/08/13	Lansing	MI	42.7	-84.6	1	
+2720	09/08/13	Hastings-on-Hudson	NY	41	-73.9	1	
+2721	09/08/13	Chester	CA	40.4	-121.3	3	
+2722	09/08/13	Brookeville	MD	39.2	-77.1	1	
+2723	09/08/13	Mercer	WI	46.2	-90.1	1	
+2724	09/08/13	Maumelle	AR	34.9	-92.4	1	
+2725	09/08/13	Toronto	ON	43.7	-79.4	1	
+2726	09/08/13	Trumbull	CT	41.3	-73.2	1	
+2727	09/08/13	Cub Run	KY	37.3	-86.1	3	
+2728	09/08/13	Chicago	IL	41.9	-87.6	1	
+2729	09/08/13	Berlin	MD	38.3	-75.2	1	
+2730	09/08/13	Ocean City	MD	38.4	-75.1	1	
+2731	09/07/13	New Douglas	IL	39	-89.7	1	
+2732	09/07/13	Dahlonega	GA	34.6	-84	4	
+2733	09/07/13	Webster Groves	MO	38.6	-90.4	24	
+2734	09/07/13	St. Peters	MO	38.8	-90.7	1	
+2735	09/07/13	Pownal	ME	43.9	-70.2	1	
+2736	09/07/13	Pavo	GA	30.9	-83.7	1	
+2737	09/07/13	Mc Kinney	TX	33.2	-96.6	3	
+2738	09/07/13	Myrtle Beach	SC	33.8	-78.8	1	
+2739	09/07/13	Ohiopyle	PA	39.9	-79.5	1	
+2740	09/07/13	North Platte	NE	41.1	-100.8	1	
+2741	09/07/13	Lancaster	OH	39.7	-82.6	1	
+2742	09/07/13	Kenton	OH	40.6	-83.6	1	
+2743	09/07/13	Hampton	NJ	40.7	-75	1	
+2744	09/07/13	McCordsville	IN	39.9	-85.9	1	
+2745	09/07/13	Washington D.C.	DC	38.9	-77	1	
+2746	09/07/13	Mableton	GA	33.8	-84.6	2	
+2747	09/07/13	Canton	MI	42.3	-83.5	1	
+2748	09/07/13	Allen	TX	33.1	-96.6	1	
+2749	09/07/13	Grapevine	TX	32.9	-97.1	1	
+2750	09/07/13	Rhome	TX	33.1	-97.5	2	
+2751	09/07/13	Middleburg Heights	OH	41.4	-81.8	2	
+2752	09/07/13	San Angelo	TX	31.6	-100.5	6	
+2753	09/07/13	new bloomfield	PA	40.4	-77.2	1	
+2754	09/07/13	Whitinsville	MA	42.1	-71.7	1	
+2755	09/07/13	Dudley	MA	42.1	-71.9	1	
+2756	09/07/13	Spencer	IA	43.2	-95.1	6	
+2757	09/07/13	LeSueur	MN	44.5	-93.9	7	
+2758	09/07/13	Moline	IL	41.5	-90.5	1	
+2759	09/07/13	Annandale	VA	38.8	-77.2	1	
+2760	09/07/13	Wayzata	MN	45	-93.5	1	
+2761	09/07/13	Minnetonka	MN	44.9	-93.5	1	
+2762	09/07/13	Wadena	MN	46.5	-95.1	4	
+2763	09/07/13	Lakeland	FL	28	-81.9	10	
+2764	09/07/13	Wadena	MN	46.5	-95.1	1	
+2765	09/07/13	Newtown	PA	40.3	-75	1	
+2766	09/07/13	Matthews	NC	35.1	-80.7	1	
+2767	09/07/13	Snyder	CO	40.3	-103.6	4	
+2768	09/07/13	Snyder	CO	40.3	-103.6	4	
+2769	09/07/13	Westfield	MA	42.2	-72.8	1	
+2770	09/07/13	Westfield	MA	42.2	-72.8	1	
+2771	09/07/13	Houston	TX	29.8	-95.4	1	
+2772	09/07/13	West Warwick	RI	41.7	-71.5	1	
+2773	09/07/13	Viking	MN	48.2	-96.5	1	
+2774	09/07/13	Prescott Valley	AZ	38.6	-121.8	1	
+2775	09/07/13	Lehighton	PA	40.8	-75.7	1	
+2776	09/07/13	Pollock	SD	45.9	-100.3	1	
+2777	09/07/13	ZIONSVILLE	IN	40	-86.3	1	
+2778	09/07/13	Santiago	NL	25.4	-100.1	1	
+2779	09/07/13	Elverson	PA	40.2	-75.8	1	
+2780	09/07/13	Midwest City	OK	35.5	-97.4	3	
+2781	09/07/13	Chicago	IL	41.9	-87.6	1	
+2782	09/07/13	Malta	NY	43	-73.8	2	
+2783	09/06/13	Vincentown	NJ	39.8	-74.6	6	
+2784	09/06/13	farnham	QC	45.3	-73	1	
+2785	09/06/13	Mountain View	OK	35	-98.7	1	
+2786	09/06/13	los angeles	CA	34	-118.2	1	
+2787	09/06/13	los angeles	CA	34	-118.2	1	
+2788	09/06/13	safety harbor	FL	28	-82.7	1	
+2789	09/06/13	Harlingen	TX	26.2	-97.7	1	
+2790	09/06/13	North Platte	NE	41.1	-100.8	1	
+2791	09/06/13	Imlay City	MI	43.1	-83.1	1	
+2792	09/06/13	Whitby	ON	43.9	-78.9	3	
+2793	09/06/13	Moline	IL	41.5	-90.5	1	
+2794	09/06/13	Burkburnett	TX	34.1	-98.6	2	
+2795	09/06/13	Boise	ID	43.7	-116.2	2	
+2796	09/06/13	Whitinsville	MA	42.1	-71.7	1	
+2797	09/06/13	Boise	ID	43.7	-116.2	1	
+2798	09/06/13	New Caney	TX	30.2	-95.2	2	
+2799	09/06/13	Santa Fe	NM	35.8	-106	1	
+2800	09/06/13	genoa	WI	43.6	-91.1	1	
+2801	09/06/13	Homeworth	OH	40.9	-81.1	1	
+2802	09/06/13	Interlaken	NY	42.6	-76.7	3	
+2803	09/06/13	WHITEHALL	PA	40.7	-75.5	1	
+2804	09/06/13	Ilderton	ON	43.1	-81.4	1	
+2805	09/06/13	new franken	WI	44.6	-87.8	2	
+2806	09/06/13	Snyder	CO	40.3	-103.6	1	
+2807	09/06/13	Springfield	MO	37.2	-93.3	3	
+2808	09/06/13	Fishers	IN	40	-86	1	
+2809	09/06/13	McCordsville	IN	39.9	-85.9	1	
+2810	09/06/13	Middletown	NY	41.5	-74.4	1	
+2811	09/06/13	Acworth	GA	34	-84.7	1	
+2812	09/06/13	Kenton	OH	40.6	-83.6	1	
+2813	09/06/13	middletown	PA	40.2	-76.7	1	
+2814	09/06/13	st louis	MO	38.7	-90.4	1	
+2815	09/06/13	greece	NY	43.2	-77.7	1	
+2816	09/06/13	alsip	IL	41.7	-87.7	1	
+2817	09/06/13	Fort Wayne	IN	41.1	-85.2	1	
+2818	09/06/13	fineview	NY	42.6	-76.1	2	
+2819	09/06/13	Presqu'ile Provincial Park	ON	44	-77.7	10	
+2820	09/06/13	Leesburg	VA	39.1	-77.6	2	
+2821	09/06/13	Wadena	MN	46.5	-95.1	1	
+2822	09/06/13	Richfield	UT	38.7	-111.7	1	
+2823	09/06/13	San Antonio	TX	29.7	-98.5	2	
+2824	09/06/13	Tupper Lake	NY	44.2	-74.4	2	
+2825	09/06/13	Essex	ON	42.2	-82.8	2	
+2826	09/06/13	Irmo	SC	34.1	-81.2	1	
+2827	09/05/13	Albuquerque	NM	35.1	-106.6	1	
+2828	09/05/13	North Sandwich	NH	43.9	-71.4	1	
+2829	09/05/13	Homeworth	OH	40.9	-81.1	1	
+2830	09/05/13	Mexico	NY	43.5	-76.2	1	
+2831	09/05/13	Carbondale	IL	37.7	-89.2	1	
+2832	09/05/13	Springfield	MO	37.2	-93.3	1	
+2833	09/05/13	Syracuse	NY	43	-76.2	1	
+2834	09/05/13	New Hampton	NY	41.3	-74.5	2	
+2835	09/05/13	Lexington	VA	37.8	-79.5	1	
+2836	09/05/13	Pottstown	PA	40.3	-75.6	2	
+2837	09/05/13	Atlantic City	NJ	39.4	-74.4	1	
+2838	09/05/13	Norwich	VT	43.8	-72.3	1	
+2839	09/05/13	St. Paul	MN	45	-93.1	1	
+2840	09/05/13	Elko New Market	MN	44.6	-93.3	8	
+2841	09/05/13	Lakeville	MN	44.6	-93.2	2	
+2842	09/05/13	Schenectady	NY	42.8	-74	3	
+2843	09/05/13	GREENVILLE	NH	42.7	-71.8	1	
+2844	09/05/13	Tallahassee	FL	30.4	-84.3	2	
+2845	09/05/13	Scotrun	PA	41.1	-75.3	1	
+2846	09/05/13	Harrisville	MI	44.6	-83.4	1	
+2847	09/05/13	Yorktown	VA	37.2	-76.6	3	
+2848	09/05/13	Saline	MI	42.2	-83.8	1	
+2849	09/05/13	Sabinsville	PA	41.8	-77.5	1	
+2850	09/05/13	Toronto	ON	43.7	-79.4	3	
+2851	09/05/13	Homeworth	OH	40.9	-81.1	3	
+2852	09/05/13	Pennsburg	PA	40.4	-75.5	1	
+2853	09/05/13	Waterloo	ON	43.5	-80.5	2	
+2854	09/05/13	Nunda	NY	42.6	-77.9	1	
+2855	09/05/13	berlin	MD	38.3	-75.2	3	
+2856	09/05/13	Kenton	OH	40.6	-83.6	1	
+2857	09/05/13	Oceanville	NJ	39.3	-74.5	3	
+2858	09/05/13	Nescopeck	PA	41	-76.2	2	
+2859	09/05/13	Belhaven	ON	44.3	-79.4	1	
+2860	09/05/13	New York	NY	40.8	-74	1	
+2861	09/05/13	Dunkirk	MD	38.7	-76.6	1	
+2862	09/05/13	Dallas	TX	32.8	-96.8	1	
+2863	09/05/13	Snyder	CO	40.3	-103.6	3	
+2864	09/05/13	Bloomington	IN	39.2	-86.5	2	
+2865	09/05/13	Aquinnah	MA	41.3	-70.8	3	
+2866	09/05/13	Marietta	GA	33.9	-84.5	1	
+2867	09/05/13	Bow	NH	43.1	-71.5	1	
+2868	09/05/13	Lancaster	PA	40.1	-76.3	2	
+2869	09/05/13	park ridge	IL	42	-87.8	2	
+2870	09/05/13	Barrington	NH	43.2	-71	1	
+2871	09/05/13	Dallas	TX	32.8	-96.8	1	
+2872	09/05/13	Imlay City	MI	43.1	-83.1	1	
+2873	09/05/13	Santa Fe	NM	35.8	-106	1	
+2874	09/05/13	Santa Fe	NM	35.8	-106	1	
+2875	09/05/13	Toronto	ON	43.7	-79.4	4	
+2876	09/05/13	Sparta	WI	44	-90.8	2	
+2877	09/05/13	Acworth	GA	34	-84.7	1	
+2878	09/05/13	Lyons	NE	42	-96.5	12	
+2879	09/05/13	Bartlesville	OK	36.7	-96.1	2	
+2880	09/05/13	Greenville	SC	34.8	-82.4	1	
+2881	09/05/13	Bishop	CA	37.4	-118.4	6	
+2882	09/05/13	Chicago	IL	41.9	-87.6	1	
+2883	09/05/13	Montebello	QC	45.7	-74.9	1	
+2884	09/04/13	Newcastle	OK	35.2	-97.6	1	
+2885	09/04/13	Dysart	IA	42.2	-92.4	1	
+2886	09/04/13	Coloma	MI	42.2	-86.3	1	
+2887	09/04/13	Norwich	VT	43.8	-72.3	1	
+2888	09/04/13	near paris	KY	38	-84.5	1	
+2889	09/04/13	Guthrie	OK	35.8	-97.5	1	
+2890	09/04/13	Burlington	CT	41.8	-73	1	
+2891	09/04/13	lasalle	ON	42.2	-83.1	2	
+2892	09/04/13	Cross Lanes	WV	38.4	-81.8	1	
+2893	09/04/13	Ft. Leavenworth	KS	39.1	-95	1	
+2894	09/04/13	Norwich	VT	43.8	-72.3	1	
+2895	09/04/13	Glen Mills	PA	39.9	-75.5	1	
+2896	09/04/13	Harrisville	MI	44.6	-83.4	5	
+2897	09/04/13	freeport	FL	30.5	-86.2	5	
+2898	09/04/13	Minnetonka	MN	44.9	-93.5	2	
+2899	09/04/13	CHESAPEAKE	VA	36.7	-76.2	1	
+2900	09/04/13	mequon	WI	43.2	-88	1	
+2901	09/04/13	Ormond Beach	FL	29.3	-81.2	1	
+2902	09/04/13	Yorktown	VA	37.2	-76.6	6	
+2903	09/04/13	Middletown	NY	41.5	-74.4	1	
+2904	09/04/13	Kemble	ON	44.7	-80.9	3	
+2905	09/04/13	Bixby	OK	35.9	-95.8	2	
+2906	09/04/13	Presto	PA	40.4	-80.1	1	
+2907	09/04/13	Whitinsville	MA	42.1	-71.7	1	
+2908	09/04/13	Chattanooga	TN	35	-85.2	1	
+2909	09/04/13	Stamford	CT	41.1	-73.5	1	
+2910	09/04/13	La Crosse	WI	43.8	-91.2	3	
+2911	09/04/13	Tallahassee	FL	30.5	-84.3	1	
+2912	09/04/13	Flower Mound	TX	33	-97.1	1	
+2913	09/04/13	Flag Pond	TN	36	-82.6	1	
+2914	09/04/13	Moline	IL	41.5	-90.5	1	
+2915	09/04/13	Ruidoso	NM	33.4	-105.6	1	
+2916	09/04/13	Acworth	GA	34	-84.7	1	
+2917	09/04/13	Saint Augustine	FL	29.9	-81.3	1	
+2918	09/04/13	Garland	TX	32.9	-96.6	1	
+2919	09/04/13	Rosetta McClain Gardens Raptor Watc	ON	43.8	-79.3	7	
+2920	09/04/13	Groton	MA	42.6	-71.6	1	
+2921	09/04/13	Lehighton	PA	40.8	-75.7	1	
+2922	09/04/13	Interlaken	NY	42.6	-76.7	3	
+2923	09/04/13	West Tisbury	MA	41.4	-70.7	1	
+2924	09/04/13	Deerfield	MA	42.5	-72.6	1	
+2925	09/04/13	Hesston	KS	38.1	-97.5	1	
+2926	09/04/13	Kenton	OH	40.6	-83.6	2	
+2927	09/04/13	Chesterfield	MI	42.7	-82.8	2	
+2928	09/04/13	Hartley	IA	43.2	-95.5	37	
+2929	09/04/13	Denair	CA	37.5	-120.7	1	
+2930	09/04/13	owen sound	ON	44.6	-80.9	1	
+2931	09/04/13	Chesterfield	VA	37.4	-77.6	1	
+2932	09/04/13	Millersville	MD	39.1	-76.6	1	
+2933	09/04/13	San Angelo	TX	31.6	-100.5	1	
+2934	09/04/13	Cayuga County	NY	43	-76.6	4	
+2935	09/04/13	Spring	TX	30.1	-95.4	4	
+2936	09/04/13	Key Largo	FL	25.2	-80.4	10	
+2937	09/04/13	Brighton	ON	44	-77.7	1	
+2938	09/04/13	portland	AR	33.2	-91.5	1	
+2939	09/04/13	Webster Groves	MO	38.6	-90.4	8	
+2940	09/04/13	Black River Falls	WI	44.3	-90.8	2	
+2941	09/04/13	Portsmouth	OH	38.8	-82.9	1	
+2942	09/04/13	Sauble Beach	ON	44.6	-81.3	1	
+2943	09/04/13	Columbus	OH	40.1	-83	1	
+2944	09/04/13	Bloomington	MN	44.8	-93.3	4	
+2945	09/04/13	Jefferson	TX	32.8	-94.3	6	
+2946	09/04/13	Carlsbad	CA	33.2	-117.3	3	
+2947	09/04/13	High Point	NC	36	-80	2	
+2948	09/04/13	Wellsboro	PA	41.7	-77.4	1	
+2949	09/04/13	Middletown	NY	41.5	-74.4	1	
+2950	09/04/13	Austin	TX	30.2	-97.7	3	
+2951	09/04/13	clayton	NY	44.2	-76.1	1	
+2952	09/04/13	Camlachie	ON	43	-82.2	1	
+2953	09/04/13	Chicago	IL	41.9	-87.6	2	
+2954	09/04/13	Wapakoneta	OH	40.6	-84.1	2	
+2955	09/04/13	Wapakoneta	OH	40.6	-84.1	1	
+2956	09/03/13	Altoona	IA	41.6	-93.7	1	
+2957	09/03/13	Murfreesboro	TN	35.9	-86.4	1	
+2958	09/03/13	Texarkana	AR	33.5	-93.9	1	
+2959	09/03/13	Minneapolis	MN	45	-93.3	1	
+2960	09/03/13	McMurray	PA	40.3	-80.1	1	
+2961	09/03/13	Glen Mills	PA	39.9	-75.5	1	
+2962	09/03/13	St. Louis	MO	38.6	-90.2	2	
+2963	09/03/13	Warwick	NY	41.3	-74.4	1	
+2964	09/03/13	Ft. Leavenworth	KS	39.1	-95	1	
+2965	09/03/13	Glen Mills	PA	39.9	-75.5	1	
+2966	09/03/13	McMurray	PA	40.3	-80.1	1	
+2967	09/03/13	Harrisville	MI	44.6	-83.4	6	
+2968	09/03/13	Montebello	QC	45.7	-74.9	1	
+2969	09/03/13	Minneapolis	MN	45	-93.3	2	
+2970	09/03/13	Horizon City	TX	31.7	-106.2	1	
+2971	09/03/13	Kemptville	ON	45	-75.6	1	
+2972	09/03/13	Menomonie	WI	44.8	-91.9	3	
+2973	09/03/13	Conway	SC	33.9	-79	1	
+2974	09/03/13	Hartley	IA	43.2	-95.5	30	
+2975	09/03/13	Lakeville	NY	42.8	-77.7	1	
+2976	09/03/13	Philadelphia	PA	40.1	-75	2	
+2977	09/03/13	Millersville	MD	39.1	-76.6	1	
+2978	09/03/13	Coyle	OK	35.9	-97.2	1	
+2979	09/03/13	City of Cape May	NJ	40.1	-74.4	8	
+2980	09/03/13	New Caney	TX	30.2	-95.2	8	
+2981	09/03/13	Two Rivers	WI	44.2	-87.6	1	
+2982	09/03/13	Oak Lawn	IL	41.7	-87.8	6	
+2983	09/03/13	Round Lake	NY	42.9	-73.8	1	
+2984	09/03/13	Harper Woods	MI	42.4	-82.9	1	
+2985	09/03/13	minneapolis	MN	44.9	-93.3	13	
+2986	09/03/13	minneapolis	MN	44.9	-93.3	4	
+2987	09/03/13	South Bend	IN	41.7	-86.3	1	
+2988	09/03/13	West Tisbury	MA	41.4	-70.7	1	
+2989	09/03/13	Childwold	NY	44.3	-74.7	1	
+2990	09/03/13	Algonquin	IL	42.2	-88.3	1	
+2991	09/03/13	Stillwater	MN	45.1	-92.8	10	
+2992	09/03/13	Marshall	MI	42.3	-84.9	1	
+2993	09/03/13	Libertyville	IL	42.3	-88	1	
+2994	09/03/13	Moline	IL	41.5	-90.5	3	
+2995	09/03/13	Eau Claire	WI	44.7	-91.5	2	
+2996	09/03/13	Santa Fe	NM	35.8	-106	1	
+2997	09/03/13	Santa Fe	NM	35.8	-106	1	
+2998	09/03/13	Los Alamos	NM	35.9	-106.3	1	
+2999	09/03/13	Lexington	KY	38	-84.5	2	
+3000	09/03/13	Dorset	ON	45.2	-78.9	1	
+3001	09/03/13	Chicago	IL	41.9	-87.6	1	
+3002	09/03/13	Peoria	AZ	33.6	-112.2	2	
+3003	09/03/13	Valle Grand Canyon Airport	AZ	35.7	-112.1	4	
+3004	09/03/13	Camp Verde	AZ	34.6	-111.8	3	
+3005	09/03/13	Larimer	PA	40.4	-79.7	1	
+3006	09/02/13	Joplin	MO	37.1	-94.5	1	
+3007	09/02/13	Nibley	UT	41.7	-111.8	1	
+3008	09/02/13	Virginia Beach	VA	36.8	-76.1	1	
+3009	09/02/13	Onley	VA	37.7	-75.7	3	
+3010	09/02/13	Fredericksburg	TX	30.3	-98.9	1	
+3011	09/02/13	Fontana	CA	34.1	-117.5	1	
+3012	09/02/13	Omaha	NE	41.3	-95.9	1	
+3013	09/02/13	Klein	TX	30	-95.5	1	
+3014	09/02/13	Gainesville	FL	29.6	-82.3	1	
+3015	09/02/13	Minneapolis	MN	45	-93.3	2	
+3016	09/02/13	Ellicott City	MD	39.3	-76.9	1	
+3017	09/02/13	Charlotte	NC	35.2	-80.8	1	
+3018	09/02/13	Acworth	GA	34	-84.7	1	
+3019	09/02/13	HICKSVILLE	OH	41.3	-84.7	1	
+3020	09/02/13	Claryville	NY	42	-74.5	1	
+3021	09/02/13	Harrisville	MI	44.6	-83.4	2	
+3022	09/02/13	newport News	VA	37.1	-76.5	1	
+3023	09/02/13	Lititz	PA	40.2	-76.3	1	
+3024	09/02/13	Auburn Hills	MI	42.7	-83.2	2	
+3025	09/02/13	Plymouth	WI	43.7	-88	2	
+3026	09/02/13	Stittsville	ON	45.3	-75.9	1	
+3027	09/02/13	Bradford	ON	44.1	-79.6	1	
+3028	09/02/13	Sabinsville	PA	41.8	-77.5	1	
+3029	09/02/13	Fergus Falls	MN	46.3	-96.1	1	
+3030	09/02/13	Milwaukee	WI	42.9	-87.9	7	
+3031	09/02/13	Upper St. Clair	PA	40.3	-80.1	2	
+3032	09/02/13	Saint Petersburg	FL	27.8	-82.6	1	
+3033	09/02/13	Atlantic City	NJ	39.4	-74.4	1	
+3034	09/02/13	Ft. Leavenworth	KS	39.1	-95	4	
+3035	09/02/13	Atco	NJ	39.8	-74.9	1	
+3036	09/02/13	KINGSTON	ON	44.3	-76.5	1	
+3037	09/02/13	Mississauga	ON	43.6	-79.7	1	
+3038	09/02/13	Joplin	MO	37.1	-94.5	1	
+3039	09/02/13	Lubbock	TX	33.6	-101.9	1	
+3040	09/02/13	wichita	KS	37.7	-97.3	1	
+3041	09/02/13	Irmo	SC	34.1	-81.2	1	
+3042	09/02/13	Prescott	AZ	34.7	-112.9	15	
+3043	09/02/13	Washington	DC	38.9	-77	1	
+3044	09/02/13	WHITEHALL	PA	40.7	-75.5	1	
+3045	09/02/13	Cobourg	ON	44	-78.2	1	
+3046	09/02/13	Los Alamos	NM	35.9	-106.3	1	
+3047	09/02/13	Coldwater	KS	37.3	-99.3	1	
+3048	09/02/13	Bay Village	OH	41.5	-81.9	6	
+3049	09/02/13	staatsburg	NY	41.9	-73.9	1	
+3050	09/02/13	Cole Camp,Mo.	MO	38.5	-93.2	1	
+3051	09/02/13	Montgomery Village	MD	39.2	-77.2	1	
+3052	09/02/13	Montgomery Village	MD	39.2	-77.2	1	
+3053	09/01/13	Minneapolis	MN	45	-93.3	2	
+3054	09/01/13	Keysville	VA	37	-78.5	2	
+3055	09/01/13	Thousand Oaks	CA	34.2	-118.9	1	
+3056	09/01/13	Cross Junction	VA	39.3	-78.3	1	
+3057	09/01/13	Thousand Oaks	CA	34.2	-118.9	1	
+3058	09/01/13	Gary	IN	41.6	-87.3	2	
+3059	09/01/13	Katy	TX	29.8	-95.7	1	
+3060	09/01/13	Tequisquiapan	QUE	20.5	-99.9	20	
+3061	09/01/13	Homeworth	OH	40.9	-81.1	1	
+3062	09/01/13	St. Marks	FL	30.2	-84.2	1	
+3063	09/01/13	East Greenville	PA	40.4	-75.5	1	
+3064	09/01/13	Hartley	IA	43.2	-95.5	10	
+3065	09/01/13	Hinckley	OH	41.2	-81.7	1	
+3066	09/01/13	Seekonk	MA	41.8	-71.3	1	
+3067	09/01/13	Lansing	IL	41.6	-87.5	20	
+3068	09/01/13	Marble Falls	TX	30.6	-98.2	1	
+3069	09/01/13	Owego	NY	42.1	-76.3	1	
+3070	09/01/13	Oshkosh	WI	43.9	-88.5	1	
+3071	09/01/13	Sykesville	MD	39.4	-77	1	
+3072	09/01/13	Van Cleve	IA	41.9	-93	1	
+3073	09/01/13	minneapolis	MN	44.9	-93.3	8	
+3074	09/01/13	Palatine	IL	42.1	-88	1	
+3075	09/01/13	Gladstone	MO	39.2	-94.6	3	
+3076	09/01/13	Rochester	MN	44	-92.5	14	
+3077	09/01/13	Johnstown	NY	43	-74.4	1	
+3078	09/01/13	Franconia	VA	38.8	-77.1	3	
+3079	09/01/13	Columbus	OH	40.1	-83	1	
+3080	09/01/13	Dodge City	KS	37.7	-100.1	3	
+3081	09/01/13	mequon	WI	43.2	-88	1	
+3082	09/01/13	Burke, VA	VA	38.8	-77.4	1	
+3083	09/01/13	Cape May	NJ	39	-74.9	1	
+3084	09/01/13	Ooltewah	TN	35.1	-85	1	
+3085	09/01/13	Thomson	GA	33.5	-82.5	6	
+3086	09/01/13	Viking	MN	48.2	-96.5	1	
+3087	09/01/13	boothbay	ME	43.9	-69.6	1	
+3088	09/01/13	Ludlow	VT	43.4	-72.7	1	
+3089	09/01/13	Mt.pleasant	PA	40.1	-79.5	1	
+3090	09/01/13	Moorhead	MN	46.9	-96.7	3	
+3091	09/01/13	Union Pier	MI	41.8	-86.7	10	
+3092	09/01/13	Hiram	OH	41.3	-81.2	1	
+3093	09/01/13	Granite Falls	NC	35.8	-81.4	1	
+3094	09/01/13	Concordia	KS	39.5	-97.7	1	
+3095	09/01/13	Napa	CA	38.5	-122.3	1	
+3096	09/01/13	Skaneateles	NY	42.9	-76.4	1	
+3097	09/01/13	Washington	DC	38.9	-77	1	
+3098	09/01/13	Grafton	ON	44	-78	1	
+3099	09/01/13	Los Alamos	NM	35.9	-106.3	1	
+3100	09/01/13	Honor	MI	44.7	-86	1	
+3101	09/01/13	Suches	GA	34.7	-84.1	1	
+3102	08/31/13	owen sound	ON	44.6	-80.9	1	
+3103	08/31/13	Manchester	NH	43	-71.5	1	
+3104	08/31/13	Thousand Oaks	CA	34.2	-118.9	1	
+3105	08/31/13	Seymour	CT	41.4	-73.1	1	
+3106	08/31/13	San Clemente	CA	33.4	-117.6	1	
+3107	08/31/13	Damariscotta	ME	44	-69.5	1	
+3108	08/31/13	minneapolis	MN	44.9	-93.3	8	
+3109	08/31/13	New Bern	NC	35.1	-77	1	
+3110	08/31/13	Arlington	VA	38.9	-77.1	1	
+3111	08/31/13	Lakeville	MN	44.6	-93.2	1	
+3112	08/31/13	Street	MD	39.7	-76.3	1	
+3113	08/31/13	Louisville	TN	35.8	-84	1	
+3114	08/31/13	Fenelon Falls	ON	44.5	-78.8	1	
+3115	08/31/13	Hartley	IA	43.2	-95.5	7	
+3116	08/31/13	Gladstone	MO	39.2	-94.6	2	
+3117	08/31/13	Minneapolis	MN	45	-93.3	6	
+3118	08/31/13	Brigantine	NJ	39.4	-74.4	1	
+3119	08/31/13	Tulsa	OK	36.1	-96	1	
+3120	08/31/13	South Haven	MI	42.4	-86.2	1	
+3121	08/31/13	Winnetka	IL	42.1	-87.8	1	
+3122	08/31/13	Palmer Rapids	ON	45.3	-77.5	2	
+3123	08/31/13	Lansdale	PA	40.2	-75.4	3	
+3124	08/31/13	Fontana	CA	34.1	-117.5	1	
+3125	08/31/13	hampton	NH	42.9	-70.8	1	
+3126	08/31/13	Boyertown	PA	40.3	-75.7	1	
+3127	08/31/13	North Platte	NE	41.1	-100.8	3	
+3128	08/31/13	Fairfax	VA	38.8	-77.3	3	
+3129	08/31/13	St. Marks	KS	37.7	-97.6	2	
+3130	08/31/13	ellenton	FL	27.5	-82.5	3	
+3131	08/31/13	Eau Claire	WI	44.7	-91.5	1	
+3132	08/31/13	Washington D.C.	DC	38.9	-77	2	
+3133	08/31/13	Lyons	NE	42	-96.5	1	
+3134	08/31/13	Milano	TX	30.7	-96.8	1	
+3135	08/31/13	Wapakoneta	OH	40.6	-84.1	3	
+3136	08/30/13	Honor	MI	44.7	-86	1	
+3137	08/30/13	Canton	OH	40.8	-81.4	1	
+3138	08/30/13	Ellicott City	MD	39.3	-76.8	1	
+3139	08/30/13	Ballwin	MO	38.6	-90.6	1	
+3140	08/30/13	new brunswick	NJ	40.5	-74.5	1	
+3141	08/30/13	Gladstone	MO	39.2	-94.6	1	
+3142	08/30/13	cross junction	VA	39.3	-78.3	1	
+3143	08/30/13	Glen Mills	PA	39.9	-75.5	1	
+3144	08/30/13	Atchison	KS	39.5	-95.1	1	
+3145	08/30/13	Drums	PA	41	-76	3	
+3146	08/30/13	St. Leonard	MD	38.5	-76.5	1	
+3147	08/30/13	Stittsville	ON	45.3	-75.9	1	
+3148	08/30/13	Minneapolis	MN	45	-93.3	4	
+3149	08/30/13	Austin	TX	30.2	-97.7	2	
+3150	08/30/13	Warren	MI	42.5	-83	1	
+3151	08/30/13	Lansing	MI	42.7	-84.6	4	
+3152	08/30/13	Fishers	IN	40	-86	1	
+3153	08/30/13	McCordsville	IN	39.9	-85.9	1	
+3154	08/30/13	Carroll	NH	44.3	-71.5	1	
+3155	08/30/13	Gerald	MO	38.3	-91.3	2	
+3156	08/30/13	Isle of palms	SC	32.8	-79.8	2	
+3157	08/30/13	Leeds	NY	42.3	-73.9	1	
+3158	08/30/13	Friendswood	TX	29.5	-95.2	1	
+3159	08/30/13	seatonville,il	IL	41.3	-89	1	
+3160	08/30/13	Pasadena	CA	34.1	-118.2	1	
+3161	08/30/13	lathrup village	MI	42.5	-83.2	1	
+3162	08/30/13	Janetville	ON	44.2	-78.7	2	
+3163	08/30/13	Mount Cory	OH	40.9	-83.8	2	
+3164	08/30/13	Presto	PA	40.4	-80.1	1	
+3165	08/30/13	Grant	MN	45.1	-92.9	1	
+3166	08/30/13	Wautoma	WI	44.1	-89.3	1	
+3167	08/30/13	Moline	IL	41.5	-90.5	1	
+3168	08/30/13	Yorktown	VA	37.2	-76.6	3	
+3169	08/30/13	Philadelphia	PA	40.1	-75	1	
+3170	08/30/13	North Platte	NE	41.1	-100.8	1	
+3171	08/30/13	port clinton	OH	41.5	-82.9	3	
+3172	08/30/13	McMurray	PA	40.3	-80.1	1	
+3173	08/30/13	white post	VA	39.1	-78.1	4	
+3174	08/30/13	Concordia	KS	39.5	-97.7	1	
+3175	08/30/13	Lee's Ferry	AZ	36.9	-111.6	1	
+3176	08/30/13	Pottsville	PA	40.7	-76.3	2	
+3177	08/29/13	San Gabriel	CA	34.1	-118.1	1	
+3178	08/29/13	Parry Sound	ON	45.4	-80	1	
+3179	08/29/13	Severn Bridge	ON	44.8	-79.3	1	
+3180	08/29/13	Western springs	IL	41.8	-87.9	1	
+3181	08/29/13	Glen Mills	PA	39.9	-75.5	2	
+3182	08/29/13	Logan	OH	39.5	-82.4	1	
+3183	08/29/13	Pylesville	MD	39.7	-76.4	2	
+3184	08/29/13	Newtown	PA	40.3	-75	1	
+3185	08/29/13	State College	PA	40.8	-77.8	2	
+3186	08/29/13	Akron	OH	41	-81.5	3	
+3187	08/29/13	McKinney	TX	33.2	-96.6	1	
+3188	08/29/13	Austin	TX	30.2	-97.7	1	
+3189	08/29/13	Bridgeview	IL	41.7	-87.8	3	
+3190	08/29/13	Homeworth	OH	40.9	-81.1	1	
+3191	08/29/13	Novi	MI	42.5	-83.5	2	
+3192	08/29/13	Curwensville	PA	40.9	-78.5	1	
+3193	08/29/13	Friendswood	TX	29.5	-95.2	2	
+3194	08/29/13	Pella	IA	41.4	-92.9	1	
+3195	08/29/13	Williamsburg	PA	40.4	-78.2	4	
+3196	08/29/13	Chicago	IL	41.9	-87.6	1	
+3197	08/29/13	Holt	MI	42.6	-84.5	5	
+3198	08/29/13	minneapolis	MN	44.9	-93.3	4	
+3199	08/29/13	Loudoun	VA	39	-77.4	2	
+3200	08/29/13	Souderton	PA	40.3	-75.3	2	
+3201	08/29/13	Pittsfield	ME	44.8	-69.4	1	
+3202	08/29/13	Gerald	MO	38.3	-91.3	2	
+3203	08/29/13	MT. PLEASANT	PA	40.2	-79.5	2	
+3204	08/29/13	Blaine	MN	45.2	-93.2	1	
+3205	08/29/13	Vicksburg	MI	42.1	-85.5	3	
+3206	08/29/13	Lockport	IL	41.6	-88	5	
+3207	08/29/13	Chassell	MI	47	-88.6	1	
+3208	08/29/13	Edina	MN	44.9	-93.4	6	
+3209	08/29/13	Hartley	IA	43.2	-95.5	4	
+3210	08/29/13	Rochester	NH	43.3	-71	1	
+3211	08/29/13	McCordsville	IN	39.9	-85.9	1	
+3212	08/29/13	Eau Claire	WI	44.7	-91.5	7	
+3213	08/29/13	Packwood	IA	41.1	-92.1	1	
+3214	08/29/13	Nottingham	PA	39.7	-76	5	
+3215	08/29/13	Raleigh	NC	35.8	-78.6	1	
+3216	08/29/13	Watertown	MN	45	-93.9	6	
+3217	08/29/13	Milwaukee	WI	43	-87.9	1	
+3218	08/29/13	Grosse Pointe Shores	MI	42.4	-82.9	1	
+3219	08/29/13	Sauble Beach	ON	44.6	-81.3	1	
+3220	08/29/13	Ephrata	PA	40.2	-76.2	1	
+3221	08/29/13	Flint	MI	43	-83.7	2	
+3222	08/29/13	St. Paul	MN	45	-93.1	3	
+3223	08/29/13	Glen Mills	PA	39.9	-75.5	1	
+3224	08/29/13	Monroe Twp	NJ	40.3	-74.4	1	
+3225	08/29/13	Wheatley	ON	42.1	-82.5	10	
+3226	08/29/13	Tobermory	ON	45.3	-81.7	1	
+3227	08/29/13	Albuquerque	NM	35.1	-106.6	1	
+3228	08/29/13	Toronto	ON	43.7	-79.4	1	
+3229	08/29/13	Ooltewah	TN	35.1	-85	1	
+3230	08/29/13	Kennett Square	PA	39.8	-75.7	1	
+3231	08/29/13	Ft. Leavenworth	KS	39.1	-95	1	
+3232	08/29/13	Conyers	GA	33.7	-84	3	
+3233	08/29/13	Stokes bay	ON	42.9	-82.5	1	
+3234	08/29/13	Myrtle Beach	SC	33.8	-78.8	1	
+3235	08/29/13	Ostrander	OH	40.3	-83.2	1	
+3236	08/28/13	Barrie	ON	44.4	-79.7	1	
+3237	08/28/13	Carmel	IN	40	-86.2	1	
+3238	08/28/13	Champaign	IL	40.1	-88.2	1	
+3239	08/28/13	Tobermory	ON	45.3	-81.7	12	
+3240	08/28/13	Katy	TX	29.8	-95.7	1	
+3241	08/28/13	Western springs	IL	41.8	-87.9	2	
+3242	08/28/13	Burlington	ON	43.4	-79.8	1	
+3243	08/28/13	Arlington	VA	38.9	-77.1	1	
+3244	08/28/13	Yorktown	VA	37.2	-76.6	2	
+3245	08/28/13	West Swanzey	NH	42.9	-72.3	1	
+3246	08/28/13	Tullahoma	TN	35.3	-86.2	1	
+3247	08/28/13	Presto	PA	40.4	-80.1	1	
+3248	08/28/13	New Richmond	WI	45.1	-92.6	1	
+3249	08/28/13	new egypt	NJ	40.1	-74.5	5	
+3250	08/28/13	Franklin	LA	29.7	-91.6	2	
+3251	08/28/13	minneapolis	MN	44.9	-93.3	4	
+3252	08/28/13	Milwaukee	WI	43.1	-87.9	5	
+3253	08/28/13	minneapolis	MN	44.9	-93.3	8	
+3254	08/28/13	Columbus	OH	40.1	-83	1	
+3255	08/28/13	Grand Canyon	AZ	36	-112.2	24	
+3256	08/28/13	Parry Sound	ON	45.4	-80	1	
+3257	08/28/13	Farmington Hills	MI	42.5	-83.4	1	
+3258	08/28/13	Maple Grove	MN	45.1	-93.5	2	
+3259	08/28/13	alstead	NH	43.1	-72.3	1	
+3260	08/28/13	Minneapolis	MN	44.9	-93.3	1	
+3261	08/28/13	Minneapolis	MN	44.9	-93.3	1	
+3262	08/28/13	Minneapolis	MN	45	-93.3	2	
+3263	08/28/13	New Hartford	CT	41.8	-73	1	
+3264	08/28/13	Mer Rouge	LA	32.8	-91.7	1	
+3265	08/28/13	Lovelock	NV	40.4	-118.6	1	
+3266	08/28/13	Chicago	IL	41.9	-87.6	1	
+3267	08/28/13	Kenton	OH	40.6	-83.6	1	
+3268	08/28/13	Jefferson	TX	32.8	-94.3	2	
+3269	08/28/13	McCordsville	IN	39.9	-85.9	2	
+3270	08/28/13	Stillman Valley	IL	42.1	-89.2	1	
+3271	08/28/13	mequon	WI	43.2	-88	1	
+3272	08/28/13	Wiscasset	ME	44	-69.7	1	
+3273	08/28/13	Raton	NM	36.8	-104.5	1	
+3274	08/28/13	Cobourg	ON	44	-78.2	10	
+3275	08/28/13	Glen Mills	PA	39.9	-75.5	1	
+3276	08/28/13	Saint Onge	SD	44.5	-103.7	1	
+3277	08/28/13	Ludington	MI	44	-86.4	1	
+3278	08/28/13	Broken Arrow	OK	36	-95.8	6	
+3279	08/28/13	Sewickley	PA	40.6	-80.1	1	
+3280	08/28/13	Darien	IL	41.8	-88	1	
+3281	08/28/13	hilton head island	SC	32.2	-80.8	6	
+3282	08/28/13	Woodstock	GA	34.1	-84.5	1	
+3283	08/28/13	Lenexa	KS	39	-94.7	2	
+3284	08/28/13	Rush	KY	38.3	-82.7	4	
+3285	08/28/13	Santa Fe	NM	35.8	-106	1	
+3286	08/28/13	Fairfax	MN	44.5	-94.7	3	
+3287	08/28/13	Lexington	KY	38	-84.5	1	
+3288	08/28/13	Bronte	TX	31.9	-100.3	5	
+3289	08/28/13	Houston	TX	29.8	-95.4	1	
+3290	08/28/13	Mount Pleasant	SC	32.8	-79.8	1	
+3291	08/27/13	Prior Lake	MN	44.7	-93.4	1	
+3292	08/27/13	bridgeview	IL	41.7	-87.8	2	
+3293	08/27/13	Sperry	OK	36.3	-96	1	
+3294	08/27/13	Glen Mills	PA	39.9	-75.5	2	
+3295	08/27/13	Lansdale	PA	40.2	-75.4	1	
+3296	08/27/13	Cooper	ME	45	-67.4	1	
+3297	08/27/13	Pavo	GA	30.9	-83.7	1	
+3298	08/27/13	Humble	TX	30	-95.2	1	
+3299	08/27/13	White Bear Lake	MN	45.1	-93	2	
+3300	08/27/13	St. Paul	MN	45	-93.1	6	
+3301	08/27/13	Cherry Hill	NJ	39.9	-75	1	
+3302	08/27/13	Bushnell	SD	44.3	-96.6	3	
+3303	08/27/13	McCordsville	IN	39.9	-85.9	2	
+3304	08/27/13	Arlington	VA	38.9	-77.1	1	
+3305	08/27/13	Oldsmar	FL	28.1	-82.7	1	
+3306	08/27/13	Lancaster	OH	39.7	-82.6	1	
+3307	08/27/13	Chicago	IL	41.9	-87.6	2	
+3308	08/27/13	Land O Lakes	WI	46.2	-89.4	1	
+3309	08/27/13	conyers	GA	33.7	-84	1	
+3310	08/27/13	Galesburg	IL	41	-90.4	2	
+3311	08/27/13	Des Peres	MO	38.6	-90.4	1	
+3312	08/27/13	Kalamazoo	MI	42.4	-85.7	1	
+3313	08/27/13	Urbana	IL	40.1	-88.2	1	
+3314	08/27/13	Nottingham	PA	39.7	-76	1	
+3315	08/27/13	Two Rivers	WI	44.2	-87.6	1	
+3316	08/27/13	Lisbon Falls	ME	44	-70.1	1	
+3317	08/27/13	Urbana	IL	40.1	-88.2	1	
+3318	08/27/13	Eden Prairie	MN	44.9	-93.4	1	
+3319	08/27/13	austin	TX	30.2	-97.8	1	
+3320	08/27/13	Columbus	OH	40	-83	1	
+3321	08/27/13	Random Lake	WI	43.6	-88	2	
+3322	08/27/13	Saint Charles	MO	38.9	-90.5	1	
+3323	08/27/13	Saint Martinville	LA	30.1	-91.8	1	
+3324	08/27/13	Concordia	KS	39.5	-97.7	1	
+3325	08/27/13	Milwaukee	WI	43	-87.9	3	
+3326	08/27/13	Abilene	TX	32.5	-99.7	2	
+3327	08/27/13	Richardson	TX	33	-96.7	1	
+3328	08/27/13	Ham Lake	MN	45.3	-93.3	2	
+3329	08/27/13	Haliburton	ON	45.1	-78.5	1	
+3330	08/27/13	Wichita	KS	37.7	-97.3	1	
+3331	08/27/13	Sheboygan	WI	43.7	-87.7	1	
+3332	08/27/13	Columbus	OH	40.1	-83	1	
+3333	08/27/13	Orwigsburg	PA	40.6	-76.1	1	
+3334	08/27/13	Gibbon	MN	44.6	-94.6	2	
+3335	08/27/13	Ooltewah	TN	35.2	-85	1	
+3336	08/27/13	Hereford Township	PA	40.4	-75.6	1	
+3337	08/27/13	Long Point	ON	42.6	-80.4	1	
+3338	08/27/13	Wake County	NC	35.8	-78.6	14	
+3339	08/27/13	Gadsden	AL	34	-85.9	2	
+3340	08/26/13	West Saint Paul	MN	44.9	-93.1	6	
+3341	08/26/13	McMurray	PA	40.3	-80.1	1	
+3342	08/26/13	marble hill	MO	37.3	-90	1	
+3343	08/26/13	Pfafftown	NC	36.2	-80.4	12	
+3344	08/26/13	Washington	DC	38.9	-77	1	
+3345	08/26/13	Saint Louis	MO	38.6	-90.2	1	
+3346	08/26/13	Schwenksville	PA	40.3	-75.5	1	
+3347	08/26/13	Tallahassee	FL	30.4	-84.3	2	
+3348	08/26/13	freeport	FL	30.5	-86.2	1	
+3349	08/26/13	freeport	FL	30.5	-86.2	2	
+3350	08/26/13	freeport	FL	30.5	-86.2	1	
+3351	08/26/13	Boothbay	ME	43.9	-69.6	3	
+3352	08/26/13	St louis	MO	38.5	-90.4	1	
+3353	08/26/13	Fergus Falls	MN	46.3	-96.1	4	
+3354	08/26/13	Chicago	IL	41.9	-87.6	3	
+3355	08/26/13	Winchester	KY	38	-84.1	2	
+3356	08/26/13	Oklahoma City	OK	35.4	-97.5	6	
+3357	08/26/13	Atchison	KS	39.5	-95.1	3	
+3358	08/26/13	Maumelle	AR	34.9	-92.4	1	
+3359	08/26/13	Kress	TX	34.4	-101.7	1	
+3360	08/26/13	Allenford	ON	44.6	-81.2	5	
+3361	08/26/13	Sabinsville	PA	41.8	-77.5	2	
+3362	08/26/13	Onancock	VA	37.8	-75.6	1	
+3363	08/26/13	Kitty Hawk	NC	36.1	-75.7	1	
+3364	08/26/13	columbia	MS	31.2	-89.8	2	
+3365	08/26/13	Wildwood	GA	35	-85.4	1	
+3366	08/26/13	Saint Louis	MO	38.5	-90.4	1	
+3367	08/26/13	Ballwin	MO	38.6	-90.6	2	
+3368	08/26/13	minneapolis	MN	44.9	-93.3	3	
+3369	08/26/13	Clemson	SC	34.7	-82.8	1	
+3370	08/26/13	Denair	CA	37.5	-120.7	1	
+3371	08/26/13	Cranford	NJ	40.7	-74.3	1	
+3372	08/26/13	Garland	TX	32.9	-96.6	2	
+3373	08/26/13	Lehighton	PA	40.8	-75.7	1	
+3374	08/26/13	Cherry Hill	NJ	39.9	-75	1	
+3375	08/26/13	Falls Church	VA	38.9	-77.2	1	
+3376	08/26/13	Marengo	OH	40.4	-82.8	1	
+3377	08/26/13	Washington, DC	DC	38.9	-77	1	
+3378	08/26/13	Bushnell	SD	44.3	-96.6	10	
+3379	08/26/13	Scotrun	PA	41.1	-75.3	1	
+3380	08/26/13	Coventry	RI	41.7	-71.6	2	
+3381	08/26/13	Champaign	IL	40.1	-88.2	1	
+3382	08/26/13	Thomson	GA	33.5	-82.5	1	
+3383	08/26/13	Marble Falls	TX	30.6	-98.2	1	
+3384	08/26/13	Rush	KY	38.3	-82.7	2	
+3385	08/26/13	Webster Groves	MO	38.6	-90.4	4	
+3386	08/26/13	Yanceyville	NC	36.4	-79.3	1	
+3387	08/26/13	Owings	MD	38.7	-76.6	1	
+3388	08/26/13	Gerald	MO	38.3	-91.3	5	
+3389	08/26/13	Urbana	IL	40.1	-88.2	1	
+3390	08/26/13	Windsor Mill	MD	39.3	-76.8	1	
+3391	08/26/13	Santa Fe	NM	35.8	-106	1	
+3392	08/26/13	Norman	OK	35.2	-97.5	1	
+3393	08/26/13	Jackson	NJ	40.1	-74.4	2	
+3394	08/25/13	Wapakoneta	OH	40.6	-84.1	1	
+3395	08/25/13	bridgeview	IL	41.7	-87.8	1	
+3396	08/25/13	Fox Lake	WI	43.6	-88.9	1	
+3397	08/25/13	Keswick	ON	44.3	-79.5	1	
+3398	08/25/13	Houston	TX	29.8	-95.4	1	
+3399	08/25/13	Owings Mills	MD	39.4	-76.8	5	
+3400	08/25/13	Pottstown	PA	40.3	-75.6	1	
+3401	08/25/13	Sedalia	MO	38.7	-93.3	3	
+3402	08/25/13	Newtown	PA	40.3	-75	1	
+3403	08/25/13	Marion	IA	42.1	-91.6	3	
+3404	08/25/13	Oglesby	TX	31.5	-97.6	9	
+3405	08/25/13	Las Vegas	NV	36.1	-115.3	1	
+3406	08/25/13	Englishtown	NJ	40.3	-74.4	1	
+3407	08/25/13	St. Paul	MN	45	-93.1	9	
+3408	08/25/13	Menominee	MI	45.2	-87.6	1	
+3409	08/25/13	Zeeland	MI	42.8	-86	1	
+3410	08/25/13	Kalamazoo	MI	42.2	-85.5	3	
+3411	08/25/13	Albion	MI	42.3	-84.8	1	
+3412	08/25/13	Fort Wayne	IN	41.1	-85.2	1	
+3413	08/25/13	Upper St. Clair	PA	40.3	-80.1	5	
+3414	08/25/13	Champaign	IL	40.1	-88.2	1	
+3415	08/25/13	Charlotte	NC	35.2	-80.8	1	
+3416	08/25/13	Pocomoke	MD	38.1	-75.5	1	
+3417	08/25/13	freeport	FL	30.5	-86.2	1	
+3418	08/25/13	freeport	FL	30.5	-86.2	1	
+3419	08/25/13	Phoenixville	PA	40.1	-75.5	1	
+3420	08/25/13	newport News	VA	37.1	-76.5	1	
+3421	08/25/13	Sabinsville	PA	41.8	-77.5	1	
+3422	08/25/13	Penfield	PA	41.2	-78.6	1	
+3423	08/25/13	Northville	SD	45.2	-98.7	3	
+3424	08/25/13	MÃºzquiz	COA	27.9	-101.5	2	
+3425	08/25/13	New Hampton	NY	41.3	-74.5	1	
+3426	08/25/13	Red House	WV	38.6	-81.9	4	
+3427	08/25/13	Ballwin	MO	38.6	-90.6	1	
+3428	08/25/13	minneapolis	MN	44.9	-93.3	3	
+3429	08/25/13	Palatine	IL	42.1	-88.1	1	
+3430	08/25/13	mequon	WI	43.2	-88	1	
+3431	08/25/13	Annapolis	MD	39	-76.6	1	
+3432	08/25/13	Allenton	WI	43.5	-88.4	1	
+3433	08/25/13	Easton	MD	38.8	-76.1	1	
+3434	08/25/13	Conyers	GA	33.7	-84	1	
+3435	08/25/13	Bushnell	SD	44.3	-96.6	3	
+3436	08/25/13	Saint Paul	MN	45	-93.1	1	
+3437	08/25/13	Reston	VA	39	-77.3	1	
+3438	08/25/13	Minneapolis	MN	45	-93.3	3	
+3439	08/25/13	La Grange Park,	IL	41.8	-87.9	1	
+3440	08/25/13	Ringoes	NJ	40.4	-74.8	2	
+3441	08/25/13	Batavia	IL	41.8	-88.3	1	
+3442	08/25/13	MIDLAND	MI	43.6	-84.3	1	
+3443	08/25/13	Bosque	NM	34.5	-106.8	11	
+3444	08/25/13	Frisco City	AL	31.4	-87.4	2	
+3445	08/25/13	Cypress	TX	30	-95.7	1	
+3446	08/24/13	Alliston	ON	44.2	-79.9	1	
+3447	08/24/13	Charlevoix	MI	45.2	-85.3	1	
+3448	08/24/13	Shrewsbury	PA	39.7	-76.7	1	
+3449	08/24/13	Ames	IA	42.1	-93.6	1	
+3450	08/24/13	Glen Mills	PA	39.9	-75.5	2	
+3451	08/24/13	Monticello	KY	36.8	-84.8	1	
+3452	08/24/13	Tucson	AZ	32.2	-111	10	
+3453	08/24/13	Gardnerville	NV	38.8	-119.6	2	
+3454	08/24/13	Cleveland Heights	OH	41.5	-81.6	1	
+3455	08/24/13	East Marion	NY	41.1	-72.3	1	
+3456	08/24/13	Hutchinson	KS	38	-98.1	1	
+3457	08/24/13	St. Louis	MO	38.6	-90.2	1	
+3458	08/24/13	Jersey Village	TX	29.9	-95.6	1	
+3459	08/24/13	mamaroneck	NY	41	-73.9	1	
+3460	08/24/13	East Berlin	PA	40	-77	1	
+3461	08/24/13	Holt	MI	42.6	-84.5	1	
+3462	08/24/13	White Plains	NY	41	-73.8	1	
+3463	08/24/13	Sydenham	ON	44.4	-76.6	1	
+3464	08/24/13	Reading	PA	40.4	-75.9	1	
+3465	08/24/13	Fox Lake	WI	43.6	-88.9	1	
+3466	08/24/13	Minneapolis	MN	45	-93.3	1	
+3467	08/24/13	Marble Falls	TX	30.6	-98.2	1	
+3468	08/24/13	Garland	TX	32.9	-96.6	1	
+3469	08/24/13	Wyandotte	MI	42.2	-83.2	8	
+3470	08/24/13	Owings	MD	38.7	-76.6	1	
+3471	08/24/13	Shenandoah National Park	VA	38.5	-78.4	1	
+3472	08/24/13	Banshee Reeks Nature Preserve	VA	39	-77.6	7	
+3473	08/24/13	mequon	WI	43.2	-88	1	
+3474	08/24/13	Collegeville	PA	40.2	-75.4	1	
+3475	08/24/13	Moline	IL	41.5	-90.5	1	
+3476	08/24/13	freeport	FL	30.5	-86.2	1	
+3477	08/24/13	Chicago	IL	41.9	-87.6	2	
+3478	08/24/13	Sabinsville	PA	41.8	-77.5	3	
+3479	08/24/13	Greenville	NC	35.7	-77.4	1	
+3480	08/24/13	St Michaels	MD	38.8	-76.3	2	
+3481	08/24/13	Minnetonka	MN	44.9	-93.5	1	
+3482	08/24/13	Conyers	GA	33.7	-84	1	
+3483	08/24/13	Milford	PA	41.3	-74.9	4	
+3484	08/24/13	Grimsby	ON	43.2	-79.6	4	
+3485	08/24/13	Lebanon	MO	37.7	-92.6	1	
+3486	08/24/13	St. Louis	MO	38.6	-90.2	1	
+3487	08/24/13	Pagedale	MO	38.7	-90.3	1	
+3488	08/24/13	Port Hope	ON	44	-78.3	1	
+3489	08/24/13	Glastonbury	CT	41.7	-72.5	1	
+3490	08/24/13	Eastham	MA	41.8	-70	1	
+3491	08/24/13	La Porte	IN	41.6	-86.7	1	
+3492	08/24/13	Bliss	MI	45.7	-85	3	
+3493	08/24/13	Cole Camp,Mo	MO	38.5	-93.2	4	
+3494	08/24/13	Fairfax	VA	39	-77.3	1	
+3495	08/23/13	Sarnia	ON	43	-82.4	3	
+3496	08/23/13	freeport	FL	30.5	-86.2	1	
+3497	08/23/13	woodridge	IL	41.8	-88	1	
+3498	08/23/13	Milan	MO	40.2	-93.2	1	
+3499	08/23/13	Cypress	TX	30	-95.7	3	
+3500	08/23/13	Walton	KS	38.1	-97.2	4	
+3501	08/23/13	Naperville	IL	41.8	-88.1	1	
+3502	08/23/13	Pleasanton	CA	37.6	-121.9	1	
+3503	08/23/13	Pottsville	PA	40.7	-76.3	1	
+3504	08/23/13	Harrisville	MI	44.6	-83.4	1	
+3505	08/23/13	Millville	MN	44.2	-92.3	1	
+3506	08/23/13	Burlington	ON	43.4	-79.8	1	
+3507	08/23/13	Monroe	NY	41.3	-74.2	2	
+3508	08/23/13	Janesville	MN	44.1	-93.7	1	
+3509	08/23/13	middletown	PA	40.2	-76.7	1	
+3510	08/23/13	Point Judith Lighthouse	RI	41.4	-71.5	2	
+3511	08/23/13	Garland	TX	32.9	-96.6	2	
+3512	08/23/13	Montrose	CO	38.4	-107.9	2	
+3513	08/23/13	Fergus Falls	MN	46.3	-96.1	1	
+3514	08/23/13	yardley	PA	40.2	-74.8	1	
+3515	08/23/13	Atchison	KS	39.5	-95.1	2	
+3516	08/23/13	DuBois	PA	41.1	-78.7	1	
+3517	08/23/13	Kapaa	HI	22.1	-159.4	1	
+3518	08/23/13	Battery Park City	NY	40.7	-74	1	
+3519	08/23/13	San Rafael	CA	38	-122.5	1	
+3520	08/23/13	Northfield	MN	44.5	-93.2	1	
+3521	08/23/13	Dacula	GA	34	-83.9	1	
+3522	08/23/13	Alcoa	TN	35.8	-84	2	
+3523	08/23/13	Tucson	AZ	32.2	-111	1	
+3524	08/23/13	Savannah	GA	32.1	-81.1	2	
+3525	08/23/13	Iowa City	IA	41.7	-91.5	1	
+3526	08/23/13	Clayton	GA	34.9	-83.4	1	
+3527	08/23/13	New London	MN	45.3	-94.9	3	
+3528	08/23/13	Olathe	KS	38.9	-94.8	1	
+3529	08/23/13	mequon	WI	43.2	-88	1	
+3530	08/23/13	New London	MN	45.3	-94.9	15	
+3531	08/23/13	Laguna Niguel	CA	33.5	-117.7	15	
+3532	08/23/13	dermott	AR	33.5	-91.5	1	
+3533	08/23/13	Paducah	TX	34.1	-100.3	1	
+3534	08/23/13	Shawano	WI	44.8	-88.6	23	
+3535	08/23/13	Cincinnati	OH	39.1	-84.5	5	
+3536	08/22/13	Ruckersville	VA	38.2	-78.4	1	
+3537	08/22/13	severna park	MD	39.1	-76.6	3	
+3538	08/22/13	Marietta	GA	33.9	-84.5	1	
+3539	08/22/13	Wautoma	WI	44.1	-89.3	1	
+3540	08/22/13	Benton	AR	34.6	-92.7	1	
+3541	08/22/13	Gladstone	MO	39.2	-94.6	1	
+3542	08/22/13	Homeworth	OH	40.9	-81.1	2	
+3543	08/22/13	Davidson	NC	35.5	-80.8	1	
+3544	08/22/13	Burbank	WA	46.1	-118.9	1	
+3545	08/22/13	Mentor	OH	41.7	-81.3	1	
+3546	08/22/13	McCordsville	IN	39.9	-85.9	2	
+3547	08/22/13	Franklin	TN	35.9	-86.9	1	
+3548	08/22/13	Havre de Grace	MD	39.6	-76.1	1	
+3549	08/22/13	Fenelon Falls	ON	44.5	-78.8	1	
+3550	08/22/13	Clifford	ND	47.4	-97.4	3	
+3551	08/22/13	conway	AR	35.1	-92.4	1	
+3552	08/22/13	Garland	TX	32.9	-96.6	2	
+3553	08/22/13	Lancaster	PA	40.1	-76.3	4	
+3554	08/22/13	Leamington	ON	42.1	-82.6	9	
+3555	08/22/13	Franklin	LA	29.7	-91.6	2	
+3556	08/22/13	Hartley	IA	43.2	-95.5	2	
+3557	08/22/13	TRAVIS AFB	CA	38.3	-121.9	6	
+3558	08/22/13	Mayo River State Park	NC	36.4	-79.9	5	
+3559	08/22/13	Toronto	ON	43.7	-79.4	2	
+3560	08/22/13	minneapolis	MN	44.9	-93.3	1	
+3561	08/22/13	Fargo	ND	46.9	-96.8	2	
+3562	08/22/13	Lafayette	LA	30.2	-92	1	
+3563	08/22/13	Yorktown	VA	37.2	-76.6	1	
+3564	08/22/13	Northfield	MN	44.5	-93.2	1	
+3565	08/22/13	MT. PLEASANT	PA	40.2	-79.5	3	
+3566	08/22/13	St. Thomas	ON	42.8	-81.2	1	
+3567	08/22/13	East Hampton	NY	41	-72.2	3	
+3568	08/22/13	Egg Harbor City	NJ	39.5	-74.6	1	
+3569	08/22/13	West Enfield	ME	45.2	-68.6	7	
+3570	08/22/13	freeport	FL	30.5	-86.2	1	
+3571	08/22/13	Rockingham	NC	34.9	-79.8	11	
+3572	08/22/13	Tequisquiapan	QUE	20.5	-99.9	1	
+3573	08/22/13	Dover	NH	43.2	-70.9	1	
+3574	08/22/13	Kensington	MD	39	-77.1	1	
+3575	08/22/13	Oneonta	NY	42.5	-75	1	
+3576	08/22/13	Rockingham County	NC	36.4	-79.8	16	
+3577	08/22/13	FARMINGTON HILLS	MI	42.5	-83.4	1	
+3578	08/22/13	Albuquerque	NM	35.1	-106.6	6	
+3579	08/21/13	saratoga springs	NY	43.1	-73.8	1	
+3580	08/21/13	Lakeville	MN	44.6	-93.2	1	
+3581	08/21/13	severna park	MD	39.1	-76.6	2	
+3582	08/21/13	Rolling Meadows	IL	42.1	-88	1	
+3583	08/21/13	Sugarcreek	OH	40.5	-81.7	1	
+3584	08/21/13	Cole Camp	MO	38.4	-93.2	1	
+3585	08/21/13	Glen Mills	PA	39.9	-75.5	1	
+3586	08/21/13	WESTLAKE VILLAGE	CA	34.1	-118.9	1	
+3587	08/21/13	Plano	TX	33.1	-96.7	3	
+3588	08/21/13	Toronto	ON	43.7	-79.4	1	
+3589	08/21/13	Lawrence	KS	39	-95.2	10	
+3590	08/21/13	Williamsburg	PA	40.4	-78.2	2	
+3591	08/21/13	IDA	MI	41.9	-83.6	1	
+3592	08/21/13	LaGrange	KY	38.4	-85.3	1	
+3593	08/21/13	Toms River	NJ	40	-74.2	2	
+3594	08/21/13	Lansing	IL	41.6	-87.5	1	
+3595	08/21/13	Ballwin	MO	38.6	-90.6	1	
+3596	08/21/13	Little Silver	NJ	40.3	-74	1	
+3597	08/21/13	Webster Groves	MO	38.6	-90.4	1	
+3598	08/21/13	Pasadena	MD	39.1	-76.5	4	
+3599	08/21/13	Charlotte	NC	35.2	-80.8	1	
+3600	08/21/13	woodridge	IL	41.8	-88	1	
+3601	08/21/13	Two Rivers	WI	44.2	-87.6	1	
+3602	08/21/13	Olathe	KS	38.9	-94.8	2	
+3603	08/21/13	Rochester	MN	44	-92.4	7	
+3604	08/21/13	freeport	FL	30.5	-86.2	3	
+3605	08/21/13	Seminole	FL	27.8	-82.8	3	
+3606	08/21/13	Lititz	PA	40.2	-76.3	1	
+3607	08/21/13	Robesonia	PA	40.4	-76.1	1	
+3608	08/21/13	Robesonia	PA	40.4	-76.1	1	
+3609	08/21/13	cross junction	VA	39.4	-78.3	1	
+3610	08/21/13	Whitmore Lake	MI	42.4	-83.8	1	
+3611	08/21/13	Minneapolis	MN	45	-93.3	1	
+3612	08/21/13	park ridge	IL	42	-87.8	1	
+3613	08/21/13	Neptune	NJ	40.2	-74.1	1	
+3614	08/21/13	North Boston	NY	42.7	-78.8	1	
+3615	08/21/13	Bethel	PA	40.5	-76.3	1	
+3616	08/21/13	Brookfield	WI	43.1	-88.1	6	
+3617	08/21/13	Perry	IA	41.8	-94.1	1	
+3618	08/21/13	New Ringgold	PA	40.7	-75.9	2	
+3619	08/21/13	Perrysburg	OH	41.5	-83.6	1	
+3620	08/21/13	Claremore	OK	36.3	-95.6	1	
+3621	08/21/13	mequon	WI	43.2	-88	1	
+3622	08/21/13	Lynchburg	VA	37.3	-79.2	10	
+3623	08/21/13	Drums	PA	41	-76	1	
+3624	08/21/13	Waterford	CT	41.4	-72.2	1	
+3625	08/21/13	Indianapolis	IN	39.8	-86.1	1	
+3626	08/21/13	Zeeland	MI	42.8	-86	1	
+3627	08/21/13	North Richland Hills	TX	32.8	-97.2	1	
+3628	08/21/13	Harrisonville	NJ	39.7	-75.1	2	
+3629	08/21/13	Nottingham	PA	39.7	-76	2	
+3630	08/21/13	Garland	TX	32.9	-96.6	1	
+3631	08/21/13	Ventnor	NJ	39.3	-74.5	1	
+3632	08/21/13	latrobe	PA	40.3	-79.4	3	
+3633	08/21/13	Grand Haven	MI	43	-86.1	1	
+3634	08/21/13	Savannah	GA	32.1	-81.1	5	
+3635	08/21/13	New Prague	MN	44.5	-93.6	1	
+3636	08/21/13	minneapolis	MN	44.9	-93.3	3	
+3637	08/21/13	Jonesboro	AR	35.8	-90.7	1	
+3638	08/21/13	WASHINGTON	MO	38.5	-91	1	
+3639	08/21/13	La Cygne	KS	38.3	-94.8	3	
+3640	08/21/13	Mission Viejo	CA	33.6	-117.6	10	
+3641	08/21/13	Beamsville	ON	43.2	-79.5	1	
+3642	08/21/13	Kansas City	MO	39.1	-94.6	4	
+3643	08/21/13	Eden Prairie	MN	44.9	-93.4	1	
+3644	08/21/13	Kemble	ON	44.7	-80.9	8	
+3645	08/21/13	Coloma	MI	42.2	-86.3	1	
+3646	08/21/13	aurora	ON	44	-79.5	1	
+3647	08/21/13	southfield	MI	42.5	-83.3	1	
+3648	08/21/13	Syracuse	NY	43	-76.2	5	
+3649	08/21/13	Champaign	IL	40.1	-88.2	1	
+3650	08/21/13	morris	CT	41.7	-73.2	1	
+3651	08/21/13	osceola	WI	45.3	-92.7	1	
+3652	08/21/13	Fulshear	TX	29.7	-95.9	5	
+3653	08/21/13	Lititz	PA	40.2	-76.3	1	
+3654	08/21/13	Butler	MD	39.6	-76.7	1	
+3655	08/21/13	Cape Charles	VA	37.3	-76	1	
+3656	08/21/13	Sheboygan	WI	43.7	-87.7	1	
+3657	08/21/13	Galway	NY	43	-74	1	
+3658	08/21/13	Steger	IL	41.5	-87.6	1	
+3659	08/21/13	Ajax	ON	43.9	-79	1	
+3660	08/21/13	Akron	OH	41	-81.5	1	
+3661	08/21/13	Lancaster	VA	37.8	-76.5	1	
+3662	08/21/13	Pennsburg	PA	40.4	-75.5	2	
+3663	08/21/13	Black River Falls	WI	44.3	-90.8	5	
+3664	08/21/13	Winchester	VA	39.2	-78.2	2	
+3665	08/21/13	Oglesby	TX	31.5	-97.6	1	
+3666	08/21/13	Ridgely	MD	39	-75.9	1	
+3667	08/21/13	Winchester	VA	39.2	-78.2	2	
+3668	08/21/13	Winchester	VA	39.2	-78.2	2	
+3669	08/21/13	Tequisquiapan	QUE	20.5	-99.9	1	
+3670	08/21/13	Cleveland	TN	35.1	-84.9	1	
+3671	08/20/13	St. Ignace	MI	45.9	-84.8	1	
+3672	08/20/13	Rehoboth	MA	41.9	-71.3	1	
+3673	08/20/13	LAKEVILLE	OH	40.6	-82.2	1	
+3674	08/20/13	Glen Mills	PA	39.9	-75.5	1	
+3675	08/20/13	Glen Mills	PA	39.9	-75.5	1	
+3676	08/20/13	Fairborn	OH	39.8	-84	1	
+3677	08/20/13	severna park	MD	39.1	-76.6	1	
+3678	08/20/13	Glen Mills	PA	39.9	-75.5	1	
+3679	08/20/13	Albuquerque	NM	35.1	-106.6	1	
+3680	08/20/13	Kansas City	MO	39.1	-94.6	2	
+3681	08/20/13	Collingswood	NJ	39.9	-75.1	1	
+3682	08/20/13	Saint Augustine	FL	29.9	-81.3	1	
+3683	08/20/13	La Grange	IL	41.8	-87.9	1	
+3684	08/20/13	Maxville	ON	45.3	-74.9	1	
+3685	08/20/13	Mer Rouge	LA	32.8	-91.7	2	
+3686	08/20/13	Bushnell	SD	44.3	-96.6	6	
+3687	08/20/13	Yorktown	VA	37.2	-76.6	1	
+3688	08/20/13	University	MS	34.4	-89.6	1	
+3689	08/20/13	port colborne	ON	42.9	-79.2	2	
+3690	08/20/13	Lombard	IL	41.9	-88	1	
+3691	08/20/13	minneapolis	MN	44.9	-93.3	2	
+3692	08/20/13	Pasadena	CA	34.1	-118.2	1	
+3693	08/20/13	Sedalia	MO	38.7	-93.3	1	
+3694	08/20/13	Markleville	IN	40	-85.6	1	
+3695	08/20/13	Scranton	PA	41.4	-75.7	1	
+3696	08/20/13	Lewisburg	PA	41	-77	1	
+3697	08/20/13	dover	DE	39.1	-75.5	2	
+3698	08/20/13	Cincinnati	OH	39.1	-84.5	1	
+3699	08/20/13	Oak Lawn	IL	41.7	-87.8	1	
+3700	08/20/13	Overland Park	KS	39	-94.7	1	
+3701	08/20/13	Fort Wayne	IN	41	-85.3	2	
+3702	08/20/13	Montague	NJ	41.3	-74.7	1	
+3703	08/20/13	Akron	OH	41	-81.6	1	
+3704	08/20/13	Burton	OH	41.4	-81.2	1	
+3705	08/20/13	Lancaster	PA	40.1	-76.3	1	
+3706	08/20/13	Graham	NC	36	-79.3	1	
+3707	08/20/13	st croix falls	WI	45.4	-92.6	8	
+3708	08/20/13	Perth	ON	44.9	-76.3	1	
+3709	08/20/13	Dearborn	MI	42.3	-83.2	1	
+3710	08/20/13	Newcastle	OK	35.2	-97.6	2	
+3711	08/20/13	Wichita	KS	37.7	-97.3	1	
+3712	08/20/13	Bloomington	IL	40.5	-89	1	
+3713	08/20/13	Susanville	CA	40.5	-120.7	1	
+3714	08/20/13	Lucas	KS	39	-98.5	5	
+3715	08/20/13	Horseshoe Valley	ON	44.6	-79.7	2	
+3716	08/20/13	Bucyrus	OH	40.8	-83	1	
+3717	08/20/13	Jacksonville	FL	30.4	-81.6	3	
+3718	08/20/13	Ripon	WI	43.8	-88.8	3	
+3719	08/20/13	east hampton	CT	41.6	-72.5	1	
+3720	08/20/13	Burlington	ON	43.4	-79.8	1	
+3721	08/20/13	Boothbay Harbor	ME	43.9	-69.6	1	
+3722	08/20/13	Oglesby	TX	31.5	-97.6	7	
+3723	08/20/13	Sugar Land	TX	29.6	-95.6	3	
+3724	08/20/13	Spokane	WA	47.8	-117.4	1	
+3725	08/20/13	New Iberia	LA	29.9	-91.8	2	
+3726	08/20/13	Homosassa	FL	28.7	-82.5	1	
+3727	08/20/13	Homosassa	FL	28.7	-82.5	1	
+3728	08/20/13	Homosassa	FL	28.7	-82.5	1	
+3729	08/20/13	Keenseburg	CO	40.1	-104.5	1	
+3730	08/20/13	Homosassa	FL	28.7	-82.5	1	
+3731	08/19/13	Denton	TX	33.2	-97.1	1	
+3732	08/19/13	Lyme	NH	43.8	-72.1	1	
+3733	08/19/13	Minneapolis	MN	45	-93.3	1	
+3734	08/19/13	Ventura	CA	34.3	-119.3	52	
+3735	08/19/13	Toronto	ON	43.7	-79.4	1	
+3736	08/19/13	Milwaukee	WI	43.1	-87.9	2	
+3737	08/19/13	WEST ALEXANDER	PA	40.1	-80.5	1	
+3738	08/19/13	Atchison	KS	39.5	-95.1	2	
+3739	08/19/13	Santa Fe	NM	35.8	-106	1	
+3740	08/19/13	Souderton	PA	40.3	-75.3	3	
+3741	08/19/13	Lancaster	OH	39.7	-82.6	1	
+3742	08/19/13	McCordsville	IN	39.9	-85.9	1	
+3743	08/19/13	Fishers	IN	40	-86	1	
+3744	08/19/13	Minneapolis	MN	45	-93.3	8	
+3745	08/19/13	Allenton	WI	43.5	-88.4	1	
+3746	08/19/13	Christiana	PA	39.9	-76	1	
+3747	08/19/13	Longwood	FL	28.7	-81.3	5	
+3748	08/19/13	Katy	TX	29.8	-95.7	2	
+3749	08/19/13	Media	PA	39.9	-75.4	1	
+3750	08/19/13	San Gabriel	CA	34.1	-118.1	1	
+3751	08/19/13	Scarborough	ON	43.8	-79.3	1	
+3752	08/19/13	Lake Crystal	MN	44.1	-94.2	1	
+3753	08/19/13	Harrodsburg	KY	37.8	-84.9	2	
+3754	08/19/13	Kingston	ON	44.3	-76.5	2	
+3755	08/19/13	Wells	ME	43.3	-70.6	1	
+3756	08/19/13	Columbus	OH	40.1	-83	1	
+3757	08/19/13	Allenton	WI	43.5	-88.4	1	
+3758	08/19/13	Lakeville	MN	44.6	-93.2	1	
+3759	08/19/13	Douglas	MI	42.6	-86.2	1	
+3760	08/19/13	Port Lavaca	TX	28.5	-96.7	1	
+3761	08/19/13	Greenville	NH	42.7	-71.8	2	
+3762	08/19/13	Winnipeg	MB	49.9	-97.1	1	
+3763	08/19/13	Springfield	VA	38.8	-77.2	1	
+3764	08/19/13	Sugar Land	TX	29.6	-95.6	4	
+3765	08/19/13	McKinney	TX	33.2	-96.6	5	
+3766	08/19/13	San Rafael	CA	38	-122.5	1	
+3767	08/19/13	Shoshoni	WY	43.2	-107.8	4	
+3768	08/19/13	Westerville	OH	40.1	-82.9	6	
+3769	08/19/13	MILFORD	MI	42.6	-83.6	3	
+3770	08/19/13	Acworth	GA	34	-84.7	1	
+3771	08/19/13	The Sea Ranch	CA	38.7	-123.5	1	
+3772	08/19/13	Metairie	LA	29.9	-90.2	1	
+3773	08/18/13	akron	OH	41	-81.5	1	
+3774	08/18/13	Holt	MI	42.6	-84.5	1	
+3775	08/18/13	Pottstown	PA	40.3	-75.6	1	
+3776	08/18/13	Warrensburg	MO	38.8	-93.7	2	
+3777	08/18/13	Pennsburg	PA	40.4	-75.5	1	
+3778	08/18/13	Mason	WI	46.4	-91.1	1	
+3779	08/18/13	Laurel Springs	NC	36.4	-81.3	1	
+3780	08/18/13	Cranbrook	BC	49.5	-115.8	3	
+3781	08/18/13	Bushnell	SD	44.3	-96.6	8	
+3782	08/18/13	Grand Forks	ND	47.9	-97.1	7	
+3783	08/18/13	minneapolis	MN	44.9	-93.3	2	
+3784	08/18/13	Santa Fe	NM	35.8	-106	1	
+3785	08/18/13	Omaha	NE	41.3	-95.9	12	
+3786	08/18/13	Minneapolis	MN	45	-93.3	2	
+3787	08/18/13	Lakeland	FL	28	-81.9	2	
+3788	08/18/13	Vicksburg	MI	42.1	-85.5	2	
+3789	08/18/13	Fergus Falls	MN	46.3	-96.1	1	
+3790	08/18/13	Fort Rucker	AL	31.4	-85.7	1	
+3791	08/18/13	Saint Paul	MN	45	-93.2	3	
+3792	08/18/13	Ridgetown Ontario	ON	42.5	-81.8	1	
+3793	08/18/13	Clearville Park	ON	42.5	-81.7	2	
+3794	08/18/13	Webster Groves	MO	38.6	-90.4	1	
+3795	08/18/13	Cameron	ON	44.4	-78.8	1	
+3796	08/18/13	La Grange	IL	41.8	-87.9	1	
+3797	08/18/13	Lookout Mountain	TN	35	-85.4	1	
+3798	08/18/13	darlington	MD	39.6	-76.2	1	
+3799	08/18/13	Crystal Lake	IL	42.2	-88.3	2	
+3800	08/18/13	mason	OH	39.3	-84.3	1	
+3801	08/18/13	Spring Green	WI	43.2	-90.1	1	
+3802	08/18/13	Norwich	VT	43.8	-72.3	3	
+3803	08/18/13	Columbus	KS	37.2	-94.9	1	
+3804	08/18/13	Rocky Point	NY	40.9	-72.9	1	
+3805	08/18/13	Buckland	OH	40.6	-84.1	1	
+3806	08/18/13	Ellicott City	MD	39.3	-76.9	1	
+3807	08/18/13	Durham	NC	36	-78.9	2	
+3808	08/18/13	Lake Mills	WI	43.1	-88.9	1	
+3809	08/17/13	El Dorado	KS	37.9	-96.8	1	
+3810	08/17/13	Olathe	KS	38.9	-94.8	1	
+3811	08/17/13	Layton	UT	41.1	-111.9	1	
+3812	08/17/13	Sunbury	PA	40.8	-76.8	1	
+3813	08/17/13	middletown	RI	41.5	-71.3	1	
+3814	08/17/13	Saint Marys	KS	39.2	-96.1	1	
+3815	08/17/13	Middle River	MD	39.3	-76.4	1	
+3816	08/17/13	Reading	PA	40.4	-75.9	1	
+3817	08/17/13	Emigrant	MT	45.2	-110.8	1	
+3818	08/17/13	Leamington	ON	42.1	-82.6	6	
+3819	08/17/13	Bay Village	OH	41.5	-81.9	2	
+3820	08/17/13	waterford	CT	41.4	-72.2	1	
+3821	08/17/13	Sidney	NY	42.3	-75.2	1	
+3822	08/17/13	Allen	TX	33.1	-96.6	1	
+3823	08/17/13	Ringoes	NJ	40.4	-74.8	1	
+3824	08/17/13	Marble Falls	TX	30.6	-98.2	2	
+3825	08/17/13	Manchester	MD	39.7	-76.9	1	
+3826	08/17/13	minneapolis	MN	44.9	-93.3	2	
+3827	08/17/13	Champaign	IL	40.1	-88.2	2	
+3828	08/17/13	Terra Alta	WV	39.4	-79.6	1	
+3829	08/17/13	Westfield	WI	43.9	-89.5	5	
+3830	08/17/13	Media	PA	39.9	-75.4	1	
+3831	08/17/13	Houston	TX	29.8	-95.4	2	
+3832	08/17/13	Meridian	ID	43.6	-116.5	1	
+3833	08/17/13	Gallatin	TN	36.4	-86.5	3	
+3834	08/17/13	Inkerman	ON	45	-75.4	1	
+3835	08/17/13	Winfield	KS	37.2	-96.9	1	
+3836	08/17/13	Coram	NY	40.9	-73	1	
+3837	08/17/13	Westhampton	MA	42.3	-72.8	1	
+3838	08/17/13	Wildwood	GA	35	-85.4	1	
+3839	08/17/13	Wildwood	GA	35	-85.4	1	
+3840	08/16/13	Surry	VA	37.1	-76.8	1	
+3841	08/16/13	Harrisville	MI	44.6	-83.4	1	
+3842	08/16/13	Bushnell	SD	44.3	-96.6	5	
+3843	08/16/13	Laurel Springs	NC	36.4	-81.3	1	
+3844	08/16/13	Tollhouse	CA	37	-119.4	3	
+3845	08/16/13	Seymour	CT	41.4	-73.1	1	
+3846	08/16/13	Sedalia	MO	38.7	-93.3	1	
+3847	08/16/13	Ellicott City	MD	39.3	-76.8	1	
+3848	08/16/13	Danville	KY	37.6	-84.8	2	
+3849	08/16/13	Peterborough	ON	44.6	-78.3	1	
+3850	08/16/13	Hauppauge	NY	40.8	-73.2	2	
+3851	08/16/13	Sutton	ON	44.3	-79.4	1	
+3852	08/16/13	Columbia	NJ	41	-75.1	1	
+3853	08/16/13	Maineville	OH	39.3	-84.2	1	
+3854	08/16/13	Whitehouse Station	NJ	40.6	-74.8	2	
+3855	08/16/13	Blind River	ON	46.2	-83	1	
+3856	08/16/13	Glen St Mary	FL	30.3	-82.2	1	
+3857	08/16/13	Antigonish	NS	45.6	-62	2	
+3858	08/16/13	Chicago	IL	41.9	-87.6	3	
+3859	08/15/13	Fishers	IN	40	-86	1	
+3860	08/15/13	Glen Mills	PA	39.9	-75.5	1	
+3861	08/15/13	Leamington	ON	42.1	-82.6	3	
+3862	08/15/13	Muskego	WI	42.9	-88.1	1	
+3863	08/15/13	Nottingham	PA	39.7	-76	3	
+3864	08/15/13	Glen Mills	PA	39.9	-75.5	1	
+3865	08/15/13	Hastings	NE	40.6	-98.4	1	
+3866	08/15/13	Union	CO	40.3	-103.6	5	
+3867	08/15/13	McCordsville	IN	39.9	-85.9	1	
+3868	08/15/13	Browns mills	NJ	40	-74.6	1	
+3869	08/15/13	Middletown	NY	41.5	-74.4	4	
+3870	08/15/13	Lago Vista	TX	30.5	-98	1	
+3871	08/15/13	East Hartland	CT	42	-72.9	1	
+3872	08/15/13	Midland	MI	43.6	-84.3	1	
+3873	08/15/13	Sparland	IL	41	-89.5	1	
+3874	08/15/13	Lewisburg	WV	37.8	-80.5	1	
+3875	08/15/13	Derwood	MD	39.1	-77.1	1	
+3876	08/15/13	Eastham	MA	41.8	-70	1	
+3877	08/15/13	Mercersburg	PA	39.8	-77.9	1	
+3878	08/15/13	Danville	KY	37.6	-84.8	5	
+3879	08/15/13	Santa Fe	NM	35.8	-106	1	
+3880	08/15/13	Algonac	MI	42.6	-82.6	1	
+3881	08/15/13	Elizabethton	TN	36.4	-82.1	1	
+3882	08/15/13	Piqua	OH	40.2	-84.3	2	
+3883	08/15/13	Oklahoma City	OK	35.4	-97.5	1	
+3884	08/15/13	Leesburg	VA	39.1	-77.6	3	
+3885	08/15/13	Wenham	MA	42.6	-70.9	1	
+3886	08/15/13	Midvale	ID	44.4	-116.6	8	
+3887	08/15/13	Chilo	OH	38.8	-84.1	2	
+3888	08/15/13	HOLLAND	MI	42.7	-86.1	30	
+3889	08/15/13	Mechanicstown	OH	40.6	-81	1	
+3890	08/15/13	Pattison	TX	29.8	-96	1	
+3891	08/15/13	IDAHO FALLS	ID	43.5	-111.9	2	
+3892	08/15/13	Porter	IN	41.6	-87.1	1	
+3893	08/14/13	Denver	CO	39.8	-105	2	
+3894	08/14/13	Harrisville	MI	44.6	-83.4	1	
+3895	08/14/13	Lago Vista	TX	30.5	-98	1	
+3896	08/14/13	Nantucket	MA	41.3	-70.1	1	
+3897	08/14/13	Glen Mills	PA	39.9	-75.5	1	
+3898	08/14/13	Cromwell valley	MD	39.4	-76.6	2	
+3899	08/14/13	Yorktown	VA	37.2	-76.6	2	
+3900	08/14/13	Springfield	VT	43.3	-72.5	1	
+3901	08/14/13	Pennsburg	PA	40.4	-75.5	1	
+3902	08/14/13	Lakeside	AZ	34.2	-109.9	5	
+3903	08/14/13	Monona	IA	43.1	-91.4	4	
+3904	08/14/13	Lafayette	CA	37.9	-122.1	1	
+3905	08/14/13	Killarney	ON	46	-81.5	1	
+3906	08/14/13	Crystal Lake	IL	42.2	-88.3	2	
+3907	08/14/13	Brunswick	ME	43.9	-70	1	
+3908	08/14/13	Newbury	MA	42.8	-70.9	1	
+3909	08/14/13	Florissant	MO	38.8	-90.3	1	
+3910	08/13/13	WHITEHALL	PA	40.7	-75.5	2	
+3911	08/13/13	mequon	WI	43.2	-88	1	
+3912	08/13/13	Worthington	OH	40.1	-83	1	
+3913	08/13/13	Abilene	TX	32.5	-99.7	3	
+3914	08/13/13	Pottsville	PA	40.7	-76.3	1	
+3915	08/13/13	Gladstone	MO	39.2	-94.6	1	
+3916	08/13/13	South Haven	MI	42.4	-86.2	1	
+3917	08/13/13	Indianapolis	IN	39.8	-86.1	1	
+3918	08/13/13	Nashville	TN	36.2	-86.8	1	
+3919	08/13/13	Nescopeck	PA	41	-76.2	2	
+3920	08/13/13	Lancaster	OH	39.7	-82.6	2	
+3921	08/13/13	Leamington	ON	42.1	-82.6	8	
+3922	08/13/13	Bushnell	SD	44.3	-96.6	8	
+3923	08/13/13	Pittsboro	NC	35.8	-79.2	1	
+3924	08/13/13	Austin	TX	30.5	-98	2	
+3925	08/13/13	San Antonio	TX	29.5	-98.5	1	
+3926	08/13/13	Swoope	VA	38.1	-79.2	2	
+3927	08/13/13	Lancaster	PA	40.1	-76.3	1	
+3928	08/13/13	Tucker	GA	33.9	-84.2	1	
+3929	08/13/13	Benton	KY	36.9	-88.3	1	
+3930	08/13/13	Antwerp	OH	41.2	-84.7	3	
+3931	08/13/13	Carbondale	IL	37.7	-89.2	1	
+3932	08/13/13	Live Oak	FL	30.3	-83.1	10	
+3933	08/13/13	Espanola	ON	46.3	-81.8	2	
+3934	08/13/13	San Antonio	NM	33.9	-107	2	
+3935	08/12/13	Stockholm	NJ	41.1	-74.5	1	
+3936	08/12/13	Stoughton	MA	42.1	-71.1	1	
+3937	08/12/13	Pottsville	PA	40.7	-76.3	2	
+3938	08/12/13	Metairie	LA	30	-90.2	1	
+3939	08/12/13	Norwich	VT	43.8	-72.3	1	
+3940	08/12/13	Fort Wayne	IN	41.1	-85.2	1	
+3941	08/12/13	council bluffs	IA	41.2	-95.9	1	
+3942	08/12/13	Pittsford	MI	41.9	-84.4	2	
+3943	08/12/13	Sabinsville	PA	41.8	-77.5	1	
+3944	08/12/13	Plainville	KS	39.2	-99.3	1	
+3945	08/12/13	poplar bluff	MO	36.8	-90.4	6	
+3946	08/12/13	Lake Elsinore	CA	33.6	-117.4	1	
+3947	08/12/13	Noblesville	IN	40.1	-86	1	
+3948	08/12/13	Fishers	IN	40	-86	1	
+3949	08/12/13	McCordsville	IN	39.9	-85.9	1	
+3950	08/12/13	Aurora	IL	41.8	-88.2	5	
+3951	08/12/13	Beaver Falls	PA	40.8	-80.4	1	
+3952	08/12/13	Lowville	NY	43.8	-75.5	1	
+3953	08/12/13	Eastham	MA	41.8	-70	1	
+3954	08/12/13	Nescopeck	PA	41	-76.2	2	
+3955	08/12/13	Bushnell	SD	44.3	-96.6	3	
+3956	08/12/13	Atchison	KS	39.5	-95.1	1	
+3957	08/12/13	Philadelphia	PA	40.1	-75	3	
+3958	08/12/13	amaranth	ON	44	-80.3	3	
+3959	08/12/13	oceanside	CA	33.2	-117.4	900	
+3960	08/11/13	Newmarket	ON	44.1	-79.5	1	
+3961	08/11/13	Fargo	ND	46.9	-96.8	1	
+3962	08/11/13	Tarrytown	NY	41.1	-73.9	1	
+3963	08/11/13	Auburn Hills	MI	42.7	-83.2	1	
+3964	08/11/13	Harrisville	MI	44.6	-83.4	1	
+3965	08/11/13	Champaign	IL	40.1	-88.2	1	
+3966	08/11/13	Chelsea	MI	42.3	-84	1	
+3967	08/11/13	Viking	MN	48.2	-96.5	1	
+3968	08/11/13	Muskegon	MI	43.2	-86.3	1	
+3969	08/11/13	Richmond	IN	39.8	-84.9	1	
+3970	08/11/13	Milltown	NJ	40.4	-74.4	1	
+3971	08/11/13	Minneapolis	MN	45	-93.3	1	
+3972	08/11/13	jeffersonville	IN	38.3	-85.7	1	
+3973	08/11/13	Toronto	ON	43.7	-79.4	1	
+3974	08/11/13	Tucker	GA	33.9	-84.2	1	
+3975	08/11/13	McCordsville	IN	39.9	-85.9	1	
+3976	08/11/13	Pickering	ON	43.9	-79.1	1	
+3977	08/11/13	Pickering	ON	43.9	-79.1	1	
+3978	08/11/13	Pickering	ON	43.9	-79.1	2	
+3979	08/11/13	Osakis	MN	45.9	-95.1	1	
+3980	08/11/13	Bushnell	SD	44.3	-96.6	14	
+3981	08/11/13	mundelein	IL	42.3	-88	2	
+3982	08/11/13	West Newton	PA	40.2	-79.7	1	
+3983	08/11/13	Southern Lake Norman	NC	35.5	-80.9	3	
+3984	08/10/13	Waterloo	IN	41.5	-85	1	
+3985	08/10/13	Watsontown	PA	41.1	-76.8	2	
+3986	08/10/13	Glen Mills	PA	39.9	-75.5	1	
+3987	08/10/13	Pickering	ON	43.9	-79.1	3	
+3988	08/10/13	Sedalia	MO	38.7	-93.3	2	
+3989	08/10/13	Middletown	NY	41.5	-74.4	1	
+3990	08/10/13	Hubbard	OH	41.2	-80.6	1	
+3991	08/10/13	Waterford	MI	42.6	-83.4	1	
+3992	08/10/13	Metairie	LA	30	-90.2	1	
+3993	08/10/13	Metairie	LA	30	-90.2	1	
+3994	08/10/13	Kansas City	MO	39.1	-94.6	1	
+3995	08/10/13	Northfield	MN	44.5	-93.2	1	
+3996	08/10/13	hightstown	NJ	40.3	-74.5	1	
+3997	08/10/13	Broomfield	CO	39.9	-105.1	1	
+3998	08/10/13	McCordsville	IN	39.9	-85.9	1	
+3999	08/10/13	Lansing	IA	43.1	-91.4	5	
+4000	08/10/13	Tulsa	OK	36.1	-96	3	
+4001	08/10/13	Hugoton	KS	37.1	-101.3	1	
+4002	08/10/13	Media	PA	39.9	-75.4	1	
+4003	08/10/13	Cochranville	PA	39.9	-75.9	1	
+4004	08/10/13	Olathe	KS	38.9	-94.8	1	
+4005	08/10/13	Monterrey	NL	25.7	-100.3	1	
+4006	08/10/13	Cole Camp	MO	38.4	-93.2	1	
+4007	08/10/13	Manchester	MD	39.7	-76.9	1	
+4008	08/10/13	Nibley	UT	41.7	-111.6	4	
+4009	08/10/13	El Paso	TX	31.8	-106.5	1	
+4010	08/10/13	Champaign	IL	40.1	-88.2	1	
+4011	08/10/13	Ashburn	VA	39	-77.5	6	
+4012	08/10/13	Isla Vista	CA	34.4	-119.9	5	
+4013	08/10/13	Bismarck	ND	46.8	-100.7	1	
+4014	08/09/13	Elizabethtown	PA	40.2	-76.6	1	
+4015	08/09/13	Tallahassee	FL	30.5	-84.3	1	
+4016	08/09/13	millgrove	ON	43.3	-80	1	
+4017	08/09/13	Waterloo	IN	41.5	-85	1	
+4018	08/09/13	Lancaster	PA	40.1	-76.3	3	
+4019	08/09/13	Newtown	PA	40.3	-75	1	
+4020	08/09/13	Kitchener	ON	43.5	-80.5	1	
+4021	08/09/13	Pickering	ON	43.9	-79.1	1	
+4022	08/09/13	West Yarmouth	MA	41.7	-70.2	1	
+4023	08/09/13	Champaign	IL	40.1	-88.2	1	
+4024	08/09/13	Mer Rouge	LA	32.8	-91.7	2	
+4025	08/09/13	McFarland	WI	43	-89.3	1	
+4026	08/09/13	Mishawaka	IN	41.6	-86.1	2	
+4027	08/09/13	Moline	IL	41.5	-90.5	1	
+4028	08/09/13	Vantage	WA	46.9	-120	37	
+4029	08/09/13	Budd Lake	NJ	40.9	-74.8	1	
+4030	08/09/13	Budd Lake	NJ	40.9	-74.8	1	
+4031	08/09/13	Cato	NY	43.2	-76.6	1	
+4032	08/09/13	Marshfield	MA	42.1	-70.7	3	
+4033	08/09/13	North Decatur	GA	33.8	-84.3	2	
+4034	08/08/13	Yorktown	VA	37.2	-76.6	2	
+4035	08/08/13	Glen Mills	PA	39.9	-75.5	1	
+4036	08/08/13	Champaign	IL	40.1	-88.2	1	
+4037	08/08/13	Champaign	IL	40.1	-88.2	1	
+4038	08/08/13	Oklahoma City	OK	35.5	-97.6	1	
+4039	08/08/13	IPSWICH	MA	42.7	-70.8	1	
+4040	08/08/13	Cambridge	OH	40.1	-81.6	1	
+4041	08/08/13	Katy	TX	29.8	-95.7	1	
+4042	08/08/13	East Windsor	NJ	40.3	-74.5	1	
+4043	08/08/13	Mason	WI	46.4	-91.1	2	
+4044	08/08/13	Lothian	MD	38.8	-76.7	2	
+4045	08/07/13	aberdeen	MD	39.5	-76.2	1	
+4046	08/07/13	columbia	MS	31.2	-89.8	1	
+4047	08/07/13	trenton	ON	44.1	-77.6	1	
+4048	08/07/13	Lakeville	NY	42.8	-77.7	1	
+4049	08/07/13	Katy	TX	29.8	-95.7	1	
+4050	08/07/13	woodridge	IL	41.8	-88	1	
+4051	08/07/13	Owego	NY	42.1	-76.3	1	
+4052	08/07/13	COLUMBIA	MD	39.2	-76.9	4	
+4053	08/07/13	Bronx	NY	40.8	-73.9	2	
+4054	08/07/13	Philadelphia	PA	40.1	-75	1	
+4055	08/07/13	Snyder	CO	40.3	-103.6	1	
+4056	08/07/13	new brunswick	NJ	40.5	-74.5	1	
+4057	08/07/13	minong	WI	46.1	-91.8	5	
+4058	08/06/13	Harrisville	MI	44.6	-83.4	1	
+4059	08/06/13	Overland Park	KS	39	-94.7	1	
+4060	08/06/13	melrose	NY	42.9	-73.6	1	
+4061	08/06/13	Stockbridge	GA	33.6	-84.2	4	
+4062	08/06/13	minneapolis	MN	44.9	-93.3	1	
+4063	08/06/13	Lancaster,Ohio 43130	OH	39.7	-82.6	1	
+4064	08/06/13	Blountville	TN	36.5	-82.4	1	
+4065	08/06/13	Pickering	ON	43.9	-79.1	1	
+4066	08/06/13	Ambler	PA	40.2	-75.2	1	
+4067	08/06/13	Toronto	ON	43.7	-79.4	1	
+4068	08/06/13	Champaign	IL	40.1	-88.2	1	
+4069	08/06/13	batavia	NY	43	-78.2	1	
+4070	08/06/13	Holt	MI	42.6	-84.5	1	
+4071	08/06/13	Syracuse	NY	43	-76.2	1	
+4072	08/06/13	Howell	NJ	40.1	-74.2	1	
+4073	08/06/13	Stewart	OH	39.3	-81.9	1	
+4074	08/05/13	Allen	TX	33.1	-96.6	1	
+4075	08/05/13	Pottsville	PA	40.7	-76.3	1	
+4076	08/05/13	Snyder	CO	40.3	-103.6	1	
+4077	08/05/13	Tse Bonito	NM	36.5	-105.1	4	
+4078	08/05/13	Columbus	OH	40.1	-83	2	
+4079	08/05/13	Pemberton	NJ	40	-74.6	1	
+4080	08/05/13	Pickering	ON	43.9	-79.1	1	
+4081	08/05/13	Bushnell	SD	44.3	-96.6	5	
+4082	08/05/13	Charlotte	NC	35.2	-80.8	1	
+4083	08/05/13	Sabinsville	PA	41.8	-77.5	1	
+4084	08/05/13	Niles	OH	41.2	-80.8	1	
+4085	08/05/13	Cole Camp	MO	38.4	-93.2	1	
+4086	08/05/13	Media	PA	39.9	-75.4	1	
+4087	08/05/13	Hyde park	VT	44.6	-72.6	1	
+4088	08/05/13	Catonsville	MD	39.3	-76.7	1	
+4089	08/05/13	Wells Beach	ME	43.3	-70.6	1	
+4090	08/05/13	Mont Tremblant	QC	45.1	-76.1	2	
+4091	08/04/13	Allen	TX	33.1	-96.6	1	
+4092	08/04/13	Waterloo	IN	41.5	-85	1	
+4093	08/04/13	Lake Greenwood	SC	33.8	-84	1	
+4094	08/04/13	Oswego	NY	43.4	-76.5	2	
+4095	08/04/13	Syracuse	NY	43	-76.2	1	
+4096	08/04/13	Coeur d Alene	ID	47.6	-116.7	1	
+4097	08/04/13	Silver Creek	AZ	34.3	-109.9	15	
+4098	08/04/13	Palmyra	NY	43.1	-77.2	1	
+4099	08/04/13	Bowmanville	ON	43.9	-78.7	1	
+4100	08/04/13	Interstate 77	WV	41.6	-83.6	50	
+4101	08/04/13	New Ringgold	PA	40.7	-75.9	1	
+4102	08/04/13	West LIberty	IA	41.6	-91.3	2	
+4103	08/03/13	Lakeville	NY	42.8	-77.7	1	
+4104	08/03/13	Grand Valley	ON	43.9	-80.3	1	
+4105	08/03/13	DeLancey	NY	42.2	-75	1	
+4106	08/03/13	durham	NH	43.1	-71	1	
+4107	08/03/13	West Yarmouth	MA	41.7	-70.2	1	
+4108	08/03/13	Hewlets Landing	NY	43.6	-73.6	1	
+4109	08/03/13	Ocean City	MD	38.4	-75.1	1	
+4110	08/03/13	Springerville	AZ	34.2	-109.4	25	
+4111	08/03/13	Eager	AZ	34.1	-109.3	40	
+4112	08/03/13	Canelo	AZ	31.5	-110.5	10	
+4113	08/03/13	Pine	AZ	34.4	-111.4	4	
+4114	08/03/13	Northville	MI	42.4	-83.5	1	
+4115	08/03/13	Kingfisher	OK	35.9	-98	1	
+4116	08/03/13	Apalachicola	FL	29.7	-85.1	1	
+4117	08/03/13	Independence	MO	39.1	-94.4	1	
+4118	08/03/13	Chalk Mountain	TX	32.1	-97.9	1	
+4119	08/03/13	LINCOLN	VT	44.1	-73	2	
+4120	08/03/13	Champaign	IL	40.1	-88.2	1	
+4121	08/03/13	London	ON	43	-81.2	3	
+4122	08/02/13	Tallahassee	FL	30.4	-84.3	2	
+4123	08/02/13	Madison	WI	43.1	-89.4	1	
+4124	08/02/13	Nottingham	PA	39.7	-76	1	
+4125	08/02/13	Frederick	MD	39.4	-77.4	12	
+4126	08/02/13	roseville	MN	45	-93.1	1	
+4127	08/02/13	Stratford	CT	41.2	-73.1	1	
+4128	08/02/13	Herndon	VA	39	-77.4	2	
+4129	08/02/13	WINSTON SALEM	NC	36.1	-80.2	2	
+4130	08/02/13	Hereford	AZ	31.4	-110.3	3	
+4131	08/02/13	Luna	NM	33.8	-108.9	1	
+4132	08/02/13	CROSSVILLE	TN	35.9	-85	1	
+4133	08/02/13	Baltimore	MD	39.3	-76.6	2	
+4134	08/02/13	Brooklyn Corner	NS	45.1	-64.6	2	
+4135	08/02/13	Midway	UT	40.5	-111.5	1	
+4136	08/02/13	HICKSVILLE	OH	41.3	-84.7	1	
+4137	08/01/13	Jeffersonville	IN	38.3	-85.7	1	
+4138	08/01/13	caddo mills	TX	33.1	-96.2	1	
+4139	08/01/13	Mississauga	ON	43.6	-79.7	1	
+4140	08/01/13	L'Amable	ON	45.5	-78.1	2	
+4141	08/01/13	Beamsville	ON	43.2	-79.5	1	
+4142	08/01/13	Lincoln	NE	40.8	-96.7	3	
+4143	08/01/13	Fort Wayne	IN	41.1	-85.2	1	
+4144	08/01/13	Watsontown	PA	41.1	-76.8	1	
+4145	08/01/13	Lexington	MA	42.4	-71.2	1	
+4146	08/01/13	Cambridge Station	NS	45.1	-64.6	2	
+4147	08/01/13	Lee's Summit	MO	38.9	-94.4	1	
+4148	08/01/13	Indian River	MI	45.4	-84.5	1	
+4149	08/01/13	Jeffersonville	VT	44.7	-72.8	1	
+4150	08/01/13	big bend national park	TX	29.3	-103.3	5	
+4151	08/01/13	Providence	UT	41.7	-111.8	3	
+4152	08/01/13	Kannapolis	NC	35.5	-80.7	1	
+4153	08/01/13	The Sea Ranch	CA	38.7	-123.5	1	
+4154	07/31/13	Wooster	OH	40.8	-82	1	
+4155	07/31/13	Sugarcreek	OH	40.5	-81.7	1	
+4156	07/31/13	Austin	TX	30.2	-97.7	1	
+4157	07/31/13	Artesia	NM	32.8	-104.3	1	
+4158	07/31/13	Whittier	CA	34	-118	1	
+4159	07/31/13	Watsontown	PA	41.1	-76.8	4	
+4160	07/31/13	Cole Camp	MO	38.4	-93.2	1	
+4161	07/30/13	Stanley	NY	42.8	-77.1	1	
+4162	07/29/13	mascoutah	IL	38.5	-89.8	1	
+4163	07/29/13	leonardo	NJ	40.4	-74.1	1	
+4164	07/29/13	Watsontown	PA	41.1	-76.8	1	
+4165	07/29/13	Colton	NY	44.3	-74.8	1	
+4166	07/28/13	Young	AZ	34.1	-110.8	1	
+4167	07/28/13	Garland	TX	32.9	-96.6	1	
+4168	07/27/13	Bushnell	SD	44.3	-96.6	1	
+4169	07/26/13	Cincinnati	OH	39.1	-84.5	1	
+4170	07/26/13	Hershey	PA	40.3	-76.6	1	
+4171	07/26/13	Lothian	MD	38.8	-76.7	1	
+4172	07/25/13	San Lucas TolimÃ¡n	SololÃ¡ Department	14.6	-91.1	1	
+4173	07/25/13	Orlando	FL	28.5	-81.4	1	
+4174	07/23/13	haliburton	ON	45.1	-78.5	2	
+4175	07/22/13	Kirkwood	CA	38.7	-120.1	1	
+4176	07/22/13	Lewisburg	PA	41	-77	1	
+4177	07/22/13	yarmouth	MA	41.7	-70.2	1	
+4178	07/22/13	Arlington	VA	38.9	-77.1	1	
+4179	07/22/13	haliburton	ON	45.1	-78.5	1	
+4180	07/21/13	IPSWICH	MA	42.7	-70.8	4	
+4181	07/21/13	Fremont	OH	41.4	-83.1	1	
+4182	07/16/13	Watsontown	PA	41.1	-76.8	1	
+4183	07/15/13	Hancock	ME	44.5	-68.2	1	
+4184	07/15/13	Flagstaff	AZ	35.5	-111.7	3	
+4185	07/14/13	Grand Canyon	AZ	36	-112.2	1	
+4186	07/13/13	Centreville	VA	38.8	-77.5	1	
+4187	07/06/13	Islesboro	ME	44.3	-68.9	1	
+4188	07/05/13	North Hampton	NH	43	-70.8	1	
+4189	06/28/13	Avon	IN	39.8	-86.4	1	
+4190	06/25/13	Philadelphia	PA	40.1	-75	1	
+4191	06/22/13	Payne's Creek	CA	40.3	-121.9	1	
+4192	06/16/13	Helena	CA	40.8	-123.1	1	
+4193	06/15/13	Afton	MI	45.3	-84.4	4	
+4194	06/01/13	Streamwood	IL	42	-88.2	1	
+4195	05/30/13	Belen	NM	34.6	-106.7	1	
+4196	05/25/13	Scarborough	ME	43.6	-70.4	1	
+4197	05/19/13	Bluffton	SC	32.2	-80.9	1	
+4198	05/18/13	Wilmington	DE	39.7	-75.5	2	
+4199	05/15/13	Poplar Island	MD	38.5	-76.2	1	
+4200	05/12/13	Livingston	TX	30.7	-94.8	15	
+4201	05/03/13	Buncombe	IL	37.5	-89	2	
+4202	03/09/13	newport News	VA	37.1	-76.5	1	
+4203	03/01/13	Sugar Land	TX	29.6	-95.6	1	
+4204	03/01/13	New Orleans	LA	30	-90.1	1	
+4205	02/28/13	San Luis Obispo	CA	35.2	-120.6	1	
+4206	02/27/13	Long Beach	CA	33.8	-118.2	1	
+4207	02/27/13	Davie	FL	26.1	-80.2	1	
+4208	02/26/13	MEADOWS PLACE	TX	29.7	-95.6	1	
+4209	02/26/13	Moreno Valley	CA	34	-117.2	1	
+4210	02/26/13	Zinapecuaro	CO	19.9	-100.8	1	
+4211	02/26/13	Mount Vernon	TX	33.2	-95.2	1	
+4212	02/25/13	Galveston	TX	29.3	-94.8	1	
+4213	02/25/13	Kingwood	TX	30	-95.3	1	
+4214	02/23/13	Friendswood	TX	29.5	-95.2	1	
+4215	02/23/13	Pacific Grove	CA	36.6	-121.9	1	
+4216	02/23/13	Santa Cruz	CA	37.1	-122.2	1	
+4217	02/22/13	Pismo Beach	CA	35.2	-120.7	1	
+4218	02/21/13	Austin	TX	30.2	-97.7	1	
+4219	02/21/13	Gulfport	FL	27.7	-82.7	1	
+4220	02/21/13	Tucson	AZ	32.2	-111	1	
+4221	02/20/13	Jacksonville	FL	30.4	-81.6	1	
+4222	02/20/13	San Clemente	CA	33.4	-117.6	1	
+4223	02/20/13	Metairie	LA	30	-90.2	1	
+4224	02/19/13	davenport	FL	28.2	-81.6	1	
+4225	02/19/13	Ventura	CA	34.3	-119.3	1	
+4226	02/18/13	Katy	TX	29.8	-95.7	1	
+4227	02/18/13	Ocotillo	CA	32.7	-116	1	
+4228	02/17/13	Savannah	GA	32.1	-81.1	1	
+4229	02/17/13	Friendswood	TX	29.5	-95.2	1	
+4230	02/16/13	HOUSTON	TX	29.8	-95.4	1	
+4231	02/15/13	New Orleans	LA	30	-90.1	1	
+4232	02/15/13	Orange Park	FL	30.1	-81.8	1	
+4233	02/15/13	Borrego Springs	CA	33.3	-116.4	1	
+4234	02/15/13	Spring	TX	30.1	-95.4	1	
+4235	02/14/13	Houston	TX	29.8	-95.4	1	
+4236	02/14/13	Texas City	TX	29.4	-94.9	1	
+4237	02/14/13	borrego springs	CA	33.3	-116.3	1	
+4238	02/14/13	Houston	TX	29.8	-95.4	1	
+4239	02/13/13	Mount Pleasant	SC	32.8	-79.8	1	
+4240	02/13/13	Magnolia	TX	30.2	-95.7	1	
+4241	02/13/13	Moreno Valley	CA	34	-117.2	1	
+4242	02/13/13	Baton Rouge	LA	30.4	-91.2	1	
+4243	02/13/13	Orlando	FL	28.5	-81.4	1	
+4244	02/12/13	McClellanville	SC	33.1	-79.5	1	
+4245	02/12/13	Viera	FL	28.2	-80.7	1	
+4246	02/12/13	davenport	FL	28.2	-81.6	1	
+4247	02/12/13	Pinckney Island	SC	32.2	-80.8	1	
+4248	02/12/13	Metairie	LA	30	-90.2	1	
+4249	02/11/13	Santa Ana	CA	33.8	-117.9	1	
+4250	02/11/13	Houston	TX	29.8	-95.4	1	
+4251	02/11/13	Abilene	TX	32.4	-99.7	1	
+4252	02/10/13	Newport	NC	34.8	-76.9	1	
+4253	02/10/13	Richmond	TX	29.6	-95.7	1	
+4254	02/10/13	St. Petersburg	FL	27.8	-82.7	1	
+4255	02/09/13	Newark	CA	37.5	-122	1	
+4256	02/08/13	HARLINGEN	TX	26.2	-97.7	1	
+4257	02/08/13	Homosassa	FL	28.7	-82.5	1	
+4258	02/08/13	Viera	FL	28.2	-80.7	1	
+4259	02/08/13	Homossassa	FL	28.8	-82.6	1	
+4260	02/07/13	Harlingen	TX	26.2	-97.7	1	
+4261	02/07/13	Katy	TX	29.8	-95.7	1	
+4262	02/07/13	Cypress	TX	30	-95.7	1	
+4263	02/07/13	Sarasota	FL	27.3	-82.5	1	
+4264	02/07/13	safety harbor	FL	28	-82.7	1	
+4265	02/07/13	Humble	TX	30	-95.2	1	
+4266	02/07/13	Five Islands village	Saint John	17.1	-61.9	1	
+4267	02/06/13	Hawaiian gardens	CA	33.8	-118.1	1	
+4268	02/06/13	San Diego	CA	32.7	-117.2	1	
+4269	02/06/13	Coconut Grove	FL	25.7	-80.3	1	
+4270	02/05/13	houma	LA	29.6	-90.8	1	
+4271	02/05/13	Miami	FL	25.8	-80.2	1	
+4272	02/05/13	Jacksonville	FL	30.4	-81.6	1	
+4273	02/04/13	Weslaco	TX	26.2	-98	1	
+4274	02/04/13	Gulf Shores	AL	30.2	-87.8	1	
+4275	02/03/13	Atascocita	TX	30	-95.2	1	
+4276	02/03/13	Claremont	CA	34.1	-117.7	1	
+4277	02/02/13	Baton Rouge	LA	30.4	-91.2	1	
+4278	02/01/13	Miami	FL	25.9	-80.2	1	
+4279	02/01/13	Saint Augustine	FL	29.9	-81.3	1	
+4280	02/01/13	houston	TX	29.8	-95.4	1	
+4281	02/01/13	Corpus Christi	TX	27.8	-97.4	1	
+4282	02/01/13	Austin	TX	30.2	-97.7	1	
+4283	02/01/13	Fullerton	CA	33.9	-117.9	1	
+4284	02/01/13	The Woodlands	TX	30.2	-95.5	1	
+4285	02/01/13	Temple Terrace	FL	28	-82.3	1	
+4286	01/31/13	Katy	TX	29.8	-95.7	1	
+4287	01/31/13	Port Charlotte	FL	27	-82.1	1	
+4288	01/31/13	Fort Myers	FL	26.6	-81.9	1	
+4289	01/29/13	Missouri City	TX	29.5	-95.5	1	
+4290	01/29/13	Hawaiian Gardens	CA	33.8	-118.1	1	
+4291	01/28/13	Katy	TX	29.8	-95.7	1	
+4292	01/28/13	Savannah	GA	32.1	-81.1	1	
+4293	01/28/13	Panama City Beach	FL	30.2	-85.8	1	
+4294	01/27/13	Katy	TX	29.8	-95.7	1	
+4295	01/27/13	Austin	TX	30.2	-97.7	1	
+4296	01/27/13	Victoria	TX	28.8	-97	1	
+4297	01/27/13	Tallahassee	FL	30.4	-84.3	1	
+4298	01/27/13	Baton Rouge	LA	30.4	-91.2	1	
+4299	01/26/13	Katy	TX	29.8	-95.7	1	
+4300	01/26/13	Freeport	TX	29	-95.3	1	
+4301	01/26/13	San Buenaventura	COA	27.1	-101.5	1	
+4302	01/25/13	Missouri City	TX	29.5	-95.5	1	
+4303	01/25/13	the woodlands	TX	30.2	-95.5	1	
+4304	01/24/13	Costa Mesa	CA	33.7	-117.9	1	
+4305	01/24/13	Pismo Beach	CA	35.2	-120.7	1	
+4306	01/22/13	Lomita	CA	33.8	-118.3	1	
+4307	01/21/13	Cypress	TX	30	-95.7	1	
+4308	01/20/13	Rockport	TX	28.2	-97	1	
+4309	01/20/13	Webster	TX	29.5	-95.1	1	
+4310	01/19/13	Apalachicola	FL	29.7	-85	1	
+4311	01/19/13	San Antonio	TX	29.4	-98.5	1	
+4312	01/18/13	The Woodlands	TX	30.2	-95.5	1	
+4313	01/18/13	Austin	TX	30.2	-97.7	1	
+4314	01/17/13	Monterrey	NL	25.7	-100.3	1	
+4315	01/16/13	Quemado	TX	29	-100.4	1	
+4316	01/15/13	Rockport	TX	28.2	-97	1	
+4317	01/15/13	Belle Chasse	LA	29.8	-90	1	
+4318	01/13/13	Savannah	GA	31.9	-81	1	
+4319	01/12/13	Ventura	CA	34.3	-119.3	1	
+4320	01/12/13	Ventura	CA	34.3	-119.3	1	
+4321	01/12/13	Ventura	CA	34.3	-119.3	1	
+4322	01/12/13	Oxnard	CA	34.2	-119.2	1	
+4323	01/12/13	San Antonio	TX	29.4	-98.5	1	
+4324	01/12/13	Metairie	LA	30	-90.2	1	
+4325	01/12/13	Houston	TX	29.8	-95.4	1	
+4326	01/11/13	Ventura	CA	34.3	-119.3	1	
+4327	01/10/13	Panama City Beach	FL	30.2	-85.8	1	
+4328	01/06/13	Friendswood	TX	29.5	-95.2	1	
+4329	01/05/13	San Antonio	TX	29.4	-98.5	1	
+4330	01/03/13	Pacific Grove	CA	36.6	-121.9	1	
+4331	01/03/13	San Leandro	CA	37.7	-122.2	1	
+4332	01/03/13	Morro Bay	CA	35.4	-120.8	1	
+4333	01/01/13	Malibu	CA	34	-118.7	1	
+4334	01/01/13	El Rosario	MIC	19.6	-100.3	1	
+4335	01/01/13	Pacific Grove	CA	36.6	-121.9	1	
+4336	01/01/13	Pismo Beach	CA	35.1	-120.6	1	
+4337	01/01/13	Ventura	CA	34.3	-119.2	1	
+4338	01/01/13	Ventura	CA	34.3	-119.3	1	
+4339	01/01/13	Goleta	CA	34.4	-119.9	1	
+4340	01/01/13	Tampa	FL	28	-82.5	1	
+4341	01/01/13	Port St Lucie	FL	27.3	-80.4	1	
+4342	01/01/13	Big Sur	CA	36.2	-121.6	1	
+4343	01/01/13	Morro Bay	CA	35.4	-120.8	1	
+4344	01/01/13	Pacific Grove	CA	36.6	-121.9	1	
+4345	01/01/13	Gaviota	CA	34.5	-120.2	1	
+4346	01/01/13	Ventura	CA	34.3	-119.3	1	
+4347	01/01/13	Rio Salado Restoration Habitat	AZ	33.4	-112.1	12	

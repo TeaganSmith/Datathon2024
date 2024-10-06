@@ -42,5 +42,9 @@ ax.set_aspect('auto')
 # Add title
 ax.set_title('Monarch Sightings by County', fontsize=15)
 
+output_file = 'monarch_sightings_map_2024.png'  # Change the filename and extension as needed
+plt.savefig(output_file, dpi=300, bbox_inches='tight')
+
+
 # Display the plot
 plt.show()

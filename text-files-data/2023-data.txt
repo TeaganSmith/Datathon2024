@@ -1,0 +1,4487 @@
+Monarch Adult Sighted
+Number Date Town	State/Province	Latitude	Longitude	Number	Image
+1	12/31/23	Savannah	GA	32.1	-81.1	1	
+2	12/31/23	Needville	TX	29.4	-95.6	1	
+3	12/31/23	Port O'Connor	TX	28.5	-96.4	1	
+4	12/31/23	Umatilla	FL	29	-81.7	2	
+5	12/31/23	Pearland	TX	29.5	-95.4	4	
+6	12/30/23	Phoenix	AZ	33.5	-112	3	
+7	12/30/23	Port Lavaca	TX	28.5	-96.4	2	
+8	12/30/23	Round Rock	TX	30.5	-97.7	1	
+9	12/30/23	Stonewall	TX	30.2	-98.5	2	
+10	12/30/23	San Antonio	TX	29.5	-98.5	1	
+11	12/30/23	New Ringgold	PA	40.6	-76	0	
+12	12/29/23	Mesa	AZ	33.4	-111.7	1	
+13	12/29/23	El Segundo	CA	33.9	-118.4	3	
+14	12/28/23	Okaloosa Island	FL	30.4	-86.6	1	
+15	12/28/23	San Leandro	CA	37.7	-122.1	1	
+16	12/28/23	Austin	TX	30.4	-97.7	2	
+17	12/28/23	Boerne	TX	29.8	-98.7	1	
+18	12/28/23	Boerne	TX	29.8	-98.7	1	
+19	12/27/23	Phoenix	AZ	33.5	-112	1	
+20	12/27/23	Fulton	TX	28.1	-97	5	
+21	12/27/23	Canyon Lake	TX	29.9	-98.2	1	
+22	12/27/23	Weedhaven	TX	28.7	-96.4	1	
+23	12/27/23	Ramona	CA	33	-116.8	1	
+24	12/27/23	Augusta	GA	33.5	-82	1	
+25	12/26/23	Parrish	FL	27.6	-82.5	4	
+26	12/26/23	Austwell	TX	28.3	-96.8	1	
+27	12/26/23	Summerfield	FL	29	-82	2	
+28	12/26/23	Palmarejo	PR	18.3	-66.3	4	
+29	12/26/23	San Antonio	TX	29.6	-98.4	1	
+30	12/25/23	Phoenix	AZ	33.5	-112	1	
+31	12/25/23	Rockport	TX	28.1	-97	1	
+32	12/25/23	Palmarejo	PR	18.3	-66.3	3	
+33	12/25/23	Highlands	TX	29.8	-95.1	1	
+34	12/24/23	Boerne	TX	29.8	-98.7	1	
+35	12/24/23	Corpus Christi	TX	27.7	-97.4	2	
+36	12/24/23	Edinburg	TX	26.3	-98.2	2	
+37	12/24/23	Oakland	CA	37.8	-122.2	1	
+38	12/24/23	El Segundo	CA	33.9	-118.4	1	
+39	12/24/23	Austin	TX	30.3	-97.7	1	
+40	12/24/23	Palmarejo	PR	18.3	-66.3	3	
+41	12/24/23	Port O'Connor	TX	28.4	-96.4	1	
+42	12/23/23	Savannah	GA	31.9	-81.1	2	
+43	12/23/23	Palmarejo	PR	18.3	-66.3	3	
+44	12/23/23	Slidell	LA	30.3	-89.8	1	
+45	12/23/23	Gulfport	MS	30.4	-89	1	
+46	12/23/23	Warner Robins	GA	32.6	-83.6	2	
+47	12/23/23	Mcveytown	PA	40.5	-77.8	0	
+48	12/22/23	Corpus Christi	TX	27.7	-97.4	1	
+49	12/22/23	Baton Rouge	LA	30.4	-91	1	
+50	12/22/23	Palmarejo	PR	18.3	-66.3	2	
+51	12/22/23	Steinhatchee	FL	29.7	-83.4	1	
+52	12/21/23	Baton Rouge	LA	30.4	-91.1	1	
+53	12/21/23	Palmarejo	PR	18.3	-66.3	4	
+54	12/20/23	Corpus Christi	TX	27.7	-97.4	1	
+55	12/20/23	Palmarejo	PR	18.3	-66.3	2	
+56	12/20/23	Austwell	TX	28.2	-96.8	1	
+57	12/20/23		TX	28.2	-96.8	1	
+58	12/20/23	Austwell	TX	28.2	-96.8	1	
+59	12/19/23	Dripping Springs	TX	30.3	-98.1	1	
+60	12/19/23	Orange Park	FL	30.1	-81.7	1	
+61	12/19/23	Cibolo	TX	29.6	-98.2	4	
+62	12/19/23	Patterson	LA	29.7	-91.3	1	
+63	12/19/23	Palmarejo	PR	18.3	-66.3	3	
+64	12/19/23	Mcveytown	PA	40.5	-77.8	0	
+65	12/18/23	Tucson	AZ	32.2	-110.8	1	
+66	12/18/23	San Antonio	TX	29.4	-98.5	1	
+67	12/18/23	Tallahassee	FL	30.6	-84.2	1	
+68	12/18/23	Tallahassee	FL	30.6	-84.2	1	
+69	12/18/23	Alvin	TX	29.4	-95.2	0	
+70	12/18/23	Galveston	TX	29.3	-94.8	1	
+71	12/18/23	Corpus Christi	TX	27.8	-97.4	2	
+72	12/18/23	Summerfield	FL	29	-82	4	
+73	12/18/23	Ingleside	TX	27.9	-97.2	5	
+74	12/18/23	Ramona	CA	33	-116.8	1	
+75	12/18/23	Palmarejo	PR	18.3	-66.3	3	
+76	12/17/23	Tucson	AZ	32.2	-110.8	1	
+77	12/17/23	Mission	TX	26.2	-98.3	10	
+78	12/17/23	Tucson	AZ	32.2	-111	1	
+79	12/17/23	Ramona	CA	33	-116.8	1	
+80	12/17/23	Palmarejo	PR	18.3	-66.3	1	
+81	12/17/23	Rockledge	FL	28.3	-80.7	3	
+82	12/16/23	Mansfield	TX	32.6	-97.1	1	
+83	12/16/23	Palmarejo	PR	18.3	-66.3	2	
+84	12/16/23	Ramona	CA	33	-116.8	5	
+85	12/16/23	Tyler	TX	32.3	-95.3	1	
+86	12/16/23	Savannah	GA	32	-81.1	1	
+87	12/15/23	Port Charlotte	FL	27	-82.1	1	
+88	12/15/23	Corpus Christi	TX	27.7	-97.4	1	
+89	12/15/23	Francitas	TX	28.8	-96.3	1	
+90	12/15/23	Phoenix	AZ	33.5	-112	3	
+91	12/15/23	Bluffton	SC	32.2	-80.9	4	
+92	12/15/23	Charleston	SC	32.7	-80	2	
+93	12/15/23	Palmarejo	PR	18.3	-66.3	1	
+94	12/15/23	Ramona	CA	33	-116.8	3	
+95	12/15/23	Los Angeles	CA	34.1	-118.3	2	
+96	12/15/23	Los Angeles	CA	34.1	-118.3	1	
+97	12/14/23	Scurry	TX	32.5	-96.4	1	
+98	12/14/23	Scurry	TX	32.5	-96.4	1	
+99	12/14/23	Scurry	TX	32.5	-96.4	1	
+100	12/14/23	Scurry	TX	32.5	-96.4	1	
+101	12/14/23	Missouri City	TX	29.6	-95.6	4	
+102	12/14/23	Ramona	CA	33	-116.8	4	
+103	12/14/23	Tivoli	TX	28.5	-96.8	1	
+104	12/13/23	Baywood-Los Osos	CA	35.3	-120.8	2	
+105	12/13/23	Crawfordville	FL	30.2	-84.4	1	
+106	12/13/23	Crawfordville	FL	30.2	-84.4	1	
+107	12/13/23	Ramona	CA	33	-116.8	2	
+108	12/12/23	Corpus Christi	TX	27.7	-97.4	1	
+109	12/12/23	El Segundo	CA	33.9	-118.4	2	
+110	12/12/23	El Segundo	CA	33.9	-118.4	2	
+111	12/12/23	Baywood-Los Osos	CA	35.3	-120.8	1	
+112	12/12/23	Daphne	AL	30.6	-87.8	2	
+113	12/12/23	Glen Rose	TX	32.2	-97.8	2	
+114	12/11/23	Coxen Hole	Bay Islands Department	16.3	-86.5	1	
+115	12/11/23	Coxen Hole	Bay Islands Department	16.3	-86.5	2	
+116	12/11/23	Daphne	AL	30.6	-87.8	1	
+117	12/11/23	Berkeley	CA	37.9	-122.3	2	
+118	12/11/23	Hutto	TX	30.5	-97.6	1	
+119	12/11/23	St Simons Island	GA	31.1	-81.4	1	
+120	12/11/23	Canyon Lake	TX	29.8	-98.2	2	
+121	12/11/23	Ramona	CA	33	-116.8	4	
+122	12/11/23	New Ringgold	PA	40.6	-76	0	
+123	12/10/23	Beaufort	SC	32.4	-80.7	1	
+124	12/10/23	Wellington	FL	26.7	-80.3	2	
+125	12/10/23	Wellington	FL	26.7	-80.3	2	
+126	12/10/23	Bryceville	FL	30.4	-82	2	
+127	12/10/23	Bryan	TX	30.7	-96.3	1	
+128	12/10/23	Skidaway Island	GA	32	-81	2	
+129	12/10/23	Savannah	GA	32	-81	3	
+130	12/10/23	Ramona	CA	33	-116.8	4	
+131	12/09/23	Phoenix	AZ	33.5	-112	2	
+132	12/09/23	Corpus Christi	TX	27.7	-97.4	1	
+133	12/09/23	Francitas	TX	28.8	-96.3	6	
+134	12/09/23	Baywood-Los Osos	CA	35.3	-120.8	1	
+135	12/09/23	Savannah	GA	32	-81.2	1	
+136	12/09/23	Cibolo	TX	29.6	-98.2	2	
+137	12/09/23	Palm Bay	FL	28	-80.7	2	
+138	12/09/23	Richmond Hill	GA	31.8	-81.2	1	
+139	12/09/23	Hinesville	GA	31.9	-81.6	1	
+140	12/08/23	Savannah	GA	32.1	-81.1	1	
+141	12/08/23	Mansfield	TX	32.6	-97.1	1	
+142	12/08/23	West Palm Beach	FL	26.8	-80	1	
+143	12/08/23	Jacksonville	FL	30.2	-81.6	1	
+144	12/08/23	St Marys	GA	30.7	-81.6	1	
+145	12/08/23	Ramona	CA	33	-116.8	2	
+146	12/07/23	Francitas	TX	28.8	-96.3	4	
+147	12/07/23	Palmarejo	PR	18.3	-66.3	3	
+148	12/07/23	Hutto	TX	30.5	-97.6	3	
+149	12/07/23	Ramona	CA	33	-116.8	2	
+150	12/07/23	New Ringgold	PA	40.6	-76	0	
+151	12/06/23	Palmarejo	PR	18.3	-66.3	3	
+152	12/06/23	El Segundo	CA	33.9	-118.4	4	
+153	12/06/23	Hutto	TX	30.5	-97.6	3	
+154	12/06/23	Ramona	CA	33	-116.8	4	
+155	12/06/23	Round Rock	TX	30.5	-97.6	1	
+156	12/06/23	New Ringgold	PA	40.6	-76	0	
+157	12/05/23	Fort Walton Beach	FL	30.4	-86.6	1	
+158	12/05/23	Murrells Inlet	SC	33.6	-79.1	1	
+159	12/05/23	Fort Walton Beach	FL	30.4	-86.6	1	
+160	12/05/23	Fort Walton Beach	FL	30.4	-86.6	1	
+161	12/05/23	Round Rock	TX	30.5	-97.7	1	
+162	12/05/23	San Antonio	TX	29.5	-98.6	1	
+163	12/05/23	Palmarejo	PR	18.3	-66.3	4	
+164	12/05/23	Hutto	TX	30.5	-97.6	1	
+165	12/05/23	Ramona	CA	33	-116.8	4	
+166	12/05/23	New Ringgold	PA	40.6	-76	0	
+167	12/05/23	Michiana	MI	41.8	-86.8	1	
+168	12/04/23	Palmarejo	PR	18.3	-66.3	4	
+169	12/04/23	Glen Rose	TX	32.2	-97.8	1	
+170	12/04/23	Cedar Park	TX	30.5	-97.8	1	
+171	12/04/23	Austin	TX	30.3	-97.7	1	
+172	12/04/23	Kenner	LA	30	-90.3	1	
+173	12/04/23	Manor	TX	30.3	-97.6	1	
+174	12/04/23	Georgetown	TX	30.6	-97.7	4	
+175	12/04/23	Seneca	SC	34.7	-83	1	
+176	12/04/23	Hutto	TX	30.5	-97.6	1	
+177	12/03/23	Francitas	TX	28.8	-96.3	5	
+178	12/03/23	West Palm Beach	FL	26.8	-80	1	
+179	12/03/23	Brownsville	TX	26	-97.5	1	
+180	12/03/23	Palmarejo	PR	18.3	-66.3	3	
+181	12/03/23	Pompano Beach	FL	26.2	-80.1	1	
+182	12/03/23	San Benito	TX	26.1	-97.6	1	
+183	12/03/23	Tucson	AZ	32.2	-110.9	1	
+184	12/02/23	Mansfield	TX	32.6	-97.1	1	
+185	12/02/23	Hutto	TX	30.5	-97.6	3	
+186	12/02/23	Mansfield	TX	32.6	-97.1	2	
+187	12/02/23	Naranjito	PR	18.3	-66.3	1	
+188	12/02/23	Palmarejo	PR	18.3	-66.3	3	
+189	12/02/23	Baton Rouge	LA	30.4	-91	1	
+190	12/02/23	Pollok	TX	31.4	-94.9	1	
+191	12/02/23	Port O'Connor	TX	28.3	-96.5	1	
+192	12/02/23	Boerne	TX	29.8	-98.7	1	
+193	12/02/23	Austin	TX	30.3	-97.7	1	
+194	12/02/23	Round Rock	TX	30.5	-97.7	3	
+195	12/02/23	Wilmington	NC	34.1	-77.9	1	
+196	12/02/23	Middleburg	FL	30.1	-81.8	1	
+197	12/02/23	Statesboro	GA	32.5	-81.7	2	
+198	12/02/23	Hutto	TX	30.5	-97.6	2	
+199	12/01/23	Summerfield	FL	29	-82	5	
+200	12/01/23	Blanco	TX	30.1	-98.4	1	
+201	12/01/23	Francitas	TX	28.8	-96.3	5	
+202	12/01/23	Cypress	TX	30	-95.7	1	
+203	12/01/23	Mobile	AL	30.7	-88	1	
+204	12/01/23	Palmarejo	PR	18.3	-66.3	2	
+205	12/01/23	Scottsdale	AZ	33.6	-111.9	5	
+206	12/01/23	Round Rock	TX	30.5	-97.7	3	
+207	12/01/23	Vero Beach	FL	27.7	-80.5	2	
+208	12/01/23	Hutto	TX	30.5	-97.6	3	
+209	11/30/23	North Topsail Beach	NC	34.5	-77.3	1	
+210	11/30/23	Rockport	TX	28	-97.1	1	
+211	11/30/23	Orchid	FL	27.8	-80.4	0	
+212	11/30/23	Phoenix	AZ	33.4	-112.1	1	
+213	11/30/23	St. Petersburg	FL	27.8	-82.7	2	
+214	11/30/23	Fernandina Beach	FL	30.7	-81.4	1	
+215	11/30/23	Melbourne	FL	28.2	-80.6	1	
+216	11/30/23	Hutto	TX	30.5	-97.6	1	
+217	11/29/23	Lillian	AL	30.4	-87.5	1	
+218	11/29/23	Pensacola	FL	30.4	-87.2	1	
+219	11/29/23	Palmarejo	PR	18.3	-66.3	1	
+220	11/29/23	Rockport	TX	28	-97.1	2	
+221	11/29/23	Rockport	TX	28	-97.1	2	
+222	11/29/23	DeBary	FL	28.9	-81.3	1	
+223	11/29/23	North Augusta	SC	33.7	-82	1	
+224	11/29/23	New Ringgold	PA	40.6	-76	0	
+225	11/28/23	Palmarejo	PR	18.3	-66.3	3	
+226	11/28/23	Francitas	TX	28.8	-96.3	5	
+227	11/28/23	Coral Gables	FL	25.8	-80.3	1	
+228	11/28/23	Palm Springs	CA	33.8	-116.5	12	
+229	11/28/23	Mesa	AZ	33.4	-111.7	1	
+230	11/28/23	Tempe	AZ	33.4	-111.9	2	
+231	11/28/23	El Segundo	CA	33.9	-118.4	1	
+232	11/28/23	Hutto	TX	30.5	-97.6	2	
+233	11/28/23	Hutto	TX	30.5	-97.6	2	
+234	11/28/23	North Fort Myers	FL	26.7	-81.9	1	
+235	11/28/23	New Ringgold	PA	40.6	-76	0	
+236	11/28/23	Plano	TX	33	-96.7	2	
+237	11/28/23	Odenton	MD	39.1	-76.7	2	
+238	11/27/23	Ramona	CA	33	-116.8	1	
+239	11/27/23	Wellington	FL	26.7	-80.3	1	
+240	11/27/23	Murrells Inlet	SC	33.6	-79.1	1	
+241	11/27/23	Berkeley	CA	37.9	-122.2	2	
+242	11/27/23	St. Augustine	FL	29.8	-81.3	2	
+243	11/27/23	St. Augustine	FL	29.8	-81.3	1	
+244	11/27/23	Ramona	CA	33	-116.8	5	
+245	11/27/23	Palmarejo	PR	18.3	-66.3	1	
+246	11/27/23	Charleston	SC	32.7	-80	2	
+247	11/27/23	Tomball	TX	30	-95.6	1	
+248	11/26/23	Litchfield Park	AZ	33.5	-112.5	2	
+249	11/26/23	Palmarejo	PR	18.3	-66.3	1	
+250	11/26/23	Miami	FL	25.8	-80.3	1	
+251	11/26/23	Ramona	CA	33	-116.8	1	
+252	11/26/23	San Leandro	CA	37.7	-122.2	1	
+253	11/26/23	North Augusta	SC	33.5	-82	1	
+254	11/25/23	Palmarejo	PR	18.3	-66.3	1	
+255	11/25/23	Satellite Beach	FL	28.2	-80.6	1	
+256	11/25/23	Fort Myers Beach	FL	26.4	-81.9	2	
+257	11/25/23	Santa Cruz	CA	37	-122	7	
+258	11/25/23	Granbury	TX	32.5	-97.8	1	
+259	11/25/23	Charleston	SC	32.7	-80	2	
+260	11/25/23	Ramona	CA	33	-116.8	4	
+261	11/25/23	Eastpoint	FL	29.7	-84.9	1	
+262	11/25/23	Orange Beach	AL	30.3	-87.6	1	
+263	11/25/23	Pigeon Forge	TN	35.8	-83.6	1	
+264	11/25/23	Orange Park	FL	30.1	-81.7	1	
+265	11/25/23	New Ringgold	PA	40.6	-76	0	
+266	11/24/23	Francitas	TX	28.8	-96.3	13	
+267	11/24/23	Palmarejo	PR	18.3	-66.3	1	
+268	11/24/23	Fullerton	CA	33.9	-117.9	1	
+269	11/24/23	Wimberley	TX	30	-98.1	1	
+270	11/24/23	El Sobrante	CA	38	-122.3	1	
+271	11/24/23	Ramona	CA	33	-116.8	1	
+272	11/24/23	Montgomery	TX	30.4	-95.8	1	
+273	11/24/23	Soperton	GA	32.4	-82.6	1	
+274	11/24/23	New Ringgold	PA	40.6	-76	0	
+275	11/23/23	Francitas	TX	28.8	-96.3	10	
+276	11/23/23	Howe	OK	35	-94.6	1	
+277	11/23/23	Palmarejo	PR	18.3	-66.3	1	
+278	11/23/23	Charleston	SC	32.7	-80	10	
+279	11/23/23	Ramona	CA	33	-116.8	5	
+280	11/23/23	Hutto	TX	30.5	-97.6	4	
+281	11/22/23	Slidell	LA	30.3	-89.8	1	
+282	11/22/23	New Orleans	LA	30	-90.1	1	
+283	11/22/23	Phoenix	AZ	33.5	-112	2	
+284	11/22/23	Mansfield	TX	32.6	-97.1	3	
+285	11/22/23	Summerfield	FL	29	-82	7	
+286	11/22/23	Laguna Niguel	CA	33.6	-117.7	1	
+287	11/22/23	Palmarejo	PR	18.3	-66.3	1	
+288	11/22/23	Santa Rosa Beach	FL	30.4	-86.3	2	
+289	11/22/23	Ramona	CA	33	-116.8	6	
+290	11/22/23	Hutto	TX	30.5	-97.6	2	
+291	11/22/23	Sun City	AZ	33.7	-112.3	1	
+292	11/22/23	New Ringgold	PA	40.6	-76	0	
+293	11/21/23	Delray Beach	FL	26.5	-80.2	1	
+294	11/21/23	Loxahatchee	FL	26.7	-80.3	3	
+295	11/21/23	El Segundo	CA	33.9	-118.4	2	
+296	11/21/23	Slidell	LA	30.3	-89.8	1	
+297	11/21/23	Cathedral City	CA	33.8	-116.5	1	
+298	11/21/23	Mt Dora	FL	28.8	-81.7	1	
+299	11/21/23	Litchfield Park	AZ	33.5	-112.5	1	
+300	11/21/23	Phoenix	AZ	33.5	-112.1	1	
+301	11/21/23	Mesa	AZ	33.4	-111.7	2	
+302	11/21/23	Palmarejo	PR	18.3	-66.3	1	
+303	11/21/23	Ramona	CA	33	-116.8	5	
+304	11/21/23	Hutto	TX	30.5	-97.6	2	
+305	11/21/23	New Ringgold	PA	40.6	-76	0	
+306	11/20/23	Pass Christian	MS	30.3	-89.2	7	
+307	11/20/23	West Palm Beach	FL	26.8	-80	1	
+308	11/20/23	Francitas	TX	28.8	-96.3	17	
+309	11/20/23	League City	TX	29.5	-95.1	2	
+310	11/20/23	Murrells Inlet	SC	33.6	-79.1	4	
+311	11/20/23	New Orleans	LA	29.9	-90.1	1	
+312	11/20/23	Coral Gables	FL	25.7	-80.3	5	
+313	11/20/23	Fort Worth	TX	32.8	-97.3	1	
+314	11/20/23	Denton	TX	33.2	-97.1	2	
+315	11/20/23	Palmarejo	PR	18.3	-66.3	1	
+316	11/20/23	Ramona	CA	33	-116.8	3	
+317	11/20/23	Mcveytown	PA	40.5	-77.8	0	
+318	11/20/23	New Ringgold	PA	40.6	-76	0	
+319	11/19/23	Francitas	TX	28.8	-96.3	8	
+320	11/19/23	Waynesville	NC	35.5	-83	1	
+321	11/19/23	Phoenix	AZ	33.5	-112	1	
+322	11/19/23	Palmarejo	PR	18.3	-66.3	2	
+323	11/19/23	Destin	FL	30.4	-86.4	2	
+324	11/19/23	Ramona	CA	33	-116.8	1	
+325	11/19/23	Mcveytown	PA	40.5	-77.8	0	
+326	11/18/23	Lake Jackson	TX	29.1	-95.4	1	
+327	11/18/23	Palmarejo	PR	18.3	-66.3	2	
+328	11/18/23	Francitas	TX	28.8	-96.3	9	
+329	11/18/23	Dallas	TX	32.8	-96.8	1	
+330	11/18/23	McKinney	TX	33.2	-96.7	1	
+331	11/18/23	Houston	TX	29.8	-95.4	1	
+332	11/18/23	Phoenix	AZ	33.5	-112	1	
+333	11/18/23	Miami	FL	25.8	-80.2	1	
+334	11/18/23	Cedar Creek	TX	30.1	-97.5	3	
+335	11/18/23	Murrells Inlet	SC	33.6	-79.1	1	
+336	11/18/23	Morgan City	LA	29.7	-91.2	5	
+337	11/18/23	Mcveytown	PA	40.5	-77.8	0	
+338	11/18/23	New Ringgold	PA	40.6	-76	0	
+339	11/17/23	Moulay Larbi	SaÃ¯da Province	34.5	0	4	
+340	11/17/23	Cherokee	TX	31	-98.7	1	
+341	11/17/23	Savannah	GA	31.9	-81.1	2	
+342	11/17/23	Moulay Larbi	SaÃ¯da Province	34.5	0	4	
+343	11/17/23	Patterson	LA	29.7	-91.3	1	
+344	11/17/23	Bryan	TX	30.6	-96.4	2	
+345	11/17/23	Francitas	TX	28.8	-96.3	7	
+346	11/17/23	Stagecoach	TX	30.1	-95.7	1	
+347	11/17/23	Houston	TX	29.8	-95.4	1	
+348	11/17/23	Stagecoach	TX	30.1	-95.7	1	
+349	11/17/23	San Antonio	TX	29.5	-98.6	10	
+350	11/17/23	Moulay Larbi	SaÃ¯da Province	34.5	0	4	
+351	11/17/23	Boerne	TX	29.8	-98.7	10	
+352	11/17/23	Moulay Larbi	SaÃ¯da Province	34.5	0	4	
+353	11/17/23	West Palm Beach	FL	26.8	-80	1	
+354	11/17/23	Webster	TX	29.6	-95.1	1	
+355	11/17/23	Lewes	DE	38.7	-75.1	1	
+356	11/17/23	Orange	TX	30.1	-93.9	3	
+357	11/17/23	Palmarejo	PR	18.3	-66.3	1	
+358	11/17/23	Shingle Springs	CA	38.6	-121	1	
+359	11/17/23	Vero Beach	FL	27.8	-80.4	2	
+360	11/17/23	Moulay Larbi	SaÃ¯da Province	34.5	0	4	
+361	11/17/23	Francitas	TX	28.8	-96.3	7	
+362	11/17/23	Tucson Estates	AZ	32.2	-111.2	1	
+363	11/17/23	North Topsail Beach	NC	34.5	-77.3	4	
+364	11/17/23	Melbourne	FL	28.2	-80.6	1	
+365	11/17/23	Lewes	DE	38.7	-75.1	1	
+366	11/17/23	Lewes	DE	38.7	-75.1	1	
+367	11/17/23	Dalton	GA	34.7	-85	2	
+368	11/17/23	Media	PA	39.9	-75.4	0	
+369	11/17/23	New Ringgold	PA	40.6	-76	0	
+370	11/16/23	Francitas	TX	28.8	-96.3	1	
+371	11/16/23	Friendsville	TN	35.8	-84.1	1	
+372	11/16/23	Palmarejo	PR	18.3	-66.3	2	
+373	11/16/23	Prosperity	SC	34.1	-81.5	2	
+374	11/16/23	Granbury	TX	32.5	-97.8	1	
+375	11/16/23	Boerne	TX	29.8	-98.7	12	
+376	11/16/23	Canyon Lake	TX	29.9	-98.2	15	
+377	11/16/23	Mcveytown	PA	40.5	-77.8	0	
+378	11/16/23	Media	PA	39.9	-75.4	0	
+379	11/15/23	Austin	TX	30.4	-97.7	10	
+380	11/15/23	Francitas	TX	28.8	-96.3	4	
+381	11/15/23	Austin	TX	30.4	-97.7	10	
+382	11/15/23	Austin	TX	30.4	-97.7	10	
+383	11/15/23	Austin	TX	30.4	-97.7	10	
+384	11/15/23			0	-97.4	1	
+385	11/15/23	Palmarejo	PR	18.3	-66.3	1	
+386	11/15/23	Fraser	MI	42.5	-82.9	1	
+387	11/15/23	Matagorda	TX	28.6	-96	125	
+388	11/15/23	Cibolo	TX	29.6	-98.2	10	
+389	11/15/23	Forest Park	OH	39.3	-84.5	1	
+390	11/15/23	Boerne	TX	29.8	-98.7	9	
+391	11/15/23	Tucson	AZ	32.2	-111.2	1	
+392	11/15/23	Hutto	TX	30.5	-97.6	1	
+393	11/15/23	Perry	GA	32.4	-83.6	3	
+394	11/15/23	Mcveytown	PA	40.5	-77.8	0	
+395	11/15/23	Media	PA	39.9	-75.4	0	
+396	11/15/23	New Ringgold	PA	40.6	-76	0	
+397	11/14/23	Palmarejo	PR	18.3	-66.3	1	
+398	11/14/23	Austin	TX	30.3	-97.8	1	
+399	11/14/23	San Antonio	TX	29.5	-98.5	1	
+400	11/14/23	Leander	TX	30.6	-97.8	4	
+401	11/14/23	Phoenix	AZ	33.5	-111.9	1	
+402	11/14/23	Killeen	TX	31.1	-97.7	3	
+403	11/14/23	San Antonio	TX	29.5	-98.5	20	
+404	11/14/23	San Antonio	TX	29.6	-98.6	1	
+405	11/14/23	El Segundo	CA	33.9	-118.4	2	
+406	11/14/23	Francitas	TX	28.8	-96.3	4	
+407	11/14/23	Hutto	TX	30.5	-97.6	1	
+408	11/14/23	Austin	TX	30.3	-97.7	2	
+409	11/14/23	Fort Worth	TX	32.8	-97.3	1	
+410	11/14/23	Mt Pleasant	SC	32.9	-79.8	4	
+411	11/14/23	North Topsail Beach	NC	34.6	-77.3	1	
+412	11/14/23	Fort Worth	TX	32.8	-97.3	1	
+413	11/14/23	San Diego	CA	32.9	-117.2	1	
+414	11/14/23	Boerne	TX	29.8	-98.7	11	
+415	11/14/23	Ramona	CA	33	-116.9	5	
+416	11/14/23	Flower Mound	TX	33	-97.1	1	
+417	11/14/23	San Diego	CA	32.9	-117.2	1	
+418	11/14/23	Media	PA	39.9	-75.4	0	
+419	11/14/23	New Ringgold	PA	40.6	-76	0	
+420	11/13/23	Queen Creek	AZ	33.2	-111.6	1	
+421	11/13/23	Salisbury	NC	35.6	-80.5	1	
+422	11/13/23	Austin	TX	30.4	-97.7	10	
+423	11/13/23	Austin	TX	30.4	-97.7	10	
+424	11/13/23	Rocksprings	TX	30	-100.2	1	
+425	11/13/23	Elizabethton	TN	36.3	-82.2	2	
+426	11/13/23	Elizabethton	TN	36.3	-82.2	2	
+427	11/13/23	North Topsail Beach	NC	34.5	-77.3	1	
+428	11/13/23	North Topsail Beach	NC	34.5	-77.3	1	
+429	11/13/23	North Topsail Beach	NC	34.5	-77.3	1	
+430	11/13/23	North Topsail Beach	NC	34.6	-77.3	1	
+431	11/13/23	North Topsail Beach	NC	34.6	-77.3	1	
+432	11/13/23	Oldsmar	FL	28	-82.7	1	
+433	11/13/23	Dundalk	MD	39.3	-76.5	1	
+434	11/13/23	Boerne	TX	29.8	-98.7	9	
+435	11/13/23	Dallas	TX	32.9	-96.7	2	
+436	11/13/23	Maryville	TN	35.8	-83.9	1	
+437	11/13/23	Ramona	CA	33	-116.8	3	
+438	11/13/23	Rockaway Township	NJ	40.9	-74.5	0	
+439	11/13/23	Mcveytown	PA	40.5	-77.8	0	
+440	11/13/23	Media	PA	39.9	-75.4	0	
+441	11/13/23	New Ringgold	PA	40.6	-76	0	
+442	11/12/23	Melbourne	FL	28.2	-80.6	1	
+443	11/12/23	Boca Raton	FL	26.3	-80.1	1	
+444	11/12/23	Oklahoma City	OK	35.5	-97.5	1	
+445	11/12/23	Broussard	LA	30.1	-91.9	2	
+446	11/12/23	Dallas	TX	32.8	-96.7	2	
+447	11/12/23	Panama City Beach	FL	30.3	-86	1	
+448	11/12/23	Ozark	AR	35.4	-93.8	1	
+449	11/12/23	Dallas	TX	32.9	-96.7	2	
+450	11/12/23	La Mesa	CA	32.8	-117	1	
+451	11/12/23	Ramona	CA	33	-116.8	2	
+452	11/12/23	Mcveytown	PA	40.5	-77.8	0	
+453	11/12/23	New Ringgold	PA	40.6	-76	0	
+454	11/11/23	Farmington	MO	37.7	-90.4	1	
+455	11/11/23	Thousand Oaks	CA	34.2	-118.9	1	
+456	11/11/23	Rowlett	TX	32.9	-96.6	3	
+457	11/11/23	San Diego	CA	32.7	-117.2	3	
+458	11/11/23	Fire Island	NY	40.6	-73.2	1	
+459	11/11/23	Goodyear	AZ	33.5	-112.5	2	
+460	11/11/23	Dallas	TX	32.9	-96.7	2	
+461	11/11/23	Mcveytown	PA	40.5	-77.8	0	
+462	11/11/23	Media	PA	39.9	-75.4	0	
+463	11/10/23	Youngs Creek	KY	36.8	-84.2	1	
+464	11/10/23	West Palm Beach	FL	26.8	-80	1	
+465	11/10/23	Buckhannon	WV	39	-80.2	1	
+466	11/10/23	Leamington	ON	41.9	-82.5	4	
+467	11/10/23	Tucson	AZ	32.3	-111.1	1	
+468	11/10/23	Navarre	FL	30.4	-86.9	3	
+469	11/10/23	Mcveytown	PA	40.5	-77.8	0	
+470	11/10/23	Media	PA	39.9	-75.4	0	
+471	11/10/23	New Ringgold	PA	40.6	-76	0	
+472	11/09/23	Dublin	TX	32.1	-98.4	1	
+473	11/09/23	Miami	FL	25.8	-80.2	1	
+474	11/09/23	Wellington	FL	26.7	-80.3	1	
+475	11/09/23	Wellington	FL	26.7	-80.3	1	
+476	11/09/23	Merrick	NY	40.7	-73.6	1	
+477	11/09/23	Murrells Inlet	SC	33.5	-79	1	
+478	11/09/23	Merrick	NY	40.7	-73.6	1	
+479	11/09/23	Miami	FL	25.8	-80.2	1	
+480	11/09/23	Tucson	AZ	32.2	-110.8	1	
+481	11/09/23	Brigantine	NJ	39.4	-74.4	2	
+482	11/09/23	Baywood-Los Osos	CA	35.3	-120.8	1	
+483	11/09/23	Baywood-Los Osos	CA	35.3	-120.8	1	
+484	11/09/23	Montgomery	TX	30.4	-95.8	1	
+485	11/09/23	Savannah	GA	31.9	-81.1	1	
+486	11/09/23	Mesquite	TX	32.8	-96.6	3	
+487	11/09/23	Rockaway Township	NJ	40.9	-74.5	0	
+488	11/09/23	Mcveytown	PA	40.5	-77.8	0	
+489	11/09/23	Media	PA	39.9	-75.4	0	
+490	11/09/23	New Ringgold	PA	40.6	-76	0	
+491	11/08/23	Cookville	TX	33.2	-94.9	9	
+492	11/08/23	Mt Pleasant	TX	33.2	-95	1	
+493	11/08/23	Emeryville	CA	37.8	-122.3	1	
+494	11/08/23	Destin	FL	30.4	-86.4	2	
+495	11/08/23	Dallas	TX	32.8	-96.7	3	
+496	11/08/23	San Antonio	TX	29.4	-98.5	3	
+497	11/08/23	Palmarejo	PR	18.3	-66.3	1	
+498	11/08/23	Round Rock	TX	30.5	-97.7	1	
+499	11/08/23	Madison	CT	41.3	-72.6	1	
+500	11/08/23	Round Rock	TX	30.5	-97.6	2	
+501	11/08/23	Plano	TX	33	-96.7	1	
+502	11/08/23	Sullivan's Island	SC	32.8	-79.9	5	
+503	11/08/23	Montgomery	TX	30.4	-95.8	1	
+504	11/08/23	Mcveytown	PA	40.5	-77.8	0	
+505	11/08/23	Media	PA	39.9	-75.4	0	
+506	11/08/23	New Ringgold	PA	40.6	-76	0	
+507	11/08/23	Newburgh	IN	37.9	-87.4	1	
+508	11/08/23	Francitas	TX	28.8	-96.3	4	
+509	11/08/23	Miami	FL	25.7	-80.2	1	
+510	11/08/23	Sierra Vista Southeast	AZ	31.5	-110.1	5	
+511	11/08/23	San Antonio	TX	29.5	-98.5	1	
+512	11/08/23	Tucson	AZ	32.2	-110.8	1	
+513	11/08/23	Oakland	CA	37.8	-122.1	1	
+514	11/08/23	Warwick	OK	35.7	-97	2	
+515	11/08/23	Robertsdale	AL	30.5	-87.6	1	
+516	11/08/23	Dallas	TX	32.9	-96.7	1	
+517	11/08/23	Gause	TX	30.7	-96.7	3	
+518	11/08/23	Houston	TX	29.8	-95.4	1	
+519	11/08/23	Round Rock	TX	30.5	-97.6	2	
+520	11/07/23	Webster	TX	29.6	-95.1	1	
+521	11/07/23	Brookshire	TX	29.9	-95.9	12	
+522	11/07/23	Patterson	LA	29.7	-91.3	2	
+523	11/07/23	Granbury	TX	32.5	-97.8	2	
+524	11/07/23	El Segundo	CA	33.9	-118.4	8	
+525	11/07/23	Fort Morgan	AL	30.2	-88	6	
+526	11/07/23	Baywood-Los Osos	CA	35.3	-120.8	1	
+527	11/07/23	Baywood-Los Osos	CA	35.3	-120.8	1	
+528	11/07/23	Dallas	TX	32.9	-96.8	2	
+529	11/07/23	Houston	TX	29.8	-95.4	2	
+530	11/07/23	Wernersville	PA	40.3	-76.1	1	
+531	11/07/23	Arden	NC	35.5	-82.5	1	
+532	11/07/23	Gardendale	AL	33.7	-86.8	1	
+533	11/07/23	Reily	OH	39.4	-84.8	1	
+534	11/07/23	Dallas	TX	32.8	-96.7	3	
+535	11/07/23	Key Biscayne	FL	25.7	-80.2	1	
+536	11/07/23	Crawfordville	FL	30.2	-84.3	1	
+537	11/07/23	Odessa	TX	31.9	-102.3	1	
+538	11/07/23	Phoenix	AZ	33.5	-112	1	
+539	11/07/23	Center Point	TX	30	-99	4	
+540	11/07/23	Montgomery	TX	30.4	-95.8	3	
+541	11/07/23	Palmarejo	PR	18.3	-66.3	2	
+542	11/07/23	Annapolis	MD	38.9	-76.5	1	
+543	11/07/23	Greenville	NC	35.6	-77.4	1	
+544	11/07/23	Naples	FL	26.2	-81.7	1	
+545	11/07/23	Killeen	TX	31	-97.8	1	
+546	11/07/23	New Caney	TX	30.2	-95.2	1	
+547	11/07/23	North Topsail Beach	NC	34.6	-77.3	1	
+548	11/07/23	North Topsail Beach	NC	34.6	-77.3	0	
+549	11/07/23	Plano	TX	33	-96.7	1	
+550	11/07/23	Albuquerque	NM	35.1	-106.6	1	
+551	11/07/23	Vienna	VA	38.9	-77.3	1	
+552	11/07/23	Miami	FL	25.8	-80.2	1	
+553	11/07/23	Fulshear	TX	29.6	-95.9	1	
+554	11/07/23	Tucson	AZ	32.2	-111.2	1	
+555	11/07/23	Tucson Estates	AZ	32.2	-111.2	1	
+556	11/07/23	Tucson	AZ	32.2	-111.2	1	
+557	11/07/23	Crawfordville	FL	30.1	-84.3	3	
+558	11/07/23	Crawfordville	FL	30.1	-84.4	4	
+559	11/07/23	Medart	FL	30.1	-84.3	1	
+560	11/07/23	Media	PA	39.9	-75.4	0	
+561	11/07/23	New Ringgold	PA	40.6	-76	0	
+562	11/06/23	Tulsa	OK	36	-95.9	1	
+563	11/06/23	Crawfordville	FL	30.1	-84.3	17	
+564	11/06/23	St Marks	FL	30.2	-84.2	1	
+565	11/06/23	Wakulla Beach	FL	30.1	-84.2	1	
+566	11/06/23	Rockaway Township	NJ	40.9	-74.5	0	
+567	11/06/23	Mcveytown	PA	40.5	-77.8	0	
+568	11/06/23	Media	PA	39.9	-75.4	0	
+569	11/06/23	New Ringgold	PA	40.6	-76	1	
+570	11/06/23	Francitas	TX	28.8	-96.3	2	
+571	11/06/23	Francitas	TX	28.8	-96.3	1	
+572	11/06/23	Fort Worth	TX	32.8	-97.3	4	
+573	11/06/23	Houston	TX	29.8	-95.4	1	
+574	11/06/23	Newburgh	IN	37.9	-87.4	1	
+575	11/06/23	Bryan	TX	30.8	-96.3	2	
+576	11/06/23	Bryan	TX	30.8	-96.3	2	
+577	11/06/23	Bryan	TX	30.8	-96.4	1	
+578	11/06/23	Bryan	TX	30.8	-96.4	1	
+579	11/06/23	Sanibel	FL	26.4	-82	2	
+580	11/06/23	Piscataway	NJ	40.5	-74.5	1	
+581	11/06/23	Pass Christian	MS	30.4	-89.3	1	
+582	11/06/23	Fort Walton Beach	FL	30.4	-86.6	1	
+583	11/06/23	Carmel Hamlet	NY	41.4	-73.7	1	
+584	11/06/23	Chattanooga	TN	35.1	-85.3	1	
+585	11/06/23	Johns Island	SC	32.6	-80.2	3	
+586	11/06/23	Springfield	IL	39.8	-89.7	1	
+587	11/06/23	Conroe	TX	30.1	-95.4	3	
+588	11/06/23	Montgomery	TX	30.4	-95.8	1	
+589	11/06/23	Loudon	TN	35.7	-84.3	1	
+590	11/06/23	Port O'Connor	TX	28.5	-96.4	2	
+591	11/06/23	West Palm Beach	FL	26.7	-80.3	1	
+592	11/06/23	Tulsa	OK	36.1	-96	1	
+593	11/06/23	Tulsa	OK	36.1	-96	1	
+594	11/06/23	Fairhope	AL	30.6	-87.9	2	
+595	11/06/23	Washington Court House	OH	39.5	-83.4	1	
+596	11/06/23	Lusby	MD	38.4	-76.5	1	
+597	11/06/23	Rockport	TX	28	-97.1	1	
+598	11/06/23	Bryan	TX	30.7	-96.3	2	
+599	11/06/23	Sterling	VA	39	-77.4	1	
+600	11/06/23	New Iberia	LA	30	-91.8	2	
+601	11/06/23	Center Point	TX	30	-99	1	
+602	11/06/23	Santiago	NLE	25.4	-100.1	100	
+603	11/06/23	Willis	TX	30.4	-95.6	6	
+604	11/06/23	Louisa	VA	38	-78.2	1	
+605	11/06/23	Dallas	TX	32.9	-96.7	1	
+606	11/05/23	Francitas	TX	28.8	-96.3	2	
+607	11/05/23	West Palm Beach	FL	26.8	-80	1	
+608	11/05/23	Francitas	TX	28.8	-96.3	2	
+609	11/05/23	Francitas	TX	28.8	-96.3	2	
+610	11/05/23	O'Fallon	IL	38.6	-89.9	1	
+611	11/05/23	Charlotte	NC	35.2	-80.9	1	
+612	11/05/23	Palmarejo	PR	18.3	-66.3	5	
+613	11/05/23	Cherokee	TX	31	-98.7	1	
+614	11/05/23	Pilot Point	TX	33.3	-96.9	1	
+615	11/05/23	Kirkwood	MO	38.6	-90.4	1	
+616	11/05/23	Richwood	OH	40.4	-83.3	1	
+617	11/05/23	Baywood-Los Osos	CA	35.3	-120.8	1	
+618	11/05/23	Howe	OK	35	-94.6	1	
+619	11/05/23	Rockport	TX	28.1	-97	1	
+620	11/05/23	Litchfield Park	AZ	33.5	-112.5	1	
+621	11/05/23	Carmel Hamlet	NY	41.4	-73.7	2	
+622	11/05/23	Port O'Connor	TX	28.3	-96.5	1	
+623	11/05/23	Katy	TX	29.7	-95.9	2	
+624	11/05/23	Baywood-Los Osos	CA	35.3	-120.8	1	
+625	11/05/23	Newtown	CT	41.4	-73.3	1	
+626	11/05/23	Bryan	TX	30.8	-96.4	1	
+627	11/05/23	Bryan	TX	30.8	-96.3	1	
+628	11/05/23	Bryan	TX	30.8	-96.3	1	
+629	11/05/23	Bryan	TX	30.8	-96.3	0	
+630	11/05/23	Bryan	TX	30.7	-96.4	3	
+631	11/05/23	San Antonio	TX	29.4	-98.6	1	
+632	11/05/23	Salado	TX	30.9	-97.5	1	
+633	11/05/23	Tucson	AZ	32.2	-110.8	1	
+634	11/05/23	Mesquite	TX	32.8	-96.6	2	
+635	11/05/23	Fort Myers	FL	26.6	-81.9	3	
+636	11/05/23	Joplin	MO	37	-94.5	1	
+637	11/05/23	Caldwell	NJ	40.8	-74.3	1	
+638	11/05/23	Mesa	AZ	33.4	-111.8	1	
+639	11/05/23	Dallas	TX	32.9	-96.7	2	
+640	11/05/23	West Harrison	IN	39.2	-84.8	1	
+641	11/05/23	Melbourne	FL	28.2	-80.6	1	
+642	11/05/23	Salado	TX	30.9	-97.5	1	
+643	11/05/23	Ramona	CA	33	-116.8	1	
+644	11/05/23	Guyton	GA	32.2	-81.3	3	
+645	11/05/23	Mcveytown	PA	40.5	-77.8	0	
+646	11/05/23	Media	PA	39.9	-75.4	0	
+647	11/05/23	New Ringgold	PA	40.6	-76	1	
+648	11/04/23	San Antonio	TX	29.6	-98.6	1	
+649	11/04/23	Apalachicola	FL	29.7	-85	3	
+650	11/04/23	Eastpoint	FL	29.7	-84.7	12	
+651	11/04/23	Jacksonville	FL	30.2	-81.7	4	
+652	11/04/23	Houston	TX	29.8	-95.4	12	
+653	11/04/23	Mcveytown	PA	40.5	-77.8	1	
+654	11/04/23	New Ringgold	PA	40.6	-76	1	
+655	11/04/23	Richmond	VA	37.6	-77.5	1	
+656	11/04/23	Palmarejo	PR	18.3	-66.3	3	
+657	11/04/23	Houston	TX	29.8	-95.4	1	
+658	11/04/23	Austin	TX	30.2	-97.8	1	
+659	11/04/23	Palacios	TX	28.7	-96.1	1	
+660	11/04/23	Francitas	TX	28.8	-96.3	1	
+661	11/04/23	Mission	TX	26.2	-98.3	1	
+662	11/04/23	West Palm Beach	FL	26.8	-80	1	
+663	11/04/23	Tulsa	OK	36.2	-95.9	1	
+664	11/04/23	Elkins	WV	38.9	-79.8	1	
+665	11/04/23	Metairie	LA	30	-90.3	2	
+666	11/04/23	Houston	TX	29.8	-95.4	2	
+667	11/04/23	Mesquite	TX	32.8	-96.6	1	
+668	11/04/23	Francitas	TX	28.8	-96.3	2	
+669	11/04/23	Patterson	LA	29.7	-91.3	4	
+670	11/04/23	Tulsa	OK	36.1	-96	1	
+671	11/04/23	Fort Worth	TX	32.8	-97.3	3	
+672	11/04/23	Pass Christian	MS	30.3	-89.3	25	
+673	11/04/23	Platteville	CO	40.2	-104.8	1	
+674	11/04/23	Asheville	NC	35.6	-82.6	1	
+675	11/04/23	Pass Christian	MS	30.3	-89.3	25	
+676	11/04/23	Mt Pleasant	SC	32.8	-79.9	2	
+677	11/04/23	Cherokee	TX	31	-98.7	1	
+678	11/04/23	Llano	TX	30.8	-98.7	1	
+679	11/04/23	Morro Bay	CA	35.4	-120.8	2	
+680	11/04/23	Memphis	TN	35.1	-90	1	
+681	11/04/23	San Diego	CA	32.5	-117.1	3	
+682	11/04/23	Rockport	TX	28	-97	1	
+683	11/04/23	Mill Valley	CA	37.9	-122.5	2	
+684	11/04/23	Port Lavaca	TX	28.5	-96.4	3	
+685	11/04/23	Tulsa	OK	36.1	-96	1	
+686	11/04/23	Aulander	NC	36.3	-77.3	2	
+687	11/04/23	Marble Falls	TX	30.6	-98.2	1	
+688	11/04/23	Tucson	AZ	32.3	-110.9	1	
+689	11/04/23	Dallas	TX	32.9	-96.7	2	
+690	11/03/23	North Topsail Beach	NC	34.6	-77.3	1	
+691	11/03/23	North Topsail Beach	NC	34.5	-77.3	5	
+692	11/03/23	North Topsail Beach	NC	34.5	-77.3	14	
+693	11/03/23	North Topsail Beach	NC	34.5	-77.3	1	
+694	11/03/23	North Topsail Beach	NC	34.5	-77.3	1	
+695	11/03/23	North Topsail Beach	NC	34.6	-77.3	1	
+696	11/03/23	North Topsail Beach	NC	34.6	-77.3	0	
+697	11/03/23	Austin	TX	30.3	-97.8	1	
+698	11/03/23	Half Moon Bay	CA	37.4	-122.4	1	
+699	11/03/23	Tulsa	OK	36.1	-96	1	
+700	11/03/23	Houston	TX	29.8	-95.4	2	
+701	11/03/23	Palmarejo	PR	18.3	-66.3	2	
+702	11/03/23	Mansfield	TX	32.6	-97.1	1	
+703	11/03/23	Oakland	CA	37.8	-122.3	1	
+704	11/03/23	Francitas	TX	28.8	-96.3	1	
+705	11/03/23	Francitas	TX	28.8	-96.3	1	
+706	11/03/23	Cerro Pelon	MEX	19.4	-100.3	27	
+707	11/03/23	Fayetteville	TX	29.9	-96.7	10	
+708	11/03/23	Crawfordville	FL	30.1	-84.3	12	
+709	11/03/23	Cibolo	TX	29.6	-98.2	4	
+710	11/03/23	Schertz	TX	29.6	-98.3	8	
+711	11/03/23	Tucson	AZ	32.2	-110.8	1	
+712	11/03/23	Tucson	AZ	32.2	-110.8	1	
+713	11/03/23	Kailua-Kona	HI	19.6	-156	1	
+714	11/03/23	Richmond	VA	37.6	-77.5	1	
+715	11/03/23	Richmond	VA	37.6	-77.5	1	
+716	11/03/23	Mission	TX	26.2	-98.3	2	
+717	11/03/23	Montgomery	TX	30.4	-95.8	2	
+718	11/03/23	San Antonio	TX	29.5	-98.5	1	
+719	11/03/23	Patterson	LA	29.7	-91.3	1	
+720	11/03/23	Las Vegas	NV	36.2	-115.3	1	
+721	11/03/23	Palacios	TX	28.7	-96.1	1	
+722	11/03/23	Alamo	NV	37.2	-115.1	1	
+723	11/03/23	Fort Worth	TX	32.8	-97.3	1	
+724	11/03/23	Mesquite	TX	32.8	-96.6	1	
+725	11/03/23	Alvin	TX	29.4	-95.2	1	
+726	11/03/23	Tulsa	OK	36.1	-96	1	
+727	11/03/23	Palacios	TX	28.7	-96.1	1	
+728	11/03/23	Flint	TX	32.2	-95.5	5	
+729	11/03/23	South Padre Island	TX	26.1	-97.2	7	
+730	11/03/23	Dallas	TX	32.9	-96.7	3	
+731	11/03/23	Palacios	TX	28.7	-96.1	1	
+732	11/03/23	Ramona	CA	33	-116.8	1	
+733	11/03/23	Crawfordville	FL	30.1	-84.3	4	
+734	11/03/23	St Marks	FL	30.1	-84.2	12	
+735	11/03/23	Tucson	AZ	32.2	-111	1	
+736	11/03/23	Bradenton	FL	27.4	-82.6	1	
+737	11/03/23	Hazel Park	MI	42.5	-83.1	1	
+738	11/03/23	Hazel Park	MI	42.5	-83.1	1	
+739	11/03/23	Mcveytown	PA	40.5	-77.8	1	
+740	11/03/23	Media	PA	39.9	-75.4	0	
+741	11/03/23	New Ringgold	PA	40.6	-76	0	
+742	11/02/23	San Diego	CA	32.9	-117.2	2	
+743	11/02/23	San Diego	CA	32.9	-117.2	2	
+744	11/02/23	Port O'Connor	TX	28.5	-96.4	2	
+745	11/02/23	Fairmont	WV	39.5	-80.1	0	
+746	11/02/23	Mcveytown	PA	40.5	-77.8	0	
+747	11/02/23	Media	PA	39.9	-75.4	0	
+748	11/02/23	New Ringgold	PA	40.6	-76	0	
+749	11/02/23	Austin	TX	30.2	-97.8	1	
+750	11/02/23	Palmarejo	PR	18.3	-66.3	2	
+751	11/02/23	Palmarejo	PR	18.3	-66.3	1	
+752	11/02/23	San Diego	CA	32.9	-117.2	2	
+753	11/02/23	North Topsail Beach	NC	34.6	-77.3	2	
+754	11/02/23	Francitas	TX	28.8	-96.3	1	
+755	11/02/23	Dallas	TX	32.8	-96.7	1	
+756	11/02/23	San Diego	CA	32.9	-117.2	2	
+757	11/02/23	New Braunfels	TX	29.7	-98.2	10	
+758	11/02/23	Folly Beach	SC	32.7	-79.9	7	
+759	11/02/23	Folly Beach	SC	32.7	-79.9	7	
+760	11/02/23	Francitas	TX	28.8	-96.3	1	
+761	11/02/23	Mountain View	CA	37.4	-122.1	6	
+762	11/02/23	New Braunfels	TX	29.7	-98.2	10	
+763	11/02/23	Cibolo	TX	29.6	-98.2	2	
+764	11/02/23	Katy	TX	29.7	-95.9	1	
+765	11/02/23	Mountain View	CA	37.4	-122.1	6	
+766	11/02/23	Millstadt	IL	38.5	-90.1	2	
+767	11/02/23	San Diego	CA	32.9	-117.2	2	
+768	11/02/23	Tempe	AZ	33.4	-111.9	2	
+769	11/02/23	Rockport	TX	28	-97.1	2	
+770	11/02/23	Rio Rancho	NM	35.4	-106.7	1	
+771	11/02/23	Austin	TX	30.2	-98	4	
+772	11/02/23	Ladoga	IN	39.9	-86.7	1	
+773	11/02/23	Santiago	NLE	25.4	-100.1	100	
+774	11/02/23	Dallas	TX	32.9	-96.7	2	
+775	11/01/23	Francitas	TX	28.8	-96.3	1	
+776	11/01/23	Francitas	TX	28.8	-96.3	1	
+777	11/01/23	Palmarejo	PR	18.3	-66.3	1	
+778	11/01/23	Gainesville	FL	29.7	-82.4	1	
+779	11/01/23	Santa Rosa Beach	FL	30.3	-86.2	1	
+780	11/01/23	Marble Falls	TX	30.6	-98.2	1	
+781	11/01/23	Houston	TX	29.9	-95.7	3	
+782	11/01/23	Bishopville	MD	38.5	-75.1	1	
+783	11/01/23	Merrick	NY	40.6	-73.6	1	
+784	11/01/23	Summerfield	FL	29	-82	2	
+785	11/01/23	Galveston	TX	29.1	-95.1	100	
+786	11/01/23	Galveston	TX	29.1	-95.1	100	
+787	11/01/23	Austin	TX	30.3	-97.9	5	
+788	11/01/23	Rio Rico	AZ	31.5	-111.1	1	
+789	11/01/23	Mcveytown	PA	40.5	-77.8	0	
+790	11/01/23	Media	PA	39.9	-75.4	0	
+791	11/01/23	New Ringgold	PA	40.6	-76	0	
+792	10/31/23	Rockaway Township	NJ	40.9	-74.5	0	
+793	10/31/23	Media	PA	39.9	-75.4	0	
+794	10/31/23	New Ringgold	PA	40.6	-76	0	
+795	10/31/23	Odenton	MD	39.1	-76.7	2	
+796	10/31/23	Bagdad	KY	38.2	-85.1	1	
+797	10/31/23	San Diego	CA	32.9	-117.2	1	
+798	10/31/23	Morro Bay	CA	35.4	-120.8	2	
+799	10/31/23	Patuxent River	MD	38.3	-76.4	4	
+800	10/31/23	West Palm Beach	FL	26.7	-80.3	1	
+801	10/31/23	Lake Havasu City	AZ	34.5	-114.4	2	
+802	10/31/23	Temple	TX	31.1	-97.3	1	
+803	10/31/23	Morro Bay	CA	35.4	-120.8	2	
+804	10/31/23	New River	AZ	33.9	-112.1	1	
+805	10/31/23	New River	AZ	33.9	-112.1	1	
+806	10/31/23	Klondike	CA	34.6	-116.1	1	
+807	10/30/23	Santa Rosa Beach	FL	30.3	-86.2	2	
+808	10/30/23	Midlothian	VA	37.5	-77.7	1	
+809	10/30/23	Holly Springs	NC	35.6	-78.9	4	
+810	10/30/23	Richmond	VA	37.6	-77.5	1	
+811	10/30/23	Apex	NC	35.8	-78.9	1	
+812	10/30/23	Orange	CA	33.8	-117.9	1	
+813	10/30/23	Oilville	VA	37.7	-77.8	1	
+814	10/30/23	Alamo	NV	37.2	-115.1	2	
+815	10/30/23	SF	CA	37.7	-122.5	2	
+816	10/30/23	Gulf Shores	AL	30.2	-87.7	6	
+817	10/30/23	Orange Beach	AL	30.3	-87.6	5	
+818	10/30/23	New Orleans	LA	30.2	-89.8	4	
+819	10/30/23	Eden Isle	LA	30.2	-89.8	3	
+820	10/30/23	Honea Path	SC	34.5	-82.4	1	
+821	10/30/23	Bessemer City	NC	35.3	-81.3	1	
+822	10/30/23	Honea Path	SC	34.5	-82.4	1	
+823	10/30/23	Wendell	NC	35.8	-78.4	1	
+824	10/30/23	Destin	FL	30.4	-86.4	1	
+825	10/30/23	Woodstock	GA	34.2	-84.4	1	
+826	10/30/23	Fort Worth	TX	32.8	-97.3	3	
+827	10/30/23	Salisbury	NC	35.6	-80.5	2	
+828	10/30/23		LA	29.5	-89.9	10	
+829	10/30/23	Panama City	FL	30.1	-85.6	1	
+830	10/30/23	Bullock	NC	36.5	-78.5	1	
+831	10/30/23	Murrells Inlet	SC	33.6	-79	1	
+832	10/30/23	Amherstburg	ON	42	-83	0	
+833	10/30/23	Media	PA	39.9	-75.4	1	
+834	10/29/23	Spartanburg	SC	34.9	-81.9	1	
+835	10/29/23	Wake Forest	NC	36	-78.5	1	
+836	10/29/23	Amherstburg	ON	42	-83	0	
+837	10/29/23	Media	PA	39.9	-75.4	0	
+838	10/29/23	Middleton	MA	42.6	-71	1	
+839	10/29/23	Austin	TX	30.3	-97.7	1	
+840	10/29/23	Salisbury	NC	35.6	-80.5	1	
+841	10/29/23	Wake Forest	NC	36	-78.5	0	
+842	10/29/23	Helena	AL	33.3	-86.8	1	
+843	10/29/23	Reston	VA	38.9	-77.3	1	
+844	10/29/23	Oakland	CA	37.8	-122.3	2	
+845	10/29/23	Piedmont	CA	37.8	-122.2	1	
+846	10/29/23	Edgewater	MD	38.9	-76.5	1	
+847	10/29/23	San Jose	CA	37.3	-121.9	1	
+848	10/29/23	Francitas	TX	28.8	-96.3	1	
+849	10/29/23	Falls Church	VA	38.9	-77.2	1	
+850	10/29/23	Wendell	NC	35.8	-78.4	1	
+851	10/29/23	Charlotte	NC	35.2	-80.8	1	
+852	10/29/23	Knoxville	TN	35.9	-84.1	2	
+853	10/29/23	Greensboro	NC	36.1	-79.8	1	
+854	10/29/23	Destin	FL	30.4	-86.4	1	
+855	10/29/23	Woodstock	GA	34.2	-84.4	1	
+856	10/29/23	Arnold	MD	39.1	-76.5	1	
+857	10/29/23	Mineral Bluff	GA	35	-84.3	1	
+858	10/29/23	Greensboro	NC	36.1	-79.9	1	
+859	10/29/23	Greensboro	NC	36.1	-79.9	1	
+860	10/29/23	Savannah	GA	32.1	-81.1	4	
+861	10/29/23	Edgewater	MD	38.9	-76.5	1	
+862	10/29/23	Watsonville	CA	37	-121.7	1	
+863	10/29/23	Mountain View	CA	37.4	-122.1	12	
+864	10/29/23	Slidell	LA	30.3	-89.7	1	
+865	10/29/23	Shelby	NC	35.2	-81.7	1	
+866	10/29/23	Vienna	VA	38.9	-77.3	1	
+867	10/29/23	Durham	NC	36	-78.9	1	
+868	10/29/23	Montgomery	TX	30.4	-95.8	1	
+869	10/29/23	Lusby	MD	38.4	-76.5	3	
+870	10/29/23	Lusby	MD	38.4	-76.5	3	
+871	10/29/23	Cape May Point	NJ	38.9	-75	15	
+872	10/29/23	Baton Rouge	LA	30.4	-91	5	
+873	10/29/23	Birmingham	AL	33.4	-86.9	1	
+874	10/29/23	Tallassee	AL	32.5	-86	1	
+875	10/28/23	Murfreesboro	TN	35.9	-86.4	1	
+876	10/28/23	Gloucester	MA	42.6	-70.7	1	
+877	10/28/23	Gloucester	MA	42.6	-70.7	1	
+878	10/28/23	Dagsboro	DE	38.6	-75.2	2	
+879	10/28/23	Wake Forest	NC	36	-78.6	1	
+880	10/28/23	Gause	TX	30.7	-96.7	2	
+881	10/28/23	Wildwood	NJ	39	-74.8	1	
+882	10/28/23	Amherst	VA	37.6	-79.1	2	
+883	10/28/23	Austin	TX	30.2	-97.9	4	
+884	10/28/23	Southampton	PA	40.2	-75	1	
+885	10/28/23	Fairhope	AL	30.6	-87.9	2	
+886	10/28/23	Langdon	NH	43.2	-72.3	1	
+887	10/28/23	Buckeye	AZ	33.5	-112.5	1	
+888	10/28/23	Harriman	TN	35.9	-84.5	1	
+889	10/28/23	Blue Hill	ME	44.4	-68.6	1	
+890	10/28/23	Lusby	MD	38.4	-76.5	1	
+891	10/28/23	Tucson	AZ	32.2	-110.8	1	
+892	10/28/23	Oxford	MS	34.3	-89.5	3	
+893	10/28/23	Wellington	FL	26.7	-80.3	1	
+894	10/28/23	Galt	CA	38.3	-121.4	1	
+895	10/28/23	Phoenix	AZ	33.5	-112	5	
+896	10/28/23	Phoenix	AZ	33.5	-112	2	
+897	10/28/23	Gardendale	AL	33.7	-86.8	3	
+898	10/28/23	Woodstock	GA	34.2	-84.4	1	
+899	10/28/23	Hallettsville	TX	29.4	-97	2	
+900	10/28/23	Fairfield	PA	39.8	-77.4	1	
+901	10/28/23	Landisburg	PA	40.3	-77.3	1	
+902	10/28/23	Key West	FL	24.5	-81.8	3	
+903	10/28/23	Greenville	SC	34.9	-82.4	2	
+904	10/28/23	Greenville	SC	34.9	-82.5	1	
+905	10/28/23	Summerton	SC	33.5	-80.3	5	
+906	10/28/23	Warwick	NY	41.2	-74.4	1	
+907	10/28/23	Woodbine	MD	39.3	-77.1	1	
+908	10/28/23	Taylor	TX	30.6	-97.5	6	
+909	10/28/23	Durham	NC	35.9	-78.8	6	
+910	10/28/23	Bakersfield	CA	35.4	-119	1	
+911	10/28/23	Berkeley Springs	WV	39.6	-78.2	1	
+912	10/28/23	Berkeley Springs	WV	39.5	-78.3	1	
+913	10/28/23	Montgomery	TX	30.4	-95.8	3	
+914	10/28/23	Billingsley	AL	32.7	-86.7	1	
+915	10/28/23	Berkeley Springs	WV	39.5	-78.3	1	
+916	10/28/23	Lake Lure	NC	35.4	-82.2	2	
+917	10/28/23	Baytown	TX	29.8	-94.9	4	
+918	10/28/23	Quincy	MA	42.3	-71	1	
+919	10/28/23	Quincy	MA	42.3	-71	1	
+920	10/28/23	Dallas	TX	32.9	-96.7	1	
+921	10/28/23	Mcveytown	PA	40.5	-77.8	0	
+922	10/28/23	Media	PA	39.9	-75.4	0	
+923	10/28/23	New Ringgold	PA	40.6	-76	1	
+924	10/27/23	Amherstburg	ON	42	-83	1	
+925	10/27/23	Rockaway Township	NJ	40.9	-74.5	0	
+926	10/27/23	Mcveytown	PA	40.5	-77.8	1	
+927	10/27/23	Media	PA	39.9	-75.4	1	
+928	10/27/23	New Ringgold	PA	40.6	-76	2	
+929	10/27/23	Bellville	OH	40.6	-82.5	1	
+930	10/27/23	Little Egg Harbor Township	NJ	39.6	-74.4	3	
+931	10/27/23	Smithfield	PA	39.8	-79.8	1	
+932	10/27/23	Mt Sidney	VA	38.3	-79	1	
+933	10/27/23	Palmarejo	PR	18.3	-66.3	1	
+934	10/27/23	Gardendale	AL	33.7	-86.8	5	
+935	10/27/23	Woodland	CA	38.7	-121.8	1	
+936	10/27/23	San Antonio	TX	29.5	-98.5	1	
+937	10/27/23	Arden	NC	35.5	-82.5	1	
+938	10/27/23	Newburgh	IN	37.9	-87.4	1	
+939	10/27/23	Carmel Hamlet	NY	41.4	-73.7	1	
+940	10/27/23	Destin	FL	30.4	-86.4	1	
+941	10/27/23	Houston	TX	29.8	-95.4	2	
+942	10/27/23	Newburgh	IN	37.9	-87.4	1	
+943	10/27/23	Chowchilla	CA	37.1	-120.3	1	
+944	10/27/23	Olive Branch	MS	34.9	-89.8	5	
+945	10/27/23	Washington	VA	38.7	-78.2	1	
+946	10/27/23	Monticello	KY	36.9	-84.8	1	
+947	10/27/23	Brighton	ON	44	-77.7	1	
+948	10/27/23	Old Lyme	CT	41.3	-72.3	1	
+949	10/27/23	DuBois	PA	41.1	-78.7	1	
+950	10/27/23	Phoenix	AZ	33.5	-112	1	
+951	10/27/23	Smithville	MS	34.1	-88.4	1	
+952	10/27/23	Mt Cory	OH	41	-83.9	1	
+953	10/27/23	East Lyme	CT	41.3	-72.2	8	
+954	10/27/23	Stratford	ON	43.4	-81	2	
+955	10/27/23	Martinsville	VA	36.7	-80	1	
+956	10/27/23	Fort Worth	TX	32.8	-97.3	2	
+957	10/27/23	Fairhope	AL	30.6	-87.9	2	
+958	10/27/23	Pickens	SC	35	-82.6	1	
+959	10/27/23	Pacific	MO	38.4	-90.7	1	
+960	10/27/23	Flower Mound	TX	33	-97.1	1	
+961	10/27/23	Red Oak	TX	32.5	-96.9	350	
+962	10/27/23	Metairie	LA	30	-90.3	3	
+963	10/27/23	Lusby	MD	38.4	-76.5	1	
+964	10/27/23	Binghamton	NY	42.1	-75.9	1	
+965	10/27/23	San Antonio	TX	29.5	-98.5	1	
+966	10/27/23	Independence Charter Township	MI	42.8	-83.4	1	
+967	10/27/23	Bloomington Springs	TN	36.2	-85.6	5	
+968	10/27/23	Bloomington Springs	TN	36.2	-85.6	5	
+969	10/27/23	Killeen	TX	31	-97.8	1	
+970	10/27/23	Westhampton Beach	NY	40.8	-72.6	1	
+971	10/27/23	Mineral Bluff	GA	35	-84.3	2	
+972	10/27/23	Dallas	TX	32.9	-96.7	12	
+973	10/26/23	Bowling Green	KY	37	-86.4	3	
+974	10/26/23	Jacksonville	FL	30.2	-81.8	1	
+975	10/26/23	Jacksonville	FL	30.2	-81.8	1	
+976	10/26/23	Falls Church	VA	38.9	-77.2	1	
+977	10/26/23	Conway	SC	33.9	-79	1	
+978	10/26/23	Kirkwood	MO	38.6	-90.4	2	
+979	10/26/23	Warsaw	VA	38	-76.9	1	
+980	10/26/23	Newburgh	IN	37.9	-87.4	1	
+981	10/26/23	Gainesville	FL	29.7	-82.4	1	
+982	10/26/23	Fernandina Beach	FL	30.7	-81.5	2	
+983	10/26/23	Brighton	ON	44	-77.7	1	
+984	10/26/23	Tiverton	RI	41.6	-71.2	2	
+985	10/26/23	Newton	NJ	41.1	-74.8	1	
+986	10/26/23	Powell	OH	40.2	-83.1	1	
+987	10/26/23	Ipswich	MA	42.7	-70.8	2	
+988	10/26/23	Dagsboro	DE	38.6	-75.2	2	
+989	10/26/23	Junction	TX	30.5	-99.8	1	
+990	10/26/23	Shrewsbury	NJ	40.3	-74	1	
+991	10/26/23	Sayre	PA	42	-76.5	1	
+992	10/26/23	Chenango Forks	NY	42.2	-75.8	1	
+993	10/26/23	Key West	FL	24.5	-81.8	3	
+994	10/26/23	Jefferson	LA	30	-90.2	1	
+995	10/26/23	Moody	AL	33.6	-86.5	3	
+996	10/26/23	Robbinsville	NC	35.4	-83.9	1	
+997	10/26/23	Copake	NY	42.1	-73.5	1	
+998	10/26/23	Rice	TX	32.2	-96.5	4	
+999	10/26/23	DuBois	PA	41.1	-78.7	1	
+1000	10/26/23	Alexander	NC	35.7	-82.6	1	
+1001	10/26/23	Dallas	TX	32.9	-96.8	4	
+1002	10/26/23	Hollister	MO	36.5	-93.2	1	
+1003	10/26/23	Enid	OK	36.4	-97.9	3	
+1004	10/26/23	Woodland	CA	38.7	-121.8	1	
+1005	10/26/23	Tiverton	RI	41.6	-71.2	2	
+1006	10/26/23	Odessa	TX	31.9	-102.3	3	
+1007	10/26/23	Columbia	MD	39.2	-76.8	1	
+1008	10/26/23	Liberty	TX	30	-94.8	1	
+1009	10/26/23	Richmond	CA	37.9	-122.3	2	
+1010	10/26/23	Woodbridge Township	NJ	40.6	-74.2	1	
+1011	10/26/23	Key West	FL	24.5	-81.8	3	
+1012	10/26/23	Franklin	KY	36.7	-86.5	1	
+1013	10/26/23	Mt Pleasant	SC	32.8	-79.9	3	
+1014	10/26/23	Paw Paw	WV	39.5	-78.5	1	
+1015	10/26/23	Edmond	OK	35.6	-97.5	1	
+1016	10/26/23	Oxford	OH	39.5	-84.8	1	
+1017	10/26/23	Dallas	TX	32.8	-96.7	3	
+1018	10/26/23	Knoxville	TN	35.9	-84.1	1	
+1019	10/26/23	Sterling Heights	MI	42.6	-83	1	
+1020	10/26/23	Phoenix	AZ	33.6	-112	1	
+1021	10/26/23	Odessa	TX	31.9	-102.3	3	
+1022	10/26/23	Ball Ground	GA	34.4	-84.3	27	
+1023	10/26/23	Canton	GA	34.3	-84.3	1	
+1024	10/26/23	Ponca City	OK	36.7	-97.1	0	
+1025	10/26/23	Powell	TN	36.1	-84	0	
+1026	10/26/23	Tulsa	OK	36.2	-95.9	3	
+1027	10/26/23	Paw Paw	WV	39.5	-78.5	1	
+1028	10/26/23	Stonington	CT	41.3	-71.9	1	
+1029	10/26/23	Stonington	CT	41.3	-71.9	1	
+1030	10/26/23	Wichita	KS	37.7	-97.3	1	
+1031	10/26/23	Kinsman	OH	41.5	-80.6	1	
+1032	10/26/23	Lake Charlotte	NS	44.8	-63	1	
+1033	10/26/23	Metairie	LA	30	-90.3	2	
+1034	10/26/23	Rockwall	TX	32.8	-96.5	2	
+1035	10/26/23	Overland Park	KS	39	-94.7	2	
+1036	10/26/23	San Antonio	TX	29.5	-98.5	1	
+1037	10/26/23	Bixby	OK	35.9	-95.9	1	
+1038	10/26/23	Bixby	OK	35.9	-95.9	1	
+1039	10/26/23	Bixby	OK	35.9	-95.9	1	
+1040	10/26/23	Greenville	NC	35.6	-77.3	1	
+1041	10/26/23	Mineral Bluff	GA	35	-84.3	1	
+1042	10/26/23	Bixby	OK	35.9	-95.9	1	
+1043	10/26/23	Patuxent River	MD	38.3	-76.4	1	
+1044	10/26/23	Montgomery	TX	30.4	-95.8	1	
+1045	10/26/23	Odessa	TX	31.9	-102.3	3	
+1046	10/26/23	Fairhope	AL	30.5	-87.9	15	
+1047	10/26/23	Greenville	NC	35.6	-77.3	1	
+1048	10/26/23	Belle River	ON	42.3	-82.7	1	
+1049	10/26/23	Mesa	AZ	33.4	-111.8	1	
+1050	10/26/23	Dallas	TX	32.9	-96.7	3	
+1051	10/26/23	Ramona	CA	33	-116.8	1	
+1052	10/26/23	Patterson	LA	29.7	-91.3	1	
+1053	10/26/23	Mcveytown	PA	40.5	-77.8	0	
+1054	10/26/23	Media	PA	39.9	-75.4	0	
+1055	10/26/23	New Ringgold	PA	40.6	-76	2	
+1056	10/25/23	New Ringgold	PA	40.6	-76	0	
+1057	10/25/23	Coldwater	MI	41.8	-85	1	
+1058	10/25/23	Port Stanley	ON	42.7	-81.3	1	
+1059	10/25/23	Carmel Hamlet	NY	41.4	-73.7	1	
+1060	10/25/23	Atlanta	GA	33.8	-84.4	1	
+1061	10/25/23	Ashland	KY	38.4	-82.6	1	
+1062	10/25/23	Willard	MO	37.4	-93.4	2	
+1063	10/25/23	Ridgeland	MS	32.4	-90.1	1	
+1064	10/25/23	Miami	FL	25.7	-80.2	1	
+1065	10/25/23	Bloomington	IN	39.1	-86.5	1	
+1066	10/25/23	Ashland	KY	38.4	-82.6	1	
+1067	10/25/23	Chelsea	OK	36.5	-95.4	1	
+1068	10/25/23	Arden	NC	35.5	-82.5	1	
+1069	10/25/23	Lebanon	PA	40.3	-76.4	1	
+1070	10/25/23	Stearns	KY	36.8	-84.6	1	
+1071	10/25/23	Williamstown	MA	42.7	-73.2	1	
+1072	10/25/23	Wheeling	WV	40	-80.7	1	
+1073	10/25/23	Livingston	TX	30.7	-94.6	1	
+1074	10/25/23	Newburgh	IN	37.9	-87.4	2	
+1075	10/25/23	Hollister	MO	36.5	-93.2	1	
+1076	10/25/23	Chincoteague	VA	37.9	-75.4	14	
+1077	10/25/23	New Iberia	LA	30	-91.8	1	
+1078	10/25/23	Gatlinburg	TN	35.6	-83.4	1	
+1079	10/25/23	Canton	GA	34.2	-84.5	3	
+1080	10/25/23	Leamington	ON	42	-82.6	1	
+1081	10/25/23	Howe	OK	35	-94.6	2	
+1082	10/25/23	Chincoteague	VA	37.9	-75.4	14	
+1083	10/25/23	Lusby	MD	38.4	-76.5	2	
+1084	10/25/23	Gainesville	GA	34.3	-83.9	1	
+1085	10/25/23	Marble Falls	TX	30.6	-98.2	2	
+1086	10/25/23	Cookville	TX	33.2	-94.9	5	
+1087	10/25/23	Fayetteville	AR	36.1	-94.2	1	
+1088	10/25/23	Vacaville	CA	38.4	-121.9	1	
+1089	10/25/23	Killeen	TX	31	-97.8	1	
+1090	10/25/23	Pittsburgh	PA	40.4	-79.9	2	
+1091	10/25/23	Portland	ME	43.7	-70.3	1	
+1092	10/25/23	New Cumberland	PA	40.2	-76.9	1	
+1093	10/25/23	Arden	NC	35.5	-82.5	1	
+1094	10/25/23	Keller	TX	32.9	-97.2	2	
+1095	10/25/23	Westwego	LA	30	-90.3	3	
+1096	10/25/23	Calhoun	GA	34.4	-85	1	
+1097	10/25/23	Mooresville	IN	39.6	-86.4	1	
+1098	10/25/23	Ithaca	NY	42.4	-76.5	1	
+1099	10/25/23	Dallas	TX	32.9	-96.7	6	
+1100	10/24/23	Hutto	TX	30.5	-97.6	20	
+1101	10/24/23	North Topsail Beach	NC	34.5	-77.3	1	
+1102	10/24/23	North Topsail Beach	NC	34.6	-77.3	0	
+1103	10/24/23	North Topsail Beach	NC	34.6	-77.3	1	
+1104	10/24/23	North Topsail Beach	NC	34.6	-77.3	1	
+1105	10/24/23	North Topsail Beach	NC	34.6	-77.3	1	
+1106	10/24/23	North Topsail Beach	NC	34.5	-77.3	1	
+1107	10/24/23	North Topsail Beach	NC	34.5	-77.3	1	
+1108	10/24/23	North Topsail Beach	NC	34.5	-77.3	2	
+1109	10/24/23	North Topsail Beach	NC	34.5	-77.3	2	
+1110	10/24/23	North Topsail Beach	NC	34.5	-77.3	2	
+1111	10/24/23	North Topsail Beach	NC	34.5	-77.3	2	
+1112	10/24/23	North Topsail Beach	NC	34.5	-77.3	2	
+1113	10/24/23	North Topsail Beach	NC	34.5	-77.3	2	
+1114	10/24/23	North Topsail Beach	NC	34.5	-77.3	3	
+1115	10/24/23	North Topsail Beach	NC	34.5	-77.3	4	
+1116	10/24/23	Mechanicsville	VA	37.6	-77.4	1	
+1117	10/24/23	Charlottesville	VA	38	-78.5	1	
+1118	10/24/23	Portage	WI	43.5	-89.5	1	
+1119	10/24/23	El Segundo	CA	33.9	-118.4	2	
+1120	10/24/23	Baroda	MI	42	-86.5	1	
+1121	10/24/23	Canton	MI	42.3	-83.5	1	
+1122	10/24/23	Newburgh	IN	37.9	-87.4	1	
+1123	10/24/23	Hoover	AL	33.4	-86.8	8	
+1124	10/24/23	Chatham	ON	42.4	-82.2	1	
+1125	10/24/23	Howe	OK	35	-94.6	1	
+1126	10/24/23	Clarksville	AR	35.5	-93.5	1	
+1127	10/24/23	Gause	TX	30.7	-96.7	2	
+1128	10/24/23	Rome	GA	34.2	-85.2	1	
+1129	10/24/23	Winchendon	MA	42.7	-72	1	
+1130	10/24/23	Columbus	OH	40	-83	1	
+1131	10/24/23	Patuxent River	MD	38.3	-76.4	3	
+1132	10/24/23	Jamestown	NY	42.1	-79.2	1	
+1133	10/24/23	Woodstock	GA	34.2	-84.4	3	
+1134	10/24/23	Madison	MS	32.5	-90.1	1	
+1135	10/24/23	Flat Creek	LA	31.9	-92.4	2	
+1136	10/24/23	Harding	PA	41.3	-75.8	1	
+1137	10/24/23	Cudjoe Key	FL	24.7	-81.5	2	
+1138	10/24/23	Gardendale	AL	33.7	-86.8	2	
+1139	10/24/23	Bloomington	IN	39.1	-86.5	2	
+1140	10/24/23	Fairbury	IL	40.8	-88.5	1	
+1141	10/24/23	Columbus	OH	40	-83	1	
+1142	10/24/23	Cudjoe Key	FL	24.7	-81.5	2	
+1143	10/24/23	East Ridge	TN	35	-85.2	1	
+1144	10/24/23	Marble Falls	TX	30.6	-98.2	1	
+1145	10/24/23	Edwardsville	IL	38.8	-90	1	
+1146	10/24/23	Roca	NE	40.6	-96.7	1	
+1147	10/24/23	Hollywood	FL	26	-80.1	1	
+1148	10/24/23	Kenosha	WI	42.6	-87.9	2	
+1149	10/24/23	McDonough	GA	33.4	-84.1	4	
+1150	10/24/23	Ansonia	CT	41.3	-73.1	1	
+1151	10/24/23	Metairie	LA	30	-90.3	2	
+1152	10/24/23	Leamington	ON	41.9	-82.5	30	
+1153	10/24/23	Carpinteria	CA	34.4	-119.5	2	
+1154	10/24/23	Valley Center	KS	37.8	-97.4	1	
+1155	10/24/23	Georgetown	TX	30.6	-97.7	2	
+1156	10/24/23	Patuxent River	MD	38.3	-76.4	3	
+1157	10/24/23	Dallas	TX	32.9	-96.7	1	
+1158	10/24/23	Ramona	CA	33	-116.8	1	
+1159	10/24/23	Rockaway Township	NJ	40.9	-74.5	0	
+1160	10/24/23	Media	PA	39.9	-75.4	0	
+1161	10/24/23	New Ringgold	PA	40.6	-76	2	
+1162	10/23/23	Los Angeles	CA	34.1	-118.2	1	
+1163	10/23/23	Amherstburg	ON	42	-83	1	
+1164	10/23/23	Mcveytown	PA	40.5	-77.8	0	
+1165	10/23/23	Media	PA	39.9	-75.4	0	
+1166	10/23/23	New Ringgold	PA	40.6	-76	0	
+1167	10/23/23	Sneads Ferry	NC	34.6	-77.3	1	
+1168	10/23/23	Sneads Ferry	NC	34.6	-77.3	1	
+1169	10/23/23	Sneads Ferry	NC	34.6	-77.3	1	
+1170	10/23/23	North Topsail Beach	NC	34.6	-77.3	1	
+1171	10/23/23	North Topsail Beach	NC	34.6	-77.3	2	
+1172	10/23/23	North Topsail Beach	NC	34.6	-77.3	1	
+1173	10/23/23	North Topsail Beach	NC	34.6	-77.3	2	
+1174	10/23/23	North Topsail Beach	NC	34.6	-77.3	2	
+1175	10/23/23	North Topsail Beach	NC	34.6	-77.3	1	
+1176	10/23/23	North Topsail Beach	NC	34.6	-77.3	1	
+1177	10/23/23	North Topsail Beach	NC	34.6	-77.3	4	
+1178	10/23/23	North Topsail Beach	NC	34.5	-77.3	1	
+1179	10/23/23	North Topsail Beach	NC	34.5	-77.3	1	
+1180	10/23/23	North Topsail Beach	NC	34.5	-77.3	1	
+1181	10/23/23	Mauldin	SC	34.8	-82.3	1	
+1182	10/23/23	Mauldin	SC	34.8	-82.3	1	
+1183	10/23/23	Hesston	KS	38.1	-97.4	1	
+1184	10/23/23	Krum	TX	33.2	-97.3	2	
+1185	10/23/23	Wichita	KS	37.7	-97.4	5	
+1186	10/23/23	North Topsail Beach	NC	34.6	-77.3	1	
+1187	10/23/23	North Topsail Beach	NC	34.6	-77.3	1	
+1188	10/23/23	North Topsail Beach	NC	34.6	-77.3	2	
+1189	10/23/23	Decatur	GA	33.8	-84.3	3	
+1190	10/23/23	Jacksonville	NC	34.6	-77.3	1	
+1191	10/23/23	Sneads Ferry	NC	34.6	-77.3	1	
+1192	10/23/23	Palmarejo	PR	18.3	-66.3	1	
+1193	10/23/23	Newburgh	IN	37.9	-87.4	1	
+1194	10/23/23	Mill Valley	CA	37.9	-122.5	1	
+1195	10/23/23	Glenpool	OK	36	-96	3	
+1196	10/23/23	Kingsville	TX	27.5	-97.9	1	
+1197	10/23/23	Vestavia Hills	AL	33.5	-86.7	1	
+1198	10/23/23	Norman	OK	35.3	-97.5	2	
+1199	10/23/23	Ocean Twp	NJ	39.8	-74.2	1	
+1200	10/23/23	Richland	WA	46.3	-119.3	1	
+1201	10/23/23	North Myrtle Beach	SC	33.8	-78.7	1	
+1202	10/23/23	Atlanta	GA	33.8	-84.4	4	
+1203	10/23/23	Boerne	TX	29.8	-98.7	1	
+1204	10/23/23	Woodstock	GA	34.2	-84.4	1	
+1205	10/23/23	Tulsa	OK	36.2	-95.9	1	
+1206	10/23/23	Ponca City	OK	36.7	-97.1	2	
+1207	10/23/23	Little Egg Harbor Township	NJ	39.6	-74.4	1	
+1208	10/23/23	Corfu	NY	43	-78.3	1	
+1209	10/23/23	Lafayette	LA	30.2	-92.1	1	
+1210	10/23/23	Charleston	SC	32.7	-80	15	
+1211	10/23/23	Campobello	SC	35.1	-82.2	1	
+1212	10/23/23	Clay Township	MI	42.6	-82.6	1	
+1213	10/23/23	Cincinnati	OH	39.1	-84.4	1	
+1214	10/23/23	Marathon	FL	24.8	-81	2	
+1215	10/23/23	Gardendale	AL	33.7	-86.8	2	
+1216	10/23/23	Picture Rocks	AZ	32.3	-111.3	12	
+1217	10/23/23	Hutto	TX	30.5	-97.6	2	
+1218	10/23/23	Calera	OK	33.9	-96.4	8	
+1219	10/23/23	Sioux City	IA	42.5	-96.4	1	
+1220	10/23/23	Wake Forest	NC	36	-78.6	3	
+1221	10/23/23	West Lake Hills	TX	30.3	-97.8	2	
+1222	10/23/23	Metairie	LA	30	-90.3	3	
+1223	10/23/23	Worthing	TX	29.4	-97	3	
+1224	10/23/23	King City	CA	36.2	-121.1	2	
+1225	10/23/23	Washington Court House	OH	39.5	-83.4	1	
+1226	10/23/23	Dallas	TX	32.9	-96.7	5	
+1227	10/22/23	Palmarejo	PR	18.3	-66.3	1	
+1228	10/22/23	Choctaw	OK	35.4	-97.3	1	
+1229	10/22/23	Dallas	TX	32.8	-96.7	7	
+1230	10/22/23	Biloxi	MS	30.4	-88.9	7	
+1231	10/22/23	New Bern	NC	35	-77	1	
+1232	10/22/23	Plainfield	IL	41.7	-88.2	1	
+1233	10/22/23	New Caney	TX	30.2	-95.2	2	
+1234	10/22/23	Pflugerville	TX	30.5	-97.6	4	
+1235	10/22/23	Atlanta	GA	33.9	-84.2	2	
+1236	10/22/23	Boerne	TX	29.8	-98.7	4	
+1237	10/22/23	Pittsburg	KS	37.4	-94.7	1	
+1238	10/22/23	Plano	TX	33	-96.7	1	
+1239	10/22/23	KCMO	MO	39.2	-94.5	1	
+1240	10/22/23	Tuckerton	NJ	39.6	-74.3	1	
+1241	10/22/23	KCMO	MO	39.2	-94.5	1	
+1242	10/22/23	Whitemarsh Island	GA	32.1	-81	1	
+1243	10/22/23	Fort Valley	GA	32.6	-83.7	1	
+1244	10/22/23	Chelsea	OK	36.5	-95.4	1	
+1245	10/22/23	Canton	GA	34.2	-84.5	1	
+1246	10/22/23	Broomfield	CO	39.9	-105.1	1	
+1247	10/22/23	Robins	IA	42.1	-91.7	1	
+1248	10/22/23	Metairie	LA	30	-90.3	2	
+1249	10/22/23	Metairie	LA	30	-90.3	2	
+1250	10/22/23	Driftwood	TX	30.1	-98	11	
+1251	10/22/23	Ferndale	MI	42.5	-83.1	1	
+1252	10/22/23	Kirkwood	MO	38.6	-90.4	2	
+1253	10/22/23	Norman	OK	35.3	-97.5	3	
+1254	10/22/23	North Myrtle Beach	SC	33.8	-78.7	4	
+1255	10/22/23	Ponca City	OK	36.7	-97.1	1	
+1256	10/22/23	Destin	FL	30.4	-86.5	1	
+1257	10/22/23	Cedar Point	NC	34.7	-77.1	1	
+1258	10/22/23	St. Louis	MO	38.6	-90.4	1	
+1259	10/22/23	Toronto	ON	43.7	-79.3	1	
+1260	10/22/23	Calera	OK	33.9	-96.4	3	
+1261	10/22/23	Wake Forest	NC	36	-78.6	3	
+1262	10/22/23	Escalante	UT	37.8	-111.4	2	
+1263	10/22/23	Cape May Point	NJ	38.9	-75	6	
+1264	10/22/23	Dallas	TX	32.9	-96.7	11	
+1265	10/22/23	Mcveytown	PA	40.5	-77.8	0	
+1266	10/22/23	Media	PA	39.9	-75.4	2	
+1267	10/22/23	New Ringgold	PA	40.6	-76	0	
+1268	10/21/23	Pearland	TX	29.5	-95.3	1	
+1269	10/21/23	Amherstburg	ON	42	-83	0	
+1270	10/21/23	Mcveytown	PA	40.5	-77.8	0	
+1271	10/21/23	New Ringgold	PA	40.6	-76	1	
+1272	10/21/23	Maryville	TN	35.8	-84	1	
+1273	10/21/23	Delphos	OH	40.9	-84.3	1	
+1274	10/21/23	Greer	SC	34.9	-82.3	1	
+1275	10/21/23	San Pedro Garza GarcÃ­a	NLE	25.7	-100.4	10	
+1276	10/21/23	Francitas	TX	28.8	-96.3	2	
+1277	10/21/23	Cape May	NJ	38.9	-74.9	1	
+1278	10/21/23	Clarksville	TN	36.6	-87.4	1	
+1279	10/21/23	Lower Township	NJ	39	-74.9	1	
+1280	10/21/23	Montevallo	AL	33.1	-86.9	2	
+1281	10/21/23	Maryville	TN	35.8	-83.9	1	
+1282	10/21/23	Maryville	TN	35.8	-83.9	3	
+1283	10/21/23	Napa	CA	38.3	-122.3	1	
+1284	10/21/23	Hamilton	NJ	39.5	-74.7	1	
+1285	10/21/23	Marietta	GA	34	-84.4	1	
+1286	10/21/23	Leawood	KS	38.9	-94.6	1	
+1287	10/21/23	Simpsonville	SC	34.7	-82.3	1	
+1288	10/21/23	Simpsonville	SC	34.7	-82.3	1	
+1289	10/21/23	Joplin	MO	37.1	-94.5	1	
+1290	10/21/23	Jacksonville	FL	30.2	-81.8	1	
+1291	10/21/23	Aurora	CO	39.7	-104.8	1	
+1292	10/21/23	Fayetteville	GA	33.4	-84.5	2	
+1293	10/21/23	Tucson	AZ	32.2	-110.8	1	
+1294	10/21/23	Long Beach	CA	33.8	-118.1	1	
+1295	10/21/23	Willowbrook	IL	41.8	-87.9	1	
+1296	10/21/23	Chapin	SC	34.2	-81.3	3	
+1297	10/21/23	Chapin	SC	34.2	-81.3	3	
+1298	10/21/23	Pearland	TX	29.5	-95.3	1	
+1299	10/21/23	Fremont	CA	37.6	-122	1	
+1300	10/21/23	Gause	TX	30.7	-96.7	4	
+1301	10/21/23	Greensboro	NC	36.1	-79.9	1	
+1302	10/21/23	Atlanta	GA	33.9	-84.2	8	
+1303	10/21/23	Plano	TX	33.1	-96.8	3	
+1304	10/21/23	Charlotte	NC	35.2	-80.9	3	
+1305	10/21/23	Des Moines	IA	41.6	-93.7	1	
+1306	10/21/23	White City	GA	34.3	-84.4	3	
+1307	10/21/23	Prescott	AZ	34.7	-112.6	1	
+1308	10/21/23	Woodstock	GA	34.1	-84.4	1	
+1309	10/21/23	San Leandro	CA	37.7	-122.1	1	
+1310	10/21/23	Bishop	CA	37.5	-118.6	1	
+1311	10/21/23	Mansfield	TX	32.6	-97.1	10	
+1312	10/21/23	Smyrna	TN	36	-86.5	1	
+1313	10/21/23	Colfax	NC	36.1	-80	1	
+1314	10/21/23	South Frontenac	ON	44.4	-76.4	1	
+1315	10/21/23	Palmarejo	PR	18.3	-66.3	1	
+1316	10/21/23	Tyler	TX	32.5	-95.3	1	
+1317	10/21/23	Dublin	OH	40.1	-83.1	1	
+1318	10/21/23	Oak Ridge	TN	36	-84.2	1	
+1319	10/21/23	San Antonio	TX	29.5	-98.5	1	
+1320	10/21/23	Gladewater	TX	32.5	-94.9	2	
+1321	10/21/23	Palm Coast	FL	29.6	-81.2	1	
+1322	10/21/23	Braidwood	IL	41.3	-88.2	1	
+1323	10/21/23	Grapevine	TX	33	-97.1	4	
+1324	10/21/23	Norman	OK	35.3	-97.5	1	
+1325	10/21/23	Okaloosa Island	FL	30.4	-86.6	2	
+1326	10/21/23	Toronto	ON	43.7	-79.3	1	
+1327	10/21/23	Marble Falls	TX	30.6	-98.2	1	
+1328	10/21/23	Calera	OK	33.9	-96.4	3	
+1329	10/21/23	Lincoln	NE	40.8	-96.7	1	
+1330	10/21/23	West Lake Hills	TX	30.3	-97.8	2	
+1331	10/21/23	Hinsdale	IL	41.8	-87.9	1	
+1332	10/21/23	Grapevine	TX	32.9	-97.1	20	
+1333	10/21/23	Hot Springs	AR	34.7	-93	1	
+1334	10/21/23	Dallas	TX	32.9	-96.7	12	
+1335	10/20/23	Slidell	LA	30.3	-89.8	1	
+1336	10/20/23	North Topsail Beach	NC	34.6	-77.3	1	
+1337	10/20/23	North Topsail Beach	NC	34.6	-77.3	5	
+1338	10/20/23	Powell	TN	36.1	-84	1	
+1339	10/20/23	Fort Worth	TX	32.7	-97.3	1	
+1340	10/20/23	Gause	TX	30.7	-96.7	1	
+1341	10/20/23	Old Fort	NC	35.6	-82.2	2	
+1342	10/20/23	West Palm Beach	FL	26.8	-80	1	
+1343	10/20/23	Seymour	TN	35.9	-83.7	1	
+1344	10/20/23	Atlanta	GA	33.9	-84.2	6	
+1345	10/20/23	Bryan	TX	30.7	-96.3	1	
+1346	10/20/23	Middle Valley	TN	35.2	-85.2	6	
+1347	10/20/23	Dallas	TX	32.8	-96.7	2	
+1348	10/20/23	Krum	TX	33.2	-97.3	6	
+1349	10/20/23	Schertz	TX	29.6	-98.3	8	
+1350	10/20/23	Austin	TX	30.4	-97.8	1	
+1351	10/20/23	Phoenix	AZ	33.5	-112	2	
+1352	10/20/23	KCMO	MO	39.2	-94.5	2	
+1353	10/20/23	Gatlinburg	TN	35.7	-83.5	3	
+1354	10/20/23	Woodstock	GA	34.2	-84.4	1	
+1355	10/20/23	Albany	NY	42.6	-73.8	1	
+1356	10/20/23	Sausalito	CA	37.9	-122.5	1	
+1357	10/20/23	Gardendale	AL	33.7	-86.8	1	
+1358	10/20/23	San Antonio	TX	29.5	-98.5	1	
+1359	10/20/23	Vonore	TN	35.6	-84.2	2	
+1360	10/20/23	Wellington	FL	26.7	-80.3	2	
+1361	10/20/23	Gulfport	MS	30.2	-89.1	30	
+1362	10/20/23	St. Augustine	FL	29.9	-81.4	5	
+1363	10/20/23	Greenwood	IN	39.6	-86.2	1	
+1364	10/20/23	Houston	TX	29.7	-95.4	1	
+1365	10/20/23	Norman	OK	35.3	-97.5	1	
+1366	10/20/23	Campobello	SC	35.1	-82.2	9	
+1367	10/20/23	Gering	NE	41.8	-103.7	1	
+1368	10/20/23	Calera	OK	33.9	-96.4	2	
+1369	10/20/23	Dallas	TX	32.9	-96.7	1	
+1370	10/20/23	Middle Valley	TN	35.2	-85.2	6	
+1371	10/20/23	Boulder	UT	37.9	-111.4	1	
+1372	10/20/23	Media	PA	39.9	-75.4	1	
+1373	10/20/23	New Ringgold	PA	40.6	-76	0	
+1374	10/19/23	Goleta	CA	34.4	-119.8	4	
+1375	10/19/23	Wake Forest	NC	36	-78.5	1	
+1376	10/19/23	Alpharetta	GA	34.1	-84.3	6	
+1377	10/19/23	Amherstburg	ON	42	-83	0	
+1378	10/19/23	Mcveytown	PA	40.5	-77.8	2	
+1379	10/19/23	Media	PA	39.9	-75.4	0	
+1380	10/19/23	New Ringgold	PA	40.6	-76	2	
+1381	10/19/23	Bloomfield	NJ	40.8	-74.2	2	
+1382	10/19/23	Newburgh	IN	37.9	-87.4	1	
+1383	10/19/23	Holly Springs	MS	34.8	-89.4	1	
+1384	10/19/23	Halton Hills	ON	43.6	-79.8	1	
+1385	10/19/23	Apex	NC	35.8	-78.9	1	
+1386	10/19/23	Raleigh	NC	35.8	-78.7	1	
+1387	10/19/23	Arden	NC	35.5	-82.6	10	
+1388	10/19/23	Wake Forest	NC	36	-78.6	2	
+1389	10/19/23	Conyers	GA	33.7	-84	2	
+1390	10/19/23	El Segundo	CA	33.9	-118.4	1	
+1391	10/19/23	Carmel Hamlet	NY	41.4	-73.7	3	
+1392	10/19/23	Asheville	NC	35.6	-82.5	4	
+1393	10/19/23	Trumbull	CT	41.2	-73.2	1	
+1394	10/19/23	Lenexa	KS	38.9	-94.7	1	
+1395	10/19/23	Temple	TX	31	-97.3	1	
+1396	10/19/23	Old Fort	NC	35.6	-82.2	3	
+1397	10/19/23	Sea Ranch	CA	38.7	-123.5	1	
+1398	10/19/23	Salisbury	NC	35.6	-80.5	2	
+1399	10/19/23	Angleton	TX	29.2	-95.4	1	
+1400	10/19/23	Maineville	OH	39.3	-84.3	1	
+1401	10/19/23	Marble Falls	TX	30.6	-98.2	2	
+1402	10/19/23	Port Lavaca	TX	28.6	-96.6	1	
+1403	10/19/23	Warsaw	VA	38	-76.8	2	
+1404	10/19/23	Alvin	TX	29.4	-95.2	1	
+1405	10/19/23	St. Augustine	FL	29.9	-81.3	1	
+1406	10/19/23	Doraville	GA	33.9	-84.2	1	
+1407	10/19/23	Morgantown	WV	39.6	-79.9	6	
+1408	10/19/23	Francitas	TX	28.8	-96.3	1	
+1409	10/19/23	Ball Ground	GA	34.4	-84.3	64	
+1410	10/19/23	Oak Ridge	TN	36	-84.2	1	
+1411	10/19/23	Little Egg Harbor Township	NJ	39.6	-74.4	1	
+1412	10/19/23	Chandler	AZ	33.3	-111.9	1	
+1413	10/19/23	Parkersburg	WV	39.3	-81.5	1	
+1414	10/19/23	Jacksonville	NC	34.6	-77.3	1	
+1415	10/19/23	Jacksonville	NC	34.7	-77.4	2	
+1416	10/19/23	Blairsville	GA	34.9	-84.1	2	
+1417	10/19/23	Dunwoody	GA	33.9	-84.3	1	
+1418	10/19/23	Ashland	KY	38.4	-82.6	2	
+1419	10/19/23	Garden City	MO	38.5	-94.2	5	
+1420	10/19/23	Cape May Point	NJ	38.9	-75	35	
+1421	10/19/23	Clarksville	AR	35.5	-93.5	2	
+1422	10/19/23	Clarksville	AR	35.5	-93.5	2	
+1423	10/19/23	Leicester	NC	35.7	-82.7	1	
+1424	10/19/23	Arlington	TX	32.6	-97.1	1	
+1425	10/19/23	Palmarejo	PR	18.3	-66.3	1	
+1426	10/19/23	Dawsonville	GA	34.5	-84.3	5	
+1427	10/19/23	Reston	VA	39	-77.4	1	
+1428	10/19/23	Calera	OK	33.9	-96.4	2	
+1429	10/19/23	Dallas	TX	32.9	-96.7	2	
+1430	10/19/23	Boulder	UT	37.9	-111.3	1	
+1431	10/19/23	Floresville	TX	29.1	-98.2	40	
+1432	10/18/23	Rocklin	CA	38.8	-121.3	1	
+1433	10/18/23	Ogden	UT	41.3	-112.1	1	
+1434	10/18/23	Dublin	OH	40.1	-83.1	1	
+1435	10/18/23	Tulsa	OK	36.1	-95.9	1	
+1436	10/18/23	North Topsail Beach	NC	34.5	-77.3	7	
+1437	10/18/23	Sneads Ferry	NC	34.6	-77.3	3	
+1438	10/18/23	Sneads Ferry	NC	34.6	-77.3	30	
+1439	10/18/23	Sneads Ferry	NC	34.6	-77.3	15	
+1440	10/18/23	Fayetteville	AR	36.1	-94.2	1	
+1441	10/18/23	Livonia	MI	42.4	-83.4	1	
+1442	10/18/23	Friendsville	TN	35.8	-84.1	1	
+1443	10/18/23	Sterling Heights	MI	42.6	-83.1	1	
+1444	10/18/23	Decatur	AL	34.6	-87	1	
+1445	10/18/23	Glasgow	WV	38.2	-81.4	1	
+1446	10/18/23	Willard	MO	37.4	-93.4	3	
+1447	10/18/23	Macks Creek	MO	38	-93	1	
+1448	10/18/23	Memphis	TN	35.1	-89.9	5	
+1449	10/18/23	O'Fallon	MO	38.8	-90.7	1	
+1450	10/18/23	Allenton	MI	42.9	-82.9	1	
+1451	10/18/23	Waukee	IA	41.6	-93.9	1	
+1452	10/18/23	South Abington Township	PA	41.5	-75.7	4	
+1453	10/18/23	Gardendale	AL	33.7	-86.8	2	
+1454	10/18/23	Martinez	CA	38	-122.1	1	
+1455	10/18/23	Grosse Pointe Park	MI	42.4	-82.9	1	
+1456	10/18/23	Emerson	AR	33.1	-93.2	1	
+1457	10/18/23	Dublin	TX	32.1	-98.4	1	
+1458	10/18/23	North Canton	OH	40.9	-81.4	1	
+1459	10/18/23	Little Egg Harbor Township	NJ	39.6	-74.4	3	
+1460	10/18/23	Overland Park	KS	38.9	-94.7	1	
+1461	10/18/23	Salisbury	NC	35.6	-80.5	2	
+1462	10/18/23	Blairsville	GA	34.9	-84.1	1	
+1463	10/18/23	Kirkwood	MO	38.6	-90.4	1	
+1464	10/18/23	Trappe	MD	38.7	-76.1	2	
+1465	10/18/23	Brandon Twp	MI	42.8	-83.3	1	
+1466	10/18/23	Leesburg	VA	39.1	-77.5	1	
+1467	10/18/23	Greensburg	IN	39.3	-85.4	4	
+1468	10/18/23	Bryson City	NC	35.4	-83.4	1	
+1469	10/18/23	Cookville	TX	33.2	-94.8	1	
+1470	10/18/23	Mt Pleasant	TX	33.2	-95	2	
+1471	10/18/23	Leamington	ON	42	-82.6	1	
+1472	10/18/23	Staples	ON	42.1	-82.6	1	
+1473	10/18/23	Woodstock	GA	34.1	-84.4	1	
+1474	10/18/23	Palmarejo	PR	18.3	-66.3	1	
+1475	10/18/23	San Angelo	TX	31.4	-100.4	4	
+1476	10/18/23	Rockport	TX	28.2	-97	9	
+1477	10/18/23	Marathon	FL	24.7	-81.1	4	
+1478	10/18/23	San Antonio	TX	29.5	-98.5	1	
+1479	10/18/23	Upper Arlington	OH	40	-83.1	1	
+1480	10/18/23	Oak Ridge	TN	36	-84.2	1	
+1481	10/18/23	Neenah	WI	44.2	-88.5	1	
+1482	10/18/23	Wildwood	NJ	38.9	-75	14	
+1483	10/18/23	Patuxent River	MD	38.3	-76.4	8	
+1484	10/18/23	Smithtown	NY	40.9	-73.3	2	
+1485	10/18/23	Murrells Inlet	SC	33.5	-79	2	
+1486	10/18/23	Middle Valley	TN	35.2	-85.2	5	
+1487	10/18/23	Patuxent River	MD	38.3	-76.4	8	
+1488	10/18/23	Calera	OK	33.9	-96.4	3	
+1489	10/18/23	Dallas	TX	32.9	-96.7	5	
+1490	10/18/23	Angier	NC	35.5	-78.7	1	
+1491	10/18/23	Amherstburg	ON	42	-83	1	
+1492	10/18/23	Rockaway Township	NJ	40.9	-74.5	0	
+1493	10/18/23	Mcveytown	PA	40.5	-77.8	0	
+1494	10/18/23	Media	PA	39.9	-75.4	0	
+1495	10/18/23	New Ringgold	PA	40.6	-76	0	
+1496	10/17/23	Media	PA	39.9	-75.4	1	
+1497	10/17/23	New Ringgold	PA	40.6	-76	2	
+1498	10/17/23	Franklin Township	NJ	40.5	-74.5	1	
+1499	10/17/23	Ocean Twp	NJ	39.8	-74.2	1	
+1500	10/17/23	Palmarejo	PR	18.3	-66.3	1	
+1501	10/17/23	North Topsail Beach	NC	34.5	-77.3	2	
+1502	10/17/23	North Topsail Beach	NC	34.6	-77.3	2	
+1503	10/17/23	Sneads Ferry	NC	34.6	-77.3	1	
+1504	10/17/23	North Topsail Beach	NC	34.6	-77.3	1	
+1505	10/17/23	North Topsail Beach	NC	34.6	-77.3	2	
+1506	10/17/23	Little Egg Harbor Township	NJ	39.6	-74.4	4	
+1507	10/17/23	East Greenbush	NY	42.6	-73.7	1	
+1508	10/17/23	Missouri City	TX	29.6	-95.6	1	
+1509	10/17/23	Omaha	NE	41.2	-96.2	1	
+1510	10/17/23	Sacramento	CA	38.7	-121.3	2	
+1511	10/17/23	Francitas	TX	28.8	-96.3	2	
+1512	10/17/23	Jacksonville	NC	34.6	-77.3	1	
+1513	10/17/23	Jacksonville	NC	34.6	-77.3	5	
+1514	10/17/23	North Topsail Beach	NC	34.6	-77.3	1	
+1515	10/17/23	Broomfield	CO	39.9	-105.1	1	
+1516	10/17/23	Overland Park	KS	38.9	-94.7	1	
+1517	10/17/23	Tulsa	OK	36.2	-96	1	
+1518	10/17/23	Edmond	OK	35.7	-97.5	1	
+1519	10/17/23	Krum	TX	33.2	-97.3	3	
+1520	10/17/23	Champaign	IL	40.1	-88.3	1	
+1521	10/17/23	Ocean Twp	NJ	39.8	-74.2	1	
+1522	10/17/23	Broken Arrow	OK	36.1	-95.7	2	
+1523	10/17/23	Rockport	TX	28.1	-97	1	
+1524	10/17/23	Holiday Beach	TX	28.2	-97	3	
+1525	10/17/23	Gulf Shores	AL	30.2	-88	21	
+1526	10/17/23	Fairhope	AL	30.5	-87.9	3	
+1527	10/17/23	Midland	TX	32	-102	1	
+1528	10/17/23	Story	WY	44.6	-106.9	1	
+1529	10/17/23	Panama City Beach	FL	30.2	-85.8	1	
+1530	10/17/23	Petoskey	MI	45.3	-85	1	
+1531	10/17/23			26.6	-90.5	1	
+1532	10/17/23	Middleton	MA	42.6	-71	1	
+1533	10/17/23	Middleton	MA	42.6	-71	1	
+1534	10/17/23	Tulsa	OK	36.1	-96	1	
+1535	10/17/23	Calera	OK	33.9	-96.4	3	
+1536	10/17/23	Greenwood	IN	39.6	-86.2	1	
+1537	10/17/23	New Orleans	LA	30.3	-90.1	20	
+1538	10/17/23	Stearns	KY	36.8	-84.6	1	
+1539	10/17/23	San Antonio	TX	29.5	-98.5	1	
+1540	10/17/23	Cape May Point	NJ	38.9	-75	19	
+1541	10/17/23	Krum	TX	33.2	-97.3	3	
+1542	10/17/23	Dallas	TX	32.9	-96.7	10	
+1543	10/17/23	Greensboro	NC	36.1	-79.8	8	
+1544	10/16/23	Tuckerton	NJ	39.6	-74.3	2	
+1545	10/16/23	Atlanta	GA	33.9	-84.2	2	
+1546	10/16/23	Little Egg Harbor Township	NJ	39.6	-74.4	4	
+1547	10/16/23	Spence	MD	38.1	-75.2	4	
+1548	10/16/23	Bixby	OK	35.9	-95.9	1	
+1549	10/16/23	South Bend	IN	41.6	-86.3	1	
+1550	10/16/23	Apex	NC	35.8	-78.9	1	
+1551	10/16/23	Tucson	AZ	32.2	-110.8	1	
+1552	10/16/23	Canton	GA	34.3	-84.5	1	
+1553	10/16/23	DeBary	FL	28.9	-81.3	1	
+1554	10/16/23	Key West	FL	24.5	-81.8	12	
+1555	10/16/23	Orangeburg	SC	33.5	-80.9	1	
+1556	10/16/23	Morro Bay	CA	35.4	-120.8	2	
+1557	10/16/23	Eastpoint	FL	29.7	-84.7	2	
+1558	10/16/23	Gulf Shores	AL	30.2	-87.7	3	
+1559	10/16/23	Fort Morgan	AL	30.2	-88	6	
+1560	10/16/23	Broken Arrow	OK	36.1	-95.7	1	
+1561	10/16/23	Pensacola	FL	30.5	-87.4	1	
+1562	10/16/23	Goodnight	MO	37.4	-93.2	1	
+1563	10/16/23	Springfield	MO	37.2	-93.3	1	
+1564	10/16/23	Tulsa	OK	36.1	-96	1	
+1565	10/16/23	San Rodrigo	COA	28.8	-101.3	100	
+1566	10/16/23	Port O'Connor	TX	28.5	-96.4	1	
+1567	10/16/23	Franklin Township	NJ	40.5	-74.5	1	
+1568	10/16/23	Charleston	SC	32.7	-80	8	
+1569	10/16/23	Morro Bay	CA	35.4	-120.8	2	
+1570	10/16/23	Pensacola	FL	30.5	-87.4	1	
+1571	10/16/23	Calera	OK	33.9	-96.4	2	
+1572	10/16/23	Monticello	KY	36.8	-84.9	1	
+1573	10/16/23	Pass Christian	MS	30.4	-89.3	1	
+1574	10/16/23	Wildwood	NJ	38.9	-75	29	
+1575	10/16/23	Ramona	CA	33	-116.8	1	
+1576	10/16/23	Dallas	TX	32.9	-96.7	2	
+1577	10/16/23	Warner Robins	GA	32.5	-83.7	8	
+1578	10/16/23	Rockaway Township	NJ	40.9	-74.5	0	
+1579	10/16/23	Mcveytown	PA	40.5	-77.8	0	
+1580	10/16/23	Media	PA	39.9	-75.4	0	
+1581	10/16/23	New Ringgold	PA	40.6	-76	2	
+1582	10/15/23	Perry	GA	32.4	-83.6	8	
+1583	10/15/23	Mcveytown	PA	40.5	-77.8	2	
+1584	10/15/23	New Ringgold	PA	40.6	-76	2	
+1585	10/15/23	Frisco	TX	33.1	-96.8	3	
+1586	10/15/23	Cape San Blas	FL	29.7	-85.4	2	
+1587	10/15/23	Port Lavaca	TX	28.6	-96.6	1	
+1588	10/15/23	Worthing	TX	29.4	-97	2	
+1589	10/15/23	Little Egg Harbor Township	NJ	39.6	-74.4	2	
+1590	10/15/23	Centreville	VA	38.8	-77.4	1	
+1591	10/15/23	Lombard	IL	41.9	-88	1	
+1592	10/15/23	Gause	TX	30.7	-96.7	2	
+1593	10/15/23	Point Clear	AL	30.5	-87.9	30	
+1594	10/15/23	Lower Grand Lagoon	FL	30.1	-85.7	2	
+1595	10/15/23	Houston	TX	29.7	-95.4	1	
+1596	10/15/23	Bellevue	IA	42.3	-90.4	1	
+1597	10/15/23	Martindale	TX	29.8	-97.8	2	
+1598	10/15/23	Westport	MA	41.5	-71	1	
+1599	10/15/23	Blackfoot	ID	43.2	-112.3	1	
+1600	10/15/23	Bellevue	NE	41.2	-95.9	1	
+1601	10/15/23	Killeen	TX	31	-97.8	1	
+1602	10/15/23	Prescott Valley	AZ	34.6	-112.2	1	
+1603	10/15/23	New Caney	TX	30.2	-95.2	1	
+1604	10/15/23	New Caney	TX	30.2	-95.2	1	
+1605	10/15/23	New Caney	TX	30.2	-95.2	1	
+1606	10/15/23	New Caney	TX	30.2	-95.2	1	
+1607	10/15/23	New Caney	TX	30.2	-95.2	1	
+1608	10/15/23	New Caney	TX	30.2	-95.2	1	
+1609	10/15/23	New Caney	TX	30.2	-95.2	1	
+1610	10/15/23	Magnolia	TX	30.2	-95.8	1	
+1611	10/15/23	West Bishop	CA	37.3	-118.4	2	
+1612	10/15/23	Bryan	TX	30.8	-96.3	3	
+1613	10/15/23	Morning Star	VA	38.6	-78.4	1	
+1614	10/15/23	Dallas	TX	32.8	-96.7	1	
+1615	10/15/23	Dallas	TX	32.8	-96.7	1	
+1616	10/15/23	Fairmont	WV	39.5	-80.2	1	
+1617	10/15/23	Calera	OK	33.9	-96.4	2	
+1618	10/15/23	Cape May	NJ	38.9	-74.9	39	
+1619	10/15/23	Hutto	TX	30.5	-97.6	1	
+1620	10/15/23	Covington	LA	30.5	-90.1	2	
+1621	10/15/23	New London	NH	43.4	-72	1	
+1622	10/15/23	Santee	SC	33.5	-80.5	15	
+1623	10/15/23	Ramona	CA	33	-116.8	2	
+1624	10/15/23	Dallas	TX	32.9	-96.7	4	
+1625	10/14/23	Stearns	KY	36.8	-84.6	1	
+1626	10/14/23	Melbourne	FL	28.1	-80.7	1	
+1627	10/14/23	Greenback	TN	35.7	-84.2	1	
+1628	10/14/23	Conyers	GA	33.6	-84	1	
+1629	10/14/23	Harriman	TN	35.9	-84.5	1	
+1630	10/14/23	Palmarejo	PR	18.3	-66.3	1	
+1631	10/14/23	Gatesville	TX	31.4	-97.7	2	
+1632	10/14/23	Krum	TX	33.2	-97.3	8	
+1633	10/14/23	Fayetteville	GA	33.4	-84.5	3	
+1634	10/14/23	Gause	TX	30.7	-96.7	1	
+1635	10/14/23	Ooltewah	TN	35.1	-85.1	1	
+1636	10/14/23	Concord	CA	38	-122	1	
+1637	10/14/23	Tucson	AZ	32.2	-110.8	1	
+1638	10/14/23	Alamo	NV	37.3	-115.1	1	
+1639	10/14/23	Salisbury	NC	35.6	-80.5	2	
+1640	10/14/23	Fort Worth	TX	32.9	-97.3	1	
+1641	10/14/23	La Porte	TX	29.7	-95	1	
+1642	10/14/23	Daphne	AL	30.6	-87.9	49	
+1643	10/14/23	Sandy Springs	GA	34	-84.3	1	
+1644	10/14/23	Sandy Springs	GA	33.9	-84.4	1	
+1645	10/14/23	Trophy Club	TX	33	-97.2	3	
+1646	10/14/23	Surprise	AZ	33.6	-112.4	1	
+1647	10/14/23	Lufkin	TX	31.3	-94.8	1	
+1648	10/14/23	Talking Rock	GA	34.6	-84.5	6	
+1649	10/14/23	Walland	TN	35.8	-83.8	2	
+1650	10/14/23	Cedar Bluff	AL	34.3	-85.7	2	
+1651	10/14/23	Dalton	GA	34.8	-85	1	
+1652	10/14/23	Hayward	CA	37.6	-122.1	2	
+1653	10/14/23	Beeville	TX	28.4	-97.7	12	
+1654	10/14/23	Little Egg Harbor Township	NJ	39.6	-74.4	1	
+1655	10/14/23	Fletcher	NC	35.4	-82.5	1	
+1656	10/14/23	Bronaugh	MO	37.7	-94.4	2	
+1657	10/14/23	Mt. Juliet	TN	36.2	-86.5	1	
+1658	10/14/23	Mt. Juliet	TN	36.2	-86.5	2	
+1659	10/14/23	Hillsboro	TN	35.4	-86	1	
+1660	10/14/23	Folsom	CA	38.7	-121.2	1	
+1661	10/14/23	Campobello	SC	35.1	-82.2	4	
+1662	10/14/23	Port St. Lucie	FL	27.2	-80.4	2	
+1663	10/14/23	Richardson	TX	33	-96.7	1	
+1664	10/14/23	Calera	OK	33.9	-96.4	7	
+1665	10/14/23	Cape Charles	VA	37.3	-76	1	
+1666	10/14/23	Cape Charles	VA	37.3	-76	1	
+1667	10/14/23	Sausalito	CA	37.9	-122.5	5	
+1668	10/14/23	Nashville	NC	36	-78.1	1	
+1669	10/14/23	Dallas	TX	32.9	-96.7	6	
+1670	10/14/23	New Ringgold	PA	40.6	-76	0	
+1671	10/13/23	Mcveytown	PA	40.5	-77.8	1	
+1672	10/13/23	Media	PA	39.9	-75.4	1	
+1673	10/13/23	New Ringgold	PA	40.6	-76	2	
+1674	10/13/23	Davidson	NC	35.5	-80.8	1	
+1675	10/13/23	Asheville	NC	35.6	-82.6	1	
+1676	10/13/23	Pancoastburg	OH	39.6	-83.3	9	
+1677	10/13/23	Plano	TX	33.1	-96.8	7	
+1678	10/13/23	Plano	TX	33.1	-96.8	2	
+1679	10/13/23	Menard	TX	30.9	-99.8	40	
+1680	10/13/23	Rockport	TX	28	-97.1	1	
+1681	10/13/23	Tulsa	OK	36.1	-96	1	
+1682	10/13/23	Whitney	TX	31.9	-97.3	2	
+1683	10/13/23	Granby	MA	42.3	-72.5	5	
+1684	10/13/23	Fairborn	OH	39.8	-84	1	
+1685	10/13/23	McKinney	TX	33.1	-96.6	8	
+1686	10/13/23	Newburgh	IN	37.9	-87.4	4	
+1687	10/13/23	Killeen	TX	31.1	-97.7	1	
+1688	10/13/23	Mooresville	NC	35.6	-80.9	1	
+1689	10/13/23	Lampasas	TX	31.1	-98.2	1	
+1690	10/13/23	Mt Sidney	VA	38.3	-79	1	
+1691	10/13/23	Chatham	ON	42.4	-82.2	1	
+1692	10/13/23	Salisbury	NC	35.6	-80.5	2	
+1693	10/13/23	Los Angeles	CA	34.1	-118.3	1	
+1694	10/13/23	Newburgh	IN	37.9	-87.4	4	
+1695	10/13/23	Stafford Township	NJ	39.7	-74.3	1	
+1696	10/13/23	Lenexa	KS	38.9	-94.7	1	
+1697	10/13/23	Lusby	MD	38.3	-76.4	2	
+1698	10/13/23	Fairborn	OH	39.8	-84	1	
+1699	10/13/23	Houston	TX	29.8	-95.4	1	
+1700	10/13/23	Flower Mound	TX	33	-97.1	4	
+1701	10/13/23	Denton	TX	33.2	-97.1	3	
+1702	10/13/23	Temple	TX	31.1	-97.4	1	
+1703	10/13/23	Cookville	TX	33.2	-94.8	2	
+1704	10/13/23	Fort Worth	TX	32.8	-97.3	6	
+1705	10/13/23	Cape Charles	VA	37.3	-76	1	
+1706	10/13/23	Arlington	TX	32.6	-97.1	1	
+1707	10/13/23	Arlington	TX	32.6	-97.1	1	
+1708	10/13/23	Newburgh	IN	37.9	-87.4	1	
+1709	10/13/23	Alvin	TX	29.4	-95.2	1	
+1710	10/13/23	Palmarejo	PR	18.3	-66.3	1	
+1711	10/13/23	Archbald	PA	41.5	-75.6	1	
+1712	10/13/23	Concord	CA	38	-122	1	
+1713	10/13/23	Conroe	TX	30.3	-95.5	1	
+1714	10/13/23	Greenwood	IN	39.6	-86.2	2	
+1715	10/13/23	Iowa City	IA	41.7	-91.5	1	
+1716	10/13/23	Edwardsville	IL	38.8	-90	2	
+1717	10/13/23	North Topsail Beach	NC	34.6	-77.3	1	
+1718	10/13/23	Evansville	IN	38.1	-87.5	1	
+1719	10/13/23	Garrettsville	OH	41.3	-81.1	1	
+1720	10/13/23	Savannah	GA	32.1	-81.1	3	
+1721	10/13/23	Savannah	GA	32.1	-81.1	3	
+1722	10/13/23	Hartford	CT	41.8	-72.7	1	
+1723	10/13/23	London	TX	30.7	-99.7	10	
+1724	10/13/23	Plainfield	IN	39.7	-86.4	1	
+1725	10/13/23	Circle D-KC Estates	TX	30.1	-97.2	2	
+1726	10/13/23	Dallas	TX	32.9	-96.8	1	
+1727	10/13/23	Petoskey	MI	45.3	-85	1	
+1728	10/13/23	Mansfield	TX	32.6	-97.1	1	
+1729	10/13/23	Mansfield	TX	32.6	-97.1	1	
+1730	10/13/23	Calera	OK	33.9	-96.4	8	
+1731	10/13/23	Cape May Point	NJ	38.9	-75	25	
+1732	10/13/23	Hutto	TX	30.5	-97.6	1	
+1733	10/13/23	Mansfield	TX	32.6	-97.1	1	
+1734	10/13/23	Mansfield	TX	32.6	-97.1	1	
+1735	10/13/23	Point Clear	AL	30.5	-87.9	150	
+1736	10/13/23	Laguna	AZ	32.8	-114.5	1	
+1737	10/13/23	Black Canyon	AZ	34.2	-112.1	8	
+1738	10/13/23	Dallas	TX	32.9	-96.7	22	
+1739	10/13/23	Hanksville	UT	38.4	-110.3	1	
+1740	10/12/23	Winchester	KY	38	-84.2	1	
+1741	10/12/23	Granby	MA	42.3	-72.5	5	
+1742	10/12/23	Jericho	VT	44.5	-73	1	
+1743	10/12/23	Durham	CT	41.5	-72.7	1	
+1744	10/12/23	Chelsea	OK	36.5	-95.4	1	
+1745	10/12/23	Richmond	KY	37.8	-84.3	1	
+1746	10/12/23	Clinton Twp	MI	42.6	-83	1	
+1747	10/12/23	Glasgow	WV	38.2	-81.4	5	
+1748	10/12/23	Shrewsbury	NJ	40.3	-74	2	
+1749	10/12/23	Shrewsbury	NJ	40.3	-74	3	
+1750	10/12/23	Palmarejo	PR	18.3	-66.3	1	
+1751	10/12/23	Centreville	MD	39.1	-76.1	1	
+1752	10/12/23	Clifton Park	NY	42.9	-73.7	1	
+1753	10/12/23	Winthrop	MA	42.4	-71	2	
+1754	10/12/23	Winthrop	MA	42.4	-71	2	
+1755	10/12/23	Smithfield	PA	39.8	-79.8	1	
+1756	10/12/23	Roanoke	VA	37.3	-80	2	
+1757	10/12/23	West Palm Beach	FL	26.8	-80	2	
+1758	10/12/23	Newburgh	IN	37.9	-87.4	2	
+1759	10/12/23	Falls Church	VA	38.9	-77.2	1	
+1760	10/12/23	Seymour	TN	35.9	-83.7	1	
+1761	10/12/23	Toms River	NJ	40	-74.2	6	
+1762	10/12/23	Broken Arrow	OK	36.1	-95.7	1	
+1763	10/12/23	Avondale	AZ	33.3	-112.3	2	
+1764	10/12/23	Berkeley Springs	WV	39.5	-78.3	1	
+1765	10/12/23	Stafford Township	NJ	39.7	-74.3	1	
+1766	10/12/23	Plattsburg	MO	39.6	-94.4	1	
+1767	10/12/23	Urbana	IL	40.1	-88.2	1	
+1768	10/12/23	Oilville	VA	37.7	-77.8	1	
+1769	10/12/23	Mississauga	ON	43.6	-79.6	1	
+1770	10/12/23	Schenectady	NY	42.8	-73.8	1	
+1771	10/12/23	Watervliet	NY	42.8	-73.7	1	
+1772	10/12/23	Weimar	TX	29.7	-96.8	1	
+1773	10/12/23	Olathe	KS	38.9	-94.9	3	
+1774	10/12/23	Springfield	IL	39.8	-89.8	3	
+1775	10/12/23	Highlands	NJ	40.4	-74	1	
+1776	10/12/23	Oklahoma City	OK	35.6	-97.6	1	
+1777	10/12/23	Corpus Christi	TX	27.8	-97.4	1	
+1778	10/12/23	Paducah	KY	37.1	-88.7	1	
+1779	10/12/23	Cottonwood	AZ	34.7	-112.1	1	
+1780	10/12/23	Ponca City	OK	36.7	-97.1	3	
+1781	10/12/23	Groton	CT	41.3	-72	1	
+1782	10/12/23	Fort Worth	TX	32.8	-97.3	6	
+1783	10/12/23	Eastland	TX	32.4	-98.7	2	
+1784	10/12/23	Franklin Township	NJ	40.5	-74.5	1	
+1785	10/12/23	Danville	VA	36.7	-79.5	1	
+1786	10/12/23	Avalon	NJ	39.1	-74.7	3	
+1787	10/12/23	Greenwood	IN	39.6	-86.2	2	
+1788	10/12/23	Waynesville	OH	39.5	-84.1	4	
+1789	10/12/23	Waynesboro	PA	39.8	-77.6	1	
+1790	10/12/23	Shiloh	IL	38.6	-89.9	1	
+1791	10/12/23	Republic	MO	37.1	-93.5	1	
+1792	10/12/23	Bloomburg	TX	33.1	-94	1	
+1793	10/12/23	Burlington	ON	43.4	-79.8	1	
+1794	10/12/23	Chatham	MA	41.7	-70	1	
+1795	10/12/23	Bryan	TX	30.8	-96.3	1	
+1796	10/12/23	Mt Sidney	VA	38.3	-79	1	
+1797	10/12/23	Dallas	TX	32.9	-96.7	7	
+1798	10/12/23	Ludington	MI	44	-86.5	1	
+1799	10/12/23	Whitesand	TN	36	-82.8	1	
+1800	10/12/23	Madison	WI	43.1	-89.4	1	
+1801	10/12/23	SF	CA	37.8	-122.4	3	
+1802	10/12/23	Edwardsville	IL	38.8	-90	4	
+1803	10/12/23	Crabapple	TX	30.5	-98.8	4	
+1804	10/12/23	Chatsworth	IL	40.8	-88.3	1	
+1805	10/12/23	Calera	OK	33.9	-96.4	2	
+1806	10/12/23	Tyler	TX	32.5	-95.3	1	
+1807	10/12/23	Scottsville	VA	37.8	-78.5	1	
+1808	10/12/23	Ramona	CA	33	-116.8	2	
+1809	10/12/23	Ramona	CA	33	-116.8	2	
+1810	10/12/23	Washington Court House	OH	39.5	-83.4	1	
+1811	10/12/23		UT	38.4	-110.3	1	
+1812	10/12/23	Mcveytown	PA	40.5	-77.8	2	
+1813	10/11/23	New Ringgold	PA	40.6	-76	2	
+1814	10/11/23	Fayetteville	AR	36.1	-94.1	1	
+1815	10/11/23	Phoenixville	PA	40.2	-75.6	1	
+1816	10/11/23	West Palm Beach	FL	26.8	-80	1	
+1817	10/11/23	Palmarejo	PR	18.3	-66.3	1	
+1818	10/11/23	Cleveland	OH	41.5	-81.7	1	
+1819	10/11/23	Mansfield	OH	40.8	-82.4	2	
+1820	10/11/23	Toronto	ON	43.6	-79.5	1	
+1821	10/11/23	Campobello	SC	35.1	-82.2	1	
+1822	10/11/23	Naperville	IL	41.8	-88.2	1	
+1823	10/11/23	Woodstock	GA	34.1	-84.5	1	
+1824	10/11/23	Smithfield	PA	39.8	-79.8	1	
+1825	10/11/23	Seven Hills	OH	41.4	-81.7	1	
+1826	10/11/23	Brecksville	OH	41.3	-81.6	1	
+1827	10/11/23	Provincetown	MA	42	-70.1	1	
+1828	10/11/23	Campobello	SC	35.1	-82.2	1	
+1829	10/11/23	Dallas	TX	32.8	-96.8	1	
+1830	10/11/23	Reston	VA	39	-77.4	2	
+1831	10/11/23	Canton	OH	40.9	-81.4	1	
+1832	10/11/23	Sea Girt	NJ	40.1	-74.1	1	
+1833	10/11/23	Shaker Heights	OH	41.5	-81.5	1	
+1834	10/11/23	St. Louis	MO	38.7	-90.5	2	
+1835	10/11/23	Greenville	SC	34.9	-82.3	2	
+1836	10/11/23	Berkeley Springs	WV	39.6	-78.2	1	
+1837	10/11/23	Baroda	MI	42	-86.5	1	
+1838	10/11/23	Welland	ON	43	-79.2	1	
+1839	10/11/23	Stonington	CT	41.4	-72	1	
+1840	10/11/23	Leamington	ON	42	-82.6	1	
+1841	10/11/23	Bellville	OH	40.6	-82.5	1	
+1842	10/11/23	Leamington	ON	42	-82.6	1	
+1843	10/11/23	Phoenix	AZ	33.5	-112	1	
+1844	10/11/23	Barnegat Township	NJ	39.8	-74.3	1	
+1845	10/11/23	Yonkers	NY	40.9	-73.9	2	
+1846	10/11/23	Brick Township	NJ	40.1	-74.1	1	
+1847	10/11/23	Millsboro	DE	38.6	-75.3	1	
+1848	10/11/23	Frankfort	KY	38.2	-84.8	1	
+1849	10/11/23	Lusby	MD	38.4	-76.5	1	
+1850	10/11/23	Farmington	MO	37.7	-90.4	1	
+1851	10/11/23	Brunswick	OH	41.2	-81.8	7	
+1852	10/11/23	Pekin	IL	40.6	-89.6	1	
+1853	10/11/23	Toronto	ON	43.6	-79.5	3	
+1854	10/11/23	Toronto	ON	43.6	-79.5	3	
+1855	10/11/23	Falmouth	MA	41.6	-70.6	1	
+1856	10/11/23	McKinney	TX	33.2	-96.7	6	
+1857	10/11/23	Tuttle	OK	35.3	-97.7	4	
+1858	10/11/23	Florence	IN	38.8	-84.9	4	
+1859	10/11/23	Burlington	WI	42.7	-88.2	1	
+1860	10/11/23	Hackensack	NJ	40.9	-74	1	
+1861	10/11/23	Tybee Island	GA	32	-80.8	3	
+1862	10/11/23	Bartlett	IL	42	-88.2	1	
+1863	10/11/23	Bloomingdale	NJ	41	-74.3	2	
+1864	10/11/23	Travelers Rest	SC	35	-82.4	1	
+1865	10/11/23	St. Louis	MO	38.6	-90.3	1	
+1866	10/11/23	Ponca City	OK	36.7	-97.1	5	
+1867	10/11/23	Canal Fulton	OH	40.9	-81.6	1	
+1868	10/11/23	Guilford	CT	41.3	-72.7	5	
+1869	10/11/23	KCMO	MO	39.2	-94.5	1	
+1870	10/11/23	Hale	MI	44.3	-83.9	1	
+1871	10/11/23	Bloomfield	NJ	40.8	-74.2	4	
+1872	10/11/23	Southgate	MI	42.2	-83.2	4	
+1873	10/11/23	Mt Pleasant	TX	33.2	-95	2	
+1874	10/11/23	Flower Mound	TX	33	-97.1	1	
+1875	10/11/23	Grapevine	TX	33	-97	1	
+1876	10/11/23	Conneaut	OH	41.9	-80.7	2	
+1877	10/11/23	Rolling Meadows	IL	42.1	-88	1	
+1878	10/11/23	Franklin Township	NJ	40.5	-74.5	1	
+1879	10/11/23	Cincinnati	OH	39.1	-84.4	1	
+1880	10/11/23	Wappingers Falls	NY	41.5	-74	2	
+1881	10/11/23	Dixon Lane-Meadow Creek	CA	37.4	-118.5	2	
+1882	10/11/23	Cincinnati	OH	39.1	-84.4	1	
+1883	10/11/23	Stuyvesant	NY	42.4	-73.7	3	
+1884	10/11/23	Independence	CA	36.9	-118.2	1	
+1885	10/11/23	Wauwatosa	WI	43	-88.1	1	
+1886	10/11/23	Woodland	CA	38.7	-121.8	1	
+1887	10/11/23	Oswego	IL	41.7	-88.4	3	
+1888	10/11/23	Toronto	ON	43.7	-79.4	1	
+1889	10/11/23	Greenwood	IN	39.6	-86.2	2	
+1890	10/11/23	Greenwood	IN	39.6	-86.2	2	
+1891	10/11/23	Cincinnati	OH	39	-84.3	1	
+1892	10/11/23	Lexington	KY	38	-84.5	1	
+1893	10/11/23	Oilville	VA	37.7	-77.8	1	
+1894	10/11/23	Arden	NC	35.5	-82.6	1	
+1895	10/11/23	Van Buren	OH	41.1	-83.6	1	
+1896	10/11/23	Newburgh	IN	37.9	-87.4	2	
+1897	10/11/23	Dallas	TX	32.9	-96.7	18	
+1898	10/11/23	La Quinta	CA	33.7	-116.3	3	
+1899	10/11/23	Plattsburg	MO	39.6	-94.4	1	
+1900	10/11/23	Castroville	CA	36.8	-121.7	1	
+1901	10/11/23	Norton	OH	41	-81.7	1	
+1902	10/11/23	Shiner	TX	29.5	-97.1	1	
+1903	10/11/23	Flowella	TX	27.2	-98	2	
+1904	10/11/23	Willmar	MN	45.1	-95.1	1	
+1905	10/11/23	Krum	TX	33.2	-97.3	8	
+1906	10/11/23	Dayton	OH	39.6	-84.1	1	
+1907	10/11/23	Omaha	NE	41.2	-96.2	1	
+1908	10/11/23	La Mesa	CA	32.8	-117	1	
+1909	10/11/23	Norton	OH	41	-81.7	1	
+1910	10/11/23	Lakewood	OH	41.5	-81.8	2	
+1911	10/11/23	Middleton	MA	42.6	-71	1	
+1912	10/11/23	Hermosa Beach	CA	33.9	-118.4	2	
+1913	10/11/23	East Windsor	NJ	40.3	-74.6	5	
+1914	10/11/23	Petoskey	MI	45.3	-85	1	
+1915	10/11/23	Calera	OK	33.9	-96.4	7	
+1916	10/11/23	Woodstock	ON	43.2	-80.7	1	
+1917	10/11/23	Mt Shasta	CA	41.4	-122.2	1	
+1918	10/11/23	Cincinnati	OH	39.1	-84.4	1	
+1919	10/10/23	Glenpool	OK	36	-96	2	
+1920	10/10/23	Birmingham	AL	33.5	-86.8	1	
+1921	10/10/23	Palmarejo	PR	18.3	-66.3	1	
+1922	10/10/23	Briarcliff Manor	NY	41.1	-73.9	1	
+1923	10/10/23	Plano	TX	33	-96.8	14	
+1924	10/10/23	Hampton	VA	37	-76.3	1	
+1925	10/10/23	Plano	TX	33	-96.8	1	
+1926	10/10/23	Savannah	GA	31.9	-81.1	1	
+1927	10/10/23	Springfield	MO	37.2	-93.3	1	
+1928	10/10/23	Dallas	TX	32.8	-96.8	7	
+1929	10/10/23	Blanchard	OK	35.2	-97.7	1	
+1930	10/10/23	Toronto	ON	43.6	-79.5	1	
+1931	10/10/23	Binghamton	NY	42.1	-75.9	1	
+1932	10/10/23	Dallas	TX	32.9	-96.8	2	
+1933	10/10/23	El Reno	OK	35.5	-98	2	
+1934	10/10/23	Wheeling	WV	40	-80.7	1	
+1935	10/10/23	Millsboro	DE	38.6	-75.3	1	
+1936	10/10/23	York	PA	39.9	-76.7	1	
+1937	10/10/23	Newburgh	IN	37.9	-87.4	2	
+1938	10/10/23	Sycamore	IL	42	-88.7	1	
+1939	10/10/23	Mooresville	NC	35.6	-80.8	1	
+1940	10/10/23	Louisville	KY	38.1	-85.7	1	
+1941	10/10/23	Plano	TX	33.1	-96.8	4	
+1942	10/10/23	Blackfoot	ID	43.2	-112.3	1	
+1943	10/10/23	Dallas	TX	32.8	-96.8	10	
+1944	10/10/23	Springfield	MO	37.2	-93.3	8	
+1945	10/10/23	Oilville	VA	37.7	-77.8	1	
+1946	10/10/23	Flower Mound	TX	33	-97.1	4	
+1947	10/10/23	Asheville	NC	35.6	-82.5	1	
+1948	10/10/23	Omaha	NE	41.3	-95.9	1	
+1949	10/10/23	Bernardsville	NJ	40.7	-74.6	1	
+1950	10/10/23	Yonkers	NY	40.9	-73.9	1	
+1951	10/10/23	Honea Path	SC	34.5	-82.4	2	
+1952	10/10/23	Hackensack	NJ	40.9	-74	1	
+1953	10/10/23	Munster	IN	41.6	-87.5	4	
+1954	10/10/23	Terre Haute	IN	39.5	-87.3	1	
+1955	10/10/23	Norman	OK	35.3	-97.5	3	
+1956	10/10/23	Richardson	TX	33	-96.7	1	
+1957	10/10/23	Mooresville	NC	35.6	-80.9	2	
+1958	10/10/23	Plainview	TX	34.2	-101.7	5	
+1959	10/10/23	Sand Springs	OK	36.1	-96.3	5	
+1960	10/10/23	Hillsboro	MO	38.2	-90.6	3	
+1961	10/10/23	Fort Worth	TX	32.9	-97.2	4	
+1962	10/10/23	Waltham	IL	41.4	-89	1	
+1963	10/10/23	Anderson	SC	34.5	-82.8	3	
+1964	10/10/23	Brunswick	OH	41.2	-81.8	2	
+1965	10/10/23	Granby	MA	42.3	-72.5	5	
+1966	10/10/23	Goldsboro	PA	40.2	-76.8	1	
+1967	10/10/23	Fort Worth	TX	32.8	-97.3	6	
+1968	10/10/23	Ashland	KY	38.4	-82.6	3	
+1969	10/10/23	Chelsea	OK	36.5	-95.4	1	
+1970	10/10/23	Millfield	OH	39.4	-82.1	2	
+1971	10/10/23	Franklin Township	NJ	40.5	-74.5	2	
+1972	10/10/23	Armilda	WV	38.2	-82.4	4	
+1973	10/10/23	Louisville	KY	38.1	-85.6	2	
+1974	10/10/23	Norman	OK	35.2	-97.5	1	
+1975	10/10/23	Kirkwood	MO	38.6	-90.4	6	
+1976	10/10/23	Wernersville	PA	40.3	-76.1	1	
+1977	10/10/23	Pittsburgh	PA	40.4	-79.9	1	
+1978	10/10/23	Poplar Bluff	MO	36.8	-90.4	1	
+1979	10/10/23	West Palm Beach	FL	26.8	-80	1	
+1980	10/10/23	Mesquite	TX	32.8	-96.6	6	
+1981	10/10/23	Berkeley Springs	WV	39.6	-78.2	1	
+1982	10/10/23	Castell	TX	30.7	-99	1	
+1983	10/10/23	Stuyvesant	NY	42.4	-73.8	1	
+1984	10/10/23	Toronto	ON	43.6	-79.4	2	
+1985	10/10/23	Jamestown	VA	37.2	-76.8	5	
+1986	10/10/23	Prosper	TX	33.2	-96.8	4	
+1987	10/10/23	Choctaw	OK	35.4	-97.3	2	
+1988	10/10/23	McKinney	TX	33.2	-96.6	3	
+1989	10/10/23	Shields	IN	38.9	-86	2	
+1990	10/10/23	Horseshoe Bay	TX	30.5	-98.4	1	
+1991	10/10/23	Monmouth Beach	NJ	40.3	-74	1	
+1992	10/10/23	Glenpool	OK	35.9	-96	1	
+1993	10/10/23	High Point	NC	36	-80	1	
+1994	10/10/23	Arlington Heights	IL	42.1	-88	1	
+1995	10/10/23	Greer	SC	34.9	-82.2	3	
+1996	10/10/23	Clayton	NC	35.6	-78.5	1	
+1997	10/10/23	Miramar	FL	26	-80.4	8	
+1998	10/10/23	Boyertown	PA	40.4	-75.6	3	
+1999	10/10/23	Dallas	TX	32.9	-96.8	1	
+2000	10/10/23	Tanner	AL	34.7	-87	1	
+2001	10/10/23	De Witt	NE	40.4	-96.9	1	
+2002	10/10/23	Whitby	ON	43.9	-79	1	
+2003	10/10/23	Dallas	TX	32.8	-96.7	5	
+2004	10/10/23	Millsboro	DE	38.6	-75.2	2	
+2005	10/10/23	York	PA	39.9	-76.7	1	
+2006	10/10/23	Cincinnati	OH	39.2	-84.4	1	
+2007	10/10/23	Arden	NC	35.5	-82.6	1	
+2008	10/10/23	Frederick	MD	39.4	-77.4	1	
+2009	10/10/23	Lady Lake	FL	28.9	-81.9	1	
+2010	10/10/23	Plattsburg	MO	39.6	-94.4	1	
+2011	10/10/23	Fort Morgan	AL	30.2	-88	1	
+2012	10/10/23	Woodstock	GA	34.2	-84.4	1	
+2013	10/10/23	Ball Ground	GA	34.4	-84.3	75	
+2014	10/10/23	Webb City	MO	37.2	-94.5	5	
+2015	10/10/23	Tulsa	OK	36.1	-96	2	
+2016	10/10/23	Reston	VA	39	-77.4	2	
+2017	10/10/23	Little Egg Harbor Township	NJ	39.6	-74.4	3	
+2018	10/10/23	Monticello	KY	36.8	-84.8	1	
+2019	10/10/23	Stearns	KY	36.8	-84.6	1	
+2020	10/10/23	Stroudsburg	PA	41	-75.2	1	
+2021	10/10/23	Choctaw	OK	35.4	-97.3	2	
+2022	10/10/23	Norman	OK	35.2	-97.5	1	
+2023	10/10/23	Tulsa	OK	36	-95.9	1	
+2024	10/10/23	Norwood	NC	35.2	-80.1	1	
+2025	10/10/23	Arlington	TX	32.6	-97.1	1	
+2026	10/10/23	Arlington	TX	32.6	-97.1	1	
+2027	10/10/23	Ramona	CA	33	-116.8	1	
+2028	10/10/23	Del Rio	TX	29.5	-100.9	1	
+2029	10/10/23	Dallas	TX	32.9	-96.7	29	
+2030	10/10/23	Tucson	AZ	32.2	-111.2	1	
+2031	10/10/23	Amherstburg	ON	42	-83	1	
+2032	10/09/23	Amherstburg	ON	42	-83	2	
+2033	10/09/23	Rockaway Township	NJ	40.9	-74.5	0	
+2034	10/09/23	Temperance	MI	41.7	-83.6	1	
+2035	10/09/23	Annapolis	MD	39	-76.4	5	
+2036	10/09/23	Lexington	NC	35.7	-80.3	1	
+2037	10/09/23	Ponca City	OK	36.7	-97.1	1	
+2038	10/09/23	Plano	TX	33.1	-96.8	3	
+2039	10/09/23	Cibolo	TX	29.6	-98.2	1	
+2040	10/09/23	Chapel Hill	NC	35.9	-79	1	
+2041	10/09/23	Dallas	TX	32.8	-96.9	1	
+2042	10/09/23	Litchfield Park	AZ	33.5	-112.5	1	
+2043	10/09/23	Dallas	TX	32.8	-96.9	2	
+2044	10/09/23	Palmarejo	PR	18.3	-66.3	1	
+2045	10/09/23	Rockwall	TX	32.9	-96.5	1	
+2046	10/09/23	Newbury	VT	44.1	-72.1	1	
+2047	10/09/23	Bel Air	MD	39.5	-76.3	1	
+2048	10/09/23	Campobello	SC	35.1	-82.2	1	
+2049	10/09/23	Fort Worth	TX	32.8	-97.3	5	
+2050	10/09/23	Waco	TX	31.6	-97.2	1	
+2051	10/09/23	Plano	TX	33	-96.8	6	
+2052	10/09/23	Buena	NJ	39.5	-74.9	3	
+2053	10/09/23	Fairfield	CT	41.2	-73.2	2	
+2054	10/09/23	Fort Worth	TX	32.8	-97.3	4	
+2055	10/09/23	Dallas	TX	32.8	-96.8	6	
+2056	10/09/23	Murfreesboro	TN	35.9	-86.4	2	
+2057	10/09/23	Ashland	KY	38.4	-82.6	3	
+2058	10/09/23	Tipton	OK	34.5	-99.1	3	
+2059	10/09/23	Cumming	GA	34.1	-84.1	5	
+2060	10/09/23	Atlanta	GA	33.9	-84.2	1	
+2061	10/09/23	Chatham	ON	42.4	-82.2	1	
+2062	10/09/23	Plano	TX	33	-96.7	6	
+2063	10/09/23	Portales	NM	34.2	-103.3	1	
+2064	10/09/23	Fort Collins	CO	40.6	-105	1	
+2065	10/09/23	Chicago	IL	42	-87.7	1	
+2066	10/09/23	Fort Worth	TX	32.8	-97.3	2	
+2067	10/09/23	Dallas	TX	32.7	-96.8	8	
+2068	10/09/23	Warsaw	VA	38.1	-76.9	1	
+2069	10/09/23	Lewes	DE	38.7	-75.1	1	
+2070	10/09/23	Pecan Plantation	TX	32.3	-97.6	3	
+2071	10/09/23	Powhatan	VA	37.5	-77.8	1	
+2072	10/09/23	McKinney	TX	33.2	-96.7	3	
+2073	10/09/23	Fishers	IN	40	-85.9	1	
+2074	10/09/23	Mansfield	OH	40.8	-82.4	1	
+2075	10/09/23	Sauk Centre	MN	45.7	-95	1	
+2076	10/09/23	Merrick	NY	40.6	-73.5	7	
+2077	10/09/23	La Porte	IN	41.6	-86.7	4	
+2078	10/09/23	Fort Worth	TX	32.8	-97.3	10	
+2079	10/09/23	Phoenix	AZ	33.5	-112	1	
+2080	10/09/23	Woodstock	GA	34.1	-84.4	1	
+2081	10/09/23	Bristol	VA	36.6	-82.2	4	
+2082	10/09/23	Corinth	TX	33.1	-97.1	1	
+2083	10/09/23	Bloomfield	NJ	40.8	-74.2	4	
+2084	10/09/23	Urbandale	IA	41.6	-93.7	1	
+2085	10/09/23	Millsboro	DE	38.6	-75.3	1	
+2086	10/09/23	Richmond	VA	37.5	-77.4	1	
+2087	10/09/23	North Topsail Beach	NC	34.5	-77.3	1	
+2088	10/09/23	Jacksonville	NC	34.6	-77.3	1	
+2089	10/09/23	Yellow Springs	OH	39.8	-83.9	2	
+2090	10/09/23	Howe	OK	35	-94.6	2	
+2091	10/09/23	Charleston	SC	32.7	-80	20	
+2092	10/09/23	Rockport	TX	28	-97.1	1	
+2093	10/09/23	Seaforth	NC	35.7	-79	1	
+2094	10/09/23	Dallas	TX	32.9	-96.7	28	
+2095	10/09/23	Toronto	ON	43.6	-79.5	7	
+2096	10/09/23	Hackensack	NJ	40.9	-74	1	
+2097	10/09/23	Leonia	NJ	40.9	-74	1	
+2098	10/09/23	Norman	OK	35.2	-97.4	6	
+2099	10/09/23	Colleyville	TX	32.9	-97.2	2	
+2100	10/09/23	Hurst	TX	32.8	-97.2	3	
+2101	10/09/23	Southlake	TX	32.9	-97.2	1	
+2102	10/09/23	Keller	TX	32.9	-97.2	5	
+2103	10/09/23	Keller	TX	32.9	-97.2	2	
+2104	10/09/23	Easthampton	MA	42.3	-72.7	1	
+2105	10/09/23	Morro Bay	CA	35.4	-120.8	1	
+2106	10/09/23	Hedwigs Hill	TX	30.7	-99	5	
+2107	10/09/23	Pikesville	MD	39.4	-76.8	2	
+2108	10/09/23	Mason	TX	30.8	-99.2	25	
+2109	10/09/23	Harrisville	NH	42.9	-72.1	1	
+2110	10/09/23	La Cienega	NM	35.6	-106.1	1	
+2111	10/09/23	Columbia	MO	39	-92.1	1	
+2112	10/09/23	Clayton	NC	35.7	-78.4	1	
+2113	10/09/23	Herndon	VA	39	-77.4	3	
+2114	10/09/23	Rice	TX	32.2	-96.5	5	
+2115	10/09/23	Fruitland	IA	41.4	-91.1	4	
+2116	10/09/23	Petoskey	MI	45.3	-85	1	
+2117	10/09/23	Frederick	OK	34.4	-99	1	
+2118	10/09/23	West Point	IN	40.3	-87	1	
+2119	10/09/23	Mooresville	IN	39.6	-86.4	1	
+2120	10/08/23	High Point	NC	36	-80	1	
+2121	10/08/23	Tulsa	OK	36.2	-96	1	
+2122	10/08/23	Bainbridge	PA	40.1	-76.7	1	
+2123	10/08/23	Aberdeen Township	NJ	40.4	-74.2	1	
+2124	10/08/23	Dallas	TX	32.8	-96.7	10	
+2125	10/08/23	Waco	TX	31.6	-97.1	1	
+2126	10/08/23	Plano	TX	33	-96.8	12	
+2127	10/08/23	Lake Havasu City	AZ	34.5	-114.3	1	
+2128	10/08/23	Ullin	IL	37.3	-89.2	8	
+2129	10/08/23	Seymour	CT	41.4	-73.1	1	
+2130	10/08/23	Plano	TX	33.1	-96.8	3	
+2131	10/08/23	Lusby	MD	38.4	-76.4	5	
+2132	10/08/23	Lusby	MD	38.3	-76.4	1	
+2133	10/08/23	Broomfield	CO	39.9	-105.1	1	
+2134	10/08/23	Ozark	MO	37.1	-93.2	11	
+2135	10/08/23	Carrollton	TX	33	-96.9	1	
+2136	10/08/23	Carrollton	TX	33	-96.9	2	
+2137	10/08/23	Carrollton	TX	33	-96.9	1	
+2138	10/08/23	Carrollton	TX	33	-96.8	2	
+2139	10/08/23	Plano	TX	33	-96.8	2	
+2140	10/08/23	Carrollton	TX	33	-96.9	1	
+2141	10/08/23	Prosper	TX	33.2	-96.9	13	
+2142	10/08/23	Pilot Point	TX	33.3	-96.9	7	
+2143	10/08/23	Frisco	TX	33.1	-96.8	3	
+2144	10/08/23	Carrollton	TX	33	-96.9	4	
+2145	10/08/23	McKinney	TX	33.2	-96.7	11	
+2146	10/08/23	Martinez	GA	33.5	-82.1	4	
+2147	10/08/23	Dallas	TX	32.9	-96.8	2	
+2148	10/08/23	Palmarejo	PR	18.3	-66.3	1	
+2149	10/08/23	Teaneck	NJ	40.9	-74	1	
+2150	10/08/23	Holly Springs	NC	35.7	-78.8	2	
+2151	10/08/23	Atlanta	GA	33.9	-84.2	1	
+2152	10/08/23	Dallas	TX	32.8	-96.7	6	
+2153	10/08/23	Plano	TX	33.1	-96.8	7	
+2154	10/08/23	Greensboro	NC	36.1	-79.8	1	
+2155	10/08/23	Greenville	NC	35.6	-77.3	1	
+2156	10/08/23	Flower Mound	TX	33	-97.1	8	
+2157	10/08/23	Chatham	ON	42.4	-82.2	1	
+2158	10/08/23	Killeen	TX	31	-97.8	1	
+2159	10/08/23	Granby	MA	42.3	-72.5	6	
+2160	10/08/23	Rocky Mount	NC	36	-77.7	1	
+2161	10/08/23	Lenexa	KS	39	-94.7	1	
+2162	10/08/23	Menard	TX	30.7	-99.7	5	
+2163	10/08/23	Plano	TX	33	-96.8	1	
+2164	10/08/23	Woonsocket	RI	42	-71.5	1	
+2165	10/08/23	Forney	TX	32.7	-96.4	1	
+2166	10/08/23	Missouri City	TX	29.6	-95.6	1	
+2167	10/08/23	Richmond Hill	GA	31.9	-81.3	1	
+2168	10/08/23	Cookville	TX	33.2	-94.8	1	
+2169	10/08/23	Richmond	VA	37.6	-77.4	1	
+2170	10/08/23	Springfield	MO	37.2	-93.2	1	
+2171	10/08/23	Pickens	SC	35	-82.7	1	
+2172	10/08/23	Denver	IA	42.7	-92.3	1	
+2173	10/08/23	Allen	TX	33.1	-96.6	8	
+2174	10/08/23	St. Louis	MO	38.6	-90.3	1	
+2175	10/08/23	Williamsport	PA	41.2	-77.1	1	
+2176	10/08/23	Mansfield	OH	40.8	-82.4	1	
+2177	10/08/23	Fairview	TX	33.1	-96.6	17	
+2178	10/08/23	Cibolo	TX	29.6	-98.2	7	
+2179	10/08/23	Windsor Locks	CT	41.9	-72.6	1	
+2180	10/08/23	Sacramento	CA	38.6	-121.3	1	
+2181	10/08/23	Lexington	MI	43.3	-82.5	1	
+2182	10/08/23	Norman	OK	35.2	-97.5	4	
+2183	10/08/23	Ada	OK	34.8	-96.7	1	
+2184	10/08/23	Campobello	SC	35.1	-82.2	1	
+2185	10/08/23	Dodge Center	MN	44	-92.9	2	
+2186	10/08/23	Midlothian	VA	37.5	-77.7	1	
+2187	10/08/23	Davidson	NC	35.5	-80.8	1	
+2188	10/08/23	Arden	NC	35.5	-82.5	1	
+2189	10/08/23	North East	MD	39.6	-75.9	5	
+2190	10/08/23	Ozark	AR	35.4	-93.8	2	
+2191	10/08/23	Ozark	AR	35.4	-93.8	2	
+2192	10/08/23	Hartford	CT	41.8	-72.7	2	
+2193	10/08/23	Dallas	TX	32.9	-96.7	38	
+2194	10/08/23	Colleyville	TX	32.9	-97.2	3	
+2195	10/08/23	Hurst	TX	32.9	-97.2	1	
+2196	10/08/23	Hurst	TX	32.8	-97.2	1	
+2197	10/08/23	Ridgefield	CT	41.3	-73.5	2	
+2198	10/08/23	Lebanon	OH	39.4	-84.2	4	
+2199	10/08/23	Gardendale	TX	32	-102.4	15	
+2200	10/08/23	California	PA	40.1	-79.9	1	
+2201	10/08/23	Colcord	OK	36.2	-94.7	3	
+2202	10/08/23	Dayton	OH	39.6	-84.1	1	
+2203	10/08/23	Benicia	CA	38.1	-122.2	4	
+2204	10/08/23	Castle Valley	UT	38.7	-109.4	1	
+2205	10/08/23	Flat Rock	MI	42.1	-83.3	2	
+2206	10/08/23	Winston-Salem	NC	36.1	-80.2	1	
+2207	10/08/23	Evansville	IN	38.1	-87.5	1	
+2208	10/08/23	Bandera	TX	29.7	-99.1	1	
+2209	10/08/23	Mansfield	TX	32.6	-97.1	1	
+2210	10/08/23	Ramona	CA	33	-116.8	1	
+2211	10/08/23	Mcveytown	PA	40.5	-77.8	0	
+2212	10/08/23	Media	PA	39.9	-75.4	0	
+2213	10/08/23	New Ringgold	PA	40.6	-76	2	
+2214	10/07/23	Mcveytown	PA	40.5	-77.8	0	
+2215	10/07/23	New Ringgold	PA	40.6	-76	0	
+2216	10/07/23	West Lake Estates	TN	36.2	-83.5	1	
+2217	10/07/23	Mansfield	TX	32.6	-97.1	3	
+2218	10/07/23	Novi	MI	42.5	-83.5	1	
+2219	10/07/23	Decatur	GA	33.8	-84.3	2	
+2220	10/07/23	Dodge Center	MN	44	-92.9	1	
+2221	10/07/23	Sierra Vista	AZ	31.5	-110.3	1	
+2222	10/07/23	Roseville	CA	38.7	-121.3	1	
+2223	10/07/23	Kennesaw	GA	34.1	-84.6	1	
+2224	10/07/23	Mt Pleasant	SC	32.8	-79.9	1	
+2225	10/07/23	Granbury	TX	32.4	-97.7	1	
+2226	10/07/23	Plano	TX	33	-96.7	1	
+2227	10/07/23	Blackfoot	ID	43.2	-112.3	1	
+2228	10/07/23	Ogden	UT	41.3	-112.1	1	
+2229	10/07/23	Urbana	IL	40.1	-88.2	1	
+2230	10/07/23	Orange Beach	AL	30.3	-87.6	4	
+2231	10/07/23	Richmond	VA	37.5	-77.5	1	
+2232	10/07/23	Salisbury	NC	35.6	-80.5	3	
+2233	10/07/23	Springfield	MO	37.2	-93.3	1	
+2234	10/07/23	Plano	TX	33.1	-96.8	2	
+2235	10/07/23	Pilot Point	TX	33.3	-96.9	1	
+2236	10/07/23	Starbuck	MB	49.8	-97.6	1	
+2237	10/07/23	Marble Falls	TX	30.6	-98.2	2	
+2238	10/07/23	Covington	GA	33.6	-83.9	6	
+2239	10/07/23	Atlanta	GA	33.9	-84.2	1	
+2240	10/07/23	Wichita	KS	37.7	-97.3	3	
+2241	10/07/23	KCMO	MO	39.2	-94.5	1	
+2242	10/07/23	Scottsdale	AZ	33.9	-111.8	1	
+2243	10/07/23	Pekin	IL	40.6	-89.6	1	
+2244	10/07/23	Indian Head	SK	50.5	-103.7	4	
+2245	10/07/23	Ada	OK	34.8	-96.7	1	
+2246	10/07/23	Houston	TX	29.6	-95.1	1	
+2247	10/07/23	Durham	NC	36.1	-78.9	1	
+2248	10/07/23	Lusby	MD	38.3	-76.4	1	
+2249	10/07/23	Calera	OK	33.9	-96.4	2	
+2250	10/07/23	Pennock	MN	45.2	-95.2	1	
+2251	10/07/23	Davidson	NC	35.5	-80.8	1	
+2252	10/07/23	Jenks	OK	36	-96	1	
+2253	10/07/23	Washington	DC	38.9	-77.1	1	
+2254	10/07/23	New Lebanon	OH	39.7	-84.4	2	
+2255	10/07/23	Ozark	AR	35.4	-93.8	4	
+2256	10/07/23	Dallas	TX	32.8	-96.8	8	
+2257	10/07/23	Dallas	TX	32.9	-96.7	7	
+2258	10/07/23	Morro Bay	CA	35.4	-120.8	3	
+2259	10/07/23	Port Hope	ON	44	-78.3	10	
+2260	10/07/23	London	ON	43	-81.2	1	
+2261	10/07/23	Oklahoma City	OK	35.5	-97.6	2	
+2262	10/07/23	Tulsa	OK	36.1	-95.9	1	
+2263	10/07/23	Cape May Point	NJ	38.9	-75	10	
+2264	10/07/23	St. Augustine	FL	29.8	-81.3	1	
+2265	10/07/23	Lindale	TX	32.5	-95.4	1	
+2266	10/07/23	Ferndale	MI	42.5	-83.1	1	
+2267	10/06/23	West Lafayette	IN	40.4	-86.9	1	
+2268	10/06/23	Burlington	ON	43.3	-79.8	1	
+2269	10/06/23	Goldsboro	PA	40.2	-76.8	3	
+2270	10/06/23	Stratford	ON	43.4	-81	1	
+2271	10/06/23	Toronto	ON	43.6	-79.5	2	
+2272	10/06/23	Salisbury	NC	35.6	-80.5	5	
+2273	10/06/23	Washington	MI	42.7	-83	1	
+2274	10/06/23	Ottawa Lake	MI	41.8	-83.7	8	
+2275	10/06/23	Berkeley	CA	37.9	-122.2	1	
+2276	10/06/23	Springfield	MO	37.2	-93.3	1	
+2277	10/06/23	Westfield	WI	43.9	-89.5	1	
+2278	10/06/23	Niles	MI	41.8	-86.2	1	
+2279	10/06/23	Newburgh	IN	37.9	-87.4	3	
+2280	10/06/23	Pasco	WA	46.2	-119.2	1	
+2281	10/06/23	Oakwood	OH	39.7	-84.2	6	
+2282	10/06/23	Atlanta	GA	33.9	-84.2	1	
+2283	10/06/23	Mansfield	OH	40.8	-82.4	2	
+2284	10/06/23	San Leandro	CA	37.7	-122.2	4	
+2285	10/06/23	Mississauga	ON	43.6	-79.6	1	
+2286	10/06/23	Choctaw	OK	35.5	-97.2	3	
+2287	10/06/23	Hennessey	OK	36.1	-97.9	1	
+2288	10/06/23	Cincinnati	OH	39.1	-84.4	1	
+2289	10/06/23	Abilene	TX	32.4	-99.7	1	
+2290	10/06/23	Chatham	ON	42.4	-82.2	4	
+2291	10/06/23	Marble Falls	TX	30.6	-98.2	1	
+2292	10/06/23	Simpsonville	SC	34.7	-82.3	1	
+2293	10/06/23	Toronto	ON	43.6	-79.5	1	
+2294	10/06/23	Wernersville	PA	40.3	-76.1	1	
+2295	10/06/23	Hillsborough	NC	36.1	-79.1	2	
+2296	10/06/23	Honeoye Falls	NY	43	-77.6	1	
+2297	10/06/23	Simpsonville	SC	34.7	-82.3	1	
+2298	10/06/23	Dallas	TX	32.8	-96.7	2	
+2299	10/06/23	Wylie	TX	33	-96.6	2	
+2300	10/06/23	Brevard	NC	35.2	-82.7	6	
+2301	10/06/23	Alexander	NC	35.7	-82.6	1	
+2302	10/06/23	Portales	NM	34.2	-103.3	1	
+2303	10/06/23	Howe	OK	35	-94.6	1	
+2304	10/06/23	Graham	TX	32.9	-98.6	100	
+2305	10/06/23	Urbana	IL	40.1	-88.2	2	
+2306	10/06/23	Fort Worth	TX	32.8	-97.3	2	
+2307	10/06/23	North Canton	OH	40.9	-81.4	2	
+2308	10/06/23	Monroe	CT	41.3	-73.2	1	
+2309	10/06/23	Edmond	OK	35.7	-97.5	1	
+2310	10/06/23	Leamington	ON	42	-82.6	1	
+2311	10/06/23	Roanoke	VA	37.3	-79.9	2	
+2312	10/06/23	Mineral Bluff	GA	34.9	-84.3	2	
+2313	10/06/23	San Jose	CA	37.4	-121.9	1	
+2314	10/06/23	Manton	MI	44.4	-85.5	1	
+2315	10/06/23	Big Spring	TX	32.2	-101.5	3	
+2316	10/06/23	Murfreesboro	TN	35.9	-86.4	1	
+2317	10/06/23	Grand Junction	CO	39.1	-108.6	1	
+2318	10/06/23	Norman	OK	35.3	-97.4	2	
+2319	10/06/23	Mt Olive	NC	35.2	-78.1	1	
+2320	10/06/23	Belle River	ON	42.3	-82.7	9	
+2321	10/06/23	High Point	NC	36	-80	1	
+2322	10/06/23	Windsor	ON	42.3	-83	1	
+2323	10/06/23	Calera	OK	33.9	-96.4	2	
+2324	10/06/23	Richmond	VA	37.6	-77.5	2	
+2325	10/06/23	Crestview	FL	30.8	-86.5	1	
+2326	10/06/23	Ashland	KY	38.4	-82.6	1	
+2327	10/06/23	Powhatan	VA	37.5	-77.8	1	
+2328	10/06/23	Ozark	AR	35.5	-93.8	15	
+2329	10/06/23	Ozark	AR	35.4	-93.8	3	
+2330	10/06/23	Oilville	VA	37.7	-77.8	1	
+2331	10/06/23	Carlton	GA	34	-83	2	
+2332	10/06/23	Cincinnati	OH	39.1	-84.4	1	
+2333	10/06/23	Cincinnati	OH	39.1	-84.4	1	
+2334	10/06/23	Cincinnati	OH	39.1	-84.4	1	
+2335	10/06/23	Buffalo Gap	TX	32.3	-99.8	8	
+2336	10/06/23	Hennessey	OK	36.1	-97.9	1	
+2337	10/06/23	West Point	IN	40.3	-87	2	
+2338	10/06/23	Mansfield	TX	32.6	-97.1	1	
+2339	10/06/23	St. Augustine	FL	29.9	-81.4	1	
+2340	10/06/23	New Baltimore	MI	42.7	-82.7	1	
+2341	10/06/23	New Market	TN	36.1	-83.6	8	
+2342	10/06/23	Wake Forest	NC	36	-78.5	1	
+2343	10/06/23	New Ringgold	PA	40.6	-76	0	
+2344	10/05/23	Amherstburg	ON	42	-83	0	
+2345	10/05/23	Choctaw	OK	35.4	-97.3	21	
+2346	10/05/23	Lewisburg	WV	37.8	-80.4	3	
+2347	10/05/23	Howards Grove	WI	43.8	-87.8	2	
+2348	10/05/23	Lewisburg	WV	37.8	-80.4	1	
+2349	10/05/23	Marinette	WI	45.1	-87.6	1	
+2350	10/05/23	Christiansburg	VA	37.1	-80.4	2	
+2351	10/05/23	KCMO	MO	39.2	-94.6	3	
+2352	10/05/23	Carrollton	GA	33.6	-85.1	1	
+2353	10/05/23	Asheville	NC	35.6	-82.6	3	
+2354	10/05/23	Ellijay	GA	34.7	-84.3	1	
+2355	10/05/23	Hamilton	ON	43.2	-79.9	1	
+2356	10/05/23	Woodstock	GA	34.1	-84.4	1	
+2357	10/05/23	Edmond	OK	35.7	-97.5	2	
+2358	10/05/23	Enid	OK	36.4	-97.9	6	
+2359	10/05/23	Verona	MO	37	-93.8	1	
+2360	10/05/23	Macon	GA	32.9	-83.8	1	
+2361	10/05/23	Belle River	ON	42.3	-82.7	1	
+2362	10/05/23	Belle River	ON	42.3	-82.7	8	
+2363	10/05/23	Burnsville	MN	44.8	-93.3	1	
+2364	10/05/23	Prairie du Sac	WI	43.3	-89.7	3	
+2365	10/05/23	Driftwood	TX	30.1	-98	2	
+2366	10/05/23	Connellsville	PA	40	-79.6	1	
+2367	10/05/23	Marinette	WI	45.1	-87.6	1	
+2368	10/05/23	Manton	MI	44.4	-85.5	1	
+2369	10/05/23	Mabel	MN	43.5	-91.9	1	
+2370	10/05/23	University City	MO	38.7	-90.3	1	
+2371	10/05/23	Springdale	AR	36.2	-94.2	1	
+2372	10/05/23	Sausalito	CA	37.9	-122.5	9	
+2373	10/05/23	Milford	CT	41.2	-73.1	12	
+2374	10/05/23	Minnetonka	MN	44.9	-93.5	1	
+2375	10/05/23	Frederick	MD	39.4	-77.4	2	
+2376	10/05/23	Portales	NM	34.2	-103.3	1	
+2377	10/05/23	Chanhassen	MN	44.9	-93.6	1	
+2378	10/05/23	Leamington	ON	42	-82.6	7	
+2379	10/05/23	Mineral Bluff	GA	34.9	-84.3	4	
+2380	10/05/23	Denver	IA	42.7	-92.3	1	
+2381	10/05/23	Charleston	SC	32.7	-80	7	
+2382	10/05/23	Broomfield	CO	39.9	-105.1	1	
+2383	10/05/23	Rockford	IL	42.3	-89	1	
+2384	10/05/23	Brock	ON	44.2	-79	1	
+2385	10/05/23	Wexford	PA	40.6	-80.1	1	
+2386	10/05/23	Oklahoma City	OK	35.5	-97.5	5	
+2387	10/05/23	High Point	NC	36	-80	1	
+2388	10/05/23	Miami	OK	36.9	-94.8	1	
+2389	10/05/23	York	PA	39.9	-76.7	1	
+2390	10/05/23	Lusby	MD	38.3	-76.4	5	
+2391	10/05/23	Sulphur	OK	34.5	-97	4	
+2392	10/05/23	Elkins	WV	38.9	-79.8	1	
+2393	10/05/23	Grafton	ON	44	-78	124	
+2394	10/05/23	Sacramento	CA	38.7	-121.3	2	
+2395	10/05/23	Ottawa	ON	45.4	-75.6	1	
+2396	10/05/23	Centreville	MD	39.1	-76.1	1	
+2397	10/05/23	Berkeley Springs	WV	39.5	-78.3	1	
+2398	10/05/23	Tulsa	OK	36.1	-96	1	
+2399	10/05/23	Ferndale	MI	42.5	-83.1	4	
+2400	10/05/23	Topeka	KS	39.2	-95.6	1	
+2401	10/05/23	New Bedford	MA	41.6	-70.9	1	
+2402	10/05/23	Naples	FL	26.2	-81.7		
+2403	10/05/23	Lawrenceburg	IN	39.2	-84.8	1	
+2404	10/05/23	New York	NY	40.7	-74	1	
+2405	10/05/23	Lebanon	PA	40.3	-76.4	1	
+2406	10/05/23	Fort Edward	NY	43.2	-73.6	1	
+2407	10/05/23	Muncy	PA	41.2	-76.8	2	
+2408	10/05/23	Fort Edward	NY	43.2	-73.6	1	
+2409	10/05/23	Belle River	ON	42.3	-82.7	1	
+2410	10/05/23	Fairfield	NJ	40.9	-74.3	1	
+2411	10/05/23	Green Bay	WI	44.5	-88	3	
+2412	10/05/23	Louisville	KY	38.2	-85.8	1	
+2413	10/05/23	Indianola	IA	41.4	-93.6	5	
+2414	10/05/23	Morrisville	PA	40.2	-74.8	1	
+2415	10/05/23	Conyers	GA	33.7	-84	2	
+2416	10/05/23	Eden Prairie	MN	44.9	-93.5	1	
+2417	10/05/23	Glenpool	OK	36	-96	2	
+2418	10/05/23	Monona	WI	43.1	-89.3	1	
+2419	10/05/23	Oklahoma City	OK	35.5	-97.6	7	
+2420	10/05/23	Dodge Center	MN	44	-92.9	2	
+2421	10/05/23	Hamilton	ON	43.2	-79.9	4	
+2422	10/05/23	Morro Bay	CA	35.4	-120.8	1	
+2423	10/05/23	Iona Station	ON	42.7	-81.4	6	
+2424	10/05/23	Wernersville	PA	40.3	-76.1	9	
+2425	10/05/23	Yukon	OK	35.5	-97.8	1	
+2426	10/05/23	Glastonbury	CT	41.7	-72.6	2	
+2427	10/05/23	El Segundo	CA	33.9	-118.4	1	
+2428	10/05/23	Berkeley Springs	WV	39.6	-78.2	1	
+2429	10/05/23	Vesta	VA	36.7	-80.4	4	
+2430	10/05/23	Morro Bay	CA	35.4	-120.8	1	
+2431	10/05/23	Morro Bay	CA	35.4	-120.8	1	
+2432	10/05/23	Boston	MA	42.4	-71.1	1	
+2433	10/05/23	Mansfield	OH	40.8	-82.4	1	
+2434	10/05/23	Vienna	VA	38.9	-77.3	1	
+2435	10/05/23	Harmony	WI	45.1	-87.8	1	
+2436	10/05/23	Seymour	VIC	-37	145.1	1	
+2437	10/05/23	Wichita	KS	37.7	-97.3	7	
+2438	10/05/23	Westhampton Beach	NY	40.8	-72.6	1	
+2439	10/05/23	Brookfield	WI	43	-88.1	1	
+2440	10/05/23	Chatham	ON	42.4	-82.2	3	
+2441	10/05/23	Plover	WI	44.5	-89.5	1	
+2442	10/05/23	York	PA	39.9	-76.7	9	
+2443	10/05/23	Oklahoma City	OK	35.5	-97.6	5	
+2444	10/05/23	Gold River	BC	49.8	-126	1	
+2445	10/05/23	Highland	MI	44.2	-85.3	1	
+2446	10/05/23	Wheeling	WV	40	-80.7	1	
+2447	10/05/23	Owasso	OK	36.3	-95.9	2	
+2448	10/05/23	Monroe	NY	41.3	-74.2	1	
+2449	10/05/23	Welland	ON	43	-79.2	3	
+2450	10/05/23	North Canton	OH	40.9	-81.4	2	
+2451	10/05/23	Atlanta	GA	33.9	-84.4	1	
+2452	10/05/23	Latham	NY	42.7	-73.8	1	
+2453	10/05/23	Okeene	OK	36	-98.3	6	
+2454	10/05/23	Kingston	ON	44.3	-76.5	1	
+2455	10/05/23	Gulf Breeze	FL	30.4	-87.2	3	
+2456	10/05/23	Hackensack	NJ	40.9	-74	1	
+2457	10/05/23	Joplin	MO	37.1	-94.4	1	
+2458	10/05/23	Crystal Lake	IL	42.2	-88.4	1	
+2459	10/05/23	McLean	VA	38.9	-77.2	2	
+2460	10/05/23	Walland	TN	35.7	-83.8	2	
+2461	10/05/23	KCMO	MO	39.2	-94.5	4	
+2462	10/04/23	Krum	TX	33.2	-97.3	2	
+2463	10/04/23	Palmarejo	PR	18.3	-66.3	1	
+2464	10/04/23	Wernersville	PA	40.3	-76.1	1	
+2465	10/04/23	London	ON	43	-81.3	1	
+2466	10/04/23	London	ON	43	-81.3	2	
+2467	10/04/23	Waterville	ME	44.5	-69.6	1	
+2468	10/04/23	Newburgh	IN	37.9	-87.4	3	
+2469	10/04/23	Little Falls	NJ	40.9	-74.2	1	
+2470	10/04/23	Worcester	MA	42.3	-71.8	1	
+2471	10/04/23	Southfield	MI	42.5	-83.3	4	
+2472	10/04/23	Palm Coast	FL	29.6	-81.3	2	
+2473	10/04/23	Pottersville	NY	43.7	-73.8	1	
+2474	10/04/23	Plainfield	IL	41.7	-88.2	1	
+2475	10/04/23	Sand Springs	OK	36.1	-96.3	1	
+2476	10/04/23	Lakeshore	ON	42.2	-82.9	1	
+2477	10/04/23	Holland	MI	42.8	-86.2	7	
+2478	10/04/23	Palmarejo	PR	18.3	-66.3	1	
+2479	10/04/23	Springfield	MO	37.2	-93.3	1	
+2480	10/04/23	Broken Arrow	OK	36.1	-95.8	1	
+2481	10/04/23	Arden	NC	35.5	-82.5	2	
+2482	10/04/23	Minneapolis	MN	44.9	-93.3	1	
+2483	10/04/23	Beaver	WV	37.8	-81.1	1	
+2484	10/04/23	St James	NY	40.9	-73.1	1	
+2485	10/04/23	Tulsa	OK	36.1	-96	12	
+2486	10/04/23	Monroeville	PA	40.4	-79.7	1	
+2487	10/04/23	Yukon	OK	35.5	-97.7	2	
+2488	10/04/23	Bloomingdale	NJ	41	-74.3	1	
+2489	10/04/23	Chenango	NY	42.2	-75.9	1	
+2490	10/04/23	Tulsa	OK	36.1	-96	1	
+2491	10/04/23	Nichols	WI	44.5	-88.4	1	
+2492	10/04/23	Ukiah	CA	39.2	-123.2	1	
+2493	10/04/23	Elizabeth	CO	39.2	-104.6	1	
+2494	10/04/23	Orange Beach	AL	30.3	-87.6	3	
+2495	10/04/23	Yonkers	NY	40.9	-73.9	4	
+2496	10/04/23	New York	NY	40.7	-74	1	
+2497	10/04/23	Englewood	NJ	40.9	-74	1	
+2498	10/04/23	Calhoun	GA	34.4	-85	2	
+2499	10/04/23	Warsaw	VA	38.1	-76.9	1	
+2500	10/04/23	Elizabethton	TN	36.3	-82.2	2	
+2501	10/04/23	Dearborn	MI	42.3	-83.2	1	
+2502	10/04/23	Salisbury	NC	35.6	-80.5	3	
+2503	10/04/23	Streamwood	IL	42	-88.2	1	
+2504	10/04/23	Murrells Inlet	SC	33.6	-79.1	2	
+2505	10/04/23	Mamaroneck	NY	40.9	-73.7	1	
+2506	10/04/23	Mt Pleasant	MI	43.6	-84.7	16	
+2507	10/04/23	Tuttle	OK	35.3	-97.7	3	
+2508	10/04/23	Greenwood	IN	39.6	-86.2	3	
+2509	10/04/23	Cedar Falls	IA	42.5	-92.5	2	
+2510	10/04/23	Ann Arbor	MI	42.3	-83.8	1	
+2511	10/04/23	Simpsonville	SC	34.8	-82.3	1	
+2512	10/04/23	Harrisville	NH	42.9	-72.1	1	
+2513	10/04/23	Dodge Center	MN	44	-92.9	6	
+2514	10/04/23	Keyport	NJ	40.4	-74.2	1	
+2515	10/04/23	Plainfield	IL	41.7	-88.2	1	
+2516	10/04/23	Fairborn	OH	39.8	-84	1	
+2517	10/04/23	Basehor	KS	39.1	-94.9	5	
+2518	10/04/23	Plano	TX	33	-96.7	1	
+2519	10/04/23	Hamilton	ON	43.2	-79.9	4	
+2520	10/04/23	Cincinnati	OH	39.1	-84.4	1	
+2521	10/04/23	St. Louis	MO	38.6	-90.3	1	
+2522	10/04/23	Starkville	MS	33.5	-88.8	2	
+2523	10/04/23	New York	NY	40.8	-73.8	2	
+2524	10/04/23	Evansville	IN	38	-87.5	1	
+2525	10/04/23	Carbondale	IL	37.7	-89.2	1	
+2526	10/04/23	Greensboro	NC	36.2	-79.8	1	
+2527	10/04/23	Germantown	WI	43.2	-88.1	15	
+2528	10/04/23	Versailles	IL	39.9	-90.7	7	
+2529	10/04/23	Lawrenceburg	IN	39.1	-84.9	1	
+2530	10/04/23	Ballwin	MO	38.6	-90.5	2	
+2531	10/04/23	Wauwatosa	WI	43.1	-88	1	
+2532	10/04/23	Brookings	SD	44.3	-96.8	1	
+2533	10/04/23	Woodland	AL	33.4	-85.3	1	
+2534	10/04/23	Crystal Lake	IL	42.2	-88.4	2	
+2535	10/04/23	Columbus	OH	40	-83.1	1	
+2536	10/04/23	Fort Worth	TX	32.7	-97.4	1	
+2537	10/04/23	Wanaque	NJ	41	-74.3	1	
+2538	10/04/23	Chatham	ON	42.4	-82.2	13	
+2539	10/04/23	Plainview	TX	34.2	-101.7	4	
+2540	10/04/23	North Canton	OH	40.9	-81.4	2	
+2541	10/04/23	Wading River	NY	40.9	-72.8	1	
+2542	10/04/23	Raeford	NC	35	-79.4	1	
+2543	10/04/23	Minneapolis	MN	44.9	-93.3	1	
+2544	10/04/23	Afton	GA	34.5	-84.3	1	
+2545	10/04/23	Lexington	KY	38	-84.5	2	
+2546	10/04/23	Greensboro	NC	36.1	-79.9	1	
+2547	10/04/23	Fort Worth	TX	32.8	-97.3	5	
+2548	10/04/23	New Bedford	MA	41.6	-70.9	1	
+2549	10/04/23	Edwardsville	IL	38.8	-90	2	
+2550	10/04/23	Bolton-Est	QC	45.2	-72.4	8	
+2551	10/04/23	Enid	OK	36.4	-97.9	20	
+2552	10/04/23	Warsaw	IN	41.3	-85.7	1	
+2553	10/04/23	Pigeon	MI	43.9	-83.2	1	
+2554	10/04/23	Christopher	IL	38	-89.1	1	
+2555	10/04/23	Stoughton	WI	43	-89.2	1	
+2556	10/04/23	La Porte	IN	41.6	-86.7	3	
+2557	10/04/23	Edmond	OK	35.7	-97.5	2	
+2558	10/04/23	Derry	NH	42.9	-71.3	1	
+2559	10/04/23	Temecula	CA	33.5	-117.1	1	
+2560	10/04/23	Chandler	TX	32.3	-95.5	1	
+2561	10/04/23	Flower Mound	TX	33	-97.1	3	
+2562	10/04/23	Oklahoma City	OK	35.4	-97.5	1	
+2563	10/04/23	Smithfield	PA	39.8	-79.8	1	
+2564	10/04/23	Santa Maria	CA	35	-120.4	1	
+2565	10/04/23	Santa Maria	CA	34.9	-120.4	1	
+2566	10/04/23	Mt Airy	NC	36.5	-80.5	4	
+2567	10/04/23	Point Pelee National Park	ON	41.9	-82.5	7	
+2568	10/04/23	Folsom	NJ	39.6	-74.9	5	
+2569	10/04/23	Philadelphia	PA	40	-75	1	
+2570	10/04/23	LaGrange	IN	41.6	-85.2	1	
+2571	10/04/23	Columbia	SC	34	-81	1	
+2572	10/04/23	Burlington	ON	43.4	-79.8	1	
+2573	10/04/23	Westfield	PA	41.9	-77.6	1	
+2574	10/04/23	Amherst	VA	37.6	-79.1	3	
+2575	10/04/23	Dodgeville	WI	43	-90.1	1	
+2576	10/04/23	Philadelphia	PA	40	-75.1	1	
+2577	10/04/23	The Village	OK	35.6	-97.6	1	
+2578	10/04/23	Old Fort	NC	35.6	-82.2	3	
+2579	10/04/23	West Lake Hills	TX	30.3	-97.8	1	
+2580	10/04/23	Durham	NC	35.9	-79	1	
+2581	10/04/23	Tulsa	OK	36.1	-96	3	
+2582	10/04/23	Mt Sidney	VA	38.3	-79	4	
+2583	10/04/23	Little Egg Harbor Township	NJ	39.6	-74.3	5	
+2584	10/04/23	Frederick	MD	39.4	-77.5	1	
+2585	10/04/23	Baywood-Los Osos	CA	35.3	-120.8	1	
+2586	10/04/23	Berkeley Springs	WV	39.6	-78.2	1	
+2587	10/04/23	Rockbridge	OH	39.6	-82.5	1	
+2588	10/04/23	Hockessin	DE	39.8	-75.7	1	
+2589	10/04/23	West Bishop	CA	37.3	-118.4	4	
+2590	10/04/23	KCMO	MO	39.2	-94.5	2	
+2591	10/04/23	Decatur	GA	33.8	-84.3	1	
+2592	10/04/23	Grand Rapids	MI	43	-85.6	1	
+2593	10/04/23	Woodstock	GA	34.2	-84.4	3	
+2594	10/04/23	Milford	CT	41.2	-73.1	9	
+2595	10/04/23	McDonough	GA	33.4	-84.1	2	
+2596	10/04/23	Cullowhee	NC	35.2	-83.2	8	
+2597	10/04/23	Gardendale	AL	33.7	-86.8	2	
+2598	10/04/23	Winchendon	MA	42.7	-72	1	
+2599	10/04/23	Pacific	MO	38.4	-90.7	2	
+2600	10/04/23	St. Louis	MO	38.6	-90.3	3	
+2601	10/04/23	Milford	CT	41.2	-73	3	
+2602	10/04/23	Lenhartsville	PA	40.6	-75.9	1	
+2603	10/04/23	Waupaca	WI	44.4	-89.1	2	
+2604	10/04/23	New York	NY	40.6	-73.8	6	
+2605	10/04/23	Hancock	NH	43	-72	1	
+2606	10/04/23	Oklahoma City	OK	35.5	-97.5	1	
+2607	10/04/23	Richmond	VA	37.6	-77.5	1	
+2608	10/04/23	Dallas	TX	32.9	-96.7	2	
+2609	10/04/23	Brant	ON	43	-80.3	1	
+2610	10/04/23	Escalon	CA	37.8	-121	2	
+2611	10/04/23	Arden	NC	35.5	-82.6	1	
+2612	10/04/23	Arden	NC	35.5	-82.6	1	
+2613	10/04/23	North Ridgeville	OH	41.4	-82.1	1	
+2614	10/04/23	Ferguson Township	PA	40.8	-77.9	2	
+2615	10/04/23	Media	PA	39.9	-75.4	2	
+2616	10/03/23	Marietta	GA	34	-84.5	1	
+2617	10/03/23	Marietta	GA	34	-84.5	1	
+2618	10/03/23	Mcveytown	PA	40.5	-77.8	1	
+2619	10/03/23	Media	PA	39.9	-75.4	2	
+2620	10/03/23	New Ringgold	PA	40.6	-76	1	
+2621	10/03/23	Atlanta	GA	33.8	-84.4	1	
+2622	10/03/23	Woodstock	GA	34.2	-84.4	3	
+2623	10/03/23	Holland Patent	NY	43.3	-75.3	2	
+2624	10/03/23	Springfield	MO	37.2	-93.3	1	
+2625	10/03/23	Stafford Township	NJ	39.7	-74.3	2	
+2626	10/03/23	Mineral Bluff	GA	35	-84.3	2	
+2627	10/03/23	KCMO	MO	39.1	-94.6	3	
+2628	10/03/23	Hamilton	NJ	39.5	-74.7	2	
+2629	10/03/23	Calera	OK	33.9	-96.4	3	
+2630	10/03/23	Flower Mound	TX	33	-97.1	3	
+2631	10/03/23	The Hills	TX	30.3	-98	1	
+2632	10/03/23	Plainfield	IL	41.7	-88.2	1	
+2633	10/03/23	Arden	NC	35.5	-82.6	1	
+2634	10/03/23	Mentor	OH	41.8	-81.3	1	
+2635	10/03/23	Brillion	WI	44.2	-88.1	7	
+2636	10/03/23	Mooresville	IN	39.6	-86.4	1	
+2637	10/03/23	Washington Court House	OH	39.5	-83.4	1	
+2638	10/03/23	Huntsville	ON	45.3	-79.2	1	
+2639	10/03/23	Mason City	IL	40.2	-89.6	3	
+2640	10/03/23	Stratford	ON	43.4	-81	2	
+2641	10/03/23	Henrietta	NY	43	-77.6	1	
+2642	10/03/23	Vienna	VA	38.9	-77.3	1	
+2643	10/03/23	Bohemia	NY	40.8	-73.1	1	
+2644	10/03/23	Old Fort	NC	35.6	-82.2	4	
+2645	10/03/23	Prescott	WI	44.8	-92.8	1	
+2646	10/03/23	Belleville	KS	39.8	-97.6	1	
+2647	10/03/23	Springfield	MO	37.1	-93.3	1	
+2648	10/03/23	Madison	CT	41.3	-72.6	2	
+2649	10/03/23	Savannah	GA	31.9	-81.1	1	
+2650	10/03/23	Marinette	WI	45.1	-87.6	5	
+2651	10/03/23	Waconia	MN	44.8	-93.8	1	
+2652	10/03/23	Arvada	CO	39.8	-105.2	1	
+2653	10/03/23	Mansfield	OH	40.8	-82.4	1	
+2654	10/03/23	Brevard	NC	35.3	-82.8	8	
+2655	10/03/23	Ballwin	MO	38.6	-90.5	2	
+2656	10/03/23	Hamilton	NJ	39.4	-74.7	6	
+2657	10/03/23	Parker	KS	38.3	-95	2	
+2658	10/03/23	Huntersville	NC	35.4	-80.8	1	
+2659	10/03/23	Strawberry	CA	37.9	-122.5	2	
+2660	10/03/23	Willowbrook	IL	41.8	-87.9	1	
+2661	10/03/23	Stevens Point	WI	44.5	-89.5	2	
+2662	10/03/23	Warsaw	VA	38.1	-76.9	1	
+2663	10/03/23	Chicago	IL	41.9	-87.7	2	
+2664	10/03/23	North Canton	OH	40.9	-81.4	2	
+2665	10/03/23	Ridgway	CO	38.2	-107.8	1	
+2666	10/03/23	Barnesville	MN	46.7	-96.4	1	
+2667	10/03/23	Portage	WI	43.5	-89.5	1	
+2668	10/03/23	Welland	ON	43	-79.2	1	
+2669	10/03/23	Greenwood	IN	39.6	-86.2	7	
+2670	10/03/23	Tawas City	MI	44.3	-83.5	1	
+2671	10/03/23	Oklahoma City	OK	35.6	-97.7	1	
+2672	10/03/23	Wauwatosa	WI	43.1	-88	3	
+2673	10/03/23	Holland	MI	42.8	-86.2	6	
+2674	10/03/23	Chelsea	OK	36.5	-95.4	3	
+2675	10/03/23	Asheville	NC	35.6	-82.6	4	
+2676	10/03/23	Ellijay	GA	34.7	-84.3	1	
+2677	10/03/23	Evington	VA	37.3	-79.2	1	
+2678	10/03/23	London	TX	30.7	-99.7	2	
+2679	10/03/23	Brooklyn Park	MN	45.1	-93.3	1	
+2680	10/03/23	Hamilton	NJ	39.5	-74.7	1	
+2681	10/03/23	Atlanta	GA	33.9	-84.2	1	
+2682	10/03/23	Fort Qu'Appelle	SK	50.8	-103.8	1	
+2683	10/03/23	Newburgh	IN	37.9	-87.4	1	
+2684	10/03/23	Chatham	ON	42.4	-82.2	20	
+2685	10/03/23	Lewisburg	WV	37.8	-80.4	3	
+2686	10/03/23	Ashland	KY	38.5	-82.7	1	
+2687	10/03/23	KCMO	MO	39.2	-94.6	1	
+2688	10/03/23	KCMO	MO	39.2	-94.6	1	
+2689	10/03/23	Leonia	NJ	40.9	-74	2	
+2690	10/03/23	Enid	OK	36.4	-97.9	13	
+2691	10/03/23	Dallas	TX	32.8	-96.7	2	
+2692	10/03/23	Enterprise	AL	31.4	-85.8	2	
+2693	10/03/23	Massapequa Park	NY	40.7	-73.5	2	
+2694	10/03/23	Black Creek	WI	44.5	-88.4	1	
+2695	10/03/23	Langton	ON	42.8	-80.5	1	
+2696	10/03/23	Andover	MN	45.2	-93.3	1	
+2697	10/03/23	Banner Elk	NC	36.2	-81.8	2	
+2698	10/03/23	Hampton Township	PA	40.6	-80	1	
+2699	10/03/23	Westbrook	CT	41.3	-72.4	2	
+2700	10/03/23	Plattsburg	MO	39.6	-94.4	1	
+2701	10/03/23	Minneapolis	MN	44.9	-93.3	1	
+2702	10/03/23	Point Pelee National Park	ON	41.9	-82.5	9	
+2703	10/03/23	Wyoming	MI	42.9	-85.7	1	
+2704	10/03/23	Falmouth	MA	41.6	-70.6	1	
+2705	10/03/23	London	ON	43	-81.3	1	
+2706	10/03/23	Wautoma	WI	44	-89.3	1	
+2707	10/03/23	Dodgeville	WI	43	-90.1	1	
+2708	10/03/23	Broken Arrow	OK	36.1	-95.8	2	
+2709	10/03/23	Fairfield	PA	39.8	-77.4	1	
+2710	10/03/23	Norman	OK	35.3	-97.5	6	
+2711	10/03/23	Toronto	ON	43.6	-79.6	1	
+2712	10/03/23	Tulsa	OK	36.1	-96	2	
+2713	10/03/23	Big Lake	TX	31.2	-101.5	1	
+2714	10/03/23	Carmichael	CA	38.7	-121.3	1	
+2715	10/03/23	Mt Pleasant	MI	43.6	-84.7	13	
+2716	10/03/23	Fletcher	NC	35.4	-82.5	1	
+2717	10/03/23	Corry	PA	41.9	-79.6	2	
+2718	10/03/23	Cincinnati	OH	39.1	-84.4	1	
+2719	10/03/23	Pikesville	MD	39.4	-76.8	1	
+2720	10/03/23	Hamilton	ON	43.2	-79.9	7	
+2721	10/03/23	Minneapolis	MN	45.2	-93.3	1	
+2722	10/03/23	Southport	ME	43.8	-69.7	1	
+2723	10/03/23	De Tour Village	MI	46	-83.9	1	
+2724	10/03/23	Merrick	NY	40.6	-73.5	1	
+2725	10/03/23	Ball Ground	GA	34.4	-84.3	12	
+2726	10/03/23	Newark	DE	39.8	-75.7	1	
+2727	10/03/23	Round Rock	TX	30.5	-97.7	1	
+2728	10/03/23	Dakota	MN	43.9	-91.4	1	
+2729	10/03/23	Erie	PA	42.2	-80.1	1	
+2730	10/03/23	Chapel Hill	NC	36	-79.1	1	
+2731	10/03/23	New Richmond	WI	45.1	-92.6	1	
+2732	10/03/23	Edwardsville	IL	38.8	-90	3	
+2733	10/03/23	Washington	DC	38.9	-77	1	
+2734	10/03/23	Mont-Blanc	QC	46.1	-74.5	1	
+2735	10/03/23	Christopher	IL	38	-89.1	1	
+2736	10/03/23	Eagan	MN	44.8	-93.2	6	
+2737	10/03/23	Santa Rosa	CA	38.5	-122.8	1	
+2738	10/03/23	Beaufort	SC	32.4	-80.7	5	
+2739	10/03/23	Richmond	MI	42.8	-82.8	2	
+2740	10/03/23	Camarillo	CA	34.2	-119.1	1	
+2741	10/03/23	Eagan	MN	44.8	-93.2	2	
+2742	10/03/23	Painesville	OH	41.7	-81.3	1	
+2743	10/03/23	Asheville	NC	35.6	-82.6	1	
+2744	10/03/23	Maple Grove	MN	45.1	-93.5	1	
+2745	10/03/23	San Antonio	TX	29.5	-98.5	1	
+2746	10/03/23	Springfield	MO	37.2	-93.3	1	
+2747	10/03/23	Springfield	MO	37.2	-93.3	1	
+2748	10/03/23	Springfield	MO	37.2	-93.3	1	
+2749	10/03/23	Woodrow	NC	35.5	-82.9	44	
+2750	10/03/23	Bixby	OK	35.9	-95.9	1	
+2751	10/03/23	Hitchcock	OK	36	-98.3	1	
+2752	10/02/23	London	TX	30.7	-99.7	15	
+2753	10/02/23	St. Louis	MO	38.6	-90.3	10	
+2754	10/02/23	Aberdeen Township	NJ	40.4	-74.2	2	
+2755	10/02/23	Flat Rock	MI	42.1	-83.2	1	
+2756	10/02/23	Dryden	MI	42.9	-83.1	1	
+2757	10/02/23	Oilville	VA	37.7	-77.8	1	
+2758	10/02/23	Welland	ON	43	-79.2	3	
+2759	10/02/23	Killeen	TX	31.1	-97.7	1	
+2760	10/02/23	Blaine	MN	45.1	-93.2	1	
+2761	10/02/23	Cambridge	MN	45.6	-93.4	2	
+2762	10/02/23	Lusby	MD	38.3	-76.4	1	
+2763	10/02/23	Old Fort	NC	35.6	-82.2	3	
+2764	10/02/23	Smoky Ordinary	VA	36.8	-77.7	1	
+2765	10/02/23	Tulsa	OK	36.1	-96	1	
+2766	10/02/23	Horseshoe Bay	TX	30.5	-98.4	1	
+2767	10/02/23	Hamilton	ON	43.3	-79.9	1	
+2768	10/02/23	Palmarejo	PR	18.3	-66.3	1	
+2769	10/02/23	Brandon	SD	43.5	-96.6	1	
+2770	10/02/23	Oneonta	NY	42.5	-75.1	1	
+2771	10/02/23	Allenton	MI	42.9	-82.9	1	
+2772	10/02/23	Dearborn	MI	42.3	-83.2	2	
+2773	10/02/23	Middleton	WI	43.1	-89.5	1	
+2774	10/02/23	Lakeville	MN	44.7	-93.3	4	
+2775	10/02/23	Woodstock	GA	34.2	-84.4	3	
+2776	10/02/23	Seymour	VIC	-37	145.1	1	
+2777	10/02/23	Apex	NC	35.8	-78.9	1	
+2778	10/02/23	Westminster	CO	39.9	-105.1	2	
+2779	10/02/23	Trevor	WI	42.5	-88.2	1	
+2780	10/02/23	Weaubleau	MO	37.9	-93.4	11	
+2781	10/02/23	Pittsburg	KS	37.4	-94.7	4	
+2782	10/02/23	Flemington	MO	37.9	-93.4	11	
+2783	10/02/23	Lake Park	MN	46.7	-96.1	1	
+2784	10/02/23	Fort Qu'Appelle	SK	50.8	-103.8	1	
+2785	10/02/23	Simpsonville	SC	34.7	-82.3	1	
+2786	10/02/23	Denver	CO	39.7	-105	1	
+2787	10/02/23	Marshall	OK	36.1	-97.7	2	
+2788	10/02/23	Toronto	ON	43.6	-79.5	1	
+2789	10/02/23	Williamston	SC	34.7	-82.6	4	
+2790	10/02/23	Hennessey	OK	36.1	-97.9	2	
+2791	10/02/23	Cherry Hill	NJ	39.9	-75	1	
+2792	10/02/23	Denver	IA	42.7	-92.3	1	
+2793	10/02/23	Waynesboro	PA	39.8	-77.6	1	
+2794	10/02/23	Norman	OK	35.3	-97.5	13	
+2795	10/02/23	Hamilton	ON	43.3	-79.9	3	
+2796	10/02/23	Southgate	MI	42.2	-83.2	1	
+2797	10/02/23	Middleton	WI	43.1	-89.5	1	
+2798	10/02/23	North Canton	OH	40.9	-81.4	2	
+2799	10/02/23	Wanaque	NJ	41	-74.3	1	
+2800	10/02/23	Valley Ford	CA	38.4	-122.9	2	
+2801	10/02/23	Lyman	NE	41.9	-104	1	
+2802	10/02/23	St. Louis	MO	38.6	-90.3	1	
+2803	10/02/23	Port Colborne	ON	42.9	-79.2	6	
+2804	10/02/23	Wauwatosa	WI	43.1	-88	1	
+2805	10/02/23	Yonkers	NY	40.9	-73.9	2	
+2806	10/02/23	Springfield	MO	37.1	-93.3	1	
+2807	10/02/23	Minneapolis	MN	45.2	-93.3	1	
+2808	10/02/23	Lincoln	NE	40.7	-96.7	4	
+2809	10/02/23	Lewisburg	WV	37.8	-80.4	1	
+2810	10/02/23	Windsor Heights	IA	41.6	-93.7	2	
+2811	10/02/23	Dodgeville	WI	43	-90.1	2	
+2812	10/02/23	Berkeley Springs	WV	39.5	-78.2	1	
+2813	10/02/23	Chatham	ON	42.4	-82.2	13	
+2814	10/02/23	St Paul	MN	44.9	-93.2	1	
+2815	10/02/23	Ashland	KY	38.4	-82.6	2	
+2816	10/02/23	Peabody	KS	38.2	-97.1	3	
+2817	10/02/23	Prairie Village	KS	39	-94.6	2	
+2818	10/02/23	Huron	SD	44.4	-98.2	2	
+2819	10/02/23	Pickens	SC	35	-82.6	1	
+2820	10/02/23	Fayetteville	AR	36.1	-94.1	1	
+2821	10/02/23	Springfield	MO	37.2	-93.3	3	
+2822	10/02/23	Fort Worth	TX	32.8	-97.3	5	
+2823	10/02/23	Minneapolis	MN	44.9	-93.3	3	
+2824	10/02/23	Choctaw	OK	35.4	-97.3	5	
+2825	10/02/23	Marble Falls	TX	30.6	-98.2	4	
+2826	10/02/23	Ellendale	DE	38.8	-75.4	1	
+2827	10/02/23	Hartwell	GA	34.4	-82.9	1	
+2828	10/02/23	Wyoming	IL	41.1	-89.8	2	
+2829	10/02/23	Clarksburg	PA	40.5	-79.3	1	
+2830	10/02/23	Alexander	NC	35.7	-82.6	1	
+2831	10/02/23	Sauk Centre	MN	45.7	-94.9	4	
+2832	10/02/23	Cincinnati	OH	39.1	-84.4	1	
+2833	10/02/23	Waynesville	OH	39.5	-84.1	2	
+2834	10/02/23	Tulsa	OK	36.2	-95.9	7	
+2835	10/02/23	Plymouth	MI	42.4	-83.5	1	
+2836	10/02/23	Gulf Breeze	FL	30.4	-87.2	3	
+2837	10/02/23	Calera	OK	33.9	-96.4	3	
+2838	10/02/23	Fox	AR	35.8	-92.3	1	
+2839	10/02/23	Seymour	WI	44.5	-88.4	1	
+2840	10/02/23	Mt Sidney	VA	38.3	-79	1	
+2841	10/02/23	Union Charter Township	MI	43.6	-84.7	5	
+2842	10/02/23	Centreville	MD	39	-76.1	2	
+2843	10/02/23	Edwardsville	IL	38.8	-90	5	
+2844	10/02/23	Lowell	IN	41.3	-87.4	1	
+2845	10/02/23	West Lake Hills	TX	30.3	-97.8	1	
+2846	10/02/23	Manton	MI	44.4	-85.5	1	
+2847	10/02/23	Michigan City	IN	41.6	-86.9	2	
+2848	10/02/23	Wyoming	MI	42.9	-85.7	2	
+2849	10/02/23	Ramona	CA	33	-116.8	1	
+2850	10/02/23	Montgomery	TX	30.4	-95.8	1	
+2851	10/02/23	Rockfield	KY	36.9	-86.6	1	
+2852	10/02/23	Rockaway Township	NJ	40.9	-74.5	0	
+2853	10/02/23	Mcveytown	PA	40.5	-77.8	0	
+2854	10/01/23	Mcveytown	PA	40.5	-77.8	1	
+2855	10/01/23	Media	PA	39.9	-75.4	2	
+2856	10/01/23	New Ringgold	PA	40.6	-76	1	
+2857	10/01/23	Louisville	KY	38.1	-85.6	3	
+2858	10/01/23	Binghamton	NY	42.1	-75.9	1	
+2859	10/01/23	Ardmore	OK	34.1	-97.1	1	
+2860	10/01/23	Westport	CT	41.1	-73.3	5	
+2861	10/01/23	Piqua	OH	40.1	-84.2	2	
+2862	10/01/23	Cairo	GA	30.9	-84.2	1	
+2863	10/01/23	Lancaster	PA	40	-76.3	1	
+2864	10/01/23	Winchester	VA	39.2	-78.2	6	
+2865	10/01/23	Trout Lake	MI	46.2	-85.1	2	
+2866	10/01/23	Hesperia	MI	43.5	-86.1	1	
+2867	10/01/23	Portsmouth	VA	36.8	-76.4	25	
+2868	10/01/23	Oklahoma City	OK	35.5	-97.5	1	
+2869	10/01/23	Beachwood	OH	41.5	-81.5	1	
+2870	10/01/23	Benicia	CA	38.1	-122.2	2	
+2871	10/01/23	Leesburg	VA	39.1	-77.5	1	
+2872	10/01/23	Mooresville	IN	39.6	-86.4	1	
+2873	10/01/23	Palmarejo	PR	18.3	-66.3	1	
+2874	10/01/23	Owasso	OK	36.3	-95.9	3	
+2875	10/01/23	Old Fort	NC	35.6	-82.2	5	
+2876	10/01/23	Lewis Center	OH	40.2	-83	1	
+2877	10/01/23	Council Bluffs	IA	41.2	-95.9	1	
+2878	10/01/23	New Brighton	MN	45.1	-93.2	1	
+2879	10/01/23	Waynesboro	PA	39.8	-77.6	1	
+2880	10/01/23	Akron	OH	41.1	-81.5	1	
+2881	10/01/23	Toronto	ON	43.6	-79.5	1	
+2882	10/01/23	Willowbrook	IL	41.8	-87.9	1	
+2883	10/01/23	Leesburg	VA	39.1	-77.5	1	
+2884	10/01/23	Middle Island	NY	40.9	-72.9	1	
+2885	10/01/23	Dodge Center	MN	44	-92.9	1	
+2886	10/01/23	Yonkers	NY	40.9	-73.9	1	
+2887	10/01/23	Stevens Point	WI	44.5	-89.5	1	
+2888	10/01/23	Eau Claire	WI	44.8	-91.6	1	
+2889	10/01/23	Minnetonka	MN	44.9	-93.5	1	
+2890	10/01/23	Tulsa	OK	36.1	-96	1	
+2891	10/01/23	Toronto	ON	43.7	-79.3	2	
+2892	10/01/23	Arlington Heights	IL	42.1	-88	1	
+2893	10/01/23	Savannah	GA	31.9	-81.1	1	
+2894	10/01/23	Mississauga	ON	43.6	-79.6	1	
+2895	10/01/23	Eau Claire	WI	44.8	-91.6	1	
+2896	10/01/23	Blanchard	OK	35.2	-97.7	1	
+2897	10/01/23	Kirkwood	MO	38.6	-90.4	10	
+2898	10/01/23	Newville	PA	40.2	-77.4	1	
+2899	10/01/23	Ballwin	MO	38.6	-90.5	1	
+2900	10/01/23	Sinking Spring	PA	40.3	-76	1	
+2901	10/01/23	Winter Harbor	ME	44.3	-68.1	3	
+2902	10/01/23	St. Louis	MO	38.7	-90.5	1	
+2903	10/01/23	New York	NY	40.8	-73.8	1	
+2904	10/01/23	Pinole	CA	38	-122.3	1	
+2905	10/01/23	Nichols	NY	42.1	-76.3	1	
+2906	10/01/23	Broomfield	CO	39.9	-105.1	2	
+2907	10/01/23	Madison	WI	43	-89.5	1	
+2908	10/01/23	Portage	WI	43.5	-89.5	2	
+2909	10/01/23	Monroe	MI	41.9	-83.3	2	
+2910	10/01/23	Bay City	MI	43.6	-83.9	1	
+2911	10/01/23	Concord	CA	38	-122	1	
+2912	10/01/23	Welland	ON	43	-79.2	1	
+2913	10/01/23	Pearl	TX	31.4	-98	1	
+2914	10/01/23	Springfield	MO	37.2	-93.3	1	
+2915	10/01/23	High Point	NC	36	-80	1	
+2916	10/01/23	Ozark	MO	37.1	-93.2	2	
+2917	10/01/23	Flat Rock	MI	42.1	-83.3	7	
+2918	10/01/23	KCMO	MO	39.2	-94.5	5	
+2919	10/01/23	Mill Valley	CA	37.9	-122.5	2	
+2920	10/01/23	Wichita	KS	37.6	-97.3	10	
+2921	10/01/23	Salem	NH	42.8	-71.2	1	
+2922	10/01/23	Chatham	ON	42.4	-82.2	8	
+2923	10/01/23	Urbana	IL	40.1	-88.2	2	
+2924	10/01/23	Ashland	KY	38.4	-82.6	1	
+2925	10/01/23	New Berlin	WI	43	-88.1	2	
+2926	10/01/23	New Berlin	WI	43	-88.1	1	
+2927	10/01/23	Syracuse	NY	43	-76.3	1	
+2928	10/01/23	Norman	OK	35.3	-97.5	20	
+2929	10/01/23	Franklin	MN	44.5	-94.9	1	
+2930	10/01/23	Grand Rapids	MI	42.9	-85.6	2	
+2931	10/01/23	Fort Worth	TX	32.8	-97.3	2	
+2932	10/01/23	Roxana	IL	38.8	-90	3	
+2933	10/01/23	Blaine	WI	44.4	-89.3	2	
+2934	10/01/23	St. Louis	MO	38.5	-90.4	1	
+2935	10/01/23	Minneapolis	MN	44.9	-93.3	1	
+2936	10/01/23	Whitby	ON	43.9	-79	2	
+2937	10/01/23	Howards Grove	WI	43.8	-87.8	1	
+2938	10/01/23	Edmond	OK	35.7	-97.5	2	
+2939	10/01/23	Marion	NC	35.8	-82	15	
+2940	10/01/23	Tulsa	OK	36.1	-96	1	
+2941	10/01/23	Tulsa	OK	36.2	-96	5	
+2942	10/01/23	Aberdeen Township	NJ	40.4	-74.2	2	
+2943	10/01/23	Point Pelee National Park	ON	41.9	-82.5	10	
+2944	10/01/23	Flat Rock	MI	42.1	-83.3	1	
+2945	10/01/23	Eagan	MN	44.8	-93.2	1	
+2946	10/01/23	Dodge Center	MN	44	-92.9	2	
+2947	10/01/23	Lusby	MD	38.3	-76.4	6	
+2948	10/01/23	Lothian	MD	38.8	-76.7	1	
+2949	10/01/23	Asheville	NC	35.6	-82.6	2	
+2950	10/01/23	Oklahoma City	OK	35.5	-97.6	2	
+2951	10/01/23	Crivitz	WI	45.2	-88.1	1	
+2952	10/01/23	Berrien Center	MI	41.9	-86.3	1	
+2953	10/01/23	Yukon	OK	35.6	-97.7	15	
+2954	10/01/23	Woodstock	GA	34.2	-84.4	3	
+2955	10/01/23	Schwenksville	PA	40.3	-75.5	1	
+2956	10/01/23	Burlington	ON	43.3	-79.8	4	
+2957	10/01/23	Lusby	MD	38.3	-76.4	4	
+2958	10/01/23	Charleston	SC	32.7	-80	8	
+2959	10/01/23	Middle Township	NJ	39.1	-74.8	1	
+2960	10/01/23	Cicero	WI	44.5	-88.4	2	
+2961	10/01/23	Calera	OK	33.9	-96.4	2	
+2962	10/01/23	New Brighton	MN	45.1	-93.2	1	
+2963	10/01/23	New Brighton	MN	45.1	-93.2	1	
+2964	10/01/23	New Brighton	MN	45.1	-93.2	1	
+2965	10/01/23	Trinity	NC	35.9	-80	1	
+2966	10/01/23	Mt Pleasant	MI	43.6	-84.7	7	
+2967	10/01/23	Belleville	ON	44.2	-77.4	2	
+2968	10/01/23	Thornton	CO	39.9	-105	1	
+2969	10/01/23	Oklahoma City	OK	35.5	-97.6	29	
+2970	10/01/23	Hesperia	MI	43.5	-86.1	1	
+2971	10/01/23	Dallas	TX	32.9	-96.7	1	
+2972	10/01/23	West Bishop	CA	37.3	-118.4	1	
+2973	10/01/23	Hitchcock	OK	36	-98.3	2	
+2974	09/30/23	Wooster	OH	40.8	-82	1	
+2975	09/30/23	New Berlin	WI	43	-88.1	1	
+2976	09/30/23	Savannah	GA	31.9	-81.1	1	
+2977	09/30/23	Mabel	MN	43.5	-91.9	2	
+2978	09/30/23	Milwaukee	WI	43	-87.9	1	
+2979	09/30/23	New Berlin	WI	43	-88.1	1	
+2980	09/30/23	Charlottesville	VA	38	-78.5	2	
+2981	09/30/23	Sioux Falls	SD	43.5	-96.8	1	
+2982	09/30/23	Cincinnati	OH	39.1	-84.5	1	
+2983	09/30/23	Madison	WI	43	-89.5	2	
+2984	09/30/23	Geneseo	IL	41.4	-90.2	6	
+2985	09/30/23	Wheatland	MO	37.9	-93.4	4	
+2986	09/30/23	Tulsa	OK	36.1	-95.9	1	
+2987	09/30/23	Honeoye Falls	NY	43	-77.6	1	
+2988	09/30/23	Rolla	MO	37.9	-91.8	1	
+2989	09/30/23	Williams Charter Township	MI	43.6	-84.1	1	
+2990	09/30/23	Lakeville	MN	44.7	-93.2	5	
+2991	09/30/23	Detroit	MI	42.3	-83.1	1	
+2992	09/30/23	Mulvane	KS	37.5	-97.2	1	
+2993	09/30/23	KCMO	MO	39.2	-94.5	4	
+2994	09/30/23	Pancoastburg	OH	39.6	-83.2	11	
+2995	09/30/23	Council Bluffs	IA	41.2	-95.9	1	
+2996	09/30/23	Kalamazoo	MI	42.3	-85.6	1	
+2997	09/30/23	Norman	OK	35.3	-97.5	10	
+2998	09/30/23	Hudson Falls	NY	43.3	-73.6	1	
+2999	09/30/23	Ashland	KY	38.4	-82.6	1	
+3000	09/30/23	Orange Beach	AL	30.3	-87.6	3	
+3001	09/30/23	Naples	FL	26.2	-81.7	1	
+3002	09/30/23	New Glarus	WI	42.8	-89.6	1	
+3003	09/30/23	Hutto	TX	30.5	-97.6	1	
+3004	09/30/23	Frederick	OK	34.4	-99	1	
+3005	09/30/23	Grand Rapids	MI	42.9	-85.6	3	
+3006	09/30/23	Crystal Lake	IL	42.2	-88.4	2	
+3007	09/30/23	Edinburg	TX	26.3	-98.2	1	
+3008	09/30/23	Springfield	MO	37.2	-93.4	1	
+3009	09/30/23	Mt Vernon	MO	37.1	-93.8	1	
+3010	09/30/23	Miller	MO	37.2	-93.8	1	
+3011	09/30/23	Mt Vernon	MO	37.1	-93.8	1	
+3012	09/30/23	Mt Vernon	MO	37.2	-93.8	1	
+3013	09/30/23	Billings	MO	37.1	-93.5	1	
+3014	09/30/23	Springfield	MO	37.2	-93.3	1	
+3015	09/30/23	Wauwatosa	WI	43.1	-88	1	
+3016	09/30/23	Chatham	ON	42.4	-82.2	2	
+3017	09/30/23	Hendersonville	NC	35.4	-82.3	3	
+3018	09/30/23	Lexington	OK	35	-97.3	1	
+3019	09/30/23	Shawnee	KS	39	-94.7	1	
+3020	09/30/23	Fort Worth	TX	32.8	-97.3	4	
+3021	09/30/23	KCMO	MO	39	-94.6	1	
+3022	09/30/23	Urbana	IL	40.1	-88.2	1	
+3023	09/30/23	Ballwin	MO	38.6	-90.5	2	
+3024	09/30/23	Edmond	OK	35.7	-97.5	1	
+3025	09/30/23	Stockton	CA	38	-121.3	1	
+3026	09/30/23	Point Pelee National Park	ON	41.9	-82.5	42	
+3027	09/30/23	Warren	MI	42.5	-83.1	1	
+3028	09/30/23	Washington Court House	OH	39.5	-83.4	1	
+3029	09/30/23	Minneapolis	MN	44.9	-93.3	1	
+3030	09/30/23	Amherst	VA	37.6	-79.1	3	
+3031	09/30/23	Richmond	VA	37.5	-77.5	1	
+3032	09/30/23	Wernersville	PA	40.3	-76.1	1	
+3033	09/30/23	Greenwood	IN	39.6	-86.2	2	
+3034	09/30/23	Thornton	CO	39.9	-104.9	1	
+3035	09/30/23	Charleston	SC	32.7	-80	12	
+3036	09/30/23	Portage	WI	43.5	-89.5	2	
+3037	09/30/23	Carrollton	TX	33	-96.9	1	
+3038	09/30/23	Rockford	IL	42.3	-89	1	
+3039	09/30/23	Oklahoma City	OK	35.6	-97.6	10	
+3040	09/30/23	New Cumberland	PA	40.2	-76.9	1	
+3041	09/30/23	Lake Lure	NC	35.4	-82.2	2	
+3042	09/30/23	St. Louis	MO	38.5	-90.4	1	
+3043	09/30/23	Edwardsville	IL	38.8	-90	8	
+3044	09/30/23	Fenton	MO	38.5	-90.4	1	
+3045	09/30/23	Howards Grove	WI	43.8	-87.8	1	
+3046	09/30/23	Harbor Springs	MI	45.6	-85	1	
+3047	09/30/23	Golden	CO	39.9	-105.4	1	
+3048	09/30/23	Asheville	NC	35.6	-82.6	1	
+3049	09/30/23	Barnardsville	NC	35.8	-82.5	3	
+3050	09/30/23	Toronto	ON	43.6	-79.5	5	
+3051	09/30/23	Tulsa	OK	36.1	-95.9	2	
+3052	09/30/23	Cincinnati	OH	39.1	-84.4	6	
+3053	09/30/23	Cincinnati	OH	39.1	-84.4	1	
+3054	09/30/23	Kennesaw	GA	34	-84.7	1	
+3055	09/30/23	Calera	OK	33.9	-96.4	2	
+3056	09/30/23	Highlands	NJ	40.4	-74	2	
+3057	09/30/23	Arden Hills	MN	45.1	-93.1	1	
+3058	09/30/23	Hartford	WI	43.3	-88.4	4	
+3059	09/30/23	Westminster	CO	39.9	-105	1	
+3060	09/30/23	Dallas	TX	32.9	-96.7	2	
+3061	09/30/23	Frederick	OK	34.4	-99	1	
+3062	09/30/23	West Point	IN	40.3	-87	1	
+3063	09/30/23	Boyce	VA	39.1	-78.1	1	
+3064	09/30/23	Staunton	VA	38.2	-79.1	10	
+3065	09/30/23	Mcveytown	PA	40.5	-77.8	1	
+3066	09/30/23	Media	PA	39.9	-75.4	1	
+3067	09/29/23	Ferguson Township	PA	40.8	-77.9	1	
+3068	09/29/23	Media	PA	39.9	-75.4	2	
+3069	09/29/23	Belle River	ON	42.3	-82.7	4	
+3070	09/29/23	Mindenmines	MO	37.4	-94.6	13	
+3071	09/29/23	Brillion	WI	44.2	-88.1	7	
+3072	09/29/23	Ramona	CA	33	-116.8	1	
+3073	09/29/23	Palmarejo	PR	18.3	-66.3	1	
+3074	09/29/23	Tulsa	OK	36.1	-95.9	20	
+3075	09/29/23	Nolensville	TN	36	-86.7	1	
+3076	09/29/23	Pittsburg	KS	37.4	-94.7	1	
+3077	09/29/23	Auburn	AL	32.6	-85.5	1	
+3078	09/29/23	Auburn	AL	32.6	-85.5	1	
+3079	09/29/23	Springfield	MO	37.2	-93.3	1	
+3080	09/29/23	Yukon	OK	35.5	-97.7	1	
+3081	09/29/23	Modesto	CA	37.7	-121	1	
+3082	09/29/23	Edmond	OK	35.6	-97.4	1	
+3083	09/29/23	Arden	NC	35.5	-82.5	1	
+3084	09/29/23	Slater-Marietta	SC	35.1	-82.6	1	
+3085	09/29/23	Eagan	MN	44.8	-93.2	1	
+3086	09/29/23	East Lansing	MI	42.7	-84.5	2	
+3087	09/29/23	St Paul	MN	44.9	-93.1	1	
+3088	09/29/23	Yukon	OK	35.5	-97.7	1	
+3089	09/29/23	Omaha	NE	41.2	-96.2	2	
+3090	09/29/23	Ballwin	MO	38.6	-90.5	1	
+3091	09/29/23	Paoli	IN	38.6	-86.5	1	
+3092	09/29/23	Savannah	GA	31.9	-81.1	1	
+3093	09/29/23	Itasca	IL	42	-88	1	
+3094	09/29/23	Lakewood	CO	39.7	-105.2	1	
+3095	09/29/23	North Canton	OH	40.9	-81.4	2	
+3096	09/29/23	Geneseo	IL	41.4	-90.2	4	
+3097	09/29/23	St Paul	MN	44.9	-93.1	1	
+3098	09/29/23	Lyndhurst	OH	41.5	-81.5	4	
+3099	09/29/23	Locust Grove	OK	36.2	-95.2	5	
+3100	09/29/23	Sunbury	OH	40.2	-82.8	1	
+3101	09/29/23	Chatham	ON	42.4	-82.2	4	
+3102	09/29/23	Schaumburg	IL	42	-88.1	3	
+3103	09/29/23	Edwardsville	IL	38.8	-90	14	
+3104	09/29/23	Boonville	NC	36.2	-80.7	1	
+3105	09/29/23	Osage Beach	MO	38.1	-92.7	6	
+3106	09/29/23	Bellville	OH	40.6	-82.5	1	
+3107	09/29/23	Denton	TX	33.2	-97.1	1	
+3108	09/29/23	Mounds	OK	35.9	-96.1	4	
+3109	09/29/23	San Jose	CA	37.3	-121.8	1	
+3110	09/29/23	Norman	OK	35.2	-97.5	1	
+3111	09/29/23	Point Pelee National Park	ON	41.9	-82.5	4	
+3112	09/29/23	Raleigh	NC	35.9	-78.8	1	
+3113	09/29/23	Prairie Du Sac	WI	43.3	-89.7	2	
+3114	09/29/23	Tulsa	OK	36.2	-95.9	9	
+3115	09/29/23	Tulsa	OK	36.1	-95.9	1	
+3116	09/29/23	Cleveland	OH	41.5	-81.6	1	
+3117	09/29/23	Hutto	TX	30.5	-97.6	1	
+3118	09/29/23	Oklahoma City	OK	35.6	-97.5	1	
+3119	09/29/23	KCMO	MO	39.2	-94.5	1	
+3120	09/29/23	St. Louis	MO	38.6	-90.2	1	
+3121	09/29/23	Norman	OK	35.3	-97.5	5	
+3122	09/29/23	Schertz	TX	29.6	-98.3	3	
+3123	09/29/23	Brunswick	OH	41.2	-81.8	2	
+3124	09/29/23	Carolina Beach	NC	34	-77.9	1	
+3125	09/29/23	Springfield	MO	37.2	-93.3	1	
+3126	09/29/23	Wilson	NC	35.7	-77.9	2	
+3127	09/29/23	Roanoke	VA	37.3	-80	4	
+3128	09/29/23	Wake Forest	NC	36	-78.6	1	
+3129	09/29/23	Greenwood	IN	39.6	-86.2	3	
+3130	09/29/23	Jefferson City	MO	38.6	-92.2	3	
+3131	09/29/23	Keller	TX	32.9	-97.2	1	
+3132	09/29/23	Arden	NC	35.4	-82.5	1	
+3133	09/29/23	Cincinnati	OH	39.1	-84.4	1	
+3134	09/29/23	Cincinnati	OH	39.1	-84.4	1	
+3135	09/29/23	St Paul	MN	44.9	-93.1	1	
+3136	09/29/23	Minneapolis	MN	44.9	-93.3	2	
+3137	09/29/23	Breaux Bridge	LA	30.3	-91.9	2	
+3138	09/28/23	Arlington	TX	32.8	-97.1	3	
+3139	09/28/23	Evansville	IN	38.1	-87.5	1	
+3140	09/28/23	Roanoke	VA	37.3	-80	2	
+3141	09/28/23	Brampton	ON	43.7	-79.8	1	
+3142	09/28/23	Pittsburg	KS	37.4	-94.7	1	
+3143	09/28/23	Oklahoma City	OK	35.5	-97.5	1	
+3144	09/28/23	Frederick	MD	39.4	-77.4	1	
+3145	09/28/23	Austin	TX	30.3	-97.8	1	
+3146	09/28/23	Peabody	KS	38.2	-97.1	1	
+3147	09/28/23	Simpsonville	SC	34.7	-82.3	1	
+3148	09/28/23	Ashland	KY	38.4	-82.6	1	
+3149	09/28/23	Edmond	OK	35.7	-97.5	10	
+3150	09/28/23	Syracuse	NY	43	-76.2	1	
+3151	09/28/23	Stevens Point	WI	44.5	-89.5	1	
+3152	09/28/23	Greenwood	IN	39.6	-86.2	1	
+3153	09/28/23	Minneapolis	MN	44.9	-93.3	3	
+3154	09/28/23	Papillion	NE	41.1	-96	1	
+3155	09/28/23	Eau Claire	WI	44.8	-91.6	1	
+3156	09/28/23	Braham	MN	45.7	-93.2	1	
+3157	09/28/23	Regina	SK	50.4	-104.6	1	
+3158	09/28/23	Minneapolis	MN	45	-93.2	1	
+3159	09/28/23	Toronto	ON	43.6	-79.4	1	
+3160	09/28/23	Greenfield	IL	39.3	-90.1	2	
+3161	09/28/23	Ashland	KY	38.4	-82.6	1	
+3162	09/28/23	Edmond	OK	35.7	-97.5	2	
+3163	09/28/23	Rockwood	TN	35.9	-84.7	3	
+3164	09/28/23	Broken Arrow	OK	36	-95.8	1	
+3165	09/28/23	Miami	FL	25.7	-80.2	2	
+3166	09/28/23	Basehor	KS	39.1	-94.9	7	
+3167	09/28/23	Mounds	OK	35.9	-96	4	
+3168	09/28/23	Minneapolis	MN	44.9	-93.3	1	
+3169	09/28/23	Marble Falls	TX	30.6	-98.2	1	
+3170	09/28/23	Minneapolis	MN	44.9	-93.3	1	
+3171	09/28/23	Cedar Rapids	IA	42	-91.6	2	
+3172	09/28/23	Austin	MN	43.7	-93	1	
+3173	09/28/23	Albert Lea	MN	43.7	-93.2	1	
+3174	09/28/23	Minnetonka	MN	44.9	-93.5	1	
+3175	09/28/23	Edmond	OK	35.7	-97.5	10	
+3176	09/28/23	Canton	NC	35.3	-82.8	5	
+3177	09/28/23	Argura	NC	35.3	-83	6	
+3178	09/28/23	Juntura	OR	43.8	-117.9	1	
+3179	09/28/23	Tulsa	OK	36.1	-96	1	
+3180	09/28/23	Tulsa	OK	36.2	-95.9	9	
+3181	09/28/23	Arden	NC	35.5	-82.5	1	
+3182	09/28/23	Chelsea	OK	36.5	-95.4	3	
+3183	09/28/23	Ballwin	MO	38.6	-90.5	3	
+3184	09/28/23	Evansville	IN	38.1	-87.5	3	
+3185	09/28/23	Sabinsville	PA	41.9	-77.6	1	
+3186	09/28/23	Edwardsville	IL	38.8	-90	8	
+3187	09/28/23	Amherst	WI	44.4	-89.3	1	
+3188	09/28/23	Portsmouth	VA	36.9	-76.4	2	
+3189	09/28/23	Louisville	KY	38.2	-85.8	1	
+3190	09/28/23	KCMO	MO	39.2	-94.5	1	
+3191	09/28/23	Le Roy	NY	43	-78	1	
+3192	09/28/23	Norman	OK	35.3	-97.5	7	
+3193	09/28/23	Davidson	NC	35.5	-80.8	1	
+3194	09/28/23	Cincinnati	OH	39.1	-84.4	1	
+3195	09/28/23	North Topsail Beach	NC	34.5	-77.3	1	
+3196	09/28/23	North Topsail Beach	NC	34.6	-77.3	1	
+3197	09/28/23	Boone	NC	36.2	-81.7	4	
+3198	09/28/23	Berkeley Springs	WV	39.5	-78.3	4	
+3199	09/28/23	Granbury	TX	32.4	-97.7	13	
+3200	09/28/23	St. Catharines	ON	43.2	-79.2	1	
+3201	09/28/23	West Lake Hills	TX	30.3	-97.8	1	
+3202	09/28/23	St Simons Island	GA	31.2	-81.4	2	
+3203	09/28/23	Dallas	TX	32.9	-96.7	1	
+3204	09/28/23	Hitchcock	OK	36	-98.3	1	
+3205	09/28/23	Des Moines	IA	41.5	-93.6	1	
+3206	09/28/23	Harrisburg	PA	40.3	-76.9	3	
+3207	09/28/23	Arlington	TX	32.7	-97.1	1	
+3208	09/28/23	Mooresville	IN	39.6	-86.4	3	
+3209	09/28/23	North Augusta	SC	33.5	-82	1	
+3210	09/28/23	Rockaway Township	NJ	40.9	-74.5	0	
+3211	09/28/23	Media	PA	39.9	-75.4	0	
+3212	09/28/23	New Ringgold	PA	40.6	-76	0	
+3213	09/27/23	Amherstburg	ON	42	-83	0	
+3214	09/27/23	Rockaway Township	NJ	40.9	-74.5	2	
+3215	09/27/23	Media	PA	39.9	-75.4	2	
+3216	09/27/23	New Ringgold	PA	40.6	-76	1	
+3217	09/27/23	Lancaster	PA	40	-76.3	2	
+3218	09/27/23	Mineral Bluff	GA	34.9	-84.3	1	
+3219	09/27/23	Harrisburg	PA	40.3	-76.9	1	
+3220	09/27/23	Robbinsville	NC	35.3	-83.8	2	
+3221	09/27/23	Larkspur	CO	39.2	-104.8	3	
+3222	09/27/23	Murfreesboro	TN	35.9	-86.4	1	
+3223	09/27/23	Hammond	IN	41.6	-87.5	6	
+3224	09/27/23	Joplin	MO	37	-94.6	3	
+3225	09/27/23	Waynesville	NC	35.4	-83.1	25	
+3226	09/27/23	Yukon	OK	35.6	-97.7	1	
+3227	09/27/23	Pittsburg	KS	37.4	-94.7	2	
+3228	09/27/23	Plainview	TX	34.2	-101.7	4	
+3229	09/27/23	Indian Land	SC	34.9	-80.9	3	
+3230	09/27/23	Clayton	GA	34.9	-83.5	12	
+3231	09/27/23	Ogden	UT	41.3	-112.1	2	
+3232	09/27/23	Jericho	VT	44.5	-73	2	
+3233	09/27/23	Parma	OH	41.4	-81.7	1	
+3234	09/27/23	Austin	TX	30.3	-97.8	1	
+3235	09/27/23	Camdenton	MO	38	-92.7	8	
+3236	09/27/23	Wappingers Falls	NY	41.5	-74	3	
+3237	09/27/23	North Canton	OH	40.9	-81.4	2	
+3238	09/27/23	Langdon	NH	43.2	-72.3	4	
+3239	09/27/23	Centerville	UT	40.9	-111.9	1	
+3240	09/27/23	Humboldt	KS	37.8	-95.4	2	
+3241	09/27/23	Spring Lake	MI	43.1	-86.2	1	
+3242	09/27/23	Ramona	CA	33	-116.8	3	
+3243	09/27/23	Greenfield	IL	39.3	-90.1	30	
+3244	09/27/23	Prairieville	LA	30.3	-91	3	
+3245	09/27/23	Blue Bell	PA	40.2	-75.3	1	
+3246	09/27/23	Napa	CA	38.3	-122.3	1	
+3247	09/27/23	Hewitt	TX	31.4	-97.2	1	
+3248	09/27/23	Prairieville	LA	30.3	-91	4	
+3249	09/27/23	Maple Lake	MN	45.2	-94	1	
+3250	09/27/23	Hackensack	NJ	40.9	-74	1	
+3251	09/27/23	Granby	MA	42.3	-72.5	8	
+3252	09/27/23	Iowa City	IA	41.6	-91.5	1	
+3253	09/27/23	Norman	OK	35.2	-97.5	1	
+3254	09/27/23	Sagrada	MO	38.2	-93.1	1	
+3255	09/27/23	Spring Hill	TN	35.8	-86.9	6	
+3256	09/27/23	Barre	VT	44.2	-72.4	1	
+3257	09/27/23	Lincoln	MA	42.4	-71.3	1	
+3258	09/27/23	Fayetteville	AR	36.1	-94.2	1	
+3259	09/27/23	Plano	TX	33	-96.6	3	
+3260	09/27/23	Springfield	PA	39.9	-75.3	1	
+3261	09/27/23	Hutto	TX	30.5	-97.6	1	
+3262	09/27/23	Keysers Ridge	MD	39.7	-79.2	1	
+3263	09/27/23	Greensboro	NC	36.1	-79.9	1	
+3264	09/27/23	St. Louis	MO	38.6	-90.3	6	
+3265	09/27/23	Dakota	MN	43.9	-91.4	1	
+3266	09/27/23	Boerne	TX	29.8	-98.7	1	
+3267	09/27/23	Carbondale	IL	37.7	-89.2	2	
+3268	09/27/23	Tulsa	OK	36.1	-95.9	2	
+3269	09/27/23	Greenwood	IN	39.6	-86.2	3	
+3270	09/27/23	Tahlequah	OK	35.9	-95	3	
+3271	09/27/23	Tulsa	OK	36.1	-96	1	
+3272	09/27/23	Tulsa	OK	36.1	-95.9	2	
+3273	09/27/23	Oklahoma City	OK	35.4	-97.5	12	
+3274	09/27/23	Minneapolis	MN	44.9	-93.3	2	
+3275	09/27/23	Cedar Rapids	IA	42	-91.7	1	
+3276	09/27/23	Foristell	MO	38.8	-90.9	5	
+3277	09/27/23	Ponca City	OK	36.7	-96.9	2	
+3278	09/27/23	Ponca City	OK	36.7	-97.1	4	
+3279	09/27/23	Wausau	WI	45	-89.6	1	
+3280	09/27/23	Henderson	KY	37.9	-87.6	3	
+3281	09/27/23	Phillipsburg	NJ	40.7	-75.2	1	
+3282	09/27/23	Elizabethton	TN	36.3	-82.2	1	
+3283	09/27/23	Bartlesville	OK	36.9	-96	8	
+3284	09/27/23	Middletown Township	NJ	40.4	-74.1	2	
+3285	09/27/23	Sioux Falls	SD	43.5	-96.8	1	
+3286	09/27/23	Owasso	OK	36.3	-95.9	4	
+3287	09/27/23	Waco	TX	31.6	-97.1	1	
+3288	09/27/23	Point Pelee National Park	ON	41.9	-82.5	3	
+3289	09/27/23	Woodstock	GA	34.2	-84.4	1	
+3290	09/27/23	Caldwell	NJ	40.9	-74.3	1	
+3291	09/27/23	Ooltewah	TN	35.1	-85.1	2	
+3292	09/27/23	Huntsville	AL	34.7	-86.6	1	
+3293	09/27/23	Berkeley Springs	WV	39.6	-78.2	1	
+3294	09/27/23	Ashland	KY	38.4	-82.6	1	
+3295	09/27/23	Wasaga Beach	ON	44.5	-80	3	
+3296	09/27/23	Galesburg	IL	41	-90.4	1	
+3297	09/27/23	Watsonville	CA	36.9	-121.8	1	
+3298	09/27/23	Manton	MI	44.4	-85.5	1	
+3299	09/27/23	Omaha	NE	41.2	-96.1	1	
+3300	09/27/23	Edwardsville	IL	38.8	-90	20	
+3301	09/27/23	KCMO	MO	39.2	-94.5	1	
+3302	09/27/23	Elizabeth	CO	39.3	-104.6	1	
+3303	09/27/23	Stockton	CA	38	-121.3	1	
+3304	09/27/23	Krum	TX	33.2	-97.3	3	
+3305	09/27/23	Berkeley Springs	WV	39.5	-78.3	2	
+3306	09/27/23	Tulsa	OK	36.1	-96	2	
+3307	09/27/23	Dallas	TX	32.9	-96.7	2	
+3308	09/26/23	Fort Worth	TX	32.9	-97.3	2	
+3309	09/26/23	Tulsa	OK	36.2	-95.9	8	
+3310	09/26/23	Pittsburg	KS	37.4	-94.7	2	
+3311	09/26/23	Tulsa	OK	36.1	-96	3	
+3312	09/26/23	Baroda	MI	42	-86.5	1	
+3313	09/26/23	Eureka	MO	38.5	-90.6	2	
+3314	09/26/23	Clinton	CT	41.3	-72.5	1	
+3315	09/26/23	West Palm Beach	FL	26.8	-80	1	
+3316	09/26/23	Toronto	ON	43.6	-79.5	1	
+3317	09/26/23	Carmel Hamlet	NY	41.4	-73.7	12	
+3318	09/26/23	Greenfield	IL	39.3	-90.1	30	
+3319	09/26/23	Fort Morgan	AL	30.2	-88	3	
+3320	09/26/23	Helen	GA	34.7	-83.7	3	
+3321	09/26/23	Starbuck	MB	49.8	-97.6	1	
+3322	09/26/23	Starbuck	MB	49.8	-97.6	1	
+3323	09/26/23	Nixa	MO	37	-93.3	2	
+3324	09/26/23	Portland	OR	45.5	-122.7	2	
+3325	09/26/23	Prairieville	LA	30.3	-91	3	
+3326	09/26/23	Bristow	OK	35.8	-96.4	1	
+3327	09/26/23	Ballwin	MO	38.6	-90.5	3	
+3328	09/26/23	Norman	OK	35.3	-97.5	5	
+3329	09/26/23	Tulsa	OK	36.1	-95.9	1	
+3330	09/26/23	Wauwatosa	WI	43.1	-88	2	
+3331	09/26/23	Oklahoma City	OK	35.5	-97.6	16	
+3332	09/26/23	Brunswick	OH	41.2	-81.8	1	
+3333	09/26/23	Calhoun	GA	34.4	-85	2	
+3334	09/26/23	Yukon	OK	35.5	-97.7	1	
+3335	09/26/23	Copan	OK	36.9	-96	35	
+3336	09/26/23	Cedar Hill	TN	36.6	-87	1	
+3337	09/26/23	Noble	OK	35.1	-97.4	10	
+3338	09/26/23	Nashville	TN	36.2	-86.8	1	
+3339	09/26/23	Charleston	SC	32.7	-80	8	
+3340	09/26/23	St. Louis	MO	38.6	-90.2	1	
+3341	09/26/23	St. Louis	MO	38.6	-90.3	1	
+3342	09/26/23	Chatham	ON	42.4	-82.2	1	
+3343	09/26/23	Manton	MI	44.4	-85.5	1	
+3344	09/26/23	El Reno	OK	35.5	-98	4	
+3345	09/26/23	Howe	OK	35	-94.6	1	
+3346	09/26/23	Blanchard	OK	35.2	-97.7	7	
+3347	09/26/23	Chelsea	OK	36.5	-95.4	3	
+3348	09/26/23	Birmingham	AL	33.5	-86.7	2	
+3349	09/26/23	Lincoln	MA	42.4	-71.3	1	
+3350	09/26/23	Blairsville	GA	34.9	-84	12	
+3351	09/26/23	North Canton	OH	40.9	-81.4	2	
+3352	09/26/23	Choctaw	OK	35.4	-97.3	4	
+3353	09/26/23	Mounds	OK	35.9	-96	2	
+3354	09/26/23	Corpus Christi	TX	27.7	-97.4	1	
+3355	09/26/23	Leamington	ON	42	-82.6	2	
+3356	09/26/23	Williamstown	MA	42.7	-73.2	2	
+3357	09/26/23	Point Pelee National Park	ON	41.9	-82.5	6	
+3358	09/26/23	Dover	DE	39.2	-75.5	8	
+3359	09/26/23	Roxana	IL	38.8	-90	7	
+3360	09/26/23	Clarks Hill	SC	33.7	-82.2	1	
+3361	09/26/23	Jericho	VT	44.5	-73	4	
+3362	09/26/23	Peabody	KS	38.2	-97.1	1	
+3363	09/26/23	Ramona	CA	33	-116.8	4	
+3364	09/26/23	Dallas	TX	32.9	-96.7	2	
+3365	09/26/23	Litchfield Park	AZ	33.5	-112.5	1	
+3366	09/26/23	Monona	WI	43.1	-89.3	2	
+3367	09/26/23	Indian Lake	NY	43.9	-74.4	1	
+3368	09/26/23	Oklahoma City	OK	35.5	-97.5	3	
+3369	09/26/23	Locust Grove	OK	36.2	-95.2	5	
+3370	09/26/23	Searsmont	ME	44.3	-69.1	1	
+3371	09/26/23	Tulsa	OK	36.2	-96	1	
+3372	09/26/23	New Market	TN	36	-83.5	2	
+3373	09/26/23	Crystal Lake	IL	42.2	-88.3	1	
+3374	09/26/23	Conway	AR	35.1	-92.4	5	
+3375	09/26/23	Crumpler	NC	36.5	-81.4	2	
+3376	09/26/23	Owasso	OK	36.3	-95.9	5	
+3377	09/26/23	West Lake Hills	TX	30.3	-97.8	1	
+3378	09/26/23	Franklin	NC	35.1	-83.5	3	
+3379	09/26/23	Woodstock	GA	34.2	-84.4	2	
+3380	09/26/23	Edmond	OK	35.7	-97.5	20	
+3381	09/26/23	Palmarejo	PR	18.3	-66.3	1	
+3382	09/26/23	Marble Falls	TX	30.6	-98.2	3	
+3383	09/26/23	Meadowlakes	TX	30.6	-98.3	3	
+3384	09/26/23	Geneseo	IL	41.4	-90.2	11	
+3385	09/26/23	St. Louis	MO	38.5	-90.4	1	
+3386	09/26/23	Riverview	MI	42.2	-83.2	20	
+3387	09/26/23	Calera	OK	33.9	-96.4	2	
+3388	09/26/23	Tulsa	OK	36.1	-96	2	
+3389	09/26/23	Loveland	CO	40.4	-105.2	1	
+3390	09/26/23	Wake Forest	NC	36	-78.5	1	
+3391	09/26/23	Media	PA	39.9	-75.4	0	
+3392	09/26/23	New Ringgold	PA	40.6	-76	0	
+3393	09/25/23	Mcveytown	PA	40.5	-77.8	0	
+3394	09/25/23	New Ringgold	PA	40.6	-76	0	
+3395	09/25/23	Whitsett	NC	36.1	-79.6	1	
+3396	09/25/23	Pittsburg	KS	37.4	-94.7	1	
+3397	09/25/23	Washington	NC	35.6	-77	1	
+3398	09/25/23	New Cumberland	PA	40.2	-76.9	1	
+3399	09/25/23	Missouri City	TX	29.6	-95.6	1	
+3400	09/25/23	Fort Mill	SC	35	-80.9	1	
+3401	09/25/23	Mansfield	TX	32.6	-97.1	1	
+3402	09/25/23	Carbondale	IL	37.7	-89.2	1	
+3403	09/25/23	West Palm Beach	FL	26.8	-80	1	
+3404	09/25/23	Palmarejo	PR	18.3	-66.3	1	
+3405	09/25/23	Harrisonburg	VA	38.4	-78.9	1	
+3406	09/25/23	Dodge Center	MN	44	-92.9	2	
+3407	09/25/23	Simpsonville	SC	34.7	-82.3	17	
+3408	09/25/23	Portage	WI	43.5	-89.5	2	
+3409	09/25/23	Avondale Estates	GA	33.8	-84.3	1	
+3410	09/25/23	Plano	TX	33	-96.7	1	
+3411	09/25/23	St. Louis	MO	38.6	-90.3	1	
+3412	09/25/23	Halton Hills	ON	43.6	-79.9	1	
+3413	09/25/23	Chatham	ON	42.4	-82.2	1	
+3414	09/25/23	Terre Haute	IN	39.5	-87.4	1	
+3415	09/25/23	Greenwood	IN	39.6	-86.2	3	
+3416	09/25/23	Blackfoot	ID	43.2	-112.3	1	
+3417	09/25/23	South Lake Tahoe	CA	38.9	-120	4	
+3418	09/25/23	North Canton	OH	40.9	-81.4	5	
+3419	09/25/23	Omaha	NE	41.2	-96.2	12	
+3420	09/25/23	Richmond	VA	37.6	-77.4	1	
+3421	09/25/23	Laurel Park	NC	35.3	-82.5	4	
+3422	09/25/23	Indianola	IA	41.4	-93.6	3	
+3423	09/25/23	Brunswick	OH	41.2	-81.8	1	
+3424	09/25/23	Mesick	MI	44.4	-85.8	1	
+3425	09/25/23	Shawnee	KS	39	-94.8	2	
+3426	09/25/23	KCMO	MO	39.2	-94.5	1	
+3427	09/25/23	Shawnee	KS	39	-94.8	1	
+3428	09/25/23	New Market	TN	36	-83.5	3	
+3429	09/25/23	Clemson	SC	34.7	-82.8	2	
+3430	09/25/23	Oklahoma City	OK	35.5	-97.6	8	
+3431	09/25/23	Greenfield	IL	39.3	-90.1	25	
+3432	09/25/23	Blanchard	OK	35.2	-97.7	2	
+3433	09/25/23	Oklahoma City	OK	35.5	-97.6	5	
+3434	09/25/23	Fort Worth	TX	32.8	-97.3	2	
+3435	09/25/23	Warsaw	IN	41.3	-85.7	1	
+3436	09/25/23	St Marys	GA	30.7	-81.5	1	
+3437	09/25/23	Mounds	OK	35.9	-96.1	1	
+3438	09/25/23	Edmond	OK	35.7	-97.5	1	
+3439	09/25/23	Valmeyer	IL	38.3	-90.3	2	
+3440	09/25/23	Point Pelee National Park	ON	41.9	-82.5	17	
+3441	09/25/23	Dodgeville	WI	43	-90.1	5	
+3442	09/25/23	Green Bay	WI	44.5	-88	1	
+3443	09/25/23	Charleston	SC	32.7	-80	8	
+3444	09/25/23	Wentzville	MO	38.8	-90.8	1	
+3445	09/25/23	Asheville	NC	35.6	-82.6	1	
+3446	09/25/23	Horseshoe Bay	TX	30.5	-98.4	1	
+3447	09/25/23	Oklahoma City	OK	35.6	-97.6	4	
+3448	09/25/23	Norman	OK	35.3	-97.5	5	
+3449	09/25/23	Webster Groves	MO	38.6	-90.3	10	
+3450	09/25/23	Wood River	NE	40.8	-98.5	5	
+3451	09/25/23	Champaign	IL	40.1	-88.3	1	
+3452	09/25/23	Edwardsville	IL	38.8	-90	3	
+3453	09/25/23	Georgetown	TX	30.7	-97.7	1	
+3454	09/25/23	Austin	TX	30.4	-97.7	1	
+3455	09/25/23	Ramona	CA	33	-116.8	1	
+3456	09/25/23	Plattsburg	MO	39.6	-94.4	1	
+3457	09/25/23	Dallas	TX	32.9	-96.7	2	
+3458	09/25/23	Flower Mound	TX	33	-97.1	1	
+3459	09/25/23	Crystal Lake	IL	42.2	-88.4	2	
+3460	09/25/23	Owasso	OK	36.3	-95.9	2	
+3461	09/25/23	Oklahoma City	OK	35.5	-97.6	20	
+3462	09/25/23	Hampstead	NC	34.4	-77.7	2	
+3463	09/25/23	Old Fort	NC	35.6	-82.2	2	
+3464	09/25/23	Austin	TX	30.3	-97.7	3	
+3465	09/25/23	Utica	NY	43.1	-75.2	1	
+3466	09/25/23	Braidwood	IL	41.3	-88.2	2	
+3467	09/25/23	Berkeley Springs	WV	39.5	-78.2	1	
+3468	09/25/23	Calera	OK	33.9	-96.4	2	
+3469	09/25/23	Colorado Springs	CO	38.9	-104.9	1	
+3470	09/25/23	Dawsonville	GA	34.6	-84.2	3	
+3471	09/24/23	Tyler	TX	32.3	-95.3	5	
+3472	09/24/23	Columbus	WI	43.3	-89	6	
+3473	09/24/23	Highland	IN	41.5	-87.5	1	
+3474	09/24/23	Highland	IN	41.6	-87.5	1	
+3475	09/24/23	West Allis	WI	43	-88	1	
+3476	09/24/23	Del City	OK	35.5	-97.4	1	
+3477	09/24/23	Del City	OK	35.5	-97.4	1	
+3478	09/24/23	Morganton	NC	35.8	-81.7	2	
+3479	09/24/23	Charlotte	NC	35.2	-80.8	15	
+3480	09/24/23	Keller	TX	32.9	-97.2	1	
+3481	09/24/23	Carolina Beach	NC	34	-77.9	2	
+3482	09/24/23	St. Louis	MO	38.7	-90.5	7	
+3483	09/24/23	Hebron	NE	40.2	-97.6	12	
+3484	09/24/23	Murrells Inlet	SC	33.6	-79.1	1	
+3485	09/24/23	St. Louis	MO	38.5	-90.3	2	
+3486	09/24/23	Grand Rapids	MI	42.9	-85.6	1	
+3487	09/24/23	Tulsa	OK	36.2	-95.9	8	
+3488	09/24/23	Tanner	AL	34.6	-87	5	
+3489	09/24/23	Peru	NY	44.6	-73.6	1	
+3490	09/24/23	St. Louis	MO	38.5	-90.3	1	
+3491	09/24/23	Marble Falls	TX	30.6	-98.2	1	
+3492	09/24/23	Campobello	SC	35.1	-82.2	1	
+3493	09/24/23	Riviera Beach	FL	26.8	-80	1	
+3494	09/24/23	SF	CA	37.8	-122.4	1	
+3495	09/24/23	Itasca	IL	42	-88	3	
+3496	09/24/23	Ellisville	MO	38.6	-90.6	1	
+3497	09/24/23	Stevens Point	WI	44.5	-89.5	1	
+3498	09/24/23	Johnsburg	IL	42.4	-88.2	1	
+3499	09/24/23	Lawrenceville	GA	34	-83.9	1	
+3500	09/24/23	North Canton	OH	40.9	-81.4	1	
+3501	09/24/23	Ellisville	MO	38.6	-90.6	4	
+3502	09/24/23	Wauwatosa	WI	43.1	-88	1	
+3503	09/24/23	Del City	OK	35.5	-97.4	1	
+3504	09/24/23	Denver	CO	39.7	-105	1	
+3505	09/24/23	Lakeville	MN	44.7	-93.3	3	
+3506	09/24/23	Tulsa	OK	36	-95.9	1	
+3507	09/24/23	Orange Beach	AL	30.3	-87.6	3	
+3508	09/24/23	Simpsonville	SC	34.7	-82.3	1	
+3509	09/24/23	Fort Worth	TX	32.8	-97.5	1	
+3510	09/24/23	Townsend	TN	35.6	-83.8	40	
+3511	09/24/23	Chatham	ON	42.4	-82.2	3	
+3512	09/24/23	Greenville	SC	34.8	-82.4	9	
+3513	09/24/23	Petaluma	CA	38.2	-122.7	1	
+3514	09/24/23	Union	WV	37.6	-80.6	1	
+3515	09/24/23	Union	MO	38.4	-91	4	
+3516	09/24/23	Tulsa	OK	36.1	-95.9	1	
+3517	09/24/23	Greenville	TX	33.1	-96.1	1	
+3518	09/24/23	Minneapolis	MN	44.9	-93.3	1	
+3519	09/24/23	Charleston	SC	32.7	-80	11	
+3520	09/24/23	Minneapolis	MN	44.9	-93.3	3	
+3521	09/24/23	Southern Pines	NC	35.2	-79.4	3	
+3522	09/24/23	Point Pelee National Park	ON	41.9	-82.5	52	
+3523	09/24/23	Urbana	IL	40.1	-88.2	5	
+3524	09/24/23	Milwaukee	WI	43.1	-88	2	
+3525	09/24/23	Derby	KS	37.6	-97.2	2	
+3526	09/24/23	Whitsett	NC	36.1	-79.6	1	
+3527	09/24/23	Dodgeville	WI	43	-90.1	3	
+3528	09/24/23	Palmarejo	PR	18.3	-66.3	1	
+3529	09/24/23	Tulsa	OK	36.2	-95.9	5	
+3530	09/24/23	Avondale Estates	GA	33.8	-84.3	1	
+3531	09/24/23	Ooltewah	TN	35.1	-85.1	1	
+3532	09/24/23	Napa	CA	38.3	-122.3	1	
+3533	09/24/23	KCMO	MO	39.2	-94.5	3	
+3534	09/24/23	Greenfield	IL	39.3	-90.1	30	
+3535	09/24/23	Lombard	IL	41.9	-88	3	
+3536	09/24/23	Tulsa	OK	36	-95.9	1	
+3537	09/24/23	Redlands	CA	34	-117.2	1	
+3538	09/24/23	Charleston	SC	32.8	-79.9	1	
+3539	09/24/23	Tulsa	OK	36.1	-95.9	1	
+3540	09/24/23	Asheville	NC	35.6	-82.6	1	
+3541	09/24/23	Horseshoe Bay	TX	30.5	-98.4	1	
+3542	09/24/23	Bettendorf	IA	41.5	-90.5	5	
+3543	09/24/23	Manton	MI	44.4	-85.5	1	
+3544	09/24/23	Norman	OK	35.3	-97.5	9	
+3545	09/24/23	Shelby	NC	35.3	-81.4	1	
+3546	09/24/23	Black Mountain	NC	35.6	-82.3	5	
+3547	09/24/23	Ramona	CA	33	-116.8	2	
+3548	09/24/23	Davidson	NC	35.5	-80.8	1	
+3549	09/24/23	Crystal Lake	IL	42.2	-88.4	2	
+3550	09/24/23	Madison	WI	43.1	-89.5	1	
+3551	09/24/23	Plainfield	IL	41.7	-88.2	2	
+3552	09/24/23	Modesto	CA	37.7	-121	1	
+3553	09/24/23	New Melle	MO	38.7	-90.9	1	
+3554	09/24/23	Valley Ford	CA	38.4	-122.9	6	
+3555	09/24/23	Calera	OK	33.9	-96.4	2	
+3556	09/24/23	Ferguson Township	PA	40.8	-77.9	2	
+3557	09/23/23	New Ringgold	PA	40.6	-76	0	
+3558	09/23/23	San Antonio	TX	29.6	-98.5	1	
+3559	09/23/23	Mansfield	TX	32.6	-97.1	2	
+3560	09/23/23	Boerne	TX	29.8	-98.7	3	
+3561	09/23/23	Hickory	NC	35.6	-81.3	1	
+3562	09/23/23	Melbourne	FL	28.1	-80.6	1	
+3563	09/23/23	West Palm Beach	FL	26.8	-80	1	
+3564	09/23/23	Melbourne	FL	28.1	-80.6	1	
+3565	09/23/23	Davidson	NC	35.5	-80.8	1	
+3566	09/23/23	Isle of Palms	SC	32.8	-79.7	4	
+3567	09/23/23	Chatham	ON	42.4	-82.2	8	
+3568	09/23/23	Tryon	NC	35.2	-82.3	10	
+3569	09/23/23	Plano	TX	33.1	-96.8	1	
+3570	09/23/23	Simpsonville	SC	34.7	-82.3	1	
+3571	09/23/23	Gainesville	GA	34.4	-83.8	6	
+3572	09/23/23	Brooklyn Park	MN	45.1	-93.3	6	
+3573	09/23/23	Brunswick	OH	41.2	-81.8	1	
+3574	09/23/23	Norman	OK	35.2	-97.4	2	
+3575	09/23/23	Pittsburg	KS	37.4	-94.7	1	
+3576	09/23/23	Shelby	MI	43.6	-86.5	3	
+3577	09/23/23	Plano	TX	33.1	-96.8	2	
+3578	09/23/23	Dallas	TX	32.8	-96.7	1	
+3579	09/23/23	Urbana	IL	40.1	-88.2	18	
+3580	09/23/23	Prairie Du Sac	WI	43.3	-89.8	3	
+3581	09/23/23	Richmond	IN	39.8	-84.9	1	
+3582	09/23/23	Peoria	AZ	33.7	-112.3	1	
+3583	09/23/23	Seguin	TX	29.5	-98	1	
+3584	09/23/23	Pickens	SC	35	-82.6	8	
+3585	09/23/23	Ball Ground	GA	34.3	-84.4	4	
+3586	09/23/23	St. Louis	MO	38.7	-90.5	7	
+3587	09/23/23	Morganton	NC	35.8	-81.7	1	
+3588	09/23/23	Grand Rapids	MI	42.9	-85.6	1	
+3589	09/23/23	Asheville	NC	35.6	-82.5	5	
+3590	09/23/23	Dodgeville	WI	43	-90.1	3	
+3591	09/23/23	Kalamazoo	MI	42.3	-85.6	1	
+3592	09/23/23	Murrells Inlet	SC	33.6	-79.1	2	
+3593	09/23/23	New Haven	MO	38.5	-91.2	4	
+3594	09/23/23	Aurora	MO	37	-93.7	1	
+3595	09/23/23	Fort Worth	TX	32.7	-97.5	1	
+3596	09/23/23	Round Rock	TX	30.5	-97.7	1	
+3597	09/23/23	Tulsa	OK	36.1	-95.9	1	
+3598	09/23/23	Parker	CO	39.5	-104.7	1	
+3599	09/23/23	Pickens	SC	35	-82.7	1	
+3600	09/23/23	Sapphire	NC	35.1	-83	2	
+3601	09/23/23	Carrollton	TX	33	-96.9	1	
+3602	09/23/23	Ozark	AR	35.4	-93.8	1	
+3603	09/23/23	Hillsboro	MO	38.2	-90.6	8	
+3604	09/23/23	Vanderpool	TX	29.8	-99.6	2	
+3605	09/23/23	Oklahoma City	OK	35.5	-97.6	1	
+3606	09/23/23	Owasso	OK	36.3	-95.8	5	
+3607	09/23/23	Portage	WI	43.5	-89.5	3	
+3608	09/23/23	Greenfield	IL	39.3	-90.1	40	
+3609	09/23/23	North San Juan	CA	39.4	-121.1	1	
+3610	09/23/23	Athens	GA	33.9	-83.4	1	
+3611	09/23/23	Redlands	CA	34	-117.2	2	
+3612	09/23/23	Horseshoe Bay	TX	30.5	-98.4	2	
+3613	09/23/23	Manton	MI	44.4	-85.5	1	
+3614	09/23/23	Holland	MI	42.8	-86.2	9	
+3615	09/23/23	Oro-Medonte	ON	44.5	-79.7	1	
+3616	09/23/23	Tweed	ON	44.5	-77.3	5	
+3617	09/23/23	Belle River	ON	42.3	-82.7	6	
+3618	09/23/23	Plainfield	IL	41.7	-88.2	1	
+3619	09/23/23	Austin	MN	43.7	-93	1	
+3620	09/23/23	Flower Mound	TX	33	-97.1	1	
+3621	09/23/23	Bay St Louis	MS	30.3	-89.3	2	
+3622	09/23/23	Cordes Lakes	AZ	34.3	-112.1	1	
+3623	09/23/23	Concord	CA	38	-122	1	
+3624	09/23/23	Boone	NC	36.2	-81.7	2	
+3625	09/22/23	Lyndon	VT	44.5	-72	1	
+3626	09/22/23	Paoli	PA	40	-75.5	1	
+3627	09/22/23	Hampton	NJ	40.7	-74.9	1	
+3628	09/22/23	West Palm Beach	FL	26.7	-80.3	1	
+3629	09/22/23	Carmel	IN	39.9	-86.1	3	
+3630	09/22/23	South Bend	IN	41.7	-86.3	1	
+3631	09/22/23	Harbor Springs	MI	45.6	-85	1	
+3632	09/22/23	Chicago	IL	41.9	-87.7	1	
+3633	09/22/23	Cherry Hill	NJ	39.9	-75	1	
+3634	09/22/23	Monona	WI	43.1	-89.3	3	
+3635	09/22/23	Burke	VA	38.8	-77.3	1	
+3636	09/22/23	Madison	WI	43	-89.4	2	
+3637	09/22/23	Georgetown	TX	30.7	-97.7	1	
+3638	09/22/23	Montpelier	VT	44.3	-72.6	1	
+3639	09/22/23	Oklahoma City	OK	35.5	-97.5	3	
+3640	09/22/23	Oklahoma City	OK	35.5	-97.5	3	
+3641	09/22/23	Oklahoma City	OK	35.5	-97.5	6	
+3642	09/22/23	Bedford	VA	37.4	-79.6	1	
+3643	09/22/23	Madison	WI	43.1	-89.4	1	
+3644	09/22/23	Whitby	ON	43.9	-79	1	
+3645	09/22/23	Tulsa	OK	36.1	-95.9	1	
+3646	09/22/23	Norman	OK	35.3	-97.5	14	
+3647	09/22/23	Hackensack	NJ	40.9	-74	1	
+3648	09/22/23	Broomfield	CO	39.9	-105.1	1	
+3649	09/22/23	Horseshoe Bay	TX	30.5	-98.4	1	
+3650	09/22/23	Taylorville	IL	39.5	-89.2	4	
+3651	09/22/23	Warsaw	IN	41.3	-85.7	1	
+3652	09/22/23	Broomfield	CO	39.9	-105	1	
+3653	09/22/23	Glen Jean	WV	37.9	-81.2	4	
+3654	09/22/23	Lincoln	MA	42.4	-71.3	1	
+3655	09/22/23	Gatesville	TX	31.4	-98	3	
+3656	09/22/23	KCMO	MO	39.2	-94.5	1	
+3657	09/22/23	Temple	TX	31.1	-97.4	1	
+3658	09/22/23	Bloomfield	NJ	40.8	-74.2	2	
+3659	09/22/23	Bristol	ME	43.9	-69.5	1	
+3660	09/22/23	Portage	WI	43.5	-89.5	1	
+3661	09/22/23	Minneapolis	MN	44.9	-93.3	1	
+3662	09/22/23	Mansfield	TX	32.6	-97.1	2	
+3663	09/22/23	Indianapolis	IN	39.7	-86.1	1	
+3664	09/22/23	Vandalia	IL	39	-89.2	1	
+3665	09/22/23	Pentwater	MI	43.8	-86.4	20	
+3666	09/22/23	Urbana	IL	40.1	-88.2	4	
+3667	09/22/23	Edmond	OK	35.7	-97.5	1	
+3668	09/22/23	Farmington	MO	37.7	-90.4	1	
+3669	09/22/23	Charleston	SC	32.8	-79.9	30	
+3670	09/22/23	River Forest	IL	41.9	-87.8	1	
+3671	09/22/23	Ball Ground	GA	34.4	-84.3	1	
+3672	09/22/23	Ball Ground	GA	34.4	-84.3	2	
+3673	09/22/23	St. Louis	MO	38.7	-90.5	4	
+3674	09/22/23	Fair Oaks	IN	41	-87.3	3	
+3675	09/22/23	Bliss	NY	42.6	-78.3	4	
+3676	09/22/23	Louisville	KY	38.2	-85.5	1	
+3677	09/22/23	Chesterfield	MO	38.7	-90.6	2	
+3678	09/22/23	Fairhope	AL	30.5	-87.9	2	
+3679	09/22/23	Somerset	WI	45.1	-92.7	1	
+3680	09/22/23	Northfield	IL	42.1	-87.8	1	
+3681	09/22/23	Denver	NY	42.2	-74.6	4	
+3682	09/22/23	Mooreland	OK	36.4	-99.2	3	
+3683	09/22/23	St. Louis	MO	38.6	-90.4	14	
+3684	09/22/23	Tulsa	OK	36.1	-96	1	
+3685	09/22/23	Groton	CT	41.3	-72	1	
+3686	09/22/23	Dallas	TX	32.9	-96.7	2	
+3687	09/22/23	Easton	MA	42.1	-71.1	1	
+3688	09/22/23	Kerrville	TX	30.1	-99.1	8	
+3689	09/22/23	Pentwater	MI	43.8	-86.4	20	
+3690	09/22/23	Utica	NY	43.1	-75.2	1	
+3691	09/22/23	Tulsa	OK	36.1	-96	3	
+3692	09/22/23	College Township	PA	40.8	-77.9	1	
+3693	09/22/23	Providence	RI	41.8	-71.4	1	
+3694	09/21/23	Lenhartsville	PA	40.6	-75.9	1	
+3695	09/21/23	Mcveytown	PA	40.5	-77.8	2	
+3696	09/21/23	Brafield-on-the-Green	England	52.2	-0.8	4	
+3697	09/21/23	Ash Grove	MO	37.4	-93.6	4	
+3698	09/21/23	Junction	TX	30.5	-99.8	7	
+3699	09/21/23	Fayetteville	AR	36.1	-94.2	2	
+3700	09/21/23	Pittsburg	KS	37.4	-94.7	1	
+3701	09/21/23	Glen Jean	WV	37.9	-81.1	2	
+3702	09/21/23	Charleston	SC	32.7	-80	12	
+3703	09/21/23	Concord	MO	38.5	-90.3	1	
+3704	09/21/23	St. Louis	MO	38.5	-90.3	1	
+3705	09/21/23	St. Louis	MO	38.5	-90.4	1	
+3706	09/21/23	St. Louis	MO	38.5	-90.3	1	
+3707	09/21/23	Aberdeen Township	NJ	40.4	-74.2	1	
+3708	09/21/23	Odenton	MD	39	-76.7	8	
+3709	09/21/23	Savannah	GA	31.9	-81.1	1	
+3710	09/21/23	Glen Arbor	MI	44.9	-86	1	
+3711	09/21/23	Sierra Vista	AZ	31.5	-110.3	1	
+3712	09/21/23	Lansing	MI	42.7	-84.6	1	
+3713	09/21/23	Waterloo	QC	45.3	-72.5	1	
+3714	09/21/23	Overland Park	KS	38.9	-94.7	5	
+3715	09/21/23	Council Bluffs	IA	41.2	-95.8	3	
+3716	09/21/23	Austin	TX	30.3	-97.8	1	
+3717	09/21/23	Jenks	OK	36	-96	1	
+3718	09/21/23	Minneapolis	MN	45	-93.2	1	
+3719	09/21/23	State College	PA	40.8	-77.9	1	
+3720	09/21/23	State College	PA	40.8	-77.9	2	
+3721	09/21/23	State College	PA	40.8	-77.9	1	
+3722	09/21/23	State College	PA	40.8	-77.9	1	
+3723	09/21/23	Tulsa	OK	36.1	-95.9	1	
+3724	09/21/23	Tulsa	OK	36.1	-96	3	
+3725	09/21/23	Chatham	ON	42.4	-82.2	12	
+3726	09/21/23	South Portland	ME	43.6	-70.2	1	
+3727	09/21/23	Orion Twp	MI	42.8	-83.2	1	
+3728	09/21/23	Driftwood	TX	30.1	-98	3	
+3729	09/21/23	Pennock	MN	45.2	-95.2	1	
+3730	09/21/23	Sterling	UT	39.2	-111.7	1	
+3731	09/21/23	Spring City	PA	40.2	-75.6	1	
+3732	09/21/23	Crawfordville	FL	30.2	-84.3	1	
+3733	09/21/23	Omaha	NE	41.2	-96.2	8	
+3734	09/21/23	Wauwatosa	WI	43.1	-88	1	
+3735	09/21/23	Austin	TX	30.2	-97.8	2	
+3736	09/21/23	Mouth of Wilson	VA	36.6	-81.4	9	
+3737	09/21/23	Lenexa	KS	39	-94.7	5	
+3738	09/21/23	Mounds	OK	35.9	-96	1	
+3739	09/21/23	Prairie Du Sac	WI	43.3	-89.8	1	
+3740	09/21/23	Killeen	TX	31.1	-97.7	1	
+3741	09/21/23	St. Louis	MO	38.6	-90.3	3	
+3742	09/21/23	St. Louis	MO	38.6	-90.3	4	
+3743	09/21/23	St. Louis	MO	38.6	-90.3	1	
+3744	09/21/23	Dryden	MI	42.9	-83.1	1	
+3745	09/21/23	Brunswick	OH	41.2	-81.8	9	
+3746	09/21/23	Baie-Saint-Paul	QC	47.4	-70.5	1	
+3747	09/21/23	Mills Township	MI	44.3	-84	1	
+3748	09/21/23	Liberty Hill	TX	30.7	-97.9	1	
+3749	09/21/23	Fort Worth	TX	32.8	-97.3	7	
+3750	09/21/23	KCMO	MO	39.2	-94.5	1	
+3751	09/21/23	New Iberia	LA	30	-91.8	2	
+3752	09/21/23	Horseshoe Bay	TX	30.5	-98.4	1	
+3753	09/21/23	Manton	MI	44.4	-85.5	1	
+3754	09/21/23	New York	NY	40.8	-73.8	4	
+3755	09/21/23	St Peters	MO	38.8	-90.6	8	
+3756	09/21/23	St. Augustine	FL	29.8	-81.3	1	
+3757	09/21/23	Wynnewood	PA	40	-75.3	1	
+3758	09/21/23	New York	NY	40.8	-73.8	1	
+3759	09/21/23	Oklahoma City	OK	35.4	-97.5	1	
+3760	09/21/23	Asheville	NC	35.6	-82.6	2	
+3761	09/21/23	Pentwater	MI	43.8	-86.4	20	
+3762	09/21/23	Hillsboro	MO	38.2	-90.6	1	
+3763	09/21/23	Point Pelee National Park	ON	41.9	-82.5	12	
+3764	09/21/23	Stratford	ON	43.4	-81	2	
+3765	09/21/23	Monona	WI	43.1	-89.3	1	
+3766	09/21/23	Dunbarton	NH	43.2	-71.7	1	
+3767	09/21/23	Francestown	NH	43	-71.8	1	
+3768	09/21/23	Blackstock	ON	44.1	-78.8	1	
+3769	09/21/23	Cleveland	OH	41.5	-81.6	1	
+3770	09/21/23	Greenwood	IN	39.6	-86.2	3	
+3771	09/21/23	Republic	MO	37.1	-93.5	1	
+3772	09/21/23	Tulsa	OK	36.2	-95.9	5	
+3773	09/21/23	Frederick	MD	39.4	-77.4	3	
+3774	09/21/23	St. Louis	MO	38.5	-90.4	1	
+3775	09/21/23	St. Louis	MO	38.5	-90.3	1	
+3776	09/21/23	Erie	PA	42.2	-80.1	12	
+3777	09/21/23	Pearland	TX	29.5	-95.4	1	
+3778	09/21/23	Topanga	CA	34.1	-118.6	2	
+3779	09/21/23	Stonington	CT	41.4	-72	7	
+3780	09/21/23	Tulsa	OK	36.1	-95.9	1	
+3781	09/21/23	Ellicott City	MD	39.3	-76.9	3	
+3782	09/21/23	Ellicott City	MD	39.3	-76.9	4	
+3783	09/21/23	Linganore-Bartonsville	MD	39.4	-77.4	1	
+3784	09/21/23	Destin	FL	30.4	-86.4	1	
+3785	09/21/23	Ballwin	MO	38.6	-90.5	3	
+3786	09/21/23	Dallas	TX	32.9	-96.7	1	
+3787	09/21/23	Paducah	KY	37.1	-88.7	1	
+3788	09/21/23	Killeen	TX	31.1	-97.7	1	
+3789	09/21/23	Lincoln	AL	33.6	-86.2	1	
+3790	09/21/23	Hammond	IN	41.6	-87.5	8	
+3791	09/21/23	Hammond	IN	41.6	-87.5	1	
+3792	09/21/23	Pentwater	MI	43.8	-86.4	20	
+3793	09/21/23	Springfield	MO	37.2	-93.4	1	
+3794	09/21/23	Springfield	MO	37.2	-93.3	1	
+3795	09/20/23	Granby	MA	42.3	-72.5	1	
+3796	09/20/23	Stonington	CT	41.3	-71.9	1	
+3797	09/20/23	Horseshoe Bay	TX	30.5	-98.4	1	
+3798	09/20/23	Tallahassee	FL	30.6	-84.2	1	
+3799	09/20/23	Norman	OK	35.2	-97.4	1	
+3800	09/20/23	Alexander	NC	35.7	-82.6	1	
+3801	09/20/23	Milford	KS	39.1	-96.9	2	
+3802	09/20/23	Hutto	TX	30.5	-97.6	2	
+3803	09/20/23	West Hartford	CT	41.7	-72.8	1	
+3804	09/20/23	West Palm Beach	FL	26.8	-80	1	
+3805	09/20/23	Blue Hill	ME	44.4	-68.6	1	
+3806	09/20/23	Melrose	MA	42.5	-71.1	3	
+3807	09/20/23	Honeoye Falls	NY	43	-77.6	1	
+3808	09/20/23	Honeoye Falls	NY	43	-77.6	1	
+3809	09/20/23	Union	MO	38.4	-91	1	
+3810	09/20/23	Shrewsbury	NJ	40.3	-74.1	1	
+3811	09/20/23	Burden	KS	37.3	-96.8	3	
+3812	09/20/23	Sterling Heights	MI	42.6	-83	1	
+3813	09/20/23	Norman	OK	35.3	-97.5	4	
+3814	09/20/23	Killeen	TX	31.1	-97.7	1	
+3815	09/20/23	Belton	TX	31.1	-97.5	1	
+3816	09/20/23	Pittsburg	KS	37.4	-94.7	1	
+3817	09/20/23	Cleveland	OH	41.5	-81.7	5	
+3818	09/20/23	Choctaw	OK	35.4	-97.3	9	
+3819	09/20/23	Middleton	WI	43.1	-89.4	6	
+3820	09/20/23	St. Louis	MO	38.6	-90.3	2	
+3821	09/20/23	Westhampton Beach	NY	40.8	-72.6	4	
+3822	09/20/23	North Canton	OH	40.9	-81.4	1	
+3823	09/20/23	Hudson	WI	45	-92.7	1	
+3824	09/20/23	Osceola	WI	45.3	-92.6	1	
+3825	09/20/23	Greenwood	IN	39.6	-86.2	1	
+3826	09/20/23	Stevens Point	WI	44.5	-89.5	1	
+3827	09/20/23	Montpelier	VT	44.3	-72.6	1	
+3828	09/20/23	Richwood	OH	40.4	-83.3	1	
+3829	09/20/23	Chatham	ON	42.4	-82.2	8	
+3830	09/20/23	Horseshoe Bay	TX	30.5	-98.4	1	
+3831	09/20/23	Council Bluffs	IA	41.2	-95.8	3	
+3832	09/20/23	Salem	NH	42.8	-71.2	1	
+3833	09/20/23	Lowell	MA	42.6	-71.3	1	
+3834	09/20/23	KCMO	MO	39.2	-94.5	1	
+3835	09/20/23	Lincoln	NE	40.8	-96.6	2	
+3836	09/20/23	Mounds	OK	35.9	-96.1	5	
+3837	09/20/23	Ridgefield	CT	41.3	-73.5	3	
+3838	09/20/23	Kalamazoo	MI	42.3	-85.6	3	
+3839	09/20/23	Jamestown	NY	42.1	-79.2	1	
+3840	09/20/23	Austin	TX	30.5	-97.8	1	
+3841	09/20/23	Secaucus	NJ	40.8	-74.1	3	
+3842	09/20/23	Hudson Falls	NY	43.3	-73.5	1	
+3843	09/20/23	Junction	TX	30.5	-99.8	9	
+3844	09/20/23	Brunswick	OH	41.2	-81.8	6	
+3845	09/20/23	Middletown	MD	39.4	-77.6	3	
+3846	09/20/23	Fort Worth	TX	32.8	-97.3	6	
+3847	09/20/23	Minneapolis	MN	44.9	-93.3	1	
+3848	09/20/23	Araby View	MD	39.4	-77.4	1	
+3849	09/20/23	Cherry Hill	NJ	39.9	-75	2	
+3850	09/20/23	Melrose	MA	42.5	-71.1	3	
+3851	09/20/23	Nixa	MO	37	-93.3	5	
+3852	09/20/23	Tulsa	OK	36.2	-95.9	7	
+3853	09/20/23	Dodgeville	WI	43	-90.1	2	
+3854	09/20/23	Kitchener	ON	43.5	-80.5	3	
+3855	09/20/23	Dryden	MI	42.9	-83.1	1	
+3856	09/20/23	St. Louis	MO	38.5	-90.3	2	
+3857	09/20/23	Knoxville	TN	36.1	-83.9	1	
+3858	09/20/23	Shakopee	MN	44.8	-93.5	4	
+3859	09/20/23	Lewisburg	WV	37.9	-80.4	9	
+3860	09/20/23	Jenks	OK	36	-96	2	
+3861	09/20/23	South Portland	ME	43.6	-70.2	10	
+3862	09/20/23	Santa Fe	NM	35.7	-106	1	
+3863	09/20/23	Yonkers	NY	40.9	-73.9	3	
+3864	09/20/23	Congerville	IL	40.6	-89.2	1	
+3865	09/20/23	Longview	TX	32.6	-94.7	3	
+3866	09/20/23	Corry	PA	41.9	-79.6	3	
+3867	09/20/23	Hubbard Lake	MI	44.9	-83.6	1	
+3868	09/20/23	Pennsville Township	NJ	39.7	-75.5	4	
+3869	09/20/23	Cleveland	OH	41.5	-81.6	4	
+3870	09/20/23	Mayfield Heights	OH	41.5	-81.5	1	
+3871	09/20/23	Kirtland	OH	41.6	-81.3	5	
+3872	09/20/23	Clinton Twp	MI	42.6	-83	2	
+3873	09/20/23	Stonington	CT	41.4	-72	7	
+3874	09/20/23	Taylorville	IL	39.5	-89.2	9	
+3875	09/20/23	Austin	TX	30.3	-97.8	1	
+3876	09/20/23	Tulsa	OK	36.1	-95.9	1	
+3877	09/20/23	Prospect	KY	38.3	-85.6	2	
+3878	09/20/23	New Brighton	MN	45.1	-93.2	1	
+3879	09/20/23	New Brighton	MN	45.1	-93.2	1	
+3880	09/20/23	New Brighton	MN	45.1	-93.2	1	
+3881	09/20/23	Ballwin	MO	38.6	-90.5	1	
+3882	09/20/23	Williamstown	MA	42.7	-73.2	1	
+3883	09/20/23	Ramona	CA	33	-116.8	1	
+3884	09/20/23	Dallas	TX	32.9	-96.7	3	
+3885	09/20/23	Charlottesville	VA	38	-78.5	1	
+3886	09/20/23	Monmouth Beach	NJ	40.3	-74	1	
+3887	09/20/23	Eau Claire	WI	44.8	-91.5	1	
+3888	09/20/23	Canal Fulton	OH	40.9	-81.6	3	
+3889	09/20/23	Auburn	NH	43	-71.3	1	
+3890	09/20/23	Sturbridge	MA	42.1	-72.1	1	
+3891	09/20/23	North Topsail Beach	NC	34.5	-77.3	2	
+3892	09/20/23	Jacksonville	NC	34.6	-77.3	1	
+3893	09/20/23	Jacksonville	NC	34.6	-77.3	2	
+3894	09/20/23	Hammond	IN	41.6	-87.5	8	
+3895	09/20/23	Rockaway Township	NJ	40.9	-74.5	2	
+3896	09/20/23	Lancaster	PA	40	-76.3	1	
+3897	09/20/23	Laurel Branch	VA	36.9	-80.4	8	
+3898	09/20/23	Edmond	OK	35.7	-97.5	5	
+3899	09/20/23	Longs	SC	33.9	-78.7	2	
+3900	09/19/23	Roxbury	CT	41.5	-73.3	1	
+3901	09/19/23	Warsaw	VA	38.1	-76.9	1	
+3902	09/19/23	Blue Hill	NE	40.3	-98.5	2	
+3903	09/19/23	Waynesboro	PA	39.8	-77.6	1	
+3904	09/19/23	Reading	PA	40.3	-76	1	
+3905	09/19/23	Wyomissing	PA	40.3	-76	1	
+3906	09/19/23	Oxford	OH	39.5	-84.8	1	
+3907	09/19/23	Bath	IN	39.5	-84.8	2	
+3908	09/19/23	Old Bath	IN	39.5	-84.9	3	
+3909	09/19/23	Erie	PA	42.2	-80.1	3	
+3910	09/19/23	Columbia	MD	39.2	-76.9	15	
+3911	09/19/23	Norman	OK	35.2	-97.4	1	
+3912	09/19/23	White Plains	NY	41	-73.8	1	
+3913	09/19/23	Flower Mound	TX	33	-97.1	2	
+3914	09/19/23	Flower Mound	TX	33	-97.1	2	
+3915	09/19/23	Midland	MI	43.7	-84.3	1	
+3916	09/19/23	Bridgeton	MO	38.7	-90.4	1	
+3917	09/19/23	Union	MO	38.5	-91	1	
+3918	09/19/23	Ballwin	MO	38.6	-90.5	1	
+3919	09/19/23	Sterling Heights	MI	42.6	-83.1	3	
+3920	09/19/23	North Canton	OH	40.9	-81.4	2	
+3921	09/19/23	Ridgefield	CT	41.3	-73.5	5	
+3922	09/19/23	Godfrey	IL	39	-90.2	15	
+3923	09/19/23	Hamilton	ON	43.3	-79.9	3	
+3924	09/19/23	Yonkers	NY	40.9	-73.9	5	
+3925	09/19/23	Fort Smith	AR	35.4	-94.4	1	
+3926	09/19/23	Davidsonville	MD	38.9	-76.6	1	
+3927	09/19/23	St. Louis	MO	38.5	-90.3	1	
+3928	09/19/23	Lincoln	MA	42.4	-71.3	9	
+3929	09/19/23	Wernersville	PA	40.3	-76.1	2	
+3930	09/19/23	Abilene	TX	32.4	-99.8	1	
+3931	09/19/23	Urbana	IL	40.1	-88.2	4	
+3932	09/19/23	Brunswick	OH	41.2	-81.8	3	
+3933	09/19/23	Herscher	IL	41	-88.1	1	
+3934	09/19/23	Evansville	IN	38.1	-87.5	2	
+3935	09/19/23	Chatham	ON	42.4	-82.2	9	
+3936	09/19/23	Temple	TX	31.1	-97.4	2	
+3937	09/19/23	Ridgefield	CT	41.3	-73.5	1	
+3938	09/19/23	KCMO	MO	39.2	-94.5	2	
+3939	09/19/23	Rocky Mount	NC	36	-77.7	2	
+3940	09/19/23	St. Louis	MO	38.6	-90.3	10	
+3941	09/19/23	Hamilton	TX	31.7	-98.1	1	
+3942	09/19/23	Salado	TX	31	-97.6	3	
+3943	09/19/23	Fort Bragg	CA	39.4	-123.8	1	
+3944	09/19/23	Minneapolis	MN	44.9	-93.3	1	
+3945	09/19/23	Canyon Lake	TX	29.9	-98.2	3	
+3946	09/19/23	Oxford	OH	39.5	-84.8	1	
+3947	09/19/23	Old Fields	WV	39.1	-79	1	
+3948	09/19/23	Woodland	CA	38.7	-121.8	1	
+3949	09/19/23	St. Louis	MO	38.6	-90.3	2	
+3950	09/19/23	Glen Rose	TX	32.2	-97.8	6	
+3951	09/19/23	St. Louis	MO	38.6	-90.3	1	
+3952	09/19/23	Willmar	MN	45.1	-95	1	
+3953	09/19/23	Farmville	VA	37.2	-78.4	4	
+3954	09/19/23	Lusby	MD	38.4	-76.5	2	
+3955	09/19/23	Plano	TX	33.1	-96.8	2	
+3956	09/19/23	Kerrville	TX	30.1	-99.1	7	
+3957	09/19/23	Bethesda	MD	39	-77.1	6	
+3958	09/19/23	Waynesville	OH	39.5	-84.1	6	
+3959	09/19/23	Tulsa	OK	36.2	-95.9	7	
+3960	09/19/23	Union	MO	38.4	-91	1	
+3961	09/19/23	Olde West Chester	OH	39.3	-84.4	6	
+3962	09/19/23	Auburn	MA	42.2	-71.8	1	
+3963	09/19/23	Norman	OK	35.3	-97.5	6	
+3964	09/19/23	Tiverton	RI	41.6	-71.2	1	
+3965	09/19/23	Teaneck	NJ	40.9	-74	7	
+3966	09/19/23	Fairfield	PA	39.8	-77.4	1	
+3967	09/19/23	Greenfield	IN	39.8	-85.8	2	
+3968	09/19/23	Erie	PA	42.2	-80.1	4	
+3969	09/19/23	Shanty Bay	ON	44.5	-79.7	1	
+3970	09/19/23	Karnack	TX	32.7	-94.2	2	
+3971	09/19/23	Sacramento	CA	38.6	-121.6	1	
+3972	09/19/23	Austin	TX	30.3	-97.7	1	
+3973	09/19/23	Beachwood	OH	41.5	-81.5	7	
+3974	09/19/23	Kirtland	OH	41.6	-81.4	5	
+3975	09/19/23	Mont Belvieu	TX	29.8	-94.8	2	
+3976	09/19/23	Maurice River	NJ	39.2	-75	1	
+3977	09/19/23	Nashville	IN	39.2	-86.2	2	
+3978	09/19/23	Ballwin	MO	38.6	-90.5	1	
+3979	09/19/23	Stonington	CT	41.4	-72	1	
+3980	09/19/23	Dallas	TX	32.9	-96.7	3	
+3981	09/19/23	Belle River	ON	42.3	-82.7	8	
+3982	09/19/23	Drexel Hill	PA	39.9	-75.3	2	
+3983	09/19/23	North Topsail Beach	NC	34.5	-77.3	4	
+3984	09/19/23	North Topsail Beach	NC	34.5	-77.3	2	
+3985	09/19/23	Sneads Ferry	NC	34.6	-77.3	2	
+3986	09/19/23	Willis Landing	NC	34.6	-77.2	1	
+3987	09/19/23	Jacksonville	NC	34.7	-77.3	1	
+3988	09/19/23	Hermosa Beach	CA	33.9	-118.4	1	
+3989	09/18/23	Payson	AZ	34.3	-111.3	1	
+3990	09/18/23	Colorado Springs	CO	38.6	-104.5	1	
+3991	09/18/23	Milford	KS	39.1	-96.9	10	
+3992	09/18/23	Murrells Inlet	SC	33.5	-79	5	
+3993	09/18/23	Muncy	PA	41.2	-76.8	1	
+3994	09/18/23	Waynesboro	PA	39.8	-77.6	1	
+3995	09/18/23	Halton Hills	ON	43.7	-79.9	1	
+3996	09/18/23	Pittsburg	KS	37.4	-94.7	1	
+3997	09/18/23	Dodge Center	MN	44	-92.9	1	
+3998	09/18/23	Granbury	TX	32.4	-97.8	2	
+3999	09/18/23	Madisonville	KY	37.4	-87.4	1	
+4000	09/18/23	Blanco	TX	30.1	-98.4	1	
+4001	09/18/23	Killeen	TX	31.1	-97.7	3	
+4002	09/18/23	Hillsdale	IN	38.1	-87.5	1	
+4003	09/18/23	Carolina Beach	NC	34	-77.9	1	
+4004	09/18/23	Louisville	KY	38.3	-85.5	1	
+4005	09/18/23	Fort Worth	TX	32.8	-97.5	1	
+4006	09/18/23	Mansfield	OH	40.8	-82.4	1	
+4007	09/18/23	Fairfax	VA	38.8	-77.4	1	
+4008	09/18/23	Lenexa	KS	39	-94.7	1	
+4009	09/18/23	Wauwatosa	WI	43.1	-88	1	
+4010	09/18/23	Blue Hill	NE	40.3	-98.5	1	
+4011	09/18/23	Brookhaven	GA	33.9	-84.3	1	
+4012	09/18/23	Sacramento	CA	38.6	-121.4	1	
+4013	09/18/23	Avoca	NY	42.4	-77.4	1	
+4014	09/18/23	Wamego	KS	39.3	-96.3	5	
+4015	09/18/23	Superior Charter Twp	MI	42.3	-83.6	1	
+4016	09/18/23	East Amherst	NY	43	-78.7	1	
+4017	09/18/23	Chatham	ON	42.4	-82.2	6	
+4018	09/18/23	Greenwood	IN	39.6	-86.2	1	
+4019	09/18/23	Dallas	TX	32.8	-96.8	1	
+4020	09/18/23	New Berlin	WI	43	-88.1	1	
+4021	09/18/23	Portage	WI	43.5	-89.5	2	
+4022	09/18/23	Waynesboro	PA	39.8	-77.6	1	
+4023	09/18/23	Rossville	KS	39.1	-95.9	1	
+4024	09/18/23	Grinnell	IA	41.7	-92.7	2	
+4025	09/18/23	Medina	OH	41.2	-81.8	1	
+4026	09/18/23	Bethesda	MD	39	-77.1	4	
+4027	09/18/23	Lyndhurst	OH	41.5	-81.5	3	
+4028	09/18/23	Willowbrook	IL	41.8	-87.9	1	
+4029	09/18/23	Ukiah	CA	39.2	-123.2	4	
+4030	09/18/23	Ada	OK	34.5	-96.6	4	
+4031	09/18/23	KCMO	MO	39.2	-94.5	1	
+4032	09/18/23	Pacific	MO	38.4	-90.7	1	
+4033	09/18/23	Brunswick	OH	41.2	-81.8	3	
+4034	09/18/23	Urbana	IL	40.1	-88.2	1	
+4035	09/18/23	Roxana	IL	38.8	-90	6	
+4036	09/18/23	Fairfield	IN	39.5	-85	4	
+4037	09/18/23	Brookville	IN	39.4	-85	1	
+4038	09/18/23	North Canton	OH	40.9	-81.4	1	
+4039	09/18/23	Fairfield	IN	39.5	-85	4	
+4040	09/18/23	Arlington	KS	37.9	-98.2	2	
+4041	09/18/23	Washington	DC	38.9	-77	1	
+4042	09/18/23	Christopher	IL	38	-89.1	2	
+4043	09/18/23	Greensburg	IN	39.3	-85.4	1	
+4044	09/18/23	Dallas	TX	32.8	-96.8	3	
+4045	09/18/23	Canyon Lake	TX	29.9	-98.2	4	
+4046	09/18/23	Canyon Lake	TX	29.9	-98.2	1	
+4047	09/18/23	Frederick	MD	39.4	-77.4	2	
+4048	09/18/23	Dodgeville	WI	43	-90.1	1	
+4049	09/18/23	Mt Sidney	VA	38.3	-79	1	
+4050	09/18/23	New Cumberland	PA	40.2	-76.9	1	
+4051	09/18/23	San Antonio	TX	29.5	-98.5	2	
+4052	09/18/23	Robertsville	MO	38.4	-90.9	4	
+4053	09/18/23	Norman	OK	35.2	-97.4	3	
+4054	09/18/23	Canyon Lake	TX	29.9	-98.3	1	
+4055	09/18/23	Vienna	VA	38.9	-77.3	1	
+4056	09/18/23	Edgewater	MD	38.9	-76.5	1	
+4057	09/18/23	Blue Mound	IL	39.7	-89.1	6	
+4058	09/18/23	San Antonio	TX	29.5	-98.4	3	
+4059	09/18/23	Temple	TX	31.1	-97.4	1	
+4060	09/18/23	Sauk Centre	MN	45.7	-94.9	1	
+4061	09/18/23	Springfield	MO	37.2	-93.3	2	
+4062	09/18/23	Springfield	MO	37.1	-93.3	1	
+4063	09/18/23	Springfield	MO	37.2	-93.3	1	
+4064	09/18/23	California	PA	40.1	-79.9	1	
+4065	09/18/23	Fairfield	PA	39.8	-77.4	1	
+4066	09/18/23	Rockport	TX	28	-97.1	1	
+4067	09/18/23	Francestown	NH	43	-71.8	1	
+4068	09/18/23	Falls Church	VA	38.9	-77.2	1	
+4069	09/18/23	Round Rock	TX	30.5	-97.6	1	
+4070	09/18/23	Tulsa	OK	36.1	-95.9	1	
+4071	09/18/23	Costa Mesa	CA	33.6	-117.9	1	
+4072	09/18/23	Valley Ford	CA	38.4	-122.9	1	
+4073	09/18/23	North Topsail Beach	NC	34.5	-77.3	1	
+4074	09/18/23	Jacksonville	NC	34.6	-77.3	1	
+4075	09/18/23	Bumpass	VA	38	-77.7	1	
+4076	09/17/23	Belleville	KS	39.8	-97.6	1	
+4077	09/17/23	St. Louis	MO	38.6	-90.2	1	
+4078	09/17/23	Mendham Borough	NJ	40.8	-74.6	2	
+4079	09/17/23	Stuyvesant	NY	42.4	-73.8	1	
+4080	09/17/23	Hamilton	ON	43.2	-79.8	1	
+4081	09/17/23	Lexington	KY	38	-84.5	4	
+4082	09/17/23	Plainville	CT	41.7	-72.9	1	
+4083	09/17/23	Salem	NH	42.8	-71.2	1	
+4084	09/17/23	Inlet	NY	43.8	-74.8	1	
+4085	09/17/23	Granbury	TX	32.4	-97.8	2	
+4086	09/17/23	Seguin	TX	29.5	-98	1	
+4087	09/17/23	Belleville	NJ	40.8	-74.2	1	
+4088	09/17/23	Oklahoma City	OK	35.4	-97.6	8	
+4089	09/17/23	Lunenburg	MA	42.6	-71.7	1	
+4090	09/17/23	Honeoye Falls	NY	43	-77.6	1	
+4091	09/17/23	Mansfield	OH	40.8	-82.4	1	
+4092	09/17/23	Knoxville	TN	36.1	-84	1	
+4093	09/17/23	MontrÃ©al	QC	45.5	-73.7	1	
+4094	09/17/23	Tulsa	OK	36.1	-95.9	3	
+4095	09/17/23	South Shore	KY	38.7	-83	2	
+4096	09/17/23	Muskogee	OK	35.8	-95.4	1	
+4097	09/17/23	Ada	OK	34.8	-96.7	1	
+4098	09/17/23	Wichita	KS	37.7	-97.3	12	
+4099	09/17/23	Kerrville	TX	30.1	-99.1	5	
+4100	09/17/23	Salisbury	NC	35.6	-80.5	1	
+4101	09/17/23	Columbia	MD	39.2	-76.9	25	
+4102	09/17/23	Spence	MD	38.1	-75.2	1	
+4103	09/17/23	Chatham	ON	42.4	-82.2	11	
+4104	09/17/23	Buffalo	NY	42.9	-78.8	3	
+4105	09/17/23	Salem	NH	42.8	-71.2	1	
+4106	09/17/23	Swampscott	MA	42.5	-70.9	1	
+4107	09/17/23	Norman	OK	35.3	-97.5	7	
+4108	09/17/23	Salt Lake City	UT	40.8	-111.9	5	
+4109	09/17/23	Oakland	CA	37.8	-122.2	1	
+4110	09/17/23	Salt Lake City	UT	40.8	-111.9	1	
+4111	09/17/23	Urbana	IL	40.1	-88.2	3	
+4112	09/17/23	Ridgefield	CT	41.3	-73.5	3	
+4113	09/17/23	North Canton	OH	40.9	-81.4	2	
+4114	09/17/23	Courtland	VA	36.9	-77.2	1	
+4115	09/17/23	Odessa	TX	31.9	-102.3	2	
+4116	09/17/23	Milford	KS	39.1	-96.9	4	
+4117	09/17/23	Kaysville	UT	41	-111.9	1	
+4118	09/17/23	St. Louis	MO	38.6	-90.3	1	
+4119	09/17/23	Walton	KS	38.2	-97.3	9	
+4120	09/17/23	Hampton	NJ	40.7	-75	2	
+4121	09/17/23	Logan	OH	39.5	-82.4	1	
+4122	09/17/23	Roxana	IL	38.8	-90	2	
+4123	09/17/23	KCMO	MO	39.2	-94.5	3	
+4124	09/17/23	Halton Hills	ON	43.6	-79.9	1	
+4125	09/17/23	Carrollton	TX	33	-96.9	1	
+4126	09/17/23	Carrollton	TX	33	-96.8	1	
+4127	09/17/23	The Blue Mountains	ON	44.5	-80.3	1	
+4128	09/17/23	Monona	WI	43.1	-89.3	3	
+4129	09/17/23	Medina	NY	43.2	-78.4	2	
+4130	09/17/23	San Antonio	TX	29.5	-98.5	1	
+4131	09/17/23	Columbus	IN	39.2	-85.9	1	
+4132	09/17/23	Grand Blanc	MI	42.9	-83.6	4	
+4133	09/17/23	Hillsboro	MO	38.2	-90.6	3	
+4134	09/17/23	Stonington	CT	41.4	-71.9	1	
+4135	09/17/23	Hamilton	TX	31.7	-98.1	3	
+4136	09/17/23	Pleasantville	NS	44.3	-64.4	1	
+4137	09/17/23	Calera	OK	33.9	-96.4	5	
+4138	09/17/23	Tulsa	OK	36.2	-95.9	5	
+4139	09/17/23	Mississauga	ON	43.6	-79.6	4	
+4140	09/17/23	Teaneck	NJ	40.9	-74	4	
+4141	09/17/23	St. Louis	MO	38.6	-90.2	1	
+4142	09/17/23	Mississauga	ON	43.5	-79.6	12	
+4143	09/17/23	Ozark	MO	37.1	-93.2	2	
+4144	09/17/23	Ozark	MO	37.1	-93.2	1	
+4145	09/17/23	Melrose	MA	42.5	-71.1	1	
+4146	09/17/23	Sandy	UT	40.6	-111.9	1	
+4147	09/17/23	Shakopee	MN	44.8	-93.5	3	
+4148	09/17/23	Ringwood	NJ	41.1	-74.3	1	
+4149	09/17/23	Cleveland	OH	41.6	-81.6	5	
+4150	09/17/23	Cleveland	OH	41.6	-81.6	6	
+4151	09/17/23	Moreland Hills	OH	41.4	-81.4	2	
+4152	09/17/23	Boerne	TX	29.8	-98.7	1	
+4153	09/17/23	Boerne	TX	29.8	-98.7	1	
+4154	09/17/23	Hutto	TX	30.5	-97.6	1	
+4155	09/17/23	Arcade	NY	42.5	-78.4	6	
+4156	09/17/23	Tulsa	OK	36.1	-95.9	1	
+4157	09/17/23	Cincinnati	OH	39.1	-84.4	1	
+4158	09/17/23	Detroit	MI	42.4	-83.3	1	
+4159	09/17/23	Mindenmines	MO	37.4	-94.6	2	
+4160	09/17/23	Mcveytown	PA	40.5	-77.8	0	
+4161	09/16/23	Binghamton	NY	42.1	-75.9	2	
+4162	09/16/23	Washington	NC	35.6	-77	1	
+4163	09/16/23	St. Catharines	ON	43.1	-79.2	1	
+4164	09/16/23	Salt Lake City	UT	40.7	-111.8	1	
+4165	09/16/23	Germantown	IL	38.6	-89.5	3	
+4166	09/16/23	Coopersburg	PA	40.5	-75.4	1	
+4167	09/16/23	Holland	MI	42.8	-86.2	8	
+4168	09/16/23	Palmarejo	PR	18.3	-66.3	1	
+4169	09/16/23	Morgantown	WV	39.6	-79.9	1	
+4170	09/16/23	Sterling Heights	MI	42.6	-83.1	1	
+4171	09/16/23	Sterling Heights	MI	42.6	-83.1	1	
+4172	09/16/23	Westport	MA	41.7	-71.1	1	
+4173	09/16/23	North Haven	CT	41.4	-72.9	1	
+4174	09/16/23	Montgomery	PA	41.2	-76.9	1	
+4175	09/16/23	Muncy	PA	41.2	-76.8	1	
+4176	09/16/23	North Stonington	CT	41.4	-71.9	1	
+4177	09/16/23	Barco	NC	36.4	-76	1	
+4178	09/16/23	Grand Rapids	MI	42.9	-85.6	1	
+4179	09/16/23	Bernards	NJ	40.7	-74.5	1	
+4180	09/16/23	Dorval	QC	45.5	-73.8	5	
+4181	09/16/23	Brandon Twp	MI	42.8	-83.3	1	
+4182	09/16/23	Yonkers	NY	40.9	-73.9	4	
+4183	09/16/23	Omps	WV	39.5	-78.3	2	
+4184	09/16/23	Urbana	IL	40.1	-88.2	11	
+4185	09/16/23	Belleville	KS	39.8	-97.6	2	
+4186	09/16/23	Charlotte	NC	35.1	-80.8	1	
+4187	09/16/23	Fort Collins	CO	40.5	-105.1	1	
+4188	09/16/23	Peotone	IL	41.3	-87.8	1	
+4189	09/16/23	Loda	IL	40.5	-88.1	8	
+4190	09/16/23	Independence Charter Township	MI	42.8	-83.4	2	
+4191	09/16/23	Chenango	NY	42.2	-75.9	1	
+4192	09/16/23	Marathon	NY	42.4	-76	1	
+4193	09/16/23	Strasburg	VA	39	-78.3	1	
+4194	09/16/23	East Amherst	NY	43	-78.7	1	
+4195	09/16/23	Wauwatosa	WI	43.1	-88	1	
+4196	09/16/23	Columbia	MD	39.2	-76.9	18	
+4197	09/16/23	Groton	CT	41.3	-72	2	
+4198	09/16/23	Groton	CT	41.3	-72	4	
+4199	09/16/23	De Kalb	TX	33.5	-94.6	2	
+4200	09/16/23	Granby	MA	42.3	-72.5	2	
+4201	09/16/23	Fort Morgan	AL	30.2	-88	1	
+4202	09/16/23	Basehor	KS	39.1	-94.9	4	
+4203	09/16/23	Scottsdale	AZ	33.9	-111.8	1	
+4204	09/16/23	Lemmon Valley-Golden Valley	NV	39.7	-119.8	1	
+4205	09/16/23	Salt Lake City	UT	40.8	-111.9	2	
+4206	09/16/23	Truth or Consequences	NM	33.2	-107.2	1	
+4207	09/16/23	Bellefonte	PA	40.9	-77.8	1	
+4208	09/16/23	Brunswick	OH	41.2	-81.8	7	
+4209	09/16/23	Fort Worth	TX	32.8	-97.3	4	
+4210	09/16/23	Tulsa	OK	36.2	-96	2	
+4211	09/16/23	Norman	OK	35.2	-97.4	1	
+4212	09/16/23	Howards Grove	WI	43.8	-87.8	1	
+4213	09/16/23	South Bend	IN	41.7	-86.3	1	
+4214	09/16/23	Grass Lake	MI	42.3	-84.2	2	
+4215	09/16/23	Ludlow	MA	42.2	-72.4	1	
+4216	09/16/23	Minneapolis	MN	44.9	-93.3	1	
+4217	09/16/23	Black Mountain	NC	35.6	-82.3	1	
+4218	09/16/23	Hainesport	NJ	40	-74.8	1	
+4219	09/16/23	Greenwood	IN	39.6	-86.2	3	
+4220	09/16/23	Louisville	KY	38.3	-85.5	1	
+4221	09/16/23	Tulsa	OK	36.2	-95.9	7	
+4222	09/16/23	Madison	CT	41.3	-72.6	10	
+4223	09/16/23	Missouri City	TX	29.6	-95.6	1	
+4224	09/16/23	KCMO	MO	39.2	-94.5	2	
+4225	09/16/23	Dearborn	MI	42.3	-83.3	2	
+4226	09/16/23	Havelock	ON	44.4	-77.9	2	
+4227	09/16/23	Trent Hills	ON	44.3	-78	2	
+4228	09/16/23	Tell City	IN	38	-86.8	1	
+4229	09/16/23	Norman	OK	35.3	-97.5	3	
+4230	09/16/23	Oklahoma City	OK	35.5	-97.5	3	
+4231	09/16/23	North Canton	OH	40.9	-81.4	1	
+4232	09/16/23	Fairlawn	OH	41.1	-81.6	1	
+4233	09/16/23	Pigeon	MI	43.9	-83.2	2	
+4234	09/16/23	Roxana	IL	38.8	-90	3	
+4235	09/16/23	Dayton	OH	39.6	-84.1	1	
+4236	09/16/23	Wilmington	MA	42.5	-71.2	1	
+4237	09/16/23	Belleville	ON	44.2	-77.4	2	
+4238	09/16/23	Manton	MI	44.4	-85.5	1	
+4239	09/16/23	Groton	CT	41.3	-72	4	
+4240	09/16/23	Calera	OK	33.9	-96.4	5	
+4241	09/16/23	Mont-Tremblant	QC	46.1	-74.6	1	
+4242	09/16/23	Edmond	OK	35.7	-97.5	1	
+4243	09/16/23	Hackensack	NJ	40.9	-74	1	
+4244	09/16/23	Mesilla	NM	32.3	-106.8	1	
+4245	09/16/23	Las Cruces	NM	32.3	-106.8	1	
+4246	09/16/23	Las Cruces	NM	32.3	-106.8	1	
+4247	09/16/23	Tulsa	OK	36.1	-95.9	1	
+4248	09/16/23	Prince Edward	ON	44	-77.5	1	
+4249	09/16/23	Cleveland	OH	41.6	-81.6	10	
+4250	09/16/23	Cleveland	OH	41.6	-81.6	5	
+4251	09/16/23	New Boston	TX	33.4	-94.5	11	
+4252	09/16/23	Davidson	NC	35.5	-80.8	1	
+4253	09/16/23	Savannah	GA	31.9	-81.1	1	
+4254	09/16/23	Noblesville	IN	40	-85.9	1	
+4255	09/16/23	Blackfoot	ID	43.2	-112.3	1	
+4256	09/16/23	Chicago	IL	41.9	-87.6	3	
+4257	09/16/23	Dallas	TX	32.9	-96.7	1	
+4258	09/16/23	Belle River	ON	42.3	-82.7	8	
+4259	09/16/23	Clay Township	MI	42.6	-82.6	7	
+4260	09/16/23	Philadelphia	PA	40	-75	2	
+4261	09/16/23	Jacksonville	NC	34.6	-77.3	1	
+4262	09/16/23	Holland	MI	42.8	-86.2	8	
+4263	09/16/23	Round Rock	TX	30.5	-97.7	1	
+4264	09/16/23	Wading River	NY	40.9	-72.8	12	
+4265	09/16/23	De Kalb	TX	33.5	-94.6	2	
+4266	09/15/23	Brillion	WI	44.2	-88.1	4	
+4267	09/15/23	Perry	GA	32.4	-83.6	7	
+4268	09/15/23	Rockaway Township	NJ	40.9	-74.5	1	
+4269	09/15/23	Sappington	MO	38.5	-90.4	1	
+4270	09/15/23	Richmond	VA	37.6	-77.5	1	
+4271	09/15/23	Mont-Blanc	QC	46.1	-74.5	1	
+4272	09/15/23	Cypress Mill	TX	30.3	-98.3	1	
+4273	09/15/23	Middleton	WI	43.1	-89.5	6	
+4274	09/15/23	Elk Grove Village	IL	42	-88	1	
+4275	09/15/23	Brampton	ON	43.6	-79.8	1	
+4276	09/15/23	Cedar	MI	44.8	-85.8	1	
+4277	09/15/23	Alexander	NC	35.7	-82.6	1	
+4278	09/15/23	Sterling Heights	MI	42.6	-83.1	3	
+4279	09/15/23	Panama City Beach	FL	30.3	-86	1	
+4280	09/15/23	Akron	OH	41.2	-81.6	1	
+4281	09/15/23	Edmond	OK	35.7	-97.5	2	
+4282	09/15/23	Spencer	OK	35.6	-97.4	2	
+4283	09/15/23	Kitty Hawk	NC	36.1	-75.7	1	
+4284	09/15/23	Dripping Springs	TX	30.2	-98.2	1	
+4285	09/15/23	Tulsa	OK	36.1	-95.9	1	
+4286	09/15/23	Mississauga	ON	43.6	-79.6	3	
+4287	09/15/23	Oklahoma City	OK	35.4	-97.5	1	
+4288	09/15/23	Lenexa	KS	39	-94.7	10	
+4289	09/15/23	Muskegon	MI	43.2	-86.3	2	
+4290	09/15/23	Chatham	ON	42.4	-82.2	3	
+4291	09/15/23	Statham	GA	33.9	-83.6	1	
+4292	09/15/23	Pass Christian	MS	30.3	-89.2	3	
+4293	09/15/23	Wasaga Beach	ON	44.5	-80	10	
+4294	09/15/23	Hubbard Lake	MI	44.8	-83.5	1	
+4295	09/15/23	Omaha	NE	41.2	-96.2	4	
+4296	09/15/23	Champaign	IL	40.1	-88.3	1	
+4297	09/15/23	Houston	TX	29.7	-95.4	1	
+4298	09/15/23	Missouri City	TX	29.6	-95.6	1	
+4299	09/15/23	Plano	TX	33	-96.7	1	
+4300	09/15/23	Belleville	WI	42.9	-89.5	1	
+4301	09/15/23	Halton Hills	ON	43.6	-79.9	1	
+4302	09/15/23	Mississauga	ON	43.6	-79.7	2	
+4303	09/15/23	Waterloo	ON	43.5	-80.5	1	
+4304	09/15/23	Tulsa	OK	36.1	-96	1	
+4305	09/15/23	Dodgeville	WI	43	-90.1	1	
+4306	09/15/23	Harley	ON	43.1	-80.5	1	
+4307	09/15/23	Hinton	OK	35.4	-98.3	1	
+4308	09/15/23	Urbana	IL	40.1	-88.2	8	
+4309	09/15/23	Westerly	RI	41.3	-71.8	5	
+4310	09/15/23	Mississauga	ON	43.6	-79.8	2	
+4311	09/15/23	Moscow Mills	MO	38.9	-90.9	2	
+4312	09/15/23	St. Louis	MO	38.7	-90.5	2	
+4313	09/15/23	Salt Lake City	UT	40.7	-111.8	1	
+4314	09/15/23	KCMO	MO	39.2	-94.5	3	
+4315	09/15/23	Cadillac	MI	44.3	-85.4	1	
+4316	09/15/23	St. Louis	MO	38.6	-90.2	8	
+4317	09/15/23	Lombard	IL	41.9	-88	10	
+4318	09/15/23	Temple	TX	31.1	-97.4	1	
+4319	09/15/23	Ada	OK	34.8	-96.7	2	
+4320	09/15/23	Stoughton	WI	42.9	-89.2	1	
+4321	09/15/23	Plano	TX	33	-96.7	1	
+4322	09/15/23	Washington	NC	35.6	-77	1	
+4323	09/15/23	Ottawa	ON	45.4	-75.7	1	
+4324	09/15/23	Manistee	MI	44.2	-86.4	2	
+4325	09/15/23	MontrÃ©al	QC	45.5	-73.7	16	
+4326	09/15/23	New Berlin	WI	43	-88.1	2	
+4327	09/15/23	Tulsa	OK	36.2	-95.9	7	
+4328	09/15/23	Iowa City	IA	41.6	-91.6	1	
+4329	09/15/23	Tulsa	OK	36.1	-96	4	
+4330	09/15/23	New Iberia	LA	30	-91.8	1	
+4331	09/15/23	South Bend	IN	41.7	-86.3	1	
+4332	09/15/23	Morrow	OH	39.3	-84.1	1	
+4333	09/15/23	Miami	OK	36.9	-94.8	1	
+4334	09/15/23	Livingston	LA	30.5	-90.7	1	
+4335	09/15/23	Grasonville	MD	39	-76.2	3	
+4336	09/15/23	Chatham	MA	41.7	-70	1	
+4337	09/15/23	Calera	OK	33.9	-96.4	4	
+4338	09/15/23	Prince Edward	ON	44	-77.5	1	
+4339	09/15/23	Norwich	VT	43.7	-72.3	1	
+4340	09/15/23	Round Rock	TX	30.5	-97.6	2	
+4341	09/15/23	Brampton	ON	43.6	-79.8	1	
+4342	09/15/23	Lowell	IN	41.3	-87.4	5	
+4343	09/15/23	Crown Point	IN	41.4	-87.3	1	
+4344	09/15/23	Merrillville	IN	41.5	-87.3	1	
+4345	09/15/23	Merrillville	IN	41.5	-87.3	1	
+4346	09/15/23	Merrillville	IN	41.5	-87.3	2	
+4347	09/15/23	Crown Point	IN	41.5	-87.2	2	
+4348	09/15/23	Gary	IN	41.5	-87.4	1	
+4349	09/15/23	Gary	IN	41.6	-87.4	1	
+4350	09/15/23	Hammond	IN	41.6	-87.4	1	
+4351	09/14/23	Wausaukee	WI	45.4	-88	3	
+4352	09/14/23	Bradley Beach	NJ	40.2	-74	1	
+4353	09/14/23	Marlboro	MA	42.3	-71.5	1	
+4354	09/14/23	Enterprise	AL	31.4	-85.8	1	
+4355	09/14/23	Lock Haven	PA	41.2	-77.4	5	
+4356	09/14/23	Tamworth	NH	43.8	-71.3	9	
+4357	09/14/23	Lock Haven	PA	41.1	-77.4	15	
+4358	09/14/23	Nahant	MA	42.4	-70.9	2	
+4359	09/14/23	Lake George	NY	43.4	-73.7	5	
+4360	09/14/23	East Smithfield	PA	41.9	-76.6	1	
+4361	09/14/23	Sterling Heights	MI	42.6	-83.1	5	
+4362	09/14/23	Oakville	ON	43.5	-79.7	1	
+4363	09/14/23	Fairborn	OH	39.8	-84	1	
+4364	09/14/23	Killeen	TX	31.1	-97.7	4	
+4365	09/14/23	Ogunquit	ME	43.2	-70.6	1	
+4366	09/14/23	Oakville	ON	43.5	-79.7	1	
+4367	09/14/23	Oakville	ON	43.5	-79.7	9	
+4368	09/14/23	Oakville	ON	43.5	-79.7	1	
+4369	09/14/23	Alto	MI	42.8	-85.4	1	
+4370	09/14/23	Blue Hill	ME	44.4	-68.6	1	
+4371	09/14/23	Indian Lake	NY	43.9	-74.4	3	
+4372	09/14/23	Woodstock	GA	34.2	-84.4	1	
+4373	09/14/23	Halton Hills	ON	43.6	-79.8	2	
+4374	09/14/23	Halton Hills	ON	43.6	-79.9	2	
+4375	09/14/23	Long Lake	NY	43.9	-74.4	1	
+4376	09/14/23	Chatham	ON	42.4	-82.2	4	
+4377	09/14/23	Blackstock	ON	44.1	-78.8	1	
+4378	09/14/23	Wichita	KS	37.7	-97.3	5	
+4379	09/14/23	Waynesboro	PA	39.8	-77.6	1	
+4380	09/14/23	Seymour	VIC	-37	145.1	1	
+4381	09/14/23	Columbia	MD	39.2	-76.9	4	
+4382	09/14/23	Irons	MI	44.1	-86	1	
+4383	09/14/23	Shanty Bay	ON	44.5	-79.7	1	
+4384	09/14/23	Marble Falls	TX	30.6	-98.2	1	
+4385	09/14/23	El Reno	OK	35.5	-98	3	
+4386	09/14/23	Lock Haven	PA	41.1	-77.4	15	
+4387	09/14/23	Papillion	NE	41.1	-96.1	2	
+4388	09/14/23	Brandon Twp	MI	42.8	-83.3	1	
+4389	09/14/23	Bellefonte	PA	40.9	-77.8	1	
+4390	09/14/23	Howe	OK	35	-94.6	1	
+4391	09/14/23	Stockton	NJ	40.4	-74.9	1	
+4392	09/14/23	Monona	WI	43.1	-89.3	3	
+4393	09/14/23	KCMO	MO	39.2	-94.5	1	
+4394	09/14/23	Ponca City	OK	36.7	-97.1	3	
+4395	09/14/23	Wall Township	NJ	40.2	-74.1	1	
+4396	09/14/23	North Hampton	NH	43	-70.8	1	
+4397	09/14/23	Fort Bragg	CA	39.4	-123.8	1	
+4398	09/14/23	Grapevine	TX	32.9	-97.1	1	
+4399	09/14/23	Point Pelee National Park	ON	41.9	-82.5	15	
+4400	09/14/23	Lewisburg	WV	37.8	-80.4	2	
+4401	09/14/23	Palmarejo	PR	18.3	-66.3	1	
+4402	09/14/23	Fort Bragg	CA	39.4	-123.8	1	
+4403	09/14/23	Des Moines	IA	41.6	-93.7	1	
+4404	09/14/23	Fort Knox	KY	37.9	-86	2	
+4405	09/14/23	Binghamton	NY	42.1	-75.9	1	
+4406	09/14/23	Boonville	MO	39	-92.7	3	
+4407	09/14/23	Gardendale	TX	32	-102.4	1	
+4408	09/14/23	Portsmouth	VA	36.9	-76.4	1	
+4409	09/14/23	Erieville	NY	42.9	-75.7	1	
+4410	09/14/23	Otonabee-South Monaghan	ON	44.2	-78.2	2	
+4411	09/14/23	Tulsa	OK	36.2	-95.9	7	
+4412	09/14/23	Pass Christian	MS	30.3	-89.2	5	
+4413	09/14/23	Hackensack	NJ	40.9	-74	1	
+4414	09/14/23	Ramona	CA	33	-116.8	2	
+4415	09/14/23	Fort Edward	NY	43.3	-73.6	1	
+4416	09/14/23	Hudson Falls	NY	43.3	-73.5	2	
+4417	09/14/23	Union	MO	38.4	-90.9	2	
+4418	09/14/23	Honeoye Falls	NY	43	-77.6	1	
+4419	09/14/23	Asheville	NC	35.6	-82.6	1	
+4420	09/14/23	Warwick	NY	41.2	-74.4	1	
+4421	09/14/23	Berkeley Springs	WV	39.5	-78.3	1	
+4422	09/14/23	Midland	TX	32	-102.1	1	
+4423	09/14/23	MontrÃ©al	QC	45.5	-73.7	6	
+4424	09/14/23	Edmond	OK	35.7	-97.5	11	
+4425	09/14/23	Hamilton	ON	43.3	-79.9	2	
+4426	09/14/23	Hamilton	ON	43.3	-79.9	1	
+4427	09/14/23	Lebanon	PA	40.3	-76.4	1	
+4428	09/14/23	Calera	OK	33.9	-96.4	4	
+4429	09/14/23	Ossipee	NH	43.7	-71.1	1	
+4430	09/14/23	Arlington	VA	38.9	-77.1	3	
+4431	09/14/23	Lock Haven	PA	41.1	-77.4	15	
+4432	09/14/23	Aurora	MO	37	-93.7	1	
+4433	09/14/23	Redlands	CA	34	-117.2	2	
+4434	09/14/23	Miami	OK	36.9	-94.8	1	
+4435	09/14/23	Scottsdale	AZ	33.5	-111.9	1	
+4436	09/14/23	New Melle	MO	38.7	-90.9	1	
+4437	09/14/23	Hammond	IN	41.6	-87.5	2	
+4438	09/14/23	Richmond	VA	37.6	-77.5	1	
+4439	09/14/23	Stowe	VT	44.5	-72.7	9	
+4440	09/14/23	Barnard	VT	43.7	-72.6	2	
+4441	09/14/23	Binghamton	NY	42.1	-75.9	1	
+4442	09/14/23	St. Louis	MO	38.6	-90.3	3	
+4443	09/14/23	Loveland	CO	40.4	-105.2	1	
+4444	09/14/23	Roxbury	CT	41.5	-73.3	1	
+4445	09/13/23	Webb City	MO	37.2	-94.5	7	
+4446	09/13/23	Lombard	IL	41.9	-88	4	
+4447	09/13/23	Brunswick	OH	41.2	-81.8	2	
+4448	09/13/23	Connellsville	PA	40	-79.6	1	
+4449	09/13/23	Margaretville	NY	42.2	-74.7	3	
+4450	09/13/23	Murrells Inlet	SC	33.5	-79	2	
+4451	09/13/23	Atkinson	NE	42.5	-99	1	
+4452	09/13/23	Urbandale	IA	41.6	-93.7	2	
+4453	09/13/23	Howards Grove	WI	43.8	-87.8	1	
+4454	09/13/23	Ellsworth	ME	44.5	-68.4	1	
+4455	09/13/23	Whitney	TX	31.9	-97.4	1	
+4456	09/13/23	Coal Center	PA	40.1	-79.9	6	
+4457	09/13/23	Hammond	IN	41.6	-87.5	5	
+4458	09/13/23	California	PA	40.1	-79.9	1	
+4459	09/13/23	Norman	OK	35.3	-97.5	2	
+4460	09/13/23	Baroda	MI	42	-86.5	2	
+4461	09/13/23	Bartlesville	OK	36.7	-96	4	
+4462	09/13/23	Ponca City	OK	36.7	-97.1	4	
+4463	09/13/23	Middleton	WI	43.1	-89.4	8	
+4464	09/13/23	Norman	OK	35.3	-97.4	3	
+4465	09/13/23	Cleveland	OH	41.4	-81.8	3	
+4466	09/13/23	Des Moines	IA	41.6	-93.6	1	
+4467	09/13/23	Charleston	SC	32.7	-80	12	
+4468	09/13/23	Erieville	NY	42.9	-75.7	1	
+4469	09/13/23	Tulsa	OK	36.2	-95.9	4	
+4470	09/13/23	Ramona	CA	33	-116.8	1	
+4471	09/13/23	Waterloo	ON	43.5	-80.5	1	
+4472	09/13/23	Fairfield	IA	41	-92	1	
+4473	09/13/23	Chatham	MA	41.7	-70	1	
+4474	09/13/23	Calera	OK	33.9	-96.4	4	
+4475	09/13/23	Chamblee	GA	33.9	-84.3	1	
+4476	09/13/23	Fairborn	OH	39.8	-84	1	
+4477	09/13/23	Lake Forest	IL	42.2	-87.8	1	
+4478	09/13/23	Brookville	IN	39.5	-84.9	2	
+4479	09/13/23	Hartland	VT	43.5	-72.4	2	
+4480	09/13/23	Newburgh	IN	38	-87.4	1	
+4481	09/13/23	Mayfield	OH	41.6	-81.4	1	
+4482	09/13/23	Willoughby	OH	41.6	-81.4	1	
+4483	09/13/23	Canelo	AZ	31.5	-110.5	9	
+4484	09/13/23	Hammond	IN	41.6	-87.5	5	
+4485	09/13/23	Enterprise	AL	31.4	-85.8	2	
