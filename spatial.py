@@ -6,9 +6,7 @@ import os
 from matplotlib.colors import LogNorm
 
 # Load the monarch sightings dataset
-
-file_path = 'monarch_sightings_csv/monarch_sightings2022_with_fips.csv'
-
+file_path = 'monarch_sightings_csv/monarch_sightings2015_with_fips.csv'
 df = pd.read_csv(file_path)
 file_name = os.path.basename(file_path)
 year = file_name[17:21]
@@ -49,7 +47,7 @@ min_count = counties_sightings['Count'].min()
 max_count = counties_sightings['Count'].max()
 
 # Define the normalization using LogNorm
-norm = LogNorm(vmin=min_count, vmax=max_count)
+norm = LogNorm(vmin=1, vmax=10000)
 
 # Plot using the log-scaled count with LogNorm
 pc = counties_sightings.plot(column='Count', ax=ax, linewidth=0.8, edgecolor='0.8', cmap='YlOrRd',
@@ -71,24 +69,17 @@ cbar = fig.colorbar(sm, ax=ax)
 cbar.set_label('Count of Monarch Sightings')  # Add label to the colorbar
 
 # Create logarithmic ticks across 6 segments
-log_ticks = np.logspace(np.log10(min_count), np.log10(max_count), num=10).astype(int)
-"""
+# log_ticks = np.logspace(np.log10(min_count), np.log10(max_count), num=6).astype(int)
 
-# Set the ticks and labels on the colorbar
-cbar.set_ticks(log_ticks)
-cbar.set_ticklabels([str(tick) for tick in log_ticks])
-
-# # Customize the ticks and labels on the colorbar
-# log_ticks = [1, 2, 5, 10, 500, 100000]  # Standardized ticks
+# # Set the ticks and labels on the colorbar
 # cbar.set_ticks(log_ticks)
-# cbar.set_ticklabels(['0', '10', '100', '1,000', '50,000', '100,000'])
+# cbar.set_ticklabels([str(tick) for tick in log_ticks])
 
-
-
-# Set the ticks and labels on the colorbar
+# Customize the ticks and labels on the colorbar
+log_ticks = [1, 10, 100, 1000, 5000, 10000]  # Standardized ticks
 cbar.set_ticks(log_ticks)
-cbar.set_ticklabels([str(tick) for tick in log_ticks])
-"""
+cbar.set_ticklabels(['0', '10', '100', '1,000', '5,000', "10,000+"])
+
 
 # Display the plot
 plt.show()
