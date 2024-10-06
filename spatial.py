@@ -6,7 +6,9 @@ import os
 from matplotlib.colors import LogNorm
 
 # Load the monarch sightings dataset
+
 file_path = 'monarch_sightings_csv/monarch_sightings2022_with_fips.csv'
+
 df = pd.read_csv(file_path)
 file_name = os.path.basename(file_path)
 year = file_name[17:21]
@@ -70,6 +72,7 @@ cbar.set_label('Count of Monarch Sightings')  # Add label to the colorbar
 
 # Create logarithmic ticks across 6 segments
 log_ticks = np.logspace(np.log10(min_count), np.log10(max_count), num=10).astype(int)
+"""
 
 # Set the ticks and labels on the colorbar
 cbar.set_ticks(log_ticks)
@@ -80,6 +83,12 @@ cbar.set_ticklabels([str(tick) for tick in log_ticks])
 # cbar.set_ticks(log_ticks)
 # cbar.set_ticklabels(['0', '10', '100', '1,000', '50,000', '100,000'])
 
+
+
+# Set the ticks and labels on the colorbar
+cbar.set_ticks(log_ticks)
+cbar.set_ticklabels([str(tick) for tick in log_ticks])
+"""
 
 # Display the plot
 plt.show()
