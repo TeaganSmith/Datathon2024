@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the monarch sightings dataset
-df = pd.read_csv('monarch_sightings_with_fips_zero_padded.csv')
+df = pd.read_csv('csv-files-data/2024/monarch_sightings_with_fips_cleaned.csv')
 
 # Ensure 'FIPS' is of type string
 df['FIPS'] = pd.to_numeric(df['FIPS'], errors='coerce').astype('Int64')  # Convert to integers

@@ -1,5 +1,4 @@
-Date,Town,State/Province,Latitude,Longitude,Number,Image
-Date,Town,State/Province,Latitude,Longitude,Number,Image
+Number,Date,City,State/Province,Latitude,Longitude,Count,Image
 1,12/30/11,VENTURA,CA,34.3,-119.3,2
 2,12/30/11,New Orleans,LA,30,-90.1,1520
 3,12/30/11,ENGLEWOOD,FL,27,-82.3,25

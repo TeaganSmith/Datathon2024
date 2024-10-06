@@ -1,5 +1,4 @@
-Date,Town,State/Province,Latitude,Longitude,Number,Image
-Date,Town,State/Province,Latitude,Longitude,Number,Image
+Number,Date,City,State/Province,Latitude,Longitude,Count,Image
 1,12/27/12,Santa Cruz,CA,37.1,-122.2,4000
 2,12/27/12,Santa Cruz,CA,37.1,-122.2,3500
 3,12/26/12,Angangueo,MIC,19.6,-100.3,1

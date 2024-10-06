@@ -1,5 +1,4 @@
-Date,Town,State/Province,Latitude,Longitude,Number,Image
-Date,Town,State/Province,Latitude,Longitude,Number,Image
+Number,Date,City,State/Province,Latitude,Longitude,Count,Image
 1,12/31/14,Long Beach,CA,33.8,-118.2,1
 2,12/31/14,Inverness,FL,28.8,-82.3,1
 3,12/30/14,burbank,CA,34.2,-118.3,2

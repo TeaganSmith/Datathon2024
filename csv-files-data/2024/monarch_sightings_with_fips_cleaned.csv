@@ -1,4 +1,4 @@
-city,state,county,count,fips,cleaned_county
+city,state,county,count,FIPS,cleaned_county
 Abilene,TX,TAYLOR,1,48441,TAYLOR
 Ada,MN,NORMAN,1,27107,NORMAN
 Ada,OK,PONTOTOC,5,40123,PONTOTOC

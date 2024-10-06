@@ -1,5 +1,4 @@
-Date,Town,State/Province,Latitude,Longitude,Number,Image
-Date,Town,State/Province,Latitude,Longitude,Number,Image
+Number,Date,City,State/Province,Latitude,Longitude,Count,Image
 1,12/27/15,Damon,TX,29.3,-95.7,1
 2,12/27/15,Bluffton,SC,32.2,-80.9,1
 3,12/27/15,Bluffton,SC,32.2,-80.9,1

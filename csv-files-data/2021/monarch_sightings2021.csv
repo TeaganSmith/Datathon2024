@@ -1,5 +1,4 @@
-Date,Town,State/Province,Latitude,Longitude,Number,Image
-Date,Town,State/Province,Latitude,Longitude,Number,Image
+Number,Date,City,State/Province,Latitude,Longitude,Count,Image
 1,12/31/21,Kenner,LA,30,-90.3,2
 2,12/31/21,Pace,FL,30.6,-87.1,1
 3,12/31/21,Clearwater,FL,28,-82.7,1

@@ -1,5 +1,4 @@
-Date,Town,State/Province,Latitude,Longitude,Number,Image
-Date,Town,State/Province,Latitude,Longitude,Number,Image
+Number,Date,City,State/Province,Latitude,Longitude,Count,Image
 1,12/29/16,Green Cove Springs,FL,30,-81.8,3
 2,12/28/16,Spring,TX,30,-95.5,2
 3,12/28/16,Ocotillo,CA,32.7,-116.1,2

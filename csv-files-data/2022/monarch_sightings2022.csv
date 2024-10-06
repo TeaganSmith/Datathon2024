@@ -1,5 +1,4 @@
-Date,Town,State/Province,Latitude,Longitude,Number,Image
-Date,Town,State/Province,Latitude,Longitude,Number,Image
+Number,Date,City,State/Province,Latitude,Longitude,Count,Image
 1,12/31/22,West Palm Beach,FL,26.8,-80,2
 2,12/31/22,EstaciÃ³n Santa Engracia,TAM,24,-99.3,6
 3,12/30/22,Jacksonville Beach,FL,30.3,-81.4,1
