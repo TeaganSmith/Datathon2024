@@ -30,11 +30,18 @@ counties_sightings = counties_sightings.dropna(subset=['FIPS', 'geometry'])
 # Drop rows with invalid geometries
 counties_sightings = counties_sightings[counties_sightings.is_valid]
 
-# Plot the counties and color them based on the count of monarch sightings
-fig, ax = plt.subplots()
+# Create a figure and axis
+fig, ax = plt.subplots(figsize=(12, 8))
 
-# Plot the data and set the aspect ratio
-counties_sightings.plot(column='count', ax=ax, legend=True, linewidth=0.8, edgecolor='0.8', cmap='OrRd')
+# First, plot all counties with a light color for the borders
+counties.boundary.plot(ax=ax, linewidth=0.5, color='black')  # Plot county borders
+
+# Then plot the counties with sightings and color them based on the count of monarch sightings
+counties_sightings.plot(column='count', ax=ax, legend=True, linewidth=0.8, edgecolor='0.8', cmap='OrRd', missing_kwds={
+    "color": "white",  # Color for counties without sightings
+    "edgecolor": "white",
+    "hatch": "//"  # Optional: pattern for counties without sightings
+})
 
 # Set the aspect ratio to 'auto' to avoid aspect-related errors
 ax.set_aspect('auto')
