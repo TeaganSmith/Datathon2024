@@ -1,0 +1,3224 @@
+Town,State/Province,County,Count,Latitude,Longitude,FIPS
+abbeville,LA,vermilion,12,30.0,-92.1,
+abilene,TX,taylor,770,32.4,-99.8,48441.0
+abingdon,VA,washington,8,36.7,-82.0,51191.0
+abington,PA,montgomery,3,40.1,-75.1,42091.0
+abita springs,LA,st. tammany,2,30.5,-90.0,
+absecon,NJ,atlantic,456,39.5,-74.5,34001.0
+acton,MA,middlesex,66,42.5,-71.5,25017.0
+acton,ME,york,5,43.5,-70.9,23031.0
+acushnet,MA,bristol,10,41.7,-70.9,25005.0
+acworth,GA,cherokee,26,34.0,-84.7,13057.0
+acworth,GA,cobb,52,34.0,-84.7,13067.0
+ada,MI,kent,8,43.0,-85.5,26081.0
+ada,OK,pontotoc,24,34.8,-96.7,40123.0
+adairsville,GA,bartow,10,34.4,-84.9,13015.0
+adams,MA,berkshire,2,42.6,-73.2,25003.0
+adkins,TX,bexar,1,29.3,-98.2,48029.0
+afton,NY,chenango,12,42.2,-75.6,36017.0
+afton,OK,ottawa,6,36.6,-94.9,40115.0
+aguanga,CA,riverside,2,33.4,-116.9,6065.0
+aiken,SC,aiken,54,33.6,-81.7,45003.0
+akron,OH,summit,336,41.1,-81.5,39153.0
+alamo,CA,contra costa,1,37.9,-122.0,6013.0
+alamogordo,NM,otero,8,32.7,-105.9,35035.0
+albany,NY,albany,138,42.7,-73.8,36001.0
+albany,OH,athens,1,39.2,-82.1,39009.0
+albert lea,MN,freeborn,3,43.7,-93.1,27047.0
+albion,IN,noble,27,41.3,-85.5,18113.0
+albion,NY,orleans,60,43.2,-78.3,36073.0
+albuquerque,NM,bernalillo,225,35.1,-106.6,35001.0
+alburgh,VT,grand isle,2,45.0,-73.2,50013.0
+alderson,WV,monroe,2,37.7,-80.7,54063.0
+aldrich,MO,polk,2,37.5,-93.5,29167.0
+aledo,TX,parker,10,32.7,-97.6,48367.0
+alex,OK,grady,25,34.9,-97.8,40051.0
+alexandria,IN,madison,20,40.2,-85.6,18095.0
+alexandria,KY,campbell,6,39.0,-84.4,21037.0
+alexandria,MN,douglas,54,45.9,-95.3,27041.0
+alexandria,VA,alexandria city,22,38.8,-77.1,51510.0
+alexandria,VA,fairfax,20,38.8,-77.1,51059.0
+alexandria bay,NY,jefferson,45,44.3,-75.9,36045.0
+algonac,MI,st. clair,1400,42.6,-82.5,26147.0
+algonquin,IL,mchenry,8,42.2,-88.3,17111.0
+allegan,MI,allegan,1,42.5,-85.8,26005.0
+allen,TX,collin,240,33.1,-96.7,48085.0
+allen park,MI,wayne,8,42.2,-83.2,26163.0
+allendale,NJ,bergen,18,41.0,-74.1,34003.0
+allenton,MI,st. clair,25,42.9,-82.9,26147.0
+allenton,WI,washington,386,43.4,-88.4,55131.0
+allentown,PA,lehigh,9,40.6,-75.6,42077.0
+allons,TN,overton,1,36.6,-85.4,47133.0
+alpena,MI,alpena,1,45.2,-83.4,26007.0
+alpharetta,GA,fulton,3,34.1,-84.3,13121.0
+alpine,NJ,bergen,2,41.0,-73.9,34003.0
+alpine,TX,brewster,4,30.4,-103.6,48043.0
+alsip,IL,cook,4,41.7,-87.7,17031.0
+alta,IA,buena vista,12,42.7,-95.3,19021.0
+alto,GA,habersham,1,34.5,-83.6,13137.0
+alto pass,IL,union,1,37.6,-89.3,17181.0
+altura,MN,winona,18,44.2,-91.9,27169.0
+altus,AR,franklin,42,35.5,-93.7,5047.0
+amarillo,TX,potter,296,35.2,-101.8,48375.0
+amarillo,TX,randall,148,35.2,-101.8,48381.0
+ambler,PA,montgomery,40,40.2,-75.2,42091.0
+american canyon,CA,napa,9,38.2,-122.3,6055.0
+americus,GA,sumter,1,32.1,-84.2,13261.0
+amherst,MA,hampshire,40,42.4,-72.5,25015.0
+amherst,NH,hillsborough,1,42.8,-71.6,33011.0
+amherst,VA,amherst,42,37.6,-79.1,
+anaheim,CA,orange,49,33.8,-118.0,6059.0
+anahuac,TX,chambers,8,29.6,-94.5,48071.0
+anderson,IN,madison,560,40.1,-85.7,18095.0
+andover,MA,essex,9,42.6,-71.1,25009.0
+andover,MN,anoka,1085,45.2,-93.3,27003.0
+andover,NY,allegany,1,42.2,-77.8,36003.0
+andover,OH,ashtabula,90,41.5,-80.6,39007.0
+ann arbor,MI,washtenaw,352,42.2,-83.7,26161.0
+anna,TX,collin,4,33.4,-96.6,48085.0
+annandale,MN,wright,1,45.2,-94.1,27171.0
+annandale,VA,fairfax,7,38.8,-77.2,51059.0
+annapolis,MD,anne arundel,940,39.0,-76.5,24003.0
+anoka,MN,anoka,30,45.2,-93.4,27003.0
+ansonia,CT,new haven,7,41.3,-73.1,9009.0
+ansonia,OH,darke,50,40.2,-84.6,39037.0
+antioch,IL,lake,375,42.5,-88.1,17097.0
+apache junction,AZ,pinal,2,33.4,-111.6,4021.0
+apex,NC,wake,4,35.8,-78.9,37183.0
+apison,TN,hamilton,1,35.0,-85.0,47065.0
+apple valley,CA,san bernardino,2,34.5,-117.2,6071.0
+appleton,WI,outagamie,405,44.3,-88.4,55087.0
+aquebogue,NY,suffolk,500,40.9,-72.6,36103.0
+arcade,NY,wyoming,1,42.6,-78.4,36121.0
+arcadia,FL,desoto,15,27.3,-81.9,12027.0
+arden,NC,buncombe,24,35.4,-82.5,37021.0
+ardmore,PA,montgomery,1,40.0,-75.3,42091.0
+argyle,WI,lafayette,15,42.7,-89.8,55065.0
+arlington,IN,rush,2,39.6,-85.6,18139.0
+arlington,MA,middlesex,45,42.4,-71.2,25017.0
+arlington,TX,tarrant,138,32.7,-97.2,48439.0
+arlington,VA,arlington,527,38.9,-77.1,51013.0
+arlington,WI,columbia,2000,43.3,-89.4,55021.0
+arlington heights,IL,cook,6,42.1,-88.0,17031.0
+armada,MI,macomb,2,42.8,-82.9,26099.0
+armonk,NY,westchester,8,41.1,-73.7,36119.0
+arnold,MO,jefferson,2,38.4,-90.4,29099.0
+arroyo grande,CA,san luis obispo,4,35.1,-120.6,6079.0
+arvada,CO,jefferson,4,39.8,-105.1,8059.0
+ash grove,MO,greene,90,37.4,-93.6,29077.0
+ashburn,VA,loudoun,24,39.0,-77.5,51107.0
+asheville,NC,buncombe,459,35.6,-82.6,37021.0
+ashland,KY,boyd,168,38.4,-82.6,21019.0
+ashland,OR,jackson,3,42.2,-122.7,41029.0
+ashland,WI,ashland,20,46.6,-90.9,55003.0
+ashton,IL,lee,10,41.9,-89.2,17103.0
+ashton,MD,montgomery,2,39.2,-77.0,24031.0
+ashville,NY,chautauqua,1,42.1,-79.4,36013.0
+aston,PA,delaware,8,39.9,-75.4,42045.0
+atchison,KS,atchison,418,39.6,-95.1,20005.0
+atco,NJ,camden,15,39.8,-74.9,34007.0
+athens,GA,clarke,156,34.0,-83.4,13059.0
+athens,NY,greene,8,42.3,-73.8,36039.0
+athens,OH,athens,5,39.3,-82.0,39009.0
+athens,TN,mcminn,10,35.4,-84.6,47107.0
+atkinson,NE,holt,12,42.5,-99.0,31089.0
+atlanta,GA,cobb,1984,33.9,-84.2,13067.0
+atlanta,GA,dekalb,4216,33.9,-84.2,13089.0
+atlanta,GA,fulton,7192,33.9,-84.2,13121.0
+atlantic beach,FL,duval,20,30.3,-81.4,12031.0
+atlantic beach,NC,carteret,7,34.7,-76.8,37031.0
+atlantic highlands,NJ,monmouth,6,40.4,-74.0,34025.0
+attalla,AL,etowah,5,34.1,-86.1,1055.0
+attica,MI,lapeer,106,43.1,-83.2,26087.0
+aubrey,TX,denton,6,33.2,-97.0,48121.0
+auburn,IL,sangamon,70,39.6,-89.8,17167.0
+auburn,MA,worcester,2,42.2,-71.9,25027.0
+auburn hills,MI,oakland,48,42.7,-83.2,26125.0
+audubon,NJ,camden,2,39.9,-75.1,34007.0
+augusta,GA,columbia,14,33.5,-82.1,13073.0
+augusta,GA,richmond,28,33.5,-82.1,13245.0
+aurora,IL,dupage,3,41.8,-88.3,17043.0
+aurora,IL,kane,4,41.8,-88.3,17089.0
+aurora,IL,will,1,41.8,-88.3,17197.0
+aurora,ME,hancock,2,44.9,-68.3,23009.0
+austell,GA,cobb,1,33.8,-84.6,13067.0
+austin,KY,barren,22,36.8,-86.0,21009.0
+austin,MN,mower,136,43.7,-93.0,27099.0
+austin,PA,potter,4,41.5,-78.1,42105.0
+austin,TX,hays,677,30.3,-97.8,48209.0
+austin,TX,travis,29111,30.3,-97.8,48453.0
+austin,TX,williamson,2031,30.3,-97.8,48491.0
+avon,IN,hendricks,38,39.8,-86.4,18063.0
+avon,MA,norfolk,2,42.1,-71.0,25021.0
+avon,NC,dare,120,35.4,-75.5,37055.0
+avon,OH,lorain,1,41.4,-82.0,39093.0
+avon lake,OH,lorain,22,41.5,-82.0,39093.0
+avondale estates,GA,dekalb,2,33.8,-84.2,13089.0
+awendaw,SC,charleston,13,33.0,-79.6,45019.0
+aydlett,NC,currituck,3,36.3,-75.9,37053.0
+babylon,NY,suffolk,2040,40.6,-73.2,36103.0
+bagley,IA,guthrie,3,41.9,-94.4,19077.0
+bagley,WI,grant,2,43.0,-91.1,55043.0
+bailey,NC,nash,2,35.8,-78.1,37127.0
+bala cynwyd,PA,montgomery,32,40.0,-75.2,42091.0
+baldwinsville,NY,onondaga,24,43.2,-76.4,36067.0
+ball ground,GA,cherokee,1,34.4,-84.3,13057.0
+ballard,WV,monroe,1,37.5,-80.8,54063.0
+ballwin,MO,st. louis,861,38.6,-90.5,29189.0
+bally,PA,berks,100,40.4,-75.6,42011.0
+baltimore,MD,anne arundel,80,39.4,-76.6,24003.0
+baltimore,MD,baltimore,120,39.4,-76.6,24005.0
+baltimore,MD,baltimore city,1520,39.4,-76.6,24510.0
+baltimore,OH,fairfield,12,39.8,-82.6,39045.0
+bandera,TX,bandera,6,29.7,-99.1,48019.0
+bar harbor,ME,hancock,8,44.3,-68.2,23009.0
+baraboo,WI,sauk,12,43.4,-89.7,55111.0
+barberton,OH,summit,9,41.0,-81.6,39153.0
+barboursville,WV,cabell,3,38.4,-82.3,54011.0
+barco,NC,currituck,12,36.4,-76.0,37053.0
+barnardsville,NC,buncombe,4,35.8,-82.4,37021.0
+barnegat light,NJ,ocean,72,39.8,-74.1,34029.0
+barnesville,MN,clay,632,46.7,-96.4,27027.0
+barnesville,PA,schuylkill,2,40.8,-76.1,42107.0
+barnsdall,OK,osage,24,36.5,-96.0,40113.0
+barre,MA,worcester,3,42.4,-72.1,25027.0
+barrington,IL,lake,80,42.2,-88.1,17097.0
+barrytown,NY,dutchess,6,42.0,-73.9,36027.0
+bartlesville,OK,washington,32,36.7,-95.9,40147.0
+bartlett,NH,carroll,3,44.1,-71.2,33003.0
+basking ridge,NJ,somerset,4,40.7,-74.5,34035.0
+bass harbor,ME,hancock,11,44.2,-68.3,23009.0
+bastrop,TX,bastrop,8,30.1,-97.3,48021.0
+batavia,OH,clermont,2,39.2,-84.1,39025.0
+baton rouge,LA,east. baton rouge,425,30.4,-91.2,
+battleboro,NC,edgecombe,40,36.0,-77.7,37065.0
+bay city,MI,bay,3,43.6,-83.9,26017.0
+bay city,TX,matagorda,10,29.0,-96.0,48321.0
+bay minette,AL,baldwin,6,30.9,-87.8,1003.0
+bay shore,NY,suffolk,940,40.6,-73.2,36103.0
+bay village,OH,cuyahoga,2,41.5,-81.9,39035.0
+bayard,WV,grant,2,39.3,-79.4,54023.0
+bayside,NY,queens,120,40.8,-73.8,36081.0
+baytown,TX,chambers,174,29.8,-94.8,48071.0
+baytown,TX,harris,377,29.8,-94.8,48201.0
+bayville,NY,nassau,28,40.9,-73.5,36059.0
+beach haven,NJ,ocean,546,39.7,-74.1,34029.0
+beacon,NY,dutchess,3,41.5,-73.9,36027.0
+bealeton,VA,fauquier,2,38.6,-77.8,51061.0
+beaman,IA,grundy,100,42.2,-92.8,19075.0
+beaufort,NC,carteret,16,34.7,-76.7,37031.0
+beaufort,SC,beaufort,10,32.4,-80.7,45013.0
+beaumont,TX,jefferson,7,30.1,-94.1,48245.0
+beaver dam,WI,dodge,8,43.4,-88.9,55027.0
+beaver island,MI,charlevoix,2,45.7,-85.5,26029.0
+beaverdam,VA,hanover,1,38.0,-77.6,51085.0
+becket,MA,berkshire,24,42.3,-73.1,25003.0
+bedford,MA,middlesex,9,42.5,-71.3,25017.0
+bedford,NH,hillsborough,3,42.9,-71.5,33011.0
+bedford,NY,westchester,2,41.2,-73.6,36119.0
+bedford,VA,bedford,1,37.4,-79.6,51019.0
+beech creek,PA,clinton,1,41.2,-77.8,42035.0
+bel air,MD,harford,1,39.6,-76.3,24025.0
+belding,MI,ionia,1,43.1,-85.2,26067.0
+belfast,ME,waldo,9,44.4,-69.0,23027.0
+belgium,WI,ozaukee,51,43.5,-87.8,55089.0
+belgrade,ME,kennebec,1,44.5,-69.9,23011.0
+belgrade,MN,stearns,3,45.5,-95.1,27145.0
+bella vista,AR,benton,2,36.5,-94.3,5007.0
+bellaire,TX,harris,1,29.7,-95.5,48201.0
+bellefontaine,OH,logan,249,40.4,-83.8,39091.0
+bellefonte,PA,centre,60,40.9,-77.8,42027.0
+belleville,KS,republic,19,39.8,-97.6,20157.0
+belleville,MI,wayne,4,42.2,-83.5,26163.0
+bellevue,KY,campbell,4,39.1,-84.5,21037.0
+bellevue,NE,sarpy,88,41.2,-95.9,31153.0
+bellows falls,VT,windham,8,43.2,-72.5,50025.0
+bellville,OH,richland,28,40.6,-82.5,39139.0
+bellville,TX,austin,8,29.9,-96.3,48015.0
+belmar,NJ,monmouth,11,40.2,-74.0,34025.0
+belmont,MA,middlesex,5,42.4,-71.2,25017.0
+belmont,MI,kent,7,43.1,-85.6,26081.0
+belmont,NC,gaston,2,35.2,-81.0,37071.0
+beloit,WI,rock,10,42.6,-89.1,55105.0
+belton,TX,bell,60,31.1,-97.5,48027.0
+bemidji,MN,beltrami,90,47.5,-94.9,27007.0
+bemus point,NY,chautauqua,1,42.1,-79.3,36013.0
+benezett,PA,elk,284,41.4,-78.4,42047.0
+bennington,NE,douglas,5,41.3,-96.1,31055.0
+benton,AR,saline,16,34.6,-92.6,5125.0
+benton,IL,franklin,90,38.0,-88.9,17055.0
+bentonville,AR,benton,6,36.4,-94.2,5007.0
+berkeley,CA,alameda,32,37.8,-122.3,6001.0
+berkley,MA,bristol,1,41.8,-71.1,25005.0
+berkley,MI,oakland,1,42.5,-83.2,26125.0
+berlin,MD,worcester,15,38.3,-75.2,24047.0
+bernardsville,NJ,somerset,1,40.7,-74.6,34035.0
+bertram,TX,burnet,35,30.6,-98.0,48053.0
+bethany,CT,new haven,4,41.4,-73.0,9009.0
+bethany beach,DE,sussex,3,38.5,-75.1,10005.0
+bethel,CT,fairfield,1,41.4,-73.4,9001.0
+bethel,VT,windsor,24,43.7,-72.6,50027.0
+bethesda,MD,montgomery,208,39.0,-77.1,24031.0
+bethlehem,GA,barrow,2,33.9,-83.7,13013.0
+beverly,MA,essex,26,42.6,-70.8,25009.0
+biddeford,ME,york,98,43.4,-70.3,23031.0
+big bend,WI,waukesha,1,42.9,-88.2,55133.0
+big pine key,FL,monroe,16,24.7,-81.4,12087.0
+big rapids,MI,mecosta,60,43.7,-85.4,26107.0
+big rock,IL,kane,3,41.7,-88.5,17089.0
+biggers,AR,randolph,1,36.4,-90.8,5121.0
+billings,OK,noble,2,36.5,-97.4,40103.0
+billingsley,AL,autauga,1,32.7,-86.7,1001.0
+biloxi,MS,harrison,54,30.5,-89.0,28047.0
+binghamton,NY,broome,221,42.1,-75.9,36007.0
+birmingham,AL,jefferson,3016,33.3,-86.9,1073.0
+birmingham,AL,shelby,406,33.3,-86.9,1117.0
+bishop,CA,inyo,90,37.3,-118.3,6027.0
+bishop,GA,oconee,6,33.8,-83.4,13219.0
+bishopville,MD,worcester,68,38.5,-75.1,24047.0
+bixby,OK,tulsa,23,35.9,-95.9,40143.0
+black mountain,NC,buncombe,2,35.6,-82.3,37021.0
+blackstone,MA,worcester,16,42.0,-71.5,25027.0
+blackstone,VA,nottoway,1,37.1,-78.0,51135.0
+blair,NE,washington,1,41.5,-96.1,31177.0
+blairsville,GA,union,12,34.9,-84.0,13291.0
+block island,RI,washington,54,41.2,-71.6,44009.0
+bloomfield,CT,hartford,3,41.8,-72.7,9003.0
+bloomfield,NJ,essex,520,40.8,-74.2,34013.0
+bloomfield hills,MI,oakland,35,42.6,-83.3,26125.0
+bloomingdale,IL,dupage,2,42.0,-88.1,17043.0
+bloomingdale,NJ,passaic,149,41.0,-74.3,34031.0
+bloomington,IN,monroe,21,39.2,-86.5,18105.0
+blue earth,MN,faribault,1,43.6,-94.1,27043.0
+blue hill,ME,hancock,2,44.4,-68.6,23009.0
+blue mounds,WI,dane,2,43.1,-89.8,55025.0
+blue mountain lake,NY,hamilton,2,43.9,-74.4,36041.0
+blue ridge,VA,botetourt,4,37.4,-79.8,51023.0
+blue river,WI,grant,4,43.2,-90.6,55043.0
+blue springs,MO,jackson,12,39.0,-94.3,29095.0
+bluff city,KS,harper,8,37.1,-97.9,20077.0
+bluffton,OH,allen,13,40.9,-83.9,39003.0
+bluffton,SC,beaufort,6,32.2,-80.9,45013.0
+blythewood,SC,richland,16,34.2,-81.0,45079.0
+boerne,TX,kendall,432,30.0,-98.7,48259.0
+bogart,GA,oconee,1,33.9,-83.5,13219.0
+boles,AR,scott,1,34.8,-94.0,5127.0
+bolinas,CA,marin,1,37.9,-122.7,6041.0
+boothbay,ME,lincoln,20,43.9,-69.6,23015.0
+boston,MA,suffolk,380,42.4,-71.1,25025.0
+boulder,CO,boulder,12,40.0,-105.3,8013.0
+boulder junction,WI,vilas,88,46.1,-89.6,55125.0
+bowie,MD,prince georges,40,39.0,-76.8,
+bowling green,KY,warren,170,36.9,-86.5,21227.0
+braddock,ND,emmons,8,46.7,-100.1,38029.0
+bradenton,FL,manatee,192,27.4,-82.5,12081.0
+bradley,CA,monterey,4,35.9,-121.1,6053.0
+bradley beach,NJ,monmouth,1,40.2,-74.0,34025.0
+bradshaw,NE,york,12,40.9,-97.8,31185.0
+brady,TX,mcculloch,12,31.1,-99.3,48307.0
+braidwood,IL,will,6,41.2,-88.2,17197.0
+brainerd,MN,crow wing,8,46.4,-94.4,27035.0
+brandon,SD,minnehaha,60,43.5,-96.6,46099.0
+branford,CT,new haven,1,41.3,-72.8,9009.0
+brattleboro,VT,windham,99,42.9,-72.6,50025.0
+brazoria,TX,brazoria,6,28.9,-95.5,48039.0
+breinigsville,PA,lehigh,2,40.6,-75.7,42077.0
+brenham,TX,washington,87,30.2,-96.4,48477.0
+brevard,NC,transylvania,4,35.2,-82.8,37175.0
+bricelyn,MN,faribault,52,43.6,-93.8,27043.0
+brick,NJ,ocean,6,40.0,-74.1,34029.0
+bridgehampton,NY,suffolk,4,40.9,-72.3,36103.0
+bridgeport,CT,fairfield,200,41.2,-73.2,9001.0
+bridgeport,MI,saginaw,1,43.4,-83.8,26145.0
+bridgeton,MO,st. louis,3,38.8,-90.5,29189.0
+bridgeville,DE,sussex,3,38.7,-75.6,10005.0
+bridgman,MI,berrien,1,41.9,-86.6,26021.0
+bridport,VT,addison,2,44.0,-73.4,50001.0
+brighton,MI,livingston,162,42.5,-83.8,26093.0
+brighton,TN,tipton,1,35.5,-89.7,47167.0
+brimfield,MA,hampden,14,42.1,-72.2,25013.0
+bristol,ME,lincoln,21,43.8,-69.3,23015.0
+bristol,VA,bristol city,4,36.6,-82.2,51520.0
+bristol,VA,washington,2,36.6,-82.2,51191.0
+bristol,VT,addison,56,44.1,-73.0,50001.0
+bristow,OK,creek,4,35.8,-96.3,40037.0
+bristow,VA,prince william,3,38.7,-77.6,51153.0
+britton,SD,marshall,5,45.8,-97.6,46091.0
+broadlands,IL,champaign,15,39.9,-88.0,17019.0
+brockton,MA,plymouth,3,42.1,-71.0,25023.0
+brodhead,WI,green,13,42.6,-89.4,55045.0
+broken arrow,OK,tulsa,178,36.0,-95.8,40143.0
+broken arrow,OK,wagoner,178,36.0,-95.8,40145.0
+bronx,NY,bronx,1998,40.8,-73.9,36005.0
+bronxville,NY,westchester,6,40.9,-73.8,36119.0
+brookfield,CT,fairfield,3,41.5,-73.4,9001.0
+brookfield,IL,cook,25,41.8,-87.9,17031.0
+brookfield,MA,worcester,1,42.2,-72.1,25027.0
+brookfield,WI,waukesha,52,43.0,-88.1,55133.0
+brookings,OR,curry,2,42.1,-124.3,41015.0
+brookings,SD,brookings,72,44.3,-96.8,46011.0
+brookline,MA,norfolk,3,42.3,-71.1,25021.0
+brooklyn,MI,jackson,11,42.1,-84.1,26075.0
+brooklyn,NY,kings,378,40.6,-74.0,36047.0
+brooks,GA,fayette,2,33.3,-84.5,13113.0
+brooksville,ME,hancock,100,44.4,-68.8,23009.0
+broussard,LA,lafayette,1,30.1,-92.0,
+brown city,MI,sanilac,4,43.3,-83.1,26151.0
+brownfield,ME,oxford,26,43.9,-70.9,23017.0
+brownsburg,IN,hendricks,12,39.8,-86.4,18063.0
+brownsville,IN,union,12,39.7,-85.0,18161.0
+brownsville,VT,windsor,6,43.5,-72.5,50027.0
+browntown,WI,green,3,42.6,-89.8,55045.0
+brunswick,OH,medina,3,41.2,-81.8,39103.0
+bryan,TX,brazos,16,30.7,-96.4,48041.0
+bryant,IN,jay,5,40.6,-85.0,18075.0
+bryson city,NC,swain,4,35.5,-83.4,37173.0
+buckner,MO,jackson,1,39.1,-94.2,29095.0
+bucyrus,OH,crawford,2,40.8,-83.0,39033.0
+buda,TX,hays,100,30.1,-97.9,48209.0
+buffalo,MN,wright,4,45.2,-93.9,27171.0
+buffalo,NY,erie,2223,43.0,-78.8,36029.0
+buffalo grove,IL,lake,1,42.2,-88.0,17097.0
+buford,GA,gwinnett,48,34.1,-84.0,13135.0
+buhl,ID,twin falls,24,42.7,-114.8,16083.0
+bullard,TX,smith,15,32.1,-95.4,48423.0
+bulverde,TX,comal,15,29.7,-98.5,48091.0
+buna,TX,jasper,2,30.4,-94.0,48241.0
+bunker hill,IL,macoupin,200,39.0,-90.0,17117.0
+burbank,CA,los angeles,7,34.2,-118.3,6037.0
+burkburnett,TX,wichita,2,34.1,-98.6,48485.0
+burke,VA,fairfax,26,38.8,-77.3,51059.0
+burleson,TX,johnson,87,32.5,-97.3,48251.0
+burlington,CT,hartford,12,41.8,-73.0,9003.0
+burlington,KY,boone,128,39.0,-84.7,21015.0
+burlington,NJ,burlington,5,40.0,-74.8,34005.0
+burlington,VT,chittenden,7,44.5,-73.2,50007.0
+burneyville,OK,love,2,33.9,-97.3,40085.0
+burnsville,NC,yancey,13,35.8,-82.2,37199.0
+butler,PA,butler,4,40.9,-80.0,42019.0
+butler,TN,johnson,24,36.3,-82.0,47091.0
+buzzards bay,MA,barnstable,24,41.8,-70.6,25001.0
+byers,TX,clay,13,34.1,-98.2,48077.0
+byhalia,MS,marshall,5,35.0,-89.6,28093.0
+byron center,MI,kent,2,42.8,-85.8,26081.0
+cadillac,MI,wexford,10,44.2,-85.4,26165.0
+caldwell,ID,canyon,18,43.7,-116.7,16027.0
+caldwell,NJ,essex,120,40.9,-74.3,34013.0
+caldwell,TX,burleson,143,30.6,-96.5,48051.0
+caledonia,OH,marion,19,40.6,-83.0,39101.0
+calera,AL,shelby,32,33.2,-86.8,1117.0
+calhoun,GA,gordon,5,34.5,-84.9,13129.0
+california,PA,washington,3,40.1,-79.9,42125.0
+callahan,FL,nassau,3,30.6,-81.8,12089.0
+calverton,NY,suffolk,3,40.9,-72.7,36103.0
+cambridge,IL,henry,1200,41.3,-90.2,17073.0
+cambridge,MN,isanti,3,45.6,-93.2,27059.0
+cambridge,WI,dane,3,43.0,-89.0,55025.0
+camden,NJ,camden,12,39.9,-75.1,34007.0
+camdenton,MO,camden,16,38.0,-92.7,29029.0
+cameron,TX,milam,144,30.8,-96.9,48331.0
+camp hill,PA,cumberland,30,40.2,-76.9,42041.0
+camp verde,AZ,yavapai,5,34.5,-111.8,4025.0
+campbell hall,NY,orange,4,41.4,-74.3,36071.0
+campobello,SC,spartanburg,3,35.1,-82.2,45083.0
+canaan,NH,grafton,4,43.6,-72.0,33009.0
+canandaigua,NY,ontario,4,42.8,-77.3,36069.0
+candler,NC,buncombe,10,35.5,-82.7,37021.0
+cannon falls,MN,goodhue,164,44.6,-92.8,27049.0
+canoga park,CA,los angeles,25,34.2,-118.6,6037.0
+canton,IL,fulton,5,40.6,-90.0,17057.0
+canton,MA,norfolk,1,42.2,-71.1,25021.0
+canton,MI,wayne,20,42.3,-83.5,26163.0
+canton,NC,haywood,32,35.3,-82.8,37087.0
+canton,TX,van zandt,16,32.5,-96.0,48467.0
+canyon,TX,randall,10,34.9,-101.7,48381.0
+canyon lake,TX,comal,48,29.9,-98.3,48091.0
+cape charles,VA,northampton,56,37.3,-76.0,51131.0
+cape coral,FL,lee,14,26.7,-82.0,12071.0
+cape elizabeth,ME,cumberland,76,43.6,-70.2,23005.0
+cape girardeau,MO,cape girardeau,80,37.3,-89.5,29031.0
+cape may,NJ,cape may,24,38.9,-75.0,34009.0
+cape may court house,NJ,cape may,12,39.2,-74.8,34009.0
+cape may point,NJ,cape may,284,38.9,-75.0,34009.0
+capitola,CA,santa cruz,1,37.0,-122.0,6087.0
+carbondale,IL,jackson,45,37.7,-89.2,17077.0
+cardington,OH,morrow,1,40.5,-82.9,39117.0
+carlinville,IL,macoupin,4,39.2,-89.9,17117.0
+carlisle,MA,middlesex,2,42.5,-71.4,25017.0
+carlisle,PA,cumberland,10,40.3,-77.2,42041.0
+carlsbad,CA,san diego,45,33.2,-117.3,6073.0
+carlsbad,NM,eddy,72,32.1,-104.5,35015.0
+carlsbad,TX,tom green,5,31.6,-100.6,48451.0
+carlstadt,NJ,bergen,4,40.8,-74.1,34003.0
+carlyle,IL,clinton,7,38.6,-89.4,17027.0
+carmel,IN,hamilton,18,40.0,-86.1,18057.0
+carolina beach,NC,new hanover,84,34.0,-77.9,37129.0
+carrboro,NC,orange,1,35.9,-79.1,37135.0
+carrizo springs,TX,dimmit,3,28.5,-99.9,48127.0
+carroll,IA,carroll,5,42.1,-94.9,19027.0
+carrollton,KY,carroll,3,38.7,-85.2,21041.0
+carrollton,TX,dallas,63,33.0,-96.9,48113.0
+carrollton,TX,denton,63,33.0,-96.9,48121.0
+cartersville,GA,bartow,3,34.3,-84.9,13015.0
+carterville,MO,jasper,7,37.1,-94.4,29097.0
+carthage,IN,rush,170,39.7,-85.6,18139.0
+carthage,MO,jasper,98,37.2,-94.3,29097.0
+cary,NC,wake,3,35.8,-78.8,37183.0
+cass lake,MN,cass,12,47.4,-94.5,27021.0
+cassopolis,MI,cass,8,41.9,-86.0,26027.0
+castroville,CA,monterey,1,36.8,-121.7,6053.0
+castroville,TX,medina,1,29.3,-98.9,48325.0
+catonsville,MD,baltimore,10,39.3,-76.8,24005.0
+catoosa,OK,rogers,12,36.2,-95.8,40131.0
+cedar bluff,AL,cherokee,11,34.2,-85.6,1019.0
+cedar falls,IA,black hawk,96,42.5,-92.4,19013.0
+cedar grove,NJ,essex,66,40.8,-74.2,34013.0
+cedar grove,WI,sheboygan,4,43.6,-87.8,55117.0
+cedar grove,WV,kanawha,14,38.2,-81.4,54039.0
+cedar lake,IN,lake,136,41.4,-87.4,18089.0
+cedar park,TX,williamson,1,30.5,-97.8,48491.0
+cedarville,OH,greene,5,39.7,-83.8,39057.0
+celeste,TX,hunt,5,33.3,-96.3,48231.0
+celina,TX,collin,4,33.3,-96.6,48085.0
+center city,MN,chisago,2,45.4,-92.8,27025.0
+center valley,PA,lehigh,1,40.5,-75.4,42077.0
+centertown,MO,cole,18,38.7,-92.4,29051.0
+central islip,NY,suffolk,12,40.8,-73.2,36103.0
+centreville,VA,fairfax,8,38.8,-77.4,51059.0
+chagrin falls,OH,cuyahoga,12,41.4,-81.3,39035.0
+chagrin falls,OH,geauga,4,41.4,-81.3,39055.0
+chamberlain,ME,lincoln,2,43.9,-69.5,23015.0
+chambersburg,PA,franklin,96,39.9,-77.7,42055.0
+champaign,IL,champaign,144,40.1,-88.3,17019.0
+chandler,AZ,maricopa,14,33.3,-111.8,4013.0
+chandler,TX,henderson,1,32.3,-95.5,48213.0
+chanhassen,MN,carver,167,44.9,-93.6,27019.0
+chapel hill,NC,orange,32,36.0,-79.1,37135.0
+chapin,IL,morgan,6,39.7,-90.4,17137.0
+charleston,SC,berkeley,56,32.8,-80.0,45015.0
+charleston,SC,charleston,154,32.8,-80.0,45019.0
+charleston,WV,kanawha,52,38.4,-81.6,54039.0
+charlestown,MA,suffolk,2,42.4,-71.1,25025.0
+charlestown,RI,washington,12,41.3,-71.7,44009.0
+charlevoix,MI,charlevoix,1,45.3,-85.3,26029.0
+charlotte,NC,mecklenburg,378,35.2,-80.8,37119.0
+charlotte,TX,atascosa,15,28.9,-98.7,48013.0
+charlottesville,IN,hancock,22,39.8,-85.6,18059.0
+charlottesville,VA,albemarle,68,38.0,-78.5,51003.0
+charlottesville,VA,charlottesville city,153,38.0,-78.5,51540.0
+chatfield,MN,fillmore,120,43.9,-92.2,27045.0
+chatham,IL,sangamon,1,39.7,-89.7,17167.0
+chatham,MA,barnstable,1,41.7,-70.0,25001.0
+chattanooga,TN,hamilton,84,35.1,-85.3,47065.0
+chaumont,NY,jefferson,2,44.1,-76.1,36045.0
+chauvin,LA,terrebonne,3,29.4,-90.6,
+cheboygan,MI,cheboygan,23,45.7,-84.5,26031.0
+chelmsford,MA,middlesex,252,42.6,-71.3,25017.0
+chelsea,MI,washtenaw,231,42.3,-84.0,26161.0
+chelsea,OK,rogers,42,36.5,-95.4,40131.0
+chelsea,VT,orange,1,44.0,-72.4,50017.0
+cheltenham,PA,montgomery,1,40.1,-75.1,42091.0
+cherokee,NC,swain,16,35.6,-83.4,37173.0
+cherokee,TX,san saba,12,31.0,-98.7,48411.0
+cherry valley,IL,winnebago,2,42.2,-89.0,17201.0
+chesapeake,VA,chesapeake city,24,36.9,-76.4,51550.0
+chester,CT,middlesex,1,41.4,-72.5,9007.0
+chester,MD,queen annes,3,39.0,-76.3,
+chester,VA,chesterfield,8,37.4,-77.4,51041.0
+chesterfield,MO,st. louis,30,38.7,-90.6,29189.0
+chesterfield,VA,chesterfield,54,37.3,-77.6,51041.0
+chesterland,OH,geauga,2,41.5,-81.4,39055.0
+chesterton,IN,porter,4,41.7,-87.1,18127.0
+chestertown,NY,warren,23,43.7,-73.8,36113.0
+chicago,IL,cook,34568,41.8,-87.6,17031.0
+chicago heights,IL,cook,30,41.5,-87.6,17031.0
+chickamauga,GA,walker,1,34.7,-85.4,13295.0
+chillicothe,MO,livingston,4,39.8,-93.6,29117.0
+chilmark,MA,dukes,12,41.3,-70.7,25007.0
+chilton,WI,calumet,6,44.0,-88.2,55015.0
+chimayo,NM,rio arriba,6,36.0,-105.9,35039.0
+china,TX,jefferson,1,30.0,-94.3,48245.0
+chippewa falls,WI,chippewa,20,44.9,-91.3,55017.0
+chisago city,MN,chisago,1,45.4,-92.9,27025.0
+chloe,WV,calhoun,24,38.7,-81.1,54013.0
+christiansburg,OH,champaign,57,40.1,-84.0,39021.0
+chula vista,CA,san diego,13,32.6,-117.0,6073.0
+cibolo,TX,guadalupe,117,29.6,-98.2,48187.0
+cincinnati,OH,clermont,300,39.1,-84.6,39025.0
+cincinnati,OH,hamilton,11100,39.1,-84.6,39061.0
+citrus heights,CA,sacramento,4,38.7,-121.3,6067.0
+claflin,KS,barton,333,38.4,-98.6,20009.0
+clarence,NY,erie,8,43.0,-78.7,36029.0
+clarks hill,SC,mccormick,7,33.7,-82.2,45065.0
+clarkston,GA,dekalb,1,33.8,-84.2,13089.0
+clarkston,MI,oakland,56,42.7,-83.4,26125.0
+clarksville,MD,howard,2,39.2,-76.9,24027.0
+clarksville,MO,pike,2,39.3,-90.9,29163.0
+clarksville,TN,montgomery,12,36.5,-87.3,47125.0
+clarksville,TX,red river,5,33.6,-95.0,48387.0
+clayton,GA,rabun,8,34.9,-83.4,13241.0
+clayton,NC,johnston,6,35.6,-78.3,37101.0
+clayton,NY,jefferson,155,44.3,-76.1,36045.0
+clearlake oaks,CA,lake,6,39.1,-122.6,6033.0
+clearwater,FL,pinellas,69,28.0,-82.8,12103.0
+clemmons,NC,forsyth,3,36.0,-80.4,37067.0
+clemson,SC,pickens,26,34.7,-82.8,45077.0
+cleveland,AL,blount,6,34.0,-86.6,1009.0
+cleveland,OH,cuyahoga,5440,41.5,-81.7,39035.0
+clifton,NJ,passaic,4,40.9,-74.2,34031.0
+clinton,CT,middlesex,2,41.3,-72.5,9007.0
+clinton,IL,dewitt,22,40.1,-89.0,17039.0
+clinton,MS,hinds,2,32.3,-90.3,28049.0
+clinton,SC,laurens,1,34.4,-81.8,45059.0
+clinton corners,NY,dutchess,3,41.9,-73.7,36027.0
+clinton township,MI,macomb,52,42.6,-82.9,26099.0
+clintonville,WI,waupaca,8,44.6,-88.8,55135.0
+clio,MI,genesee,9,43.2,-83.7,26049.0
+clive,IA,polk,402,41.6,-93.8,19153.0
+closter,NJ,bergen,2,41.0,-74.0,34003.0
+clover,SC,york,4,35.1,-81.2,45091.0
+cloverdale,VA,botetourt,3,37.4,-79.9,51023.0
+clovis,CA,fresno,2,36.8,-119.7,6019.0
+clyde,TX,callahan,4,32.2,-99.6,48059.0
+coal center,PA,washington,2,40.1,-79.9,42125.0
+coatesville,PA,chester,9,40.0,-75.9,42029.0
+cobbs creek,VA,mathews,4,37.5,-76.4,51115.0
+cobden,IL,union,1,37.6,-89.2,17181.0
+cockeysville,MD,baltimore,3,39.5,-76.7,24005.0
+cocoa,FL,brevard,9,28.5,-80.8,12009.0
+cohocton,NY,steuben,1,42.4,-77.5,36101.0
+colbert,GA,madison,2,34.0,-83.2,13195.0
+cold brook,NY,herkimer,21,43.3,-75.0,36043.0
+cold spring,NY,putnam,32,41.4,-74.0,36079.0
+college station,TX,brazos,168,30.6,-96.3,48041.0
+collegedale,TN,hamilton,3,35.1,-85.1,47065.0
+collegeville,PA,montgomery,4,40.2,-75.5,42091.0
+colleyville,TX,tarrant,2,32.9,-97.1,48439.0
+collierville,TN,shelby,20,35.1,-89.7,47157.0
+collingswood,NJ,camden,9,39.9,-75.1,34007.0
+collinsville,OK,tulsa,6,36.4,-95.9,40143.0
+colonial beach,VA,westmoreland,5,38.2,-77.0,51193.0
+colorado springs,CO,el paso,180,38.8,-104.8,8041.0
+colts neck,NJ,monmouth,16,40.3,-74.2,34025.0
+columbia,CA,tuolumne,4,38.0,-120.4,6109.0
+columbia,IL,monroe,2,38.4,-90.2,17133.0
+columbia,MD,howard,32,39.2,-76.9,24027.0
+columbia,MO,boone,220,39.0,-92.3,29019.0
+columbia city,IN,whitley,15,41.3,-85.5,18183.0
+columbus,AR,hempstead,65,33.8,-93.8,5057.0
+columbus,IN,bartholomew,4,39.2,-85.9,18005.0
+columbus,MI,st. clair,446,42.8,-82.7,26147.0
+columbus,OH,delaware,13,40.1,-83.1,39041.0
+columbus,OH,franklin,351,40.1,-83.1,39049.0
+columbus junction,IA,louisa,6,41.3,-91.4,19115.0
+comfort,TX,kendall,55,30.0,-98.9,48259.0
+commerce,GA,banks,2,34.3,-83.4,13011.0
+commerce,GA,jackson,4,34.3,-83.4,13157.0
+concord,MA,middlesex,12,42.5,-71.3,25017.0
+concord,NC,cabarrus,40,35.4,-80.6,37025.0
+concord,NH,merrimack,15,43.2,-71.5,33013.0
+conestoga,PA,lancaster,4,39.9,-76.4,42071.0
+conneaut,OH,ashtabula,56,41.9,-80.7,39007.0
+connellsville,PA,fayette,212,40.0,-79.6,42051.0
+conover,NC,catawba,6,35.7,-81.2,37035.0
+conroe,TX,montgomery,56,30.2,-95.5,48339.0
+conway,AR,faulkner,60,35.1,-92.5,5045.0
+conway,NH,carroll,14,44.0,-71.2,33003.0
+conyers,GA,rockdale,15,33.7,-84.0,13247.0
+cookeville,TN,putnam,15,36.2,-85.5,47141.0
+cookville,TX,titus,20,33.2,-94.8,48449.0
+coppell,TX,dallas,2,32.9,-97.0,48113.0
+copper hill,VA,floyd,2,37.1,-80.1,51063.0
+copperas cove,TX,coryell,70,31.1,-97.9,48099.0
+coralville,IA,johnson,3,41.7,-91.6,19103.0
+coram,NY,suffolk,12,40.9,-73.0,36103.0
+coraopolis,PA,allegheny,5,40.5,-80.2,42003.0
+corinth,KY,grant,9,38.5,-84.6,21081.0
+corinth,NY,saratoga,2,43.2,-73.8,36091.0
+corning,NY,steuben,9,42.1,-77.0,36101.0
+corolla,NC,currituck,3,36.4,-75.8,37053.0
+corpus christi,TX,nueces,630,27.7,-97.3,48355.0
+corrales,NM,sandoval,4,35.2,-106.6,35043.0
+corte madera,CA,marin,1,37.9,-122.5,6041.0
+cortland,IL,dekalb,3,41.9,-88.7,17037.0
+cortland,OH,trumbull,16,41.3,-80.8,39155.0
+corunna,MI,shiawassee,1,43.0,-84.1,26155.0
+corvallis,OR,benton,3,44.6,-123.3,41003.0
+corydon,IN,harrison,1,38.2,-86.1,18061.0
+costa mesa,CA,orange,1,33.7,-117.9,6059.0
+cotter,AR,baxter,12,36.3,-92.5,5005.0
+coudersport,PA,potter,1236,41.8,-78.0,42105.0
+coulterville,CA,mariposa,5,37.8,-120.3,6043.0
+council bluffs,IA,pottawattamie,140,41.2,-95.8,19155.0
+coventry,RI,kent,1,41.7,-71.7,44003.0
+covington,GA,newton,24,33.5,-83.8,13217.0
+covington,KY,kenton,65,39.1,-84.6,21117.0
+covington,LA,st. tammany,115,30.5,-90.1,
+covington,VA,covington city,10,37.8,-80.0,51580.0
+coweta,OK,wagoner,6,36.0,-95.6,40145.0
+craftsbury,VT,orleans,2,44.6,-72.4,50019.0
+craig,MO,holt,200,40.2,-95.4,29087.0
+cranberry,PA,venango,9,41.4,-79.7,42121.0
+cranford,NJ,union,1,40.7,-74.3,34039.0
+crawford,GA,oglethorpe,4,33.9,-83.2,13221.0
+crawfordville,FL,wakulla,9,30.1,-84.2,12129.0
+creighton,NE,knox,4,42.5,-97.9,31107.0
+cresco,PA,monroe,12,41.1,-75.3,42089.0
+crestline,OH,crawford,8,40.8,-82.7,39033.0
+crestview,FL,okaloosa,4,30.8,-86.5,12091.0
+crestwood,KY,oldham,32,38.3,-85.5,21185.0
+crete,IL,will,32,41.5,-87.6,17197.0
+crockett,TX,houston,114,31.3,-95.5,48225.0
+crofton,MD,anne arundel,1,39.0,-76.7,24003.0
+cross hill,SC,laurens,5,34.3,-82.0,45059.0
+cross plains,WI,dane,4,43.1,-89.7,55025.0
+crosslake,MN,crow wing,4,46.7,-94.1,27035.0
+crossville,TN,cumberland,7,36.0,-85.0,47035.0
+croton on hudson,NY,westchester,5,41.2,-73.9,36119.0
+crowley,LA,acadia,2,30.2,-92.4,
+crowley,TX,tarrant,1,32.6,-97.4,48439.0
+crown point,IN,lake,324,41.4,-87.3,18089.0
+crystal,MI,montcalm,1,43.3,-84.9,26117.0
+crystal lake,IL,mchenry,126,42.2,-88.3,17111.0
+crystal river,FL,citrus,3,28.9,-82.6,12017.0
+cudahy,WI,milwaukee,7,42.9,-87.9,55079.0
+cullman,AL,cullman,3,34.2,-86.9,1043.0
+cumberland center,ME,cumberland,111,43.8,-70.3,23005.0
+cumberland foreside,ME,cumberland,177,43.7,-70.2,23005.0
+cumming,GA,forsyth,26,34.2,-84.1,13117.0
+cumming,IA,warren,84,41.5,-93.8,19181.0
+cummington,MA,hampshire,84,42.5,-72.9,25015.0
+curtis,MI,mackinac,1,46.2,-85.7,26097.0
+cutchogue,NY,suffolk,4,41.0,-72.4,36103.0
+cuyahoga falls,OH,summit,2,41.1,-81.5,39153.0
+cypress,TX,harris,5,29.9,-95.7,48201.0
+dade city,FL,pasco,9,28.4,-82.2,12101.0
+dahlonega,GA,lumpkin,2,34.4,-84.0,13187.0
+daleville,IN,delaware,2,40.1,-85.6,18035.0
+daleville,VA,botetourt,1,37.4,-79.9,51023.0
+dallas,GA,paulding,13,34.0,-84.8,13223.0
+dallas,TX,collin,322,32.8,-96.8,48085.0
+dallas,TX,dallas,3703,32.8,-96.8,48113.0
+dalton,GA,whitfield,2,34.8,-85.0,13313.0
+danbury,CT,fairfield,28,41.4,-73.5,9001.0
+danielson,CT,windham,44,41.8,-71.9,9015.0
+dansville,NY,livingston,100,42.6,-77.7,36051.0
+danvers,MA,essex,3,42.6,-71.0,25009.0
+danville,IL,vermilion,87,40.2,-87.6,17183.0
+danville,PA,montour,51,41.0,-76.6,42093.0
+daphne,AL,baldwin,11,30.6,-87.9,1003.0
+darien,CT,fairfield,16,41.1,-73.5,9001.0
+darien,GA,mcintosh,10,31.3,-81.4,13191.0
+darien,IL,dupage,1,41.7,-88.0,17043.0
+darlington,MD,harford,1,39.6,-76.2,24025.0
+dauphin island,AL,mobile,24,30.3,-88.1,1097.0
+davenport,IA,scott,8,41.5,-90.6,19163.0
+davidson,NC,mecklenburg,20,35.5,-80.9,37119.0
+davis,CA,yolo,2,38.6,-121.7,6113.0
+davis,WV,tucker,2,39.1,-79.5,54093.0
+dawson,MN,lac qui parle,20,44.9,-96.1,27073.0
+dawsonville,GA,dawson,50,34.5,-84.2,13085.0
+dayton,KY,campbell,27,39.1,-84.5,21037.0
+dayton,OH,greene,949,39.7,-84.1,39057.0
+dayton,OH,montgomery,2263,39.7,-84.1,39113.0
+dayton,TX,liberty,7,29.9,-94.8,48291.0
+daytona beach,FL,volusia,18,29.2,-81.0,12127.0
+de graff,OH,logan,12,40.3,-83.9,39091.0
+dearborn,MI,wayne,18,42.3,-83.3,26163.0
+dearborn heights,MI,wayne,20,42.3,-83.3,26163.0
+dearing,GA,mcduffie,3,33.4,-82.4,13189.0
+decatur,AL,morgan,48,34.5,-86.9,1103.0
+decatur,GA,dekalb,132,33.8,-84.3,13089.0
+decatur,IL,macon,24,39.8,-89.0,17115.0
+decatur,TN,meigs,1,35.6,-84.8,47121.0
+deep river,CT,middlesex,9,41.4,-72.4,9007.0
+deerfield,NH,rockingham,1,43.1,-71.2,33015.0
+deerfield beach,FL,broward,2,26.3,-80.1,12011.0
+defiance,MO,st. charles,4,38.6,-90.8,29183.0
+defiance,OH,defiance,2,41.3,-84.4,39039.0
+defuniak springs,FL,walton,8,30.7,-86.2,12131.0
+dekalb,IL,dekalb,5,41.9,-88.7,17037.0
+del mar,CA,san diego,5,33.0,-117.3,6073.0
+del rio,TX,val verde,6,29.4,-100.9,48465.0
+del valle,TX,travis,15,30.1,-97.7,48453.0
+delancey,NY,delaware,18,42.2,-75.0,36025.0
+deland,FL,volusia,2,29.0,-81.3,12127.0
+delaplane,VA,fauquier,16,38.9,-77.9,51061.0
+delaware,OH,delaware,3,40.3,-83.1,39041.0
+delmar,NY,albany,3,42.6,-73.8,36001.0
+denison,TX,grayson,1,33.8,-96.5,48181.0
+denton,TX,denton,33,33.2,-97.1,48121.0
+denver,CO,adams,48,39.7,-105.0,8001.0
+denver,CO,arapahoe,12,39.7,-105.0,8005.0
+denver,CO,denver,162,39.7,-105.0,8031.0
+denver,CO,jefferson,30,39.7,-105.0,8059.0
+depew,NY,erie,1,42.9,-78.7,36029.0
+deptford,NJ,gloucester,3,39.8,-75.1,34015.0
+derby,CT,new haven,1,41.3,-73.1,9009.0
+deridder,LA,beauregard,1,30.8,-93.3,
+derwood,MD,montgomery,8,39.1,-77.2,24031.0
+des plaines,IL,cook,6,42.1,-87.9,17031.0
+descanso,CA,san diego,1,33.0,-116.6,6073.0
+destin,FL,okaloosa,38,30.4,-86.4,12091.0
+detroit,MI,wayne,1664,42.4,-82.9,26163.0
+detroit,TX,red river,2,33.8,-95.3,48387.0
+dewey,OK,washington,1,36.8,-95.9,40147.0
+dewy rose,GA,elbert,1,34.2,-83.0,13105.0
+dexter,NY,jefferson,14,44.0,-76.2,36045.0
+diamondhead,MS,hancock,3,30.4,-89.4,28045.0
+diana,TX,upshur,9,32.8,-94.7,48459.0
+dickinson,TX,galveston,8,29.5,-95.1,48167.0
+dickson,TN,dickson,4,36.0,-87.4,47043.0
+dingmans ferry,PA,pike,10,41.2,-74.9,42103.0
+disputanta,VA,prince george,1,37.1,-77.2,51149.0
+dixon,IL,lee,10,41.9,-89.4,17103.0
+dixon,NM,rio arriba,4,36.2,-105.9,35039.0
+dodge center,MN,dodge,2,44.0,-92.9,27039.0
+dodgeville,WI,iowa,128,43.0,-90.1,55049.0
+dolores,CO,montezuma,3,37.5,-108.5,8083.0
+donnellson,IA,lee,4,40.7,-91.7,19111.0
+dorchester,MA,suffolk,12,42.3,-71.1,25025.0
+dorset,VT,bennington,24,43.3,-73.1,50003.0
+dothan,AL,houston,14,31.3,-85.4,1069.0
+douglas,MA,worcester,26,42.0,-71.7,25027.0
+douglas,MI,allegan,5,42.6,-86.2,26005.0
+douglassville,PA,berks,35,40.3,-75.7,42011.0
+dover,NH,strafford,26,43.2,-70.9,33017.0
+dow city,IA,crawford,4,41.9,-95.5,19047.0
+downers grove,IL,dupage,26,41.8,-88.0,17043.0
+downingtown,PA,chester,4,40.0,-75.7,42029.0
+downsville,NY,delaware,8,42.1,-75.0,36025.0
+doylestown,PA,bucks,4,40.3,-75.1,42017.0
+dresser,WI,polk,12,45.4,-92.6,55095.0
+driftwood,TX,hays,3,30.1,-98.0,48209.0
+dripping springs,TX,hays,60,30.2,-98.0,48209.0
+drummond island,MI,chippewa,4,46.0,-83.7,26033.0
+dryden,MI,lapeer,13,43.0,-83.1,26087.0
+du bois,PA,clearfield,6,41.1,-78.8,42033.0
+dublin,OH,franklin,10,40.1,-83.2,39049.0
+dubuque,IA,dubuque,132,42.5,-90.8,19061.0
+duluth,GA,fulton,24,33.9,-84.2,13121.0
+duluth,GA,gwinnett,24,33.9,-84.2,13135.0
+duluth,MN,st. louis,70,46.8,-92.1,27137.0
+duncanville,TX,dallas,2,32.7,-96.9,48113.0
+dundalk,MD,baltimore,192,39.3,-76.5,24005.0
+dunedin,FL,pinellas,1,28.0,-82.8,12103.0
+dunellen,NJ,middlesex,4,40.6,-74.5,34023.0
+durham,CA,butte,2,39.7,-121.8,6007.0
+durham,CT,middlesex,12,41.4,-72.7,9007.0
+durham,ME,androscoggin,10,44.0,-70.2,23001.0
+durham,NC,durham,230,36.0,-78.9,37063.0
+durham,NH,strafford,12,43.1,-70.9,33017.0
+dyke,VA,greene,24,38.3,-78.5,51079.0
+eads,TN,shelby,9,35.2,-89.7,47157.0
+eagar,AZ,apache,1,34.1,-109.3,4001.0
+earth city,MO,st. louis,6,38.8,-90.5,29189.0
+east boston,MA,suffolk,2,42.4,-71.0,25025.0
+east chicago,IN,lake,1,41.6,-87.5,18089.0
+east falmouth,MA,barnstable,156,41.6,-70.6,25001.0
+east greenbush,NY,rensselaer,4,42.6,-73.7,36083.0
+east hampton,CT,middlesex,2,41.5,-72.5,9007.0
+east hartford,CT,hartford,10,41.7,-72.6,9003.0
+east haven,CT,new haven,6,41.2,-72.9,9009.0
+east islip,NY,suffolk,4,40.7,-73.2,36103.0
+east kingston,NH,rockingham,12,42.9,-71.0,33015.0
+east lansing,MI,ingham,3,42.7,-84.5,26065.0
+east longmeadow,MA,hampden,2,42.1,-72.5,25013.0
+east machias,ME,washington,1,44.7,-67.4,23029.0
+east meadow,NY,nassau,2,40.7,-73.6,36059.0
+east peoria,IL,tazewell,28,40.7,-89.5,17179.0
+east rochester,OH,columbiana,9,40.7,-81.0,39029.0
+east sandwich,MA,barnstable,4,41.7,-70.4,25001.0
+east setauket,NY,suffolk,150,40.9,-73.1,36103.0
+east taunton,MA,bristol,2,41.9,-71.0,25005.0
+east tawas,MI,iosco,96,44.3,-83.5,26069.0
+eastham,MA,barnstable,7,41.9,-70.0,25001.0
+easthampton,MA,hampshire,25,42.3,-72.7,25015.0
+eastlake,OH,lake,315,41.6,-81.5,39085.0
+eastman,WI,crawford,4,43.2,-91.1,55023.0
+easton,MN,faribault,35,43.8,-93.9,27043.0
+easton,PA,northampton,45,40.7,-75.3,42095.0
+eastpoint,FL,franklin,488,29.7,-84.9,12037.0
+eastpointe,MI,macomb,76,42.5,-82.9,26099.0
+eatonton,GA,putnam,184,33.3,-83.4,13237.0
+eau claire,PA,butler,64,41.1,-79.8,42019.0
+eau claire,WI,eau claire,27,44.8,-91.5,55035.0
+eddyville,KY,lyon,8,37.0,-88.0,21143.0
+eden prairie,MN,hennepin,1,44.9,-93.4,27053.0
+edgartown,MA,dukes,14,41.4,-70.5,25007.0
+edgecomb,ME,lincoln,3,44.0,-69.6,23015.0
+edgefield,SC,edgefield,20,33.8,-81.9,45037.0
+edgewood,NM,santa fe,1,35.1,-106.2,35049.0
+edinburg,TX,hidalgo,84,26.3,-98.2,48215.0
+edmond,OK,oklahoma,274,35.8,-97.5,40109.0
+edna,TX,jackson,80,29.0,-96.6,48239.0
+edwardsville,IL,madison,84,38.8,-90.0,17119.0
+effingham,IL,effingham,120,39.1,-88.6,17049.0
+efland,NC,orange,4,36.1,-79.2,37135.0
+egg harbor,WI,door,10,45.1,-87.3,55029.0
+el cajon,CA,san diego,3,32.8,-117.0,6073.0
+el cerrito,CA,contra costa,5,37.9,-122.3,6013.0
+el dorado,KS,butler,21,37.8,-96.9,20015.0
+el paso,TX,el paso,156,31.9,-106.5,48141.0
+el reno,OK,canadian,2,35.5,-98.0,40017.0
+el segundo,CA,los angeles,1,33.9,-118.4,6037.0
+elgin,AZ,santa cruz,50,31.6,-110.5,4023.0
+elgin,IL,kane,4,42.0,-88.3,17089.0
+elgin,TX,bastrop,119,30.4,-97.4,48021.0
+elizabeth,CO,elbert,7,39.3,-104.6,8039.0
+elizabethtown,KY,hardin,6,37.7,-85.9,21093.0
+elizabethtown,PA,lancaster,28,40.2,-76.6,42071.0
+elk grove,CA,sacramento,1,38.4,-121.3,6067.0
+elk grove village,IL,cook,14,42.0,-88.1,17031.0
+elk river,MN,sherburne,10,45.3,-93.6,27141.0
+elkhart lake,WI,sheboygan,30,43.9,-87.9,55117.0
+elkhorn,NE,douglas,1,41.2,-96.3,31055.0
+elkin,NC,surry,1,36.4,-80.8,37171.0
+elkton,MD,cecil,22,39.5,-75.9,24015.0
+ellicott city,MD,howard,70,39.3,-76.9,24027.0
+ellijay,GA,gilmer,16,34.7,-84.5,13123.0
+ellinwood,KS,barton,202,38.4,-98.6,20009.0
+ellison bay,WI,door,2,45.3,-87.0,55029.0
+ellsworth,MI,antrim,5,45.2,-85.4,26009.0
+elmer,NJ,salem,24,39.6,-75.2,34033.0
+elmira,NY,chemung,4,42.1,-76.9,36015.0
+elmwood park,NJ,bergen,2,40.9,-74.1,34003.0
+elon,NC,alamance,16,36.2,-79.5,37001.0
+elsie,MI,clinton,400,43.1,-84.3,26037.0
+ely,MN,st. louis,3,47.8,-92.1,27137.0
+emerald isle,NC,carteret,100,34.7,-77.0,37031.0
+eminence,MO,shannon,6,37.3,-91.4,29203.0
+emory,TX,rains,1,32.9,-95.8,48379.0
+empire,MI,leelanau,1,44.8,-86.0,26089.0
+encinitas,CA,san diego,6,33.0,-117.3,6073.0
+endicott,NY,broome,77,42.1,-76.0,36007.0
+englewood,CO,arapahoe,9,39.6,-105.0,8005.0
+englewood,FL,charlotte,18,27.0,-82.4,12015.0
+englewood,FL,sarasota,18,27.0,-82.4,12115.0
+englewood,NJ,bergen,6,40.9,-74.0,34003.0
+englishtown,NJ,monmouth,2,40.3,-74.3,34025.0
+enid,OK,garfield,128,36.4,-97.9,40047.0
+ennis,TX,ellis,5,32.3,-96.6,48139.0
+enosburg falls,VT,franklin,16,44.9,-72.8,50011.0
+erie,PA,erie,444,42.1,-80.1,42049.0
+erieville,NY,madison,48,42.9,-75.7,36053.0
+erlanger,KY,kenton,72,39.0,-84.6,21117.0
+errol,NH,coos,3,44.8,-71.1,33007.0
+escalon,CA,san joaquin,2,37.8,-121.0,6077.0
+escondido,CA,san diego,12,33.1,-117.1,6073.0
+essex,CT,middlesex,4,41.4,-72.4,9007.0
+essex,MA,essex,3,42.6,-70.8,25009.0
+essex fells,NJ,essex,1,40.8,-74.3,34013.0
+estero,FL,lee,1,26.4,-81.8,12071.0
+euclid,OH,cuyahoga,14,41.6,-81.5,39035.0
+eufaula,OK,mcintosh,141,35.2,-95.5,40091.0
+euless,TX,tarrant,17,32.9,-97.1,48439.0
+eureka,MO,st. louis,104,38.5,-90.6,29189.0
+eureka springs,AR,carroll,14,36.4,-93.7,5015.0
+evans,GA,columbia,8,33.5,-82.1,13073.0
+evanston,IL,cook,63,42.1,-87.7,17031.0
+evansville,IN,vanderburgh,24,37.9,-87.7,18163.0
+eveleth,MN,st. louis,5,47.5,-92.5,27137.0
+everett,PA,bedford,6,40.0,-78.4,42009.0
+everglades city,FL,collier,4,25.9,-81.4,12021.0
+evergreen park,IL,cook,6,41.7,-87.7,17031.0
+exeter,NE,fillmore,2,40.6,-97.5,31059.0
+fair haven,MI,st. clair,20000,42.7,-82.7,26147.0
+fair oaks,CA,sacramento,4,38.6,-121.3,6067.0
+fairborn,OH,greene,30,39.8,-84.0,39057.0
+fairbury,IL,livingston,3,40.7,-88.5,17105.0
+fairfax,VA,fairfax,60,38.9,-77.3,51059.0
+fairfax,VA,fairfax city,15,38.9,-77.3,51600.0
+fairfield,NJ,essex,1,40.9,-74.3,34013.0
+fairfield,PA,adams,164,39.8,-77.4,42001.0
+fairfield bay,AR,van buren,4,35.6,-92.3,5141.0
+fairhope,AL,baldwin,428,30.5,-87.9,1003.0
+fairview,NC,buncombe,2,35.5,-82.4,37021.0
+fairview,TN,williamson,6,36.0,-87.1,47187.0
+falfurrias,TX,brooks,6,27.2,-98.1,48047.0
+fall river,MA,bristol,3,41.7,-71.1,25005.0
+fallbrook,CA,san diego,68,33.4,-117.3,6073.0
+falls church,VA,fairfax,7,38.9,-77.2,51059.0
+falls church,VA,falls church city,1,38.9,-77.2,51610.0
+falmouth,MA,barnstable,1,41.6,-70.6,25001.0
+faribault,MN,rice,1,44.3,-93.3,27131.0
+farmington,CT,hartford,5,41.7,-72.8,9003.0
+farmington,ME,franklin,15,44.5,-70.1,23007.0
+farmington,MI,oakland,20,42.5,-83.4,26125.0
+farmington,MO,st. francois,2,37.7,-90.4,29187.0
+farmington,NM,san juan,3,36.7,-108.2,35045.0
+farmland,IN,randolph,92,40.2,-85.1,18135.0
+farmville,NC,pitt,1,35.6,-77.6,37147.0
+farmville,VA,prince edward,2,37.3,-78.4,51147.0
+fayetteville,AR,washington,18,36.1,-94.2,5143.0
+fayetteville,GA,fayette,20,33.3,-84.4,13113.0
+fayetteville,NC,cumberland,14,35.1,-78.9,37051.0
+fayetteville,NY,onondaga,1,43.0,-76.1,36067.0
+fayetteville,WV,fayette,18,38.1,-81.1,54019.0
+fennville,MI,allegan,22,42.6,-86.2,26005.0
+fenton,MI,genesee,2,42.8,-83.8,26049.0
+fenton,MO,st. louis,3,38.5,-90.5,29189.0
+fergus falls,MN,otter tail,268,46.3,-96.1,27111.0
+fernandina beach,FL,nassau,108,30.7,-81.5,12089.0
+ferndale,MI,oakland,18,42.5,-83.1,26125.0
+fertile,MN,polk,4,47.6,-96.2,27119.0
+festus,MO,jefferson,2,38.2,-90.5,29099.0
+fincastle,VA,botetourt,10,37.5,-79.9,51023.0
+finksburg,MD,carroll,2,39.5,-76.9,24013.0
+finlayson,MN,pine,10,46.2,-92.9,27115.0
+finleyville,PA,washington,1,40.3,-80.0,42125.0
+fish creek,WI,door,588,45.1,-87.3,55029.0
+fisher,IL,champaign,6,40.3,-88.4,17019.0
+fishkill,NY,dutchess,1,41.5,-73.9,36027.0
+fithian,IL,vermilion,20,40.2,-87.8,17183.0
+fitzwilliam,NH,cheshire,40,42.7,-72.2,33005.0
+flag pond,TN,unicoi,1,36.0,-82.6,47171.0
+flagstaff,AZ,coconino,2,35.2,-111.6,4005.0
+flat rock,NC,henderson,3,35.3,-82.4,37089.0
+flatgap,KY,johnson,14,37.9,-82.9,21115.0
+flemington,NJ,hunterdon,3,40.5,-74.8,34019.0
+fletcher,NC,henderson,12,35.4,-82.5,37089.0
+fletcher,OH,miami,5,40.1,-84.1,39109.0
+flint,MI,genesee,26,43.0,-83.7,26049.0
+florence,KY,boone,21,39.0,-84.6,21015.0
+florence,MS,rankin,9,32.1,-90.2,28121.0
+florence,SC,florence,2,34.2,-79.9,45041.0
+flourtown,PA,montgomery,63,40.1,-75.2,42091.0
+flower mound,TX,denton,15,33.0,-97.1,48121.0
+floyd,VA,floyd,4,36.8,-80.4,51063.0
+floyds knobs,IN,floyd,15,38.3,-85.9,18043.0
+foley,AL,baldwin,4,30.4,-87.7,1003.0
+folkston,GA,charlton,100,30.7,-82.1,13049.0
+folly beach,SC,charleston,1,32.7,-79.9,45019.0
+folsom,CA,sacramento,35,38.7,-121.2,6067.0
+folsom,LA,st. tammany,2,30.6,-90.2,
+fond du lac,WI,fond du lac,32,43.8,-88.5,55039.0
+fords,NJ,middlesex,2,40.5,-74.3,34023.0
+forest,VA,bedford,2,37.4,-79.3,51019.0
+forest city,NC,rutherford,39,35.3,-81.8,37161.0
+foristell,MO,st. charles,8,38.8,-91.0,29183.0
+forney,TX,kaufman,164,32.7,-96.5,48257.0
+fort ann,NY,washington,3,43.4,-73.6,36115.0
+fort bragg,CA,mendocino,7,39.5,-123.8,6045.0
+fort collins,CO,larimer,24,40.6,-105.1,8069.0
+fort hood,TX,bell,1308,31.2,-97.6,48027.0
+fort lauderdale,FL,broward,102,26.2,-80.3,12011.0
+fort leavenworth,KS,leavenworth,3,39.3,-94.9,20103.0
+fort lee,NJ,bergen,78,40.9,-74.0,34003.0
+fort mill,SC,lancaster,9,35.0,-80.9,45057.0
+fort mill,SC,york,9,35.0,-80.9,45091.0
+fort myers,FL,lee,48,26.6,-81.9,12071.0
+fort payne,AL,dekalb,6,34.4,-85.7,1049.0
+fort pierce,FL,st. lucie,21,27.4,-80.3,12111.0
+fort plain,NY,montgomery,40,42.9,-74.6,36057.0
+fort scott,KS,bourbon,9,37.8,-94.7,20011.0
+fort smith,AR,sebastian,12,35.4,-94.4,5131.0
+fort thomas,KY,campbell,1296,39.1,-84.4,21037.0
+fort valley,GA,peach,2,32.6,-83.8,13225.0
+fort walton beach,FL,okaloosa,36,30.4,-86.6,12091.0
+fort wayne,IN,allen,484,41.1,-85.1,18003.0
+fort worth,TX,tarrant,1645,32.7,-97.4,48439.0
+fortson,GA,muscogee,21,32.6,-84.9,13215.0
+fortville,IN,hancock,10,39.9,-85.8,18059.0
+fountain,CO,el paso,1,38.7,-104.7,8041.0
+fountain city,WI,buffalo,3,44.0,-91.5,55011.0
+fox river grove,IL,mchenry,9,42.2,-88.2,17111.0
+framingham,MA,middlesex,52,42.3,-71.4,25017.0
+francestown,NH,hillsborough,24,43.0,-71.8,33011.0
+frankford,DE,sussex,2,38.5,-75.1,10005.0
+frankfort,IL,will,60,41.5,-87.9,17197.0
+frankfort,KY,franklin,30,38.2,-84.9,21073.0
+franklin,IN,johnson,75,39.5,-86.0,18081.0
+franklin,MI,oakland,4,42.5,-83.3,26125.0
+franklin,NC,macon,182,35.2,-83.4,37113.0
+franklin square,NY,nassau,16,40.7,-73.7,36059.0
+franklinton,NC,franklin,6,36.1,-78.5,37069.0
+franklinville,NY,cattaraugus,1,42.3,-78.5,36009.0
+franktown,CO,douglas,3,39.3,-104.7,8035.0
+fraser,MI,macomb,27,42.5,-82.9,26099.0
+frazier park,CA,kern,3,34.8,-119.1,6029.0
+frederic,MI,crawford,1,44.8,-84.8,26039.0
+frederick,MD,frederick,280,39.4,-77.4,24021.0
+fredericksburg,TX,gillespie,858,30.3,-98.9,48171.0
+fredericksburg,VA,fredericksburg city,240,38.3,-77.5,51630.0
+fredericksburg,VA,spotsylvania,480,38.3,-77.5,51177.0
+fredericksburg,VA,stafford,600,38.3,-77.5,51179.0
+fredericktown,MO,madison,35,37.6,-90.2,29123.0
+free soil,MI,mason,3,44.1,-86.2,26105.0
+freeland,MD,baltimore,5,39.7,-76.7,24005.0
+freeland,MI,saginaw,10,43.6,-84.1,26145.0
+freeland,PA,luzerne,6,41.0,-75.9,42079.0
+freeport,ME,cumberland,4,43.8,-70.1,23005.0
+freeville,NY,tompkins,1,42.5,-76.4,36109.0
+fremont,NE,dodge,24,41.4,-96.5,31053.0
+fremont,OH,sandusky,95,41.4,-83.1,39143.0
+french creek,WV,upshur,12,38.9,-80.3,54097.0
+friendship,WI,adams,1,44.0,-89.8,55001.0
+friendsville,MD,garrett,1,39.7,-79.4,24023.0
+fritch,TX,hutchinson,6,35.6,-101.6,48233.0
+front royal,VA,warren,4,38.9,-78.2,51187.0
+ft mitchell,KY,kenton,57,39.1,-84.6,21117.0
+fultondale,AL,jefferson,3,33.6,-86.8,1073.0
+fuquay varina,NC,wake,2,35.6,-78.8,37183.0
+gainesville,FL,alachua,40,29.6,-82.3,12001.0
+gainesville,GA,hall,8,34.4,-83.9,13139.0
+gainesville,VA,prince william,30,38.8,-77.6,51153.0
+gaithersburg,MD,montgomery,99,39.1,-77.2,24031.0
+galena,OH,delaware,1,40.2,-82.9,39041.0
+galesburg,IL,knox,12,40.8,-90.3,17095.0
+galesville,WI,trempealeau,2,44.1,-91.3,55121.0
+galeton,PA,potter,100,41.7,-77.8,42105.0
+galion,OH,crawford,57,40.7,-82.8,39033.0
+galivants ferry,SC,horry,3,33.9,-79.2,45051.0
+galveston,TX,galveston,392,29.3,-94.8,48167.0
+ganado,TX,jackson,1,28.9,-96.4,48239.0
+garden city,MI,wayne,2,42.3,-83.3,26163.0
+garden city,MO,cass,27,38.5,-94.2,29037.0
+garden grove,CA,orange,5,33.8,-117.9,6059.0
+gardendale,AL,jefferson,23,33.6,-86.8,1073.0
+gardendale,TX,ector,4,32.0,-102.4,48135.0
+gardner,KS,johnson,1,38.8,-94.9,20091.0
+garland,TX,dallas,1,33.0,-96.6,48113.0
+garner,NC,wake,4,35.7,-78.6,37183.0
+garrettsville,OH,portage,38,41.3,-81.1,39133.0
+garrison,MN,crow wing,1,46.3,-93.8,27035.0
+garwood,TX,colorado,14,29.4,-96.4,48089.0
+gary,IN,lake,154,41.6,-87.4,18089.0
+gary,SD,deuel,1,44.8,-96.5,46039.0
+gatlinburg,TN,sevier,8,35.7,-83.5,47155.0
+gause,TX,milam,38,30.7,-96.7,48331.0
+gaylord,MI,otsego,20,44.9,-84.8,26137.0
+geneva,IN,adams,12,40.6,-85.0,18001.0
+georgetown,IN,floyd,2,38.3,-86.0,18043.0
+georgetown,ME,sagadahoc,90,43.9,-69.7,23023.0
+georgetown,MN,clay,5,47.1,-96.7,27027.0
+georgetown,SC,georgetown,4,33.5,-79.5,45043.0
+georgetown,TX,williamson,932,30.6,-97.8,48491.0
+gerlaw,IL,warren,2,41.0,-90.6,17187.0
+germantown,MD,montgomery,118,39.2,-77.2,24031.0
+germantown,NY,columbia,8,42.1,-73.8,36021.0
+germantown,TN,shelby,28,35.1,-89.8,47157.0
+germantown,WI,washington,18,43.2,-88.1,55131.0
+gerton,NC,henderson,1,35.5,-82.4,37089.0
+gettysburg,PA,adams,20,39.8,-77.1,42001.0
+ghent,NY,columbia,1,42.3,-73.7,36021.0
+gibson city,IL,ford,2,40.5,-88.4,17053.0
+gifford,IL,champaign,25,40.3,-88.0,17019.0
+gilford,NH,belknap,2,43.5,-71.4,33001.0
+gladbrook,IA,tama,9,42.2,-92.7,19171.0
+glassboro,NJ,gloucester,20,39.7,-75.1,34015.0
+glen arbor,MI,leelanau,3,45.0,-85.8,26089.0
+glen arm,MD,baltimore,30,39.4,-76.5,24005.0
+glen burnie,MD,anne arundel,24,39.2,-76.6,24003.0
+glen rock,NJ,bergen,1,41.0,-74.1,34003.0
+glen rose,TX,somervell,4,32.2,-97.8,48425.0
+glencoe,IL,cook,27,42.1,-87.8,17031.0
+glenmont,NY,albany,2,42.6,-73.8,36001.0
+glenn,MI,allegan,1,42.5,-86.2,26005.0
+glenpool,OK,tulsa,1,36.0,-96.0,40143.0
+glenview,IL,cook,14,42.1,-87.8,17031.0
+glenwood,MN,pope,4,45.6,-95.4,27121.0
+gloucester,NC,carteret,1,34.7,-76.5,37031.0
+godfrey,IL,madison,3,39.0,-90.2,17119.0
+goffstown,NH,hillsborough,18,43.0,-71.6,33011.0
+golconda,IL,pope,40,37.4,-88.7,17151.0
+gold hill,NC,rowan,6,35.5,-80.4,37159.0
+golden city,MO,barton,1,37.4,-94.1,29011.0
+good thunder,MN,blue earth,3,44.0,-94.1,27013.0
+goodells,MI,st. clair,9,43.0,-82.7,26147.0
+goodlettsville,TN,davidson,5,36.3,-86.7,47037.0
+goodview,VA,bedford,1,37.2,-79.7,51019.0
+gordonsville,VA,orange,260,38.1,-78.2,51137.0
+gorham,ME,cumberland,3,43.6,-70.4,23005.0
+goshen,KY,oldham,1,38.4,-85.6,21185.0
+gould city,MI,mackinac,50,46.1,-85.7,26097.0
+gowen,MI,kent,4,43.2,-85.3,26081.0
+graford,TX,palo pinto,2,33.0,-98.4,48363.0
+grafton,NH,grafton,1,43.6,-72.0,33009.0
+grafton,OH,lorain,2,41.3,-82.1,39093.0
+grafton,WI,ozaukee,1,43.3,-87.9,55089.0
+granbury,TX,hood,16,32.5,-97.7,48221.0
+grand canyon,AZ,coconino,3,36.1,-112.1,4005.0
+grand forks,ND,grand forks,2,47.9,-97.0,38035.0
+grand haven,MI,ottawa,12,43.0,-86.1,26139.0
+grand island,NE,hall,10,40.9,-98.4,31079.0
+grand isle,LA,jefferson,3,29.2,-90.0,
+grand junction,CO,mesa,8,39.1,-108.6,8077.0
+grand marais,MN,cook,48,47.8,-90.2,27031.0
+grand rapids,MI,kent,528,43.0,-85.7,26081.0
+grand rapids,MN,itasca,4,47.3,-93.5,27061.0
+grand view,ID,owyhee,1,43.0,-116.1,16073.0
+grandview,MO,jackson,3,38.9,-94.5,29095.0
+grandville,MI,kent,4,42.9,-85.7,26081.0
+granite bay,CA,placer,2,38.7,-121.2,6061.0
+grant,MI,newaygo,1,43.3,-85.7,26123.0
+grantsburg,WI,burnett,4,45.9,-92.6,55013.0
+granville,NY,washington,36,43.5,-73.3,36115.0
+grapevine,TX,tarrant,5,32.9,-97.1,48439.0
+grass lake,MI,jackson,13,42.3,-84.2,26075.0
+grass valley,CA,nevada,13,39.2,-121.1,6057.0
+graton,CA,sonoma,2,38.4,-122.9,6097.0
+grawn,MI,grand traverse,2,44.6,-85.7,26055.0
+grayling,MI,crawford,4,44.7,-84.7,26039.0
+great barrington,MA,berkshire,28,42.2,-73.5,25003.0
+great bend,KS,barton,36,38.3,-98.7,20009.0
+great cacapon,WV,morgan,2,39.5,-78.3,54065.0
+great river,NY,suffolk,2,40.7,-73.2,36103.0
+green bay,WI,brown,336,44.5,-88.0,55009.0
+green cove springs,FL,clay,20,29.9,-81.7,12019.0
+green lake,WI,green lake,6,43.8,-89.0,55047.0
+green mountain falls,CO,el paso,3,38.9,-105.0,8041.0
+greenbrier,AR,faulkner,12,35.2,-92.4,5045.0
+greenbush,MI,alcona,12,44.6,-83.4,26001.0
+greene,NY,chenango,7,42.4,-75.8,36017.0
+greenfield,IN,hancock,172,39.9,-85.9,18059.0
+greenfield,MA,franklin,12,42.6,-72.6,25011.0
+greenland,NH,rockingham,4,43.0,-70.9,33015.0
+greenport,NY,suffolk,13,41.1,-72.4,36103.0
+greensboro,NC,guilford,1209,36.1,-79.8,37081.0
+greensboro,VT,orleans,2,44.6,-72.3,50019.0
+greensburg,PA,westmoreland,4,40.3,-79.5,42129.0
+greenville,SC,greenville,7,34.8,-82.4,45045.0
+greenville,TX,hunt,4,33.2,-96.3,48231.0
+greenwich,CT,fairfield,66,41.1,-73.6,9001.0
+greenwood,IN,johnson,9,39.6,-86.2,18081.0
+greenwood,SC,greenwood,6,34.2,-82.2,45047.0
+greenwood,VA,albemarle,21,38.0,-78.8,51003.0
+greer,SC,greenville,22,34.9,-82.3,45045.0
+gretna,LA,jefferson,10,29.9,-90.0,
+griffin,GA,spalding,1,33.2,-84.3,13255.0
+griffith,IN,lake,106,41.5,-87.4,18089.0
+grimes,IA,polk,60,41.7,-93.8,19153.0
+grosse pointe,MI,wayne,174,42.4,-82.9,26163.0
+groton,CT,new london,176,41.3,-72.0,9011.0
+grove,OK,delaware,12,36.6,-94.8,40041.0
+gulf breeze,FL,santa rosa,60,30.4,-87.2,12113.0
+gulf shores,AL,baldwin,127,30.2,-87.7,1003.0
+gulfport,MS,harrison,16,30.4,-89.1,28047.0
+guthrie,OK,logan,8,35.9,-97.6,40083.0
+gwynedd,PA,montgomery,3,40.2,-75.3,42091.0
+hackensack,NJ,bergen,6,40.9,-74.0,34003.0
+hackettstown,NJ,warren,4,40.8,-74.8,34041.0
+hadley,MA,hampshire,2,42.3,-72.6,25015.0
+hagerstown,MD,washington,20,39.6,-77.7,24043.0
+haines city,FL,polk,1,28.1,-81.6,12105.0
+hale,MI,iosco,15,44.3,-84.0,26069.0
+haledon,NJ,passaic,20,41.0,-74.2,34031.0
+halethorpe,MD,baltimore,4,39.2,-76.7,24005.0
+hamburg,NJ,sussex,6,41.2,-74.6,34037.0
+hamel,MN,hennepin,6,45.1,-93.6,27053.0
+hamilton,IL,hancock,1,40.4,-91.3,17067.0
+hamilton,OH,butler,273,39.3,-84.7,39017.0
+hammond,IN,lake,1077,41.6,-87.5,18089.0
+hampton,CT,windham,3,41.8,-72.1,9015.0
+hanalei,HI,kauai,3,22.2,-159.5,15007.0
+hancock,ME,hancock,12,44.5,-68.3,23009.0
+hancock,MI,houghton,6,47.1,-88.6,26061.0
+hancock,NH,hillsborough,8,43.0,-72.0,33011.0
+hanover,NH,grafton,2,43.7,-72.3,33009.0
+hanover,PA,york,23,39.8,-77.0,42133.0
+hanover park,IL,cook,2,42.0,-88.1,17031.0
+hanson,MA,plymouth,4,42.1,-70.9,25023.0
+harbinger,NC,currituck,1,36.1,-75.8,37053.0
+harbor springs,MI,emmet,4,45.4,-85.0,26047.0
+hardin,MT,big horn,1,45.7,-107.6,30003.0
+harker heights,TX,bell,15,31.1,-97.7,48027.0
+harlem,GA,columbia,20,33.5,-82.4,13073.0
+harleysville,PA,montgomery,3,40.3,-75.4,42091.0
+harpersville,AL,shelby,2,33.3,-86.5,1117.0
+harpswell,ME,cumberland,150,43.7,-70.0,23005.0
+harriman,TN,roane,15,35.9,-84.5,47145.0
+harrington,DE,kent,7,38.9,-75.6,10001.0
+harrisburg,PA,dauphin,486,40.3,-76.8,42043.0
+harrison,AR,boone,212,36.2,-93.1,5009.0
+harrison,MI,clare,2,43.9,-84.9,26035.0
+harrison,OH,hamilton,4,39.3,-84.8,39061.0
+harrison township,MI,macomb,300,42.6,-82.8,26099.0
+harrisonburg,VA,harrisonburg city,20,38.4,-78.9,51660.0
+harrisonville,MO,cass,3,38.6,-94.3,29037.0
+harrisville,MI,alcona,3191,44.7,-83.3,26001.0
+harrisville,NH,cheshire,3,42.9,-72.0,33005.0
+harrisville,PA,butler,4,41.1,-80.0,42019.0
+harrodsburg,KY,mercer,20,37.8,-84.8,21167.0
+hartford,CT,hartford,105,41.8,-72.7,9003.0
+hartford,WI,washington,6,43.3,-88.4,55131.0
+hartland,ME,somerset,70,44.9,-69.5,23025.0
+hartsdale,NY,westchester,2,41.0,-73.8,36119.0
+hartville,MO,wright,3,37.3,-92.6,29229.0
+harvard,MA,worcester,1,42.5,-71.6,25027.0
+harvey,LA,jefferson,1,29.9,-90.1,
+harwich,MA,barnstable,8,41.7,-70.0,25001.0
+haskell,OK,muskogee,21,35.9,-95.7,40101.0
+hastings on hudson,NY,westchester,20,41.0,-73.9,36119.0
+hasty,CO,bent,9,38.1,-103.0,8011.0
+hatboro,PA,montgomery,2,40.2,-75.1,42091.0
+hatfield,MA,hampshire,22,42.4,-72.6,25015.0
+hatfield,MO,harrison,5,40.5,-94.1,29081.0
+hatteras,NC,dare,2,35.2,-75.7,37055.0
+hattiesburg,MS,forrest,29,31.3,-89.4,
+hauppauge,NY,suffolk,8,40.8,-73.2,36103.0
+havelock,NC,craven,9,34.9,-76.8,37049.0
+haverhill,MA,essex,27,42.8,-71.1,25009.0
+haverhill,NH,grafton,1,44.0,-72.1,33009.0
+havertown,PA,delaware,18,40.0,-75.3,42045.0
+haviland,OH,paulding,1,41.0,-84.6,39125.0
+hayden,AL,blount,2,33.8,-86.9,1009.0
+hayes,VA,gloucester,2,37.3,-76.5,51073.0
+headland,AL,henry,1,31.4,-85.2,1067.0
+hebron,IN,porter,60,41.4,-87.2,18127.0
+hebron,KY,boone,3,39.1,-84.7,21015.0
+hebron,NE,thayer,2,40.2,-97.6,31169.0
+helena,OK,alfalfa,1,36.5,-98.3,40003.0
+helotes,TX,bexar,40,29.6,-98.7,48029.0
+henderson,NV,clark,4,36.1,-115.0,32003.0
+hendersonville,NC,henderson,45,35.3,-82.6,37089.0
+henrico,VA,henrico,240,37.6,-77.5,51087.0
+henrico,VA,richmond city,45,37.6,-77.5,51760.0
+henryetta,OK,okmulgee,144,35.5,-95.8,40111.0
+hermosa beach,CA,los angeles,6,33.9,-118.4,6037.0
+herndon,VA,fairfax,192,38.9,-77.4,51059.0
+herscher,IL,kankakee,23,41.0,-88.1,17091.0
+hershey,PA,dauphin,8,40.3,-76.7,42043.0
+hesperus,CO,la plata,4,37.1,-108.1,8067.0
+hewitt,TX,mclennan,1,31.5,-97.2,48309.0
+hiddenite,NC,alexander,4,35.9,-81.1,37003.0
+high point,NC,guilford,16,36.0,-80.0,37081.0
+high ridge,MO,jefferson,4,38.5,-90.5,29099.0
+highland,IN,lake,4,41.5,-87.4,18089.0
+highland falls,NY,orange,2,41.3,-74.0,36071.0
+highland park,IL,lake,9,42.2,-87.8,17097.0
+highlands,NC,macon,6,35.1,-83.2,37113.0
+highlands,NJ,monmouth,28,40.4,-74.0,34025.0
+hightstown,NJ,mercer,9,40.3,-74.6,34021.0
+hilbert,WI,calumet,3,44.1,-88.1,55015.0
+hilliard,OH,franklin,15,40.0,-83.1,39049.0
+hillsboro,MO,jefferson,37,38.2,-90.6,29099.0
+hillsboro,TN,coffee,2,35.4,-86.0,47031.0
+hillsborough,NC,orange,102,36.1,-79.1,37135.0
+hillsville,VA,carroll,75,36.8,-80.7,51035.0
+hilton head island,SC,beaufort,18,32.2,-80.8,45013.0
+hindsville,AR,madison,15,36.1,-93.9,5087.0
+hingham,MA,plymouth,4,42.3,-70.9,25023.0
+hinton,OK,caddo,2,35.4,-98.3,40015.0
+hobart,IN,lake,10,41.5,-87.2,18089.0
+hobart,OK,kiowa,1,35.0,-99.1,40075.0
+hobbs,NM,lea,18,32.7,-103.1,35025.0
+hoffman estates,IL,cook,4,42.1,-88.1,17031.0
+hogansburg,NY,franklin,2,45.0,-74.7,36033.0
+holcomb,KS,finney,1,38.0,-101.0,20055.0
+holland,MI,ottawa,16,42.8,-86.2,26139.0
+holland patent,NY,oneida,60,43.2,-75.3,36065.0
+hollandale,MN,freeborn,1,43.8,-93.2,27047.0
+hollis center,ME,york,1,43.7,-70.7,23031.0
+hollister,MO,taney,1,36.6,-93.2,29213.0
+holly ridge,NC,onslow,15,34.4,-77.5,37133.0
+holly springs,NC,wake,4,35.7,-78.8,37183.0
+hollywood,FL,broward,260,26.0,-80.4,12011.0
+holmen,WI,la crosse,2,44.0,-91.3,55063.0
+homer city,PA,indiana,6,40.5,-79.2,42063.0
+homestead,FL,miami-dade,48,25.5,-80.5,12086.0
+hominy,OK,osage,1,36.4,-96.4,40113.0
+homosassa,FL,citrus,6,28.8,-82.6,12017.0
+hondo,TX,medina,10,29.3,-99.1,48325.0
+honesdale,PA,wayne,22,41.6,-75.3,42127.0
+honolulu,HI,honolulu,12,21.3,-157.8,15003.0
+honor,MI,benzie,27,44.7,-86.0,26019.0
+hooksett,NH,merrimack,6,43.1,-71.5,33013.0
+hopewell junction,NY,dutchess,10,41.6,-73.7,36027.0
+hopkins,MN,hennepin,6,44.9,-93.4,27053.0
+hopkinsville,KY,christian,1,36.9,-87.5,21047.0
+hornbeak,TN,obion,129,36.4,-89.4,47131.0
+hornick,IA,woodbury,1,42.2,-96.1,19193.0
+horseheads,NY,chemung,1,42.2,-76.8,36015.0
+horseshoe bay,TX,llano,60,30.5,-98.4,48299.0
+horsham,PA,montgomery,5,40.2,-75.1,42091.0
+hoschton,GA,jackson,2,34.1,-83.8,13157.0
+hot springs,NC,madison,14,35.9,-82.8,37115.0
+hot springs national park,AR,garland,126,34.5,-93.1,5051.0
+houma,LA,terrebonne,3,29.6,-90.8,
+house springs,MO,jefferson,33,38.5,-90.6,29099.0
+houston,OH,shelby,3,40.2,-84.3,39149.0
+houston,TX,fort bend,199,29.9,-95.5,48157.0
+houston,TX,harris,8557,29.9,-95.5,48201.0
+howard,OH,knox,4,40.4,-82.3,39083.0
+howard city,MI,montcalm,2,43.4,-85.5,26117.0
+howard lake,MN,hennepin,3,45.1,-94.0,27053.0
+howard lake,MN,wright,3,45.1,-94.0,27171.0
+howe,OK,le flore,93,35.0,-94.6,40079.0
+howell,MI,livingston,12,42.6,-83.8,26093.0
+hudson,IN,steuben,20,41.5,-85.1,18151.0
+hudson,NH,hillsborough,12,42.7,-71.4,33011.0
+hudson,WI,st. croix,340,45.0,-92.8,55109.0
+huger,SC,berkeley,1,33.1,-79.7,45015.0
+hughesville,MD,charles,1,38.5,-76.8,24017.0
+hugo,MN,washington,12,45.2,-93.0,27163.0
+hugo,OK,choctaw,3,34.1,-95.5,40023.0
+hugoton,KS,stevens,1,37.2,-101.3,20189.0
+humboldt,KS,allen,3,37.8,-95.4,20001.0
+humboldt,TN,gibson,4,35.8,-88.8,47053.0
+hunt,TX,kerr,2,30.0,-99.4,48265.0
+hunter,OK,garfield,1,36.6,-97.7,40047.0
+huntersville,NC,mecklenburg,84,35.4,-80.8,37119.0
+huntington,WV,cabell,18,38.4,-82.4,54011.0
+huntington,WV,wayne,6,38.4,-82.4,54099.0
+huntington beach,CA,orange,296,33.7,-118.0,6059.0
+huntington station,NY,suffolk,24,40.9,-73.4,36103.0
+huntley,IL,mchenry,7,42.2,-88.4,17111.0
+huntsville,AL,madison,18,34.7,-86.5,1089.0
+huntsville,AR,madison,30,36.1,-93.5,5087.0
+huntsville,TX,walker,10,30.6,-95.5,48471.0
+hurdle mills,NC,person,2,36.3,-79.0,37145.0
+huron,SD,beadle,35,44.4,-98.2,46005.0
+hutchinson,KS,reno,69,38.0,-97.9,20155.0
+hutto,TX,williamson,36,30.5,-97.5,48491.0
+hyattsville,MD,prince georges,81,39.0,-76.9,
+idabel,OK,mccurtain,32,33.8,-94.9,40089.0
+imlay city,MI,lapeer,2,43.0,-83.1,26087.0
+independence,CA,inyo,2,37.4,-118.8,6027.0
+independence,KY,kenton,207,38.9,-84.5,21117.0
+independence,MO,jackson,12,39.1,-94.4,29095.0
+indian lake,NY,hamilton,80,43.8,-74.3,36041.0
+indian trail,NC,union,75,35.1,-80.6,37179.0
+indianapolis,IN,hamilton,540,39.9,-86.0,18057.0
+indianapolis,IN,marion,14040,39.9,-86.0,18097.0
+industry,TX,austin,48,30.0,-96.5,48015.0
+ingalls,IN,madison,2,40.0,-85.8,18095.0
+ingleside,IL,lake,8,42.4,-88.2,17097.0
+ingram,TX,kerr,7,30.1,-99.3,48265.0
+inlet,NY,hamilton,42,43.7,-74.8,36041.0
+inman,SC,spartanburg,1,35.0,-82.0,45083.0
+inola,OK,rogers,3,36.1,-95.6,40131.0
+interlochen,MI,grand traverse,8,44.6,-85.8,26055.0
+inverness,FL,citrus,10,28.8,-82.3,12017.0
+iola,KS,allen,60,37.9,-95.4,20001.0
+iowa,LA,calcasieu,10,30.2,-93.0,
+iowa city,IA,johnson,6,41.6,-91.6,19103.0
+ipswich,MA,essex,3,42.7,-70.8,25009.0
+iron mountain,MI,dickinson,5,45.8,-88.1,26043.0
+iron station,NC,lincoln,4,35.4,-81.2,37109.0
+irving,TX,dallas,13,32.8,-96.9,48113.0
+irwin,PA,westmoreland,55,40.3,-79.7,42129.0
+iselin,NJ,middlesex,1,40.6,-74.3,34023.0
+isle of palms,SC,charleston,66,32.8,-79.7,45019.0
+isleton,CA,sacramento,4,38.2,-121.6,6067.0
+itasca,IL,dupage,24,42.0,-88.0,17043.0
+ithaca,MI,gratiot,1,43.3,-84.6,26057.0
+ithaca,NY,tompkins,6,42.4,-76.5,36109.0
+ivesdale,IL,champaign,3,39.9,-88.5,17019.0
+jackson,GA,butts,6,33.3,-84.0,13035.0
+jackson,MI,jackson,2,42.3,-84.4,26075.0
+jackson,MS,hinds,50,32.3,-90.2,28049.0
+jackson,MS,rankin,25,32.3,-90.2,28121.0
+jacksonville,FL,duval,1122,30.2,-81.6,12031.0
+jacksonville,FL,st. johns,204,30.2,-81.6,12109.0
+jacksonville,NC,onslow,2,34.9,-77.5,37133.0
+jacksonville,TX,cherokee,9,32.0,-95.3,48073.0
+jacksonville beach,FL,duval,5,30.3,-81.4,12031.0
+jamaica plain,MA,suffolk,10,42.3,-71.1,25025.0
+jamestown,ND,stutsman,12,46.9,-98.7,38093.0
+jamestown,NY,chautauqua,104,42.1,-79.2,36013.0
+jamesville,NY,onondaga,10,43.0,-76.1,36067.0
+janesville,WI,rock,136,42.7,-89.1,55105.0
+jarrettsville,MD,harford,31,39.6,-76.5,24025.0
+jasper,AR,newton,15,36.0,-93.2,5101.0
+jasper,GA,pickens,2,34.5,-84.4,13227.0
+jasper,IN,dubois,36,38.4,-86.9,18037.0
+jeanerette,LA,iberia,1,30.0,-91.8,
+jeannette,PA,westmoreland,1,40.3,-79.6,42129.0
+jeddo,MI,st. clair,812,43.1,-82.6,26147.0
+jefferson,GA,jackson,6,34.1,-83.6,13157.0
+jefferson,MD,frederick,1,39.4,-77.6,24021.0
+jefferson city,MO,cole,260,38.6,-92.2,29051.0
+jenks,OK,tulsa,3,36.0,-96.0,40143.0
+jensen,UT,uintah,4,40.5,-108.9,49047.0
+jericho,VT,chittenden,28,44.5,-73.0,50007.0
+jermyn,TX,jack,21,33.3,-98.4,48237.0
+jerome,ID,jerome,4,42.7,-114.5,16053.0
+jersey city,NJ,hudson,14,40.7,-74.0,34017.0
+jewett city,CT,new london,10,41.6,-71.9,9011.0
+joelton,TN,davidson,1,36.4,-86.9,47037.0
+johannesburg,MI,otsego,1,44.9,-84.4,26137.0
+johns island,SC,charleston,16,32.6,-80.1,45019.0
+johnson city,TN,washington,75,36.4,-82.5,47179.0
+johnson city,TX,blanco,2,30.4,-98.5,48031.0
+johnston,RI,providence,20,41.8,-71.5,44007.0
+johnstown,OH,licking,2,40.1,-82.8,39089.0
+joliet,IL,will,21,41.5,-88.3,17197.0
+jolon,CA,monterey,39,36.0,-121.3,6053.0
+jonesborough,TN,washington,2,36.3,-82.6,47179.0
+joplin,MO,jasper,176,37.1,-94.5,29097.0
+judsonia,AR,white,33,35.4,-91.7,5145.0
+julian,CA,san diego,1,33.1,-116.6,6073.0
+junction,TX,kimble,6,30.5,-99.8,48267.0
+june lake,CA,mono,40,37.8,-119.1,6051.0
+jupiter,FL,palm beach,4,27.0,-80.1,12099.0
+kalamazoo,MI,kalamazoo,34,42.3,-85.7,26077.0
+kalona,IA,washington,8,41.5,-91.7,19183.0
+kansas city,KS,wyandotte,265,39.0,-94.6,20209.0
+kansas city,MO,clay,1533,39.2,-94.6,29047.0
+kansas city,MO,jackson,949,39.2,-94.6,29095.0
+kansas city,MO,platte,730,39.2,-94.6,29165.0
+katonah,NY,westchester,8,41.3,-73.7,36119.0
+katy,TX,fort bend,16,29.8,-95.7,48157.0
+katy,TX,harris,16,29.8,-95.7,48201.0
+kaufman,TX,kaufman,1,32.6,-96.2,48257.0
+kearneysville,WV,jefferson,2,39.4,-77.9,54037.0
+keene,NH,cheshire,90,42.9,-72.3,33005.0
+keller,TX,tarrant,33,32.9,-97.2,48439.0
+kemp,TX,kaufman,93,32.3,-96.1,48257.0
+kenansville,NC,duplin,9,35.0,-77.9,37061.0
+kenly,NC,johnston,2,35.6,-78.1,37101.0
+kenner,LA,jefferson,42,30.0,-90.3,
+kennesaw,GA,cobb,36,34.1,-84.6,13067.0
+kennett square,PA,chester,2,39.8,-75.7,42029.0
+kenosha,WI,kenosha,3,42.6,-87.9,55059.0
+kensington,MD,montgomery,6,39.0,-77.1,24031.0
+kentland,IN,newton,30,40.8,-87.5,18111.0
+kenton,OH,hardin,8,40.6,-83.6,39065.0
+kents store,VA,fluvanna,2,37.9,-78.1,51065.0
+kerens,TX,navarro,3,32.2,-96.3,48349.0
+kerhonkson,NY,ulster,6,41.9,-74.3,36111.0
+kernersville,NC,forsyth,25,36.0,-80.1,37067.0
+kerrville,TX,kerr,1,30.0,-99.1,48265.0
+keuka park,NY,yates,8,42.6,-77.1,36123.0
+kewadin,MI,antrim,44,45.0,-85.4,26009.0
+key west,FL,monroe,374,24.6,-81.8,12087.0
+keymar,MD,carroll,3,39.6,-77.2,24013.0
+keyport,NJ,monmouth,216,40.4,-74.2,34025.0
+kill devil hills,NC,dare,4,36.0,-75.7,37055.0
+kimball,MN,stearns,2,45.3,-94.4,27145.0
+kimberling city,MO,stone,6,36.6,-93.4,29209.0
+kimberly,AL,jefferson,1,33.8,-86.8,1073.0
+king of prussia,PA,montgomery,15,40.1,-75.4,42091.0
+kings mountain,NC,cleveland,10,35.2,-81.3,37045.0
+kingsbury,TX,guadalupe,1,29.7,-97.8,48187.0
+kingsley,MI,grand traverse,15,44.6,-85.5,26055.0
+kingston,NY,ulster,152,42.0,-74.0,36111.0
+kingston,TN,roane,2,35.9,-84.5,47145.0
+kingston springs,TN,cheatham,6,36.1,-87.1,47021.0
+kingsville,TX,kleberg,60,27.5,-97.9,48273.0
+kingwood,TX,harris,6,30.0,-95.1,48201.0
+kinston,NC,lenoir,5,35.3,-77.6,37107.0
+kissimmee,FL,osceola,35,28.3,-81.4,12097.0
+kissimmee,FL,polk,14,28.3,-81.4,12105.0
+kittery,ME,york,1,43.1,-70.8,23031.0
+kittery point,ME,york,1,43.1,-70.7,23031.0
+kitty hawk,NC,dare,15,36.2,-75.8,37055.0
+knightstown,IN,henry,279,39.8,-85.5,18065.0
+knox,PA,clarion,21,41.2,-79.6,42031.0
+knoxville,TN,knox,68,36.0,-83.9,47093.0
+kodak,TN,sevier,33,36.0,-83.7,47155.0
+kohler,WI,sheboygan,21,43.7,-87.8,55117.0
+kokomo,IN,howard,26,40.5,-86.1,18067.0
+kress,TX,swisher,11,34.4,-101.8,48437.0
+krum,TX,denton,3,33.2,-97.3,48121.0
+kyle,TX,hays,45,30.0,-97.9,48209.0
+la crosse,WI,la crosse,246,43.8,-91.3,55063.0
+la fayette,GA,walker,18,34.7,-85.3,13295.0
+la grange,IL,cook,14,41.8,-87.8,17031.0
+la grange,MO,lewis,1,40.0,-91.6,29111.0
+la grange,TX,fayette,27,29.9,-96.9,48149.0
+la grange park,IL,cook,36,41.8,-87.9,17031.0
+la mesa,CA,san diego,1,32.8,-117.0,6073.0
+la place,LA,st. john the baptist,3,30.1,-90.5,
+la porte,TX,harris,10,29.7,-95.1,48201.0
+la quinta,CA,riverside,14,33.7,-116.3,6065.0
+la rue,OH,marion,16,40.6,-83.4,39101.0
+la vergne,TN,rutherford,2,36.0,-86.6,47149.0
+la vista,NE,sarpy,3,41.2,-96.1,31153.0
+lac du flambeau,WI,vilas,2,46.0,-89.9,55125.0
+lacombe,LA,st. tammany,15,30.3,-89.9,
+lady lake,FL,lake,4,28.9,-81.9,12069.0
+lafayette,IN,tippecanoe,136,40.4,-86.9,18157.0
+lafayette,LA,lafayette,15,30.2,-92.1,
+lafayette hill,PA,montgomery,6,40.1,-75.2,42091.0
+lagrange,GA,troup,2,33.0,-85.0,13285.0
+laguna niguel,CA,orange,14,33.5,-117.7,6059.0
+lahaina,HI,maui,16,21.0,-156.7,15009.0
+lake,MI,clare,64,43.9,-85.0,26035.0
+lake ariel,PA,wayne,984,41.4,-75.3,42127.0
+lake charles,LA,calcasieu,88,30.2,-93.2,
+lake city,PA,erie,430,42.0,-80.3,42049.0
+lake crystal,MN,blue earth,4,44.1,-94.2,27013.0
+lake geneva,WI,walworth,4,42.6,-88.5,55127.0
+lake george,MN,hubbard,1,47.2,-95.2,27057.0
+lake george,NY,warren,10,43.4,-73.7,36113.0
+lake havasu city,AZ,mohave,6,34.5,-114.3,4015.0
+lake lure,NC,rutherford,14,35.4,-82.2,37161.0
+lake orion,MI,oakland,16,42.7,-83.3,26125.0
+lake park,MN,becker,16,46.7,-96.1,27005.0
+lake placid,NY,essex,3,44.2,-74.0,36031.0
+lake saint louis,MO,st. charles,8,38.8,-90.8,29183.0
+lake station,IN,lake,2,41.6,-87.2,18089.0
+lake villa,IL,lake,320,42.4,-88.1,17097.0
+lake zurich,IL,lake,700,42.2,-88.0,17097.0
+lakeland,FL,polk,4,28.0,-82.0,12105.0
+lakemont,GA,rabun,4,34.7,-83.4,13241.0
+lakeville,CT,litchfield,2,42.0,-73.4,9005.0
+lakeville,MN,dakota,3,44.6,-93.2,27037.0
+lakewood,OH,cuyahoga,99,41.5,-81.8,39035.0
+lakin,KS,kearny,4,37.9,-101.3,20093.0
+lamar,MO,barton,3,37.6,-94.4,29011.0
+lamont,FL,jefferson,5,30.2,-84.0,12065.0
+lampasas,TX,lampasas,30,31.1,-98.1,48281.0
+lancaster,NY,erie,85,42.9,-78.7,36029.0
+lancaster,OH,fairfield,3,39.7,-82.6,39045.0
+lancaster,PA,lancaster,420,40.0,-76.3,42071.0
+lancaster,SC,lancaster,2,34.8,-80.8,45057.0
+land o lakes,WI,vilas,8,46.2,-89.2,55125.0
+landisburg,PA,perry,4,40.3,-77.3,42099.0
+landisville,PA,lancaster,3,40.1,-76.4,42071.0
+lanesboro,MN,fillmore,3,43.7,-92.0,27045.0
+langhorne,PA,bucks,5,40.1,-74.9,42017.0
+lansing,IL,cook,2,41.6,-87.6,17031.0
+lansing,MI,clinton,54,42.8,-84.5,26037.0
+lansing,MI,eaton,54,42.8,-84.5,26045.0
+lansing,MI,ingham,594,42.8,-84.5,26065.0
+lansing,NY,tompkins,22,42.5,-76.5,36109.0
+laporte,MN,hubbard,3,47.2,-94.8,27057.0
+larchmont,NY,westchester,5,40.9,-73.8,36119.0
+laredo,TX,webb,4,27.7,-99.7,48479.0
+largo,FL,pinellas,48,27.9,-82.8,12103.0
+larkspur,CO,douglas,2,39.2,-105.0,8035.0
+las cruces,NM,dona ana,51,32.3,-106.8,
+lathrop,MO,clinton,3,39.5,-94.3,29049.0
+laurel,MT,yellowstone,4,45.7,-108.8,30111.0
+lavon,TX,collin,30,33.0,-96.5,48085.0
+lawrence,KS,douglas,28,39.0,-95.3,20045.0
+lawrence,MA,essex,6,42.7,-71.1,25009.0
+lawrenceburg,KY,anderson,1,38.0,-84.9,21005.0
+lawrenceville,GA,gwinnett,22,33.9,-84.0,13135.0
+lawson,MO,ray,36,39.5,-94.2,29177.0
+lawton,OK,comanche,1,34.6,-98.4,40031.0
+le sueur,MN,le sueur,6,44.5,-93.9,27079.0
+league city,TX,galveston,12,29.5,-95.0,48167.0
+leakey,TX,real,25,29.9,-99.7,48385.0
+leander,TX,travis,116,30.6,-97.8,48453.0
+leander,TX,williamson,87,30.6,-97.8,48491.0
+leavenworth,KS,leavenworth,2,39.3,-94.9,20103.0
+leawood,KS,johnson,7,38.9,-94.7,20091.0
+lebanon,PA,lebanon,66,40.3,-76.4,42075.0
+ledgewood,NJ,morris,1,40.9,-74.7,34027.0
+lees summit,MO,jackson,243,38.9,-94.4,29095.0
+leesburg,VA,loudoun,36,39.1,-77.6,51107.0
+lehi,UT,utah,7,40.4,-111.9,49049.0
+lehigh acres,FL,lee,4,26.6,-81.6,12071.0
+leicester,MA,worcester,2,42.2,-71.9,25027.0
+leicester,NC,buncombe,2,35.7,-82.7,37021.0
+leland,MI,leelanau,6,45.1,-85.7,26089.0
+lemon grove,CA,san diego,5,32.7,-117.0,6073.0
+lemoyne,PA,cumberland,8,40.2,-76.9,42041.0
+lenexa,KS,johnson,426,39.0,-94.7,20091.0
+lenoir,NC,caldwell,180,35.9,-81.5,37027.0
+leonard,MI,oakland,15,42.8,-83.2,26125.0
+leonia,NJ,bergen,1,40.9,-74.0,34003.0
+lesterville,MO,reynolds,1,37.4,-90.8,29179.0
+lewisburg,KY,logan,16,37.0,-87.0,21141.0
+lewisburg,WV,greenbrier,1,37.8,-80.4,54025.0
+lewiston,ME,androscoggin,9,44.1,-70.2,23001.0
+lewiston,NY,niagara,6,43.2,-79.0,36063.0
+lewistown,IL,fulton,2,40.4,-90.2,17057.0
+lexington,GA,oglethorpe,1,33.9,-83.1,13221.0
+lexington,KY,fayette,63,37.9,-84.3,21067.0
+lexington,MA,middlesex,2,42.4,-71.2,25017.0
+lexington,OK,cleveland,3,35.1,-97.3,40027.0
+lexington,VA,lexington city,9,37.8,-79.5,51678.0
+liberty,IN,union,320,39.6,-84.9,18161.0
+liberty,KS,montgomery,3,37.2,-95.6,20125.0
+libertyville,IL,lake,3,42.3,-88.0,17097.0
+ligonier,PA,westmoreland,6,40.3,-79.2,42129.0
+lillian,AL,baldwin,3,30.4,-87.4,1003.0
+lincoln,MA,middlesex,18,42.4,-71.4,25017.0
+lincoln,NE,lancaster,108,40.8,-96.6,31109.0
+lincolnton,NC,lincoln,18,35.5,-81.2,37109.0
+lincroft,NJ,monmouth,1,40.3,-74.1,34025.0
+lindale,GA,floyd,20,34.2,-85.2,13115.0
+lindenhurst,NY,suffolk,12,40.7,-73.4,36103.0
+lindon,CO,washington,1,39.9,-103.3,8121.0
+lindstrom,MN,chisago,1,45.4,-92.8,27025.0
+linesville,PA,crawford,6,41.6,-80.4,42039.0
+lingo,NM,roosevelt,10,33.7,-103.1,35041.0
+linville,NC,avery,1,36.1,-81.8,37011.0
+linwood,NC,davidson,4,35.8,-80.3,37057.0
+lisbon,NH,grafton,3,44.3,-71.9,33009.0
+lisle,IL,dupage,5,41.8,-88.1,17043.0
+litchfield,CT,litchfield,3,41.7,-73.2,9005.0
+litchfield,IL,montgomery,3,39.2,-89.8,17135.0
+little compton,RI,newport,122,41.5,-71.2,44005.0
+little elm,TX,denton,16,33.2,-97.0,48121.0
+little falls,MN,morrison,12,46.0,-94.3,27097.0
+little rock,AR,pulaski,40,34.8,-92.5,5119.0
+littlestown,PA,adams,60,39.7,-77.1,42001.0
+littleton,CO,arapahoe,10,39.6,-105.0,8005.0
+littleton,CO,douglas,4,39.6,-105.0,8035.0
+littleton,CO,jefferson,8,39.6,-105.0,8059.0
+littleton,NH,grafton,2,44.3,-71.8,33009.0
+livermore,CA,alameda,1,37.7,-121.8,6001.0
+livingston,TN,overton,5,36.3,-85.4,47133.0
+livingston,TX,polk,15,30.7,-94.9,48373.0
+livonia,MI,wayne,12,42.4,-83.4,26163.0
+livonia,NY,livingston,1,42.8,-77.7,36051.0
+lizella,GA,bibb,1,32.8,-83.8,13021.0
+llano,CA,los angeles,8,34.4,-117.8,6037.0
+loami,IL,sangamon,10,39.6,-89.8,17167.0
+lock haven,PA,clinton,40,41.1,-77.4,42035.0
+lockbourne,OH,franklin,2,39.8,-82.9,39049.0
+lockhart,TX,caldwell,60,29.8,-97.8,48055.0
+lockney,TX,floyd,10,34.2,-101.3,48153.0
+lockport,IL,will,2,41.6,-88.0,17197.0
+lockport,NY,niagara,10,43.2,-78.8,36063.0
+locust grove,OK,mayes,2,36.1,-95.2,40097.0
+lodi,WI,columbia,1,43.3,-89.5,55021.0
+logansport,IN,cass,1,40.7,-86.5,18017.0
+loganville,GA,walton,8,33.8,-83.9,13297.0
+lombard,IL,dupage,4,41.9,-88.0,17043.0
+lompoc,CA,santa barbara,5,34.6,-120.5,6083.0
+lone pine,CA,inyo,5,36.5,-118.0,6027.0
+long beach,CA,los angeles,60,33.8,-118.1,6037.0
+long beach,MS,harrison,101,30.4,-89.2,28047.0
+long beach,NY,nassau,10,40.6,-73.6,36059.0
+long lake,NY,hamilton,6,44.0,-74.4,36041.0
+longview,TX,gregg,18,32.5,-94.7,48183.0
+longwood,FL,seminole,81,28.7,-81.4,12117.0
+loranger,LA,tangipahoa,5,30.6,-90.4,
+lorena,TX,mclennan,8,31.4,-97.2,48309.0
+loris,SC,horry,8,34.0,-79.0,45051.0
+los alamos,NM,los alamos,40,35.9,-106.3,35028.0
+los angeles,CA,los angeles,2280,34.0,-118.4,6037.0
+lost springs,KS,marion,60,38.6,-97.0,20115.0
+lothian,MD,anne arundel,5,38.8,-76.6,24003.0
+louisville,CO,boulder,4,40.0,-105.1,8013.0
+louisville,IL,clay,12,38.8,-88.5,17025.0
+louisville,KY,jefferson,7936,38.3,-85.8,21111.0
+loveland,CO,larimer,6,40.4,-105.1,8069.0
+loveland,OH,clermont,680,39.3,-84.2,39025.0
+lovell,ME,oxford,1,44.1,-70.9,23017.0
+lovettsville,VA,loudoun,7,39.3,-77.7,51107.0
+lowell,IN,lake,10,41.3,-87.4,18089.0
+lowell,MA,middlesex,2,42.6,-71.3,25017.0
+lowell,MI,kent,16,42.9,-85.3,26081.0
+lowville,NY,lewis,128,43.8,-75.5,36049.0
+lubbock,TX,lubbock,210,33.6,-101.9,48303.0
+lufkin,TX,angelina,1,31.3,-94.8,48005.0
+lunenburg,MA,worcester,10,42.6,-71.8,25027.0
+luray,VA,page,75,38.5,-78.4,51139.0
+lusby,MD,calvert,225,38.4,-76.5,24009.0
+luther,OK,oklahoma,6,35.7,-97.2,40109.0
+lutz,FL,hillsborough,4,28.2,-82.5,12057.0
+lykens,PA,dauphin,4,40.6,-76.7,42043.0
+lyme,NH,grafton,3,43.8,-72.1,33009.0
+lynchburg,VA,lynchburg city,808,37.4,-79.1,51680.0
+lyndhurst,NJ,bergen,29,40.8,-74.1,34003.0
+lyndonville,NY,orleans,92,43.4,-78.3,36073.0
+lyons,NE,burt,324,42.0,-96.5,31021.0
+lytle,TX,atascosa,22,29.2,-98.8,48013.0
+macclenny,FL,baker,1,30.2,-82.2,12003.0
+machias,NY,cattaraugus,2,42.4,-78.5,36009.0
+macomb,MI,macomb,459,42.7,-83.0,26099.0
+macon,GA,bibb,80,32.8,-83.6,13021.0
+macy,IN,miami,2,41.0,-86.1,18103.0
+madison,AL,limestone,1,34.7,-86.7,1083.0
+madison,AL,madison,2,34.7,-86.7,1089.0
+madison,CT,new haven,95,41.3,-72.6,9009.0
+madison,VA,madison,18,38.4,-78.3,51113.0
+madison,WI,dane,10620,43.1,-89.4,55025.0
+madison lake,MN,blue earth,7,44.2,-93.8,27013.0
+magnolia,TX,montgomery,100,30.2,-95.8,48339.0
+mahomet,IL,champaign,60,40.2,-88.4,17019.0
+mahwah,NJ,bergen,5,41.1,-74.1,34003.0
+maiden,NC,catawba,1,35.6,-81.2,37035.0
+maineville,OH,warren,5,39.3,-84.2,39165.0
+malvern,PA,chester,12,40.0,-75.5,42029.0
+mamaroneck,NY,westchester,24,40.9,-73.7,36119.0
+mamou,LA,evangeline,1,30.6,-92.4,
+manassas,VA,manassas city,3,38.8,-77.5,51683.0
+manassas,VA,manassas park city,6,38.8,-77.5,51685.0
+manassas,VA,prince william,12,38.8,-77.5,51153.0
+manchester,IA,delaware,64,42.5,-91.5,19055.0
+manchester,MA,essex,120,42.6,-70.8,25009.0
+manchester,NH,hillsborough,24,43.0,-71.5,33011.0
+manchester,PA,york,2,40.1,-76.7,42133.0
+manchester,TN,coffee,1,35.6,-86.1,47031.0
+manchester center,VT,bennington,4,43.2,-73.0,50003.0
+mandeville,LA,st. tammany,57,30.3,-90.1,
+manhattan,KS,riley,3,39.2,-96.6,20161.0
+manhattan beach,CA,los angeles,2,33.9,-118.4,6037.0
+manheim,PA,lancaster,32,40.2,-76.4,42071.0
+mankato,MN,blue earth,2035,44.1,-93.9,27013.0
+mankato,MN,nicollet,1628,44.1,-93.9,27103.0
+mannford,OK,creek,12,36.1,-96.4,40037.0
+manns harbor,NC,dare,36,35.9,-75.8,37055.0
+mannsville,NY,jefferson,64,43.7,-76.2,36045.0
+mansfield,GA,newton,2,33.5,-83.7,13217.0
+mansfield,OH,richland,32,40.7,-82.5,39139.0
+mansfield,TX,tarrant,6,32.6,-97.1,48439.0
+mansfield center,CT,tolland,10,41.8,-72.2,9013.0
+manteca,CA,san joaquin,14,37.8,-121.2,6077.0
+manteno,IL,kankakee,105,41.3,-87.8,17091.0
+maple city,MI,leelanau,8,44.9,-85.8,26089.0
+maple lake,MN,wright,20,45.2,-94.0,27171.0
+maple plain,MN,hennepin,20,45.0,-93.7,27053.0
+maple plain,MN,wright,4,45.0,-93.7,27171.0
+marathon,FL,monroe,96,24.7,-81.0,12087.0
+marble falls,TX,burnet,455,30.6,-98.3,48053.0
+marcellus,NY,onondaga,8,43.0,-76.3,36067.0
+marengo,IL,mchenry,2,42.3,-88.6,17111.0
+maria stein,OH,mercer,1,40.4,-84.5,39107.0
+maribel,WI,manitowoc,1,44.3,-87.8,55071.0
+marietta,GA,cobb,189,34.0,-84.5,13067.0
+marietta,OH,washington,1,39.4,-81.5,39167.0
+marietta,PA,lancaster,30,40.1,-76.5,42071.0
+marina del rey,CA,los angeles,3,34.0,-118.5,6037.0
+marinette,WI,marinette,34,45.0,-87.6,55075.0
+marion,IA,linn,6,42.0,-91.6,19113.0
+marion,NC,mcdowell,1,35.7,-82.0,37111.0
+marion,OH,marion,224,40.6,-83.1,39101.0
+marion,VA,smyth,6,36.8,-81.5,51173.0
+mariposa,CA,mariposa,2,37.4,-119.8,6043.0
+marlborough,CT,hartford,2,41.7,-72.5,9003.0
+marlette,MI,sanilac,1,43.3,-83.1,26151.0
+marquette,MI,marquette,4,46.6,-87.4,26103.0
+marriottsville,MD,carroll,4,39.3,-76.9,24013.0
+mars hill,NC,madison,7,35.9,-82.5,37115.0
+marshall,IL,clark,50,39.4,-87.7,17023.0
+marshall,MI,calhoun,11,42.3,-85.0,26025.0
+marshall,NC,madison,2,35.8,-82.7,37115.0
+marshall,VA,fauquier,4,38.8,-77.9,51061.0
+marshall,WI,dane,3,43.2,-89.1,55025.0
+marshallberg,NC,carteret,2,34.7,-76.5,37031.0
+marshalltown,IA,marshall,1,42.0,-92.9,19127.0
+marshallville,OH,wayne,8,40.9,-81.8,39169.0
+martin,TN,weakley,30,36.3,-88.9,47183.0
+martinsburg,WV,berkeley,1,39.4,-77.9,54003.0
+martinsville,IN,morgan,24,39.4,-86.4,18109.0
+mary esther,FL,okaloosa,2,30.4,-86.8,12091.0
+maryland heights,MO,st. louis,54,38.7,-90.4,29189.0
+mashpee,MA,barnstable,3,41.6,-70.5,25001.0
+mason,OH,warren,3,39.3,-84.3,39165.0
+mason,TX,mason,190,30.7,-99.1,48319.0
+mason city,IL,mason,345,40.2,-89.6,17125.0
+masontown,WV,preston,26,39.6,-79.8,54077.0
+massapequa,NY,nassau,5,40.7,-73.5,36059.0
+matamoras,PA,pike,14,41.4,-74.7,42103.0
+matthews,NC,mecklenburg,1,35.0,-80.7,37119.0
+matthews,NC,union,4,35.0,-80.7,37179.0
+mattituck,NY,suffolk,5,41.0,-72.5,36103.0
+maumee,OH,lucas,5,41.6,-83.7,39095.0
+maumelle,AR,pulaski,10,34.9,-92.4,5119.0
+maybrook,NY,orange,4,41.5,-74.2,36071.0
+mayfield,KY,graves,9,36.7,-88.6,21083.0
+mc calla,AL,jefferson,4,33.3,-87.0,1073.0
+mc clellanville,SC,charleston,24,33.1,-79.5,45019.0
+mc cook,NE,red willow,10,40.2,-100.6,31145.0
+mc cormick,SC,mccormick,5,33.8,-82.4,45065.0
+mc donald,TN,bradley,1,35.2,-85.0,47011.0
+mc donough,NY,chenango,2,42.5,-75.8,36017.0
+mc gaheysville,VA,rockingham,60,38.4,-78.7,51165.0
+mc lean,VA,fairfax,9,38.9,-77.2,51059.0
+mcalister,NM,quay,6,34.7,-103.8,35037.0
+mcdonough,GA,henry,4,33.4,-84.2,13151.0
+mchenry,IL,mchenry,63,42.3,-88.2,17111.0
+mckinleyville,CA,humboldt,2,40.9,-124.1,6023.0
+mckinney,TX,collin,228,33.1,-96.7,48085.0
+meade,KS,meade,2,37.3,-100.3,20119.0
+mears,MI,oceana,200,43.7,-86.4,26127.0
+mebane,NC,alamance,7,36.1,-79.2,37001.0
+mechanicsburg,OH,champaign,1,40.0,-83.7,39021.0
+mechanicsburg,PA,cumberland,780,40.2,-77.0,42041.0
+mechanicville,NY,saratoga,30,43.0,-73.7,36091.0
+medford,NJ,burlington,30,39.9,-74.8,34005.0
+medford,NY,suffolk,2,40.8,-73.0,36103.0
+medford,OR,jackson,1,42.3,-122.8,41029.0
+media,PA,delaware,160,39.9,-75.4,42045.0
+medina,NY,orleans,25,43.2,-78.4,36073.0
+medinah,IL,dupage,1,42.0,-88.1,17043.0
+melbourne,FL,brevard,22,28.1,-80.7,12009.0
+melbourne,IA,marshall,1322,41.9,-93.1,19127.0
+melissa,TX,collin,1,33.3,-96.6,48085.0
+melrose,MA,middlesex,1,42.5,-71.1,25017.0
+melrose,NY,rensselaer,32,42.8,-73.6,36083.0
+memphis,TN,shelby,210,35.1,-89.8,47157.0
+mena,AR,polk,91,34.6,-94.2,5113.0
+menard,TX,menard,2,30.7,-99.7,48327.0
+mendenhall,MS,simpson,1,32.0,-89.8,28127.0
+mendham,NJ,morris,2,40.8,-74.6,34027.0
+mendon,MA,worcester,2,42.1,-71.6,25027.0
+mendota,IL,la salle,2,41.5,-89.1,
+meno,OK,major,2,36.3,-98.2,40093.0
+menominee,MI,menominee,9,45.1,-87.6,26109.0
+mentor,OH,lake,90,41.7,-81.4,39085.0
+mequon,WI,ozaukee,124,43.2,-87.9,55089.0
+meredith,NH,belknap,59,43.7,-71.5,33001.0
+meriden,CT,new haven,8,41.5,-72.8,9009.0
+meridian,ID,ada,1,43.5,-116.4,16001.0
+meridian,TX,bosque,6,31.9,-97.7,48035.0
+merrillville,IN,lake,102,41.5,-87.3,18089.0
+merrimac,MA,essex,1,42.8,-71.0,25009.0
+merriman,NE,cherry,1,43.0,-101.7,31031.0
+meshoppen,PA,wyoming,2,41.6,-76.1,42131.0
+mesilla,NM,dona ana,1,32.3,-106.8,
+metairie,LA,jefferson,2,30.0,-90.2,
+metuchen,NJ,middlesex,13,40.5,-74.4,34023.0
+mexia,TX,limestone,42,31.7,-96.5,48293.0
+mexico,IN,miami,1,40.8,-86.1,18103.0
+miami,FL,miami-dade,544,25.7,-80.4,12086.0
+miami,OK,ottawa,2,36.9,-94.8,40115.0
+miami beach,FL,miami-dade,204,25.8,-80.1,12086.0
+miamisburg,OH,montgomery,6,39.6,-84.2,39113.0
+michigan city,IN,la porte,6260,41.7,-86.8,
+middle grove,NY,saratoga,12,43.1,-74.0,36091.0
+middlefield,CT,middlesex,6,41.5,-72.7,9007.0
+middleton,MA,essex,9,42.6,-71.0,25009.0
+middleton,TN,hardeman,14,35.1,-89.0,47069.0
+middleton,WI,dane,21,43.1,-89.5,55025.0
+middletown,CT,middlesex,12,41.5,-72.7,9007.0
+middletown,DE,new castle,12,39.5,-75.7,10003.0
+middletown,MD,frederick,59,39.4,-77.6,24021.0
+middletown,NJ,monmouth,8,40.4,-74.1,34025.0
+middletown,NY,orange,12,41.4,-74.4,36071.0
+middletown,OH,butler,6,39.4,-84.3,39017.0
+middletown,PA,dauphin,9,40.2,-76.8,42043.0
+middletown,RI,newport,12,41.5,-71.2,44005.0
+middletown,VA,frederick,5,39.1,-78.3,51069.0
+middletown,VA,warren,10,39.1,-78.3,51187.0
+midland,MI,midland,90,43.6,-84.2,26111.0
+midland,TX,midland,74,32.0,-102.1,48329.0
+midlothian,TX,ellis,1,32.5,-97.0,48139.0
+midlothian,VA,chesterfield,12,37.5,-77.6,51041.0
+midway,AR,baxter,2,36.4,-92.5,5005.0
+mifflinburg,PA,union,28,41.0,-77.2,42119.0
+milan,PA,bradford,12,41.9,-76.5,42015.0
+milford,CT,new haven,1,41.3,-73.0,9009.0
+milford,DE,sussex,2,38.9,-75.3,10005.0
+milford,MI,oakland,2,42.6,-83.6,26125.0
+milford,NH,hillsborough,4,42.8,-71.7,33011.0
+milford,OH,clermont,33,39.2,-84.3,39025.0
+milford,PA,pike,10,41.3,-74.8,42103.0
+mill valley,CA,marin,20,37.9,-122.5,6041.0
+millbrook,AL,elmore,1,32.5,-86.4,1051.0
+millbury,MA,worcester,30,42.2,-71.8,25027.0
+milledgeville,GA,baldwin,3,33.1,-83.2,13009.0
+millen,GA,jenkins,7,32.8,-81.9,13165.0
+millersport,OH,fairfield,4,39.9,-82.5,39045.0
+millstadt,IL,st. clair,3,38.5,-90.1,17163.0
+millstone township,NJ,monmouth,10,40.3,-74.4,34025.0
+milton,DE,sussex,1,38.8,-75.2,10005.0
+milton,MA,norfolk,2,42.2,-71.1,25021.0
+milton,VT,chittenden,3,44.7,-73.2,50007.0
+milwaukee,WI,milwaukee,4814,43.1,-88.1,55079.0
+mims,FL,brevard,1,28.7,-80.9,12009.0
+mindenmines,MO,barton,52,37.5,-94.6,29011.0
+minneapolis,MN,anoka,30924,44.9,-93.3,27003.0
+minneapolis,MN,hennepin,79887,44.9,-93.3,27053.0
+minnesota lake,MN,faribault,32,43.9,-93.8,27043.0
+minnetonka,MN,hennepin,60,44.9,-93.5,27053.0
+minocqua,WI,oneida,20,45.8,-89.7,55085.0
+minonk,IL,woodford,27,40.9,-89.1,17203.0
+mission,TX,hidalgo,72,26.3,-98.3,48215.0
+mission hill,SD,yankton,5,43.0,-97.3,46135.0
+mission viejo,CA,orange,33,33.6,-117.7,6059.0
+missouri city,TX,fort bend,411,29.6,-95.6,48157.0
+moberly,MO,randolph,10,39.4,-92.4,29175.0
+mobile,AL,mobile,240,30.6,-88.1,1097.0
+mocksville,NC,davie,26,35.9,-80.5,37059.0
+mogadore,OH,portage,14,41.0,-81.4,39133.0
+mohawk,MI,keweenaw,15,47.4,-87.9,26083.0
+mohawk,NY,herkimer,10,43.0,-75.0,36043.0
+mokena,IL,will,4,41.5,-87.9,17197.0
+moline,IL,rock island,66,41.5,-90.5,17161.0
+moneta,VA,bedford,12,37.2,-79.6,51019.0
+monett,MO,barry,6,36.9,-93.9,29009.0
+monkton,MD,baltimore,50,39.6,-76.5,24005.0
+monmouth,IL,warren,30,41.0,-90.6,17187.0
+monmouth,ME,kennebec,3,44.3,-70.0,23011.0
+monmouth beach,NJ,monmouth,4,40.3,-74.0,34025.0
+monmouth junction,NJ,middlesex,8,40.4,-74.5,34023.0
+monroe,LA,ouachita,10,32.5,-92.1,
+monroe,NC,union,8,35.0,-80.5,37179.0
+monroe,NY,orange,21,41.3,-74.2,36071.0
+monroe,VA,amherst,2,37.5,-79.1,
+monroeville,PA,allegheny,1,40.4,-79.8,42003.0
+monson,ME,piscataquis,12,45.3,-69.4,23021.0
+mont vernon,NH,hillsborough,18,42.9,-71.7,33011.0
+montague,MI,muskegon,5,43.4,-86.4,26121.0
+montauk,NY,suffolk,32,41.0,-72.0,36103.0
+montclair,NJ,essex,12,40.8,-74.2,34013.0
+montello,WI,marquette,11,43.9,-89.3,55077.0
+montgomery,AL,montgomery,625,32.4,-86.3,1101.0
+montgomery,TX,montgomery,343,30.4,-95.6,48339.0
+montgomery village,MD,montgomery,45,39.2,-77.2,24031.0
+monticello,IN,white,10,40.7,-86.8,18181.0
+monticello,NM,sierra,2,33.3,-107.3,35051.0
+montpelier,VT,washington,13,44.3,-72.6,50023.0
+montvale,NJ,bergen,1,41.1,-74.1,34003.0
+montville,OH,geauga,1,41.6,-81.1,39055.0
+moody,TX,mclennan,30,31.2,-97.5,48309.0
+moorestown,NJ,burlington,2,40.0,-75.0,34005.0
+mooresville,NC,iredell,96,35.6,-80.8,37097.0
+moose lake,MN,carlton,6,46.5,-92.8,27017.0
+moravia,NY,cayuga,6,42.8,-76.5,36011.0
+moreno valley,CA,riverside,2,34.0,-117.3,6065.0
+morgan,TX,bosque,3,32.0,-97.6,48035.0
+morganton,NC,burke,55,35.7,-81.8,37023.0
+morris,AL,jefferson,2,33.7,-86.8,1073.0
+morris,CT,litchfield,1,41.7,-73.2,9005.0
+morris,MN,stevens,5,45.6,-95.9,27149.0
+morris,OK,okmulgee,3,35.7,-95.8,40111.0
+morrison,TN,warren,1,35.6,-86.0,47177.0
+morristown,IN,shelby,20,39.7,-85.7,18145.0
+morristown,NJ,morris,1,40.8,-74.5,34027.0
+morristown,TN,hamblen,3,36.2,-83.3,47063.0
+morrisville,NC,wake,14,35.8,-78.8,37183.0
+morrisville,PA,bucks,12,40.2,-74.9,42017.0
+moseley,VA,chesterfield,1,37.4,-77.7,51041.0
+moulton,IA,appanoose,4,40.7,-92.7,19007.0
+moultrie,GA,colquitt,3,31.2,-83.9,13071.0
+moundridge,KS,mcpherson,50,38.2,-97.5,20113.0
+mounds,OK,creek,1,35.9,-96.1,40037.0
+mount airy,NC,surry,24,36.5,-80.6,37171.0
+mount arlington,NJ,morris,2,40.9,-74.6,34027.0
+mount cory,OH,hancock,2,41.0,-83.9,39063.0
+mount crawford,VA,rockingham,42,38.3,-78.9,51165.0
+mount desert,ME,hancock,6,44.3,-68.3,23009.0
+mount dora,FL,lake,4,28.8,-81.6,12069.0
+mount holly,VT,rutland,115,43.5,-72.8,50021.0
+mount joy,PA,lancaster,66,40.1,-76.5,42071.0
+mount juliet,TN,wilson,2,36.2,-86.5,47189.0
+mount laurel,NJ,burlington,44,40.0,-74.9,34005.0
+mount olive,AL,jefferson,1,33.7,-86.9,1073.0
+mount pleasant,MI,isabella,12,43.5,-84.9,26073.0
+mount pleasant,SC,charleston,134,32.8,-79.9,45019.0
+mount pleasant,TX,titus,40,33.2,-94.9,48449.0
+mount prospect,IL,cook,4,42.1,-87.9,17031.0
+mount rainier,MD,prince georges,4,38.9,-77.0,
+mount vernon,MO,lawrence,10,37.1,-93.8,29109.0
+mount vernon,NY,westchester,57,40.9,-73.8,36119.0
+mount victory,OH,hardin,23,40.5,-83.5,39065.0
+mountain rest,SC,oconee,26,35.0,-83.0,45073.0
+mountain view,CA,santa clara,30,37.4,-122.1,6085.0
+mountainair,NM,torrance,1,34.5,-106.4,35057.0
+mullin,TX,mills,7,31.6,-98.7,48333.0
+mulvane,KS,sedgwick,3,37.5,-97.2,20173.0
+muncie,IN,delaware,1625,40.2,-85.4,18035.0
+mundelein,IL,lake,148,42.3,-88.0,17097.0
+munising,MI,alger,3,46.5,-86.7,26003.0
+munster,IN,lake,16,41.6,-87.5,18089.0
+murfreesboro,TN,rutherford,180,35.8,-86.4,47149.0
+murphysboro,IL,jackson,606,37.8,-89.3,17077.0
+muskegon,MI,muskegon,40,43.2,-86.3,26121.0
+myrtle beach,SC,horry,235,33.7,-78.9,45051.0
+mystic,CT,new london,110,41.3,-72.0,9011.0
+nada,TX,colorado,38,29.4,-96.4,48089.0
+nahant,MA,essex,1,42.4,-70.9,25009.0
+nahunta,GA,brantley,12,31.2,-82.0,13025.0
+nampa,ID,canyon,12,43.5,-116.6,16027.0
+nancy,KY,pulaski,8,37.0,-84.8,21199.0
+nanuet,NY,rockland,2,41.1,-74.0,36087.0
+naperville,IL,dupage,31,41.8,-88.2,17043.0
+naperville,IL,will,31,41.8,-88.2,17197.0
+naples,FL,collier,16,26.1,-81.8,12021.0
+narragansett,RI,washington,44,41.4,-71.5,44009.0
+nashua,NH,hillsborough,5,42.7,-71.5,33011.0
+nashville,TN,davidson,418,36.2,-86.7,47037.0
+natchez,MS,adams,10,31.4,-91.4,28001.0
+natick,MA,middlesex,959,42.3,-71.3,25017.0
+navarre,FL,santa rosa,2,30.5,-86.9,12113.0
+nebraska city,NE,otoe,24,40.7,-95.9,31131.0
+nederland,CO,boulder,1,40.0,-105.4,8013.0
+needham,MA,norfolk,2,42.3,-71.2,25021.0
+neenah,WI,winnebago,103,44.2,-88.5,55139.0
+negaunee,MI,marquette,2,46.5,-87.6,26103.0
+nekoosa,WI,wood,2,44.3,-89.9,55141.0
+nellysford,VA,nelson,2,37.9,-78.9,51125.0
+nelsonville,OH,athens,1,39.5,-82.2,39009.0
+neptune,NJ,monmouth,90,40.2,-74.1,34025.0
+nesconset,NY,suffolk,12,40.8,-73.1,36103.0
+nescopeck,PA,luzerne,1,41.1,-76.2,42079.0
+new albany,IN,floyd,47,38.3,-85.8,18043.0
+new albany,OH,franklin,10,40.1,-82.8,39049.0
+new baltimore,MI,macomb,3153,42.7,-82.8,26099.0
+new berlin,IL,sangamon,250,39.7,-89.9,17167.0
+new berlin,WI,waukesha,6,43.0,-88.1,55133.0
+new bern,NC,craven,22,35.1,-77.1,37049.0
+new bloomington,OH,marion,20,40.6,-83.3,39101.0
+new braunfels,TX,comal,259,29.7,-98.1,48091.0
+new britain,CT,hartford,6,41.7,-72.8,9003.0
+new castle,VA,craig,175,37.5,-80.1,51045.0
+new cumberland,PA,cumberland,1190,40.2,-76.9,42041.0
+new era,MI,oceana,2,43.5,-86.4,26127.0
+new harbor,ME,lincoln,6,43.8,-69.5,23015.0
+new holland,IL,logan,12,40.2,-89.6,17107.0
+new hope,AL,madison,2,34.5,-86.4,1089.0
+new hope,PA,bucks,1,40.4,-75.0,42017.0
+new ipswich,NH,hillsborough,1,42.7,-71.8,33011.0
+new johnsonville,TN,humphreys,18,36.0,-88.0,47085.0
+new kensington,PA,westmoreland,28,40.5,-79.7,42129.0
+new london,CT,new london,4,41.4,-72.1,9011.0
+new london,NC,stanly,3,35.5,-80.2,37167.0
+new london,OH,huron,3,41.1,-82.5,39077.0
+new london,WI,waupaca,4,44.4,-88.9,55135.0
+new market,TN,jefferson,1,36.1,-83.5,47089.0
+new milford,NJ,bergen,6,40.9,-74.0,34003.0
+new orleans,LA,jefferson,108,29.9,-90.1,
+new orleans,LA,orleans,432,29.9,-90.1,
+new palestine,IN,hancock,3,39.7,-85.9,18059.0
+new paltz,NY,ulster,2,41.7,-74.1,36111.0
+new port richey,FL,pasco,30,28.2,-82.7,12101.0
+new richmond,WI,st. croix,960,45.2,-92.5,55109.0
+new ringgold,PA,schuylkill,40,40.6,-76.0,42107.0
+new rochelle,NY,westchester,2,40.9,-73.8,36119.0
+new smyrna beach,FL,volusia,4,29.0,-80.9,12127.0
+new ulm,TX,austin,10,29.9,-96.4,48015.0
+new waverly,TX,walker,1,30.6,-95.5,48471.0
+new york,NY,new york,7502,40.8,-74.0,36061.0
+newark,DE,new castle,20,39.6,-75.7,10003.0
+newark,NY,wayne,10,43.0,-77.1,36117.0
+newark,OH,licking,8,40.1,-82.4,39089.0
+newberry,SC,newberry,1,34.3,-81.6,45071.0
+newburgh,IN,warrick,984,37.9,-87.4,18173.0
+newburgh,NY,orange,20,41.5,-74.1,36071.0
+newbury,MA,essex,3,42.8,-70.8,25009.0
+newbury park,CA,ventura,3,34.2,-118.9,6111.0
+newcastle,OK,mcclain,5,35.2,-97.6,40087.0
+newcomb,NY,essex,4,44.0,-74.0,36031.0
+newington,CT,hartford,4,41.7,-72.8,9003.0
+newnan,GA,coweta,9,33.3,-84.7,13077.0
+newport,KY,campbell,36,39.1,-84.5,21037.0
+newport,NC,carteret,2,34.7,-76.8,37031.0
+newport,RI,newport,2,41.5,-71.3,44005.0
+newport news,VA,newport news city,280,37.0,-76.4,51700.0
+newton,KS,harvey,46,38.0,-97.3,20079.0
+newton,NH,rockingham,16,42.9,-71.0,33015.0
+newton,NJ,sussex,120,41.1,-74.9,34037.0
+newtown square,PA,delaware,8,40.0,-75.4,42045.0
+niantic,CT,new london,46,41.3,-72.2,9011.0
+niceville,FL,okaloosa,22,30.5,-86.5,12091.0
+nicholasville,KY,jessamine,3,37.9,-84.6,21113.0
+niles,MI,berrien,3,41.8,-86.3,26021.0
+niobrara,NE,knox,2,42.8,-97.7,31107.0
+nipomo,CA,san luis obispo,1,35.0,-120.5,6079.0
+nixa,MO,christian,2,37.1,-93.3,29043.0
+nixon,NV,washoe,5,39.9,-119.4,32031.0
+noblesville,IN,hamilton,24,40.0,-86.1,18057.0
+norcross,GA,gwinnett,10,33.9,-84.2,13135.0
+norfolk,VA,norfolk city,12,36.9,-76.3,51710.0
+normal,IL,mclean,12,40.5,-89.0,17113.0
+norman,OK,cleveland,38,35.3,-97.4,40027.0
+norristown,PA,montgomery,8,40.1,-75.4,42091.0
+north adams,MA,berkshire,200,42.7,-73.1,25003.0
+north bend,OH,hamilton,2,39.2,-84.8,39061.0
+north branford,CT,new haven,10,41.3,-72.8,9009.0
+north brookfield,MA,worcester,4,42.3,-72.1,25027.0
+north conway,NH,carroll,5,44.1,-71.2,33003.0
+north east,MD,cecil,2,39.6,-76.0,24015.0
+north ferrisburgh,VT,addison,9,44.2,-73.3,50001.0
+north fort myers,FL,lee,64,26.7,-81.9,12071.0
+north grafton,MA,worcester,36,42.2,-71.7,25027.0
+north hampton,NH,rockingham,3,43.0,-70.8,33015.0
+north hero,VT,grand isle,384,44.8,-73.3,50013.0
+north hudson,NY,essex,3,44.0,-73.9,36031.0
+north java,NY,wyoming,100,42.7,-78.3,36121.0
+north liberty,IN,st. joseph,15,41.5,-86.3,18141.0
+north newton,KS,harvey,16,38.1,-97.4,20079.0
+north richland hills,TX,tarrant,189,32.9,-97.2,48439.0
+north smithfield,RI,providence,4,42.0,-71.5,44007.0
+north stonington,CT,new london,40,41.4,-71.9,9011.0
+north truro,MA,barnstable,38,42.0,-70.1,25001.0
+north yarmouth,ME,cumberland,132,43.8,-70.2,23005.0
+northampton,MA,hampshire,6,42.3,-72.6,25015.0
+northeast harbor,ME,hancock,2,44.3,-68.3,23009.0
+northfield,MN,rice,78,44.4,-93.2,27131.0
+northfield,OH,summit,288,41.3,-81.6,39153.0
+northford,CT,new haven,40,41.4,-72.8,9009.0
+northport,NY,suffolk,294,40.9,-73.3,36103.0
+northville,MI,wayne,21,42.4,-83.5,26163.0
+norway,ME,oxford,9,44.2,-70.5,23017.0
+norwich,NY,chenango,300,42.6,-75.6,36017.0
+norwich,VT,windsor,17,43.7,-72.3,50027.0
+norwood,NC,stanly,40,35.3,-80.1,37167.0
+nottingham,MD,baltimore,6,39.4,-76.5,24005.0
+novato,CA,marin,18,38.1,-122.5,6041.0
+novi,MI,oakland,2,42.5,-83.5,26125.0
+nowata,OK,nowata,6,36.7,-95.6,40105.0
+nutley,NJ,essex,4,40.8,-74.2,34013.0
+nyack,NY,rockland,7,41.1,-73.9,36087.0
+o fallon,MO,st. charles,88,38.8,-90.7,29183.0
+oak creek,WI,milwaukee,175,42.9,-87.9,55079.0
+oak forest,IL,cook,100,41.6,-87.7,17031.0
+oak harbor,OH,ottawa,49,41.6,-83.2,39123.0
+oak island,NC,brunswick,24,33.9,-78.1,37019.0
+oak lawn,IL,cook,3,41.7,-87.8,17031.0
+oak park,IL,cook,8,41.9,-87.8,17031.0
+oakham,MA,worcester,1,42.4,-72.0,25027.0
+oakland,CA,alameda,9,37.8,-122.2,6001.0
+oakland,IA,pottawattamie,61,41.3,-95.4,19155.0
+oakland,NE,burt,1,41.8,-96.5,31021.0
+oakland,NJ,bergen,10,41.0,-74.2,34003.0
+ocala,FL,marion,24,29.2,-82.1,12083.0
+occidental,CA,sonoma,2,38.3,-123.0,6097.0
+ocean beach,NY,suffolk,30,40.6,-73.2,36103.0
+ocean city,MD,worcester,621,38.4,-75.1,24047.0
+ocean city,NJ,cape may,22,39.3,-74.6,34009.0
+ocean grove,NJ,monmouth,1,40.2,-74.0,34025.0
+ocean springs,MS,jackson,30,30.4,-88.8,28059.0
+oceanside,CA,san diego,9,33.2,-117.3,6073.0
+ocoee,FL,orange,6,28.6,-81.5,12095.0
+oconomowoc,WI,waukesha,10,43.1,-88.5,55133.0
+ocracoke,NC,hyde,2,35.1,-76.0,37095.0
+odessa,TX,ector,1,31.9,-102.3,48135.0
+ogden,UT,weber,29,41.2,-112.1,49057.0
+ohkay owingeh,NM,rio arriba,80,36.1,-106.0,35039.0
+okarche,OK,kingfisher,2,35.6,-98.0,40073.0
+okatie,SC,beaufort,45,32.3,-81.0,45013.0
+okemos,MI,ingham,29,42.7,-84.4,26065.0
+oklahoma city,OK,cleveland,915,35.5,-97.5,40027.0
+oklahoma city,OK,oklahoma,5185,35.5,-97.5,40109.0
+olathe,KS,johnson,72,38.9,-94.8,20091.0
+old saybrook,CT,middlesex,6,41.3,-72.4,9007.0
+oldsmar,FL,pinellas,3,28.1,-82.7,12103.0
+olmsted falls,OH,cuyahoga,12,41.4,-81.9,39035.0
+olney,MD,montgomery,1,39.2,-77.1,24031.0
+omaha,AR,boone,3,36.5,-93.2,5009.0
+omaha,NE,douglas,684,41.2,-96.1,31055.0
+omaha,NE,sarpy,144,41.2,-96.1,31153.0
+omro,WI,winnebago,2,44.0,-88.7,55139.0
+oneida,WI,brown,14,44.6,-88.2,55009.0
+oneonta,NY,otsego,30,42.4,-75.0,36077.0
+ontario,NY,wayne,6,43.3,-77.3,36117.0
+ontario,WI,vernon,1,43.7,-90.6,55123.0
+ooltewah,TN,hamilton,70,35.1,-85.1,47065.0
+opelika,AL,lee,1,32.7,-85.4,1081.0
+orange beach,AL,baldwin,65,30.3,-87.6,1003.0
+orange city,IA,sioux,2,43.0,-96.1,19167.0
+orange park,FL,clay,6,30.1,-81.9,12019.0
+oriental,NC,pamlico,2,35.1,-76.6,37137.0
+orlando,FL,brevard,42,28.5,-81.3,12009.0
+orlando,FL,orange,322,28.5,-81.3,12095.0
+orleans,MA,barnstable,1,41.8,-70.0,25001.0
+orleans,VT,orleans,40,44.9,-72.2,50019.0
+ormond beach,FL,volusia,1,29.3,-81.1,12127.0
+oronoco,MN,olmsted,30,44.2,-92.5,27109.0
+orr,MN,st. louis,20,48.0,-92.8,27137.0
+orrstown,PA,franklin,3,40.1,-77.7,42055.0
+orrville,OH,wayne,6,40.8,-81.8,39169.0
+osceola,WI,polk,27,45.3,-92.7,55095.0
+oshkosh,WI,winnebago,22,44.0,-88.6,55139.0
+osseo,MN,hennepin,68,45.1,-93.4,27053.0
+ostrander,OH,delaware,1,40.3,-83.2,39041.0
+ottawa,OH,putnam,40,41.0,-84.0,39137.0
+ottawa lake,MI,monroe,37,41.8,-83.7,26115.0
+otto,NC,macon,2,35.0,-83.4,37113.0
+ottsville,PA,bucks,9,40.4,-75.2,42017.0
+ottumwa,IA,wapello,32,41.0,-92.4,19179.0
+outing,MN,cass,25,46.8,-93.9,27021.0
+overland park,KS,johnson,1812,39.0,-94.7,20091.0
+owasso,OK,tulsa,8,36.3,-95.9,40143.0
+owens cross roads,AL,madison,30,34.6,-86.5,1089.0
+owensboro,KY,daviess,4,37.8,-87.1,21059.0
+owings,MD,calvert,4,38.7,-76.6,24009.0
+owls head,ME,knox,2,44.1,-69.1,23013.0
+oxford,ME,oxford,8,44.1,-70.5,23017.0
+oxford,MI,oakland,1,42.8,-83.3,26125.0
+oxford,MS,lafayette,15,34.4,-89.5,28071.0
+oxford,OH,butler,72,39.5,-84.8,39017.0
+oxnard,CA,ventura,1,34.2,-119.2,6111.0
+oxon hill,MD,prince georges,4,38.8,-77.0,
+ozark,AR,franklin,19,35.4,-93.8,5047.0
+ozark,MO,christian,12,37.1,-93.2,29043.0
+ozona,TX,crockett,50,30.7,-101.2,48105.0
+pacific,MO,franklin,105,38.4,-90.7,29071.0
+pacific grove,CA,monterey,2,36.6,-121.9,6053.0
+pacific junction,IA,mills,30,41.0,-95.8,19129.0
+pacific palisades,CA,los angeles,6,34.0,-118.5,6037.0
+paducah,KY,mccracken,180,37.1,-88.7,21145.0
+page,ND,cass,200,47.2,-97.6,38017.0
+painesville,OH,lake,100,41.7,-81.2,39085.0
+palacios,TX,matagorda,34,28.8,-96.4,48321.0
+palatine,IL,cook,42,42.1,-88.0,17031.0
+palisades park,NJ,bergen,4,40.8,-74.0,34003.0
+palm harbor,FL,pinellas,1,28.1,-82.8,12103.0
+palos hills,IL,cook,1,41.7,-87.8,17031.0
+palos verdes peninsula,CA,los angeles,14,33.8,-118.3,6037.0
+panama city,FL,bay,102,30.2,-85.8,12005.0
+paola,KS,miami,2,38.7,-94.9,20121.0
+papillion,NE,sarpy,6,41.1,-96.1,31153.0
+parachute,CO,garfield,5,39.4,-108.0,8045.0
+paris,AR,logan,1,35.3,-93.7,5083.0
+paris,TN,henry,3,36.3,-88.3,47079.0
+park ridge,IL,cook,12,42.0,-87.8,17031.0
+parker,AZ,la paz,8,34.2,-114.3,4012.0
+parker,CO,douglas,4,39.5,-104.7,8035.0
+parker city,IN,randolph,63,40.2,-85.2,18135.0
+pasadena,CA,los angeles,52,34.2,-118.2,6037.0
+pasadena,MD,anne arundel,8,39.2,-76.5,24003.0
+pasadena,TX,harris,10,29.7,-95.2,48201.0
+pascagoula,MS,jackson,55,30.4,-88.6,28059.0
+pass christian,MS,harrison,100,30.3,-89.2,28047.0
+pataskala,OH,licking,20,40.0,-82.6,39089.0
+patchogue,NY,suffolk,91,40.8,-73.0,36103.0
+pauma valley,CA,san diego,6,33.3,-117.0,6073.0
+paw paw,MI,van buren,9,42.2,-86.0,26159.0
+pawcatuck,CT,new london,42,41.4,-71.9,9011.0
+pawhuska,OK,osage,60,36.8,-96.4,40113.0
+pawling,NY,dutchess,2,41.5,-73.6,36027.0
+pawtucket,RI,providence,6,41.9,-71.4,44007.0
+peabody,KS,marion,500,38.1,-97.1,20115.0
+peachtree city,GA,fayette,4,33.4,-84.6,13113.0
+pecos,TX,reeves,30,31.2,-103.2,48389.0
+peebles,OH,adams,10,39.0,-83.4,39001.0
+pekin,IL,tazewell,150,40.6,-89.6,17179.0
+pelham,NH,hillsborough,3,42.7,-71.3,33011.0
+pemberton,NJ,burlington,1,40.0,-74.7,34005.0
+pemberton,OH,shelby,4,40.3,-84.0,39149.0
+pembine,WI,marinette,4,45.6,-88.0,55075.0
+pena blanca,NM,sandoval,8,35.6,-106.3,35043.0
+pendergrass,GA,jackson,1,34.2,-83.7,13157.0
+pendleton,IN,madison,26,40.0,-85.7,18095.0
+pennington,NJ,mercer,1,40.3,-74.8,34021.0
+pensacola,FL,escambia,252,30.3,-87.4,12033.0
+peoria,AZ,maricopa,1,33.7,-112.3,4013.0
+peoria,IL,peoria,308,40.7,-89.6,17143.0
+pequot lakes,MN,crow wing,6,46.6,-94.3,27035.0
+percival,IA,fremont,1,40.7,-95.8,19071.0
+perkasie,PA,bucks,9,40.4,-75.3,42017.0
+perry,KS,jefferson,125,39.1,-95.4,20087.0
+perry,ME,washington,6,45.0,-67.0,23029.0
+perry,MI,shiawassee,3,42.8,-84.2,26155.0
+perry,OH,lake,150,41.8,-81.1,39085.0
+perry,OK,noble,1,36.3,-97.3,40103.0
+perryopolis,PA,fayette,3,40.1,-79.8,42051.0
+peshtigo,WI,marinette,2,45.1,-87.8,55075.0
+petaluma,CA,sonoma,30,38.2,-122.6,6097.0
+peterborough,NH,hillsborough,14,42.9,-72.0,33011.0
+petersburg,IL,menard,24,40.0,-89.9,17129.0
+pevely,MO,jefferson,2,38.3,-90.4,29099.0
+pflugerville,TX,travis,1,30.4,-97.6,48453.0
+phelps,NY,ontario,2,43.0,-77.1,36069.0
+phenix city,AL,lee,4,32.5,-85.0,1081.0
+phenix city,AL,russell,4,32.5,-85.0,1113.0
+philadelphia,PA,delaware,66,40.0,-75.2,42045.0
+philadelphia,PA,philadelphia,1056,40.0,-75.2,42101.0
+phillips,WI,price,6,45.7,-90.4,55099.0
+phippsburg,ME,sagadahoc,4,43.7,-69.8,23023.0
+phoenix,AZ,maricopa,35,33.5,-112.1,4013.0
+phoenix,NY,oswego,3,43.2,-76.3,36075.0
+phoenixville,PA,chester,3,40.1,-75.5,42029.0
+picayune,MS,pearl river,28,30.5,-89.7,28109.0
+pickens,SC,pickens,18,34.9,-82.8,45077.0
+piedmont,OK,canadian,2,35.6,-97.8,40017.0
+piedmont,SC,greenville,42,34.7,-82.5,45045.0
+pikesville,MD,baltimore,4,39.4,-76.7,24005.0
+pinckney,MI,livingston,9,42.4,-84.1,26093.0
+pinconning,MI,bay,2,43.9,-84.0,26017.0
+pine city,MN,pine,12,45.8,-93.0,27115.0
+pine grove,PA,schuylkill,12,40.5,-76.4,42107.0
+pine island,MN,goodhue,1,44.2,-92.6,27049.0
+pine mountain,GA,harris,1,32.9,-84.9,13145.0
+pinnacle,NC,stokes,548,36.3,-80.5,37169.0
+pipe creek,TX,bandera,69,29.7,-98.8,48019.0
+pipestone,MN,pipestone,9,44.0,-96.3,27117.0
+piqua,OH,miami,8,40.1,-84.2,39109.0
+pitkin,LA,vernon,8,30.9,-92.9,
+pittsboro,NC,chatham,9,35.7,-79.2,37037.0
+pittsburg,IL,williamson,54,37.8,-88.8,17199.0
+pittsburg,KS,crawford,3,37.4,-94.7,20037.0
+pittsburgh,PA,allegheny,850,40.3,-80.0,42003.0
+pittsford,NY,monroe,25,43.1,-77.5,36055.0
+pittston,PA,luzerne,15,41.3,-75.8,42079.0
+plainfield,IL,will,4,41.6,-88.2,17197.0
+plainfield,IN,hendricks,6,39.7,-86.4,18063.0
+plainfield,MA,hampshire,1,42.5,-72.9,25015.0
+plains,GA,sumter,7,32.1,-84.4,13261.0
+plainview,NY,nassau,2,40.8,-73.5,36059.0
+plainview,TX,hale,27,34.2,-101.7,48189.0
+plaistow,NH,rockingham,1,42.8,-71.1,33015.0
+plano,IL,kendall,2,41.7,-88.5,17093.0
+plano,TX,collin,408,33.0,-96.8,48085.0
+platteville,CO,weld,2,40.2,-104.8,8123.0
+plattsburgh,NY,clinton,6,44.8,-73.4,36019.0
+plattsmouth,NE,cass,20,41.0,-95.9,31025.0
+pleasant hill,IA,polk,120,41.6,-93.5,19153.0
+pleasant hill,MO,cass,7,38.8,-94.3,29037.0
+pleasant lake,MI,jackson,2,42.4,-84.4,26075.0
+pleasant prairie,WI,kenosha,3,42.6,-87.9,55059.0
+plymouth,IN,marshall,2,41.3,-86.3,18099.0
+plymouth,MA,plymouth,52,41.8,-70.6,25023.0
+plymouth,MI,wayne,2,42.4,-83.5,26163.0
+plympton,MA,plymouth,1,42.0,-70.8,25023.0
+pointe aux pins,MI,mackinac,60,45.8,-84.4,26097.0
+pollok,TX,angelina,6,31.4,-94.8,48005.0
+pomona,CA,los angeles,12,34.1,-117.8,6037.0
+pompton lakes,NJ,passaic,2,41.0,-74.3,34031.0
+ponca,AR,newton,60,36.0,-93.4,5101.0
+ponca city,OK,kay,6,36.7,-97.1,40071.0
+ponder,TX,denton,7,33.2,-97.3,48121.0
+pooler,GA,chatham,6,32.1,-81.2,13051.0
+poplar bluff,MO,butler,42,36.8,-90.4,29023.0
+port aransas,TX,nueces,2,27.8,-97.1,48355.0
+port austin,MI,huron,45,44.0,-83.1,26063.0
+port charlotte,FL,charlotte,3,27.0,-82.2,12015.0
+port clinton,OH,ottawa,172,41.5,-82.9,39123.0
+port hope,MI,huron,1,44.0,-82.7,26063.0
+port huron,MI,st. clair,28,43.0,-82.5,26147.0
+port o connor,TX,calhoun,32,28.5,-96.4,48057.0
+port orange,FL,volusia,21,29.1,-81.0,12127.0
+port washington,NY,nassau,28,40.9,-73.7,36059.0
+port washington,WI,ozaukee,800,43.5,-87.8,55089.0
+portage,IN,porter,14,41.6,-87.2,18127.0
+portage,WI,columbia,29,43.6,-89.6,55021.0
+portland,CT,middlesex,1,41.6,-72.6,9007.0
+portland,ME,cumberland,77,43.7,-70.2,23005.0
+portland,OR,clackamas,6,45.6,-122.7,41005.0
+portland,OR,multnomah,8,45.6,-122.7,41051.0
+portland,OR,washington,8,45.6,-122.7,41067.0
+portland,TX,san patricio,2,27.9,-97.3,48409.0
+portsmouth,NH,rockingham,24,43.1,-70.8,33015.0
+potomac,MD,montgomery,30,39.0,-77.2,24031.0
+potosi,WI,grant,1,42.6,-90.6,55043.0
+potsdam,NY,st. lawrence,9,44.6,-74.8,36089.0
+pottersville,NY,warren,3,43.7,-73.8,36113.0
+pownal,VT,bennington,15,42.8,-73.2,50003.0
+poynette,WI,columbia,11,43.4,-89.4,55021.0
+prairie du sac,WI,sauk,8,43.3,-89.8,55111.0
+prairie grove,AR,washington,100,35.9,-94.3,5143.0
+prairieville,LA,ascension,3,30.3,-91.0,
+prattsville,NY,greene,34,42.3,-74.4,36039.0
+prescott,AZ,yavapai,12,34.6,-112.4,4025.0
+prescott valley,AZ,yavapai,6,34.6,-112.3,4025.0
+preston,CT,new london,20,41.5,-72.0,9011.0
+prestonsburg,KY,floyd,30,37.7,-82.8,21071.0
+primm springs,TN,williamson,2,35.9,-87.2,47187.0
+princeton,WV,mercer,42,37.3,-81.1,54055.0
+proctorsville,VT,windsor,50,43.5,-72.6,50027.0
+prophetstown,IL,whiteside,18,41.7,-89.9,17195.0
+prospect,OH,marion,1,40.5,-83.2,39101.0
+providence,RI,providence,190,41.8,-71.4,44007.0
+provincetown,MA,barnstable,2,42.0,-70.2,25001.0
+pulaski,WI,brown,4,44.7,-88.2,55009.0
+punta gorda,FL,charlotte,6,26.9,-82.0,12015.0
+puposky,MN,beltrami,7,47.8,-95.0,27007.0
+purcellville,VA,loudoun,6,39.1,-77.7,51107.0
+putnam valley,NY,putnam,5,41.4,-73.8,36079.0
+putney,VT,windham,5,43.0,-72.5,50025.0
+quakertown,PA,bucks,4,40.4,-75.3,42017.0
+quapaw,OK,ottawa,20,37.0,-94.7,40115.0
+queen anne,MD,queen annes,1,39.0,-75.9,
+quincy,MA,norfolk,24,42.3,-71.0,25021.0
+quincy,OH,logan,29,40.3,-84.0,39091.0
+quinton,VA,new kent,3,37.5,-77.2,51127.0
+racine,WI,racine,20,42.7,-87.8,55101.0
+raeford,NC,hoke,5,35.0,-79.1,37093.0
+rainelle,WV,greenbrier,12,38.0,-80.8,54025.0
+raleigh,NC,wake,552,35.8,-78.6,37183.0
+rancho cordova,CA,sacramento,20,38.6,-121.2,6067.0
+rancho santa fe,CA,san diego,2,33.0,-117.2,6073.0
+randolph,NJ,morris,2,40.8,-74.6,34027.0
+randolph center,VT,orange,28,43.9,-72.5,50017.0
+rangely,CO,rio blanco,1,39.7,-108.7,8103.0
+ransomville,NY,niagara,1,43.2,-78.9,36063.0
+rapid city,SD,pennington,7,44.1,-103.2,46103.0
+rapid river,MI,delta,8,45.7,-86.9,26041.0
+raquette lake,NY,hamilton,2,43.8,-74.7,36041.0
+ray brook,NY,essex,1,44.3,-74.1,36031.0
+raymond,NH,rockingham,3,43.0,-71.2,33015.0
+raymondville,TX,willacy,100,26.5,-97.5,48489.0
+reading,MA,middlesex,1,42.5,-71.1,25017.0
+reading,PA,berks,160,40.3,-75.9,42011.0
+red bud,IL,randolph,4,38.1,-90.0,17157.0
+red wing,MN,goodhue,1,44.6,-92.6,27049.0
+redlands,CA,san bernardino,6,34.1,-117.2,6071.0
+rehoboth beach,DE,sussex,48,38.7,-75.1,10005.0
+reisterstown,MD,baltimore,2,39.5,-76.8,24005.0
+reno,NV,washoe,102,39.5,-119.8,32031.0
+renovo,PA,clinton,341,41.3,-77.7,42035.0
+rensselaer,NY,rensselaer,2,42.7,-73.7,36083.0
+renville,MN,renville,3,44.8,-95.3,27129.0
+resaca,GA,gordon,86,34.6,-84.9,13129.0
+reston,VA,fairfax,68,38.9,-77.3,51059.0
+rhodes,IA,marshall,276,41.9,-93.2,19127.0
+ribera,NM,san miguel,90,35.3,-105.6,35047.0
+rice,TX,navarro,7,32.2,-96.5,48349.0
+rice lake,WI,barron,4,45.6,-91.8,55005.0
+richardson,TX,dallas,170,33.0,-96.7,48113.0
+richland,NY,oswego,1,43.6,-76.1,36075.0
+richland,WA,benton,3,46.3,-119.3,53005.0
+richmond,CA,contra costa,90,37.9,-122.3,6013.0
+richmond,IL,mchenry,6,42.5,-88.3,17111.0
+richmond,IN,wayne,12,39.8,-84.9,18177.0
+richmond,MI,macomb,2,42.8,-82.8,26099.0
+richmond,TX,fort bend,42,29.6,-95.7,48157.0
+richmond,VA,chesterfield,119,37.5,-77.5,51041.0
+richmond,VA,henrico,119,37.5,-77.5,51087.0
+richmond,VA,richmond city,527,37.5,-77.5,51760.0
+ridgefield,CT,fairfield,12,41.3,-73.5,9001.0
+ridgefield park,NJ,bergen,70,40.9,-74.0,34003.0
+ridgely,MD,caroline,1,39.0,-75.9,24011.0
+ridgeway,OH,hardin,64,40.5,-83.6,39065.0
+ridgewood,NJ,bergen,28,41.0,-74.1,34003.0
+rincon,GA,effingham,1,32.3,-81.2,13103.0
+rindge,NH,cheshire,1,42.7,-72.0,33005.0
+rineyville,KY,hardin,1,37.7,-86.1,21093.0
+ringwood,IL,mchenry,15,42.4,-88.3,17111.0
+ringwood,NJ,passaic,5,41.1,-74.3,34031.0
+rio oso,CA,sutter,3,39.0,-121.5,6101.0
+rio rancho,NM,sandoval,4,35.2,-106.7,35043.0
+rising sun,IN,ohio,1,39.0,-84.8,18115.0
+riverdale,MI,gratiot,2,43.3,-84.8,26057.0
+riverside,CA,riverside,33,33.9,-117.4,6065.0
+riverside,IA,washington,1,41.4,-91.5,19183.0
+riverside,IL,cook,3,41.8,-87.8,17031.0
+riverside,NJ,burlington,30,40.0,-75.0,34005.0
+riverton,WV,pendleton,1,38.7,-79.5,54071.0
+roach,MO,camden,1,38.1,-92.9,29029.0
+roanoke,VA,botetourt,140,37.3,-79.9,51023.0
+roanoke,VA,roanoke,420,37.3,-79.9,51161.0
+roanoke,VA,roanoke city,630,37.3,-79.9,51770.0
+roanoke,VA,salem,140,37.3,-79.9,
+robards,KY,henderson,12,37.7,-87.5,21101.0
+robbinsville,NC,graham,16,35.4,-83.9,37075.0
+robstown,TX,nueces,21,27.9,-97.7,48355.0
+rochester,IL,sangamon,5,39.7,-89.5,17167.0
+rochester,MA,plymouth,1,41.7,-70.8,25023.0
+rochester,MI,oakland,644,42.6,-83.2,26125.0
+rochester,MN,olmsted,42,44.0,-92.5,27109.0
+rochester,NY,monroe,966,43.2,-77.6,36055.0
+rock hill,SC,york,27,34.9,-81.0,45091.0
+rock tavern,NY,orange,6,41.5,-74.2,36071.0
+rockbridge,OH,hocking,16,39.6,-82.5,39073.0
+rockbridge baths,VA,rockbridge,57,37.9,-79.4,51163.0
+rockfield,KY,warren,5,36.9,-86.6,21227.0
+rockford,IL,winnebago,10,42.3,-89.1,17201.0
+rockford,MI,kent,2,43.1,-85.5,26081.0
+rockford,MN,hennepin,2,45.1,-93.7,27053.0
+rockford,MN,wright,3,45.1,-93.7,27171.0
+rockport,TX,aransas,12,28.1,-97.0,48007.0
+rocksprings,TX,edwards,1,29.7,-100.4,48137.0
+rockton,IL,winnebago,2,42.5,-89.1,17201.0
+rockville,MD,montgomery,116,39.1,-77.1,24031.0
+rockville centre,NY,nassau,12,40.7,-73.6,36059.0
+rockwall,TX,rockwall,226,32.9,-96.4,48397.0
+rockwood,TN,roane,45,35.9,-84.7,47145.0
+rocky mount,NC,edgecombe,12,35.9,-77.8,37065.0
+rocky mount,NC,nash,12,35.9,-77.8,37127.0
+rocky point,NY,suffolk,1,40.9,-72.9,36103.0
+rogers,AR,benton,2,36.3,-94.2,5007.0
+rogers,MN,hennepin,40,45.2,-93.6,27053.0
+rohnert park,CA,sonoma,3,38.4,-122.7,6097.0
+roland,AR,pulaski,8,34.8,-92.5,5119.0
+rolesville,NC,wake,1,35.9,-78.5,37183.0
+rolling meadows,IL,cook,22,42.1,-88.0,17031.0
+rome,GA,floyd,5,34.2,-85.2,13115.0
+rome,NY,oneida,15,43.2,-75.5,36065.0
+romeo,MI,macomb,16,42.8,-83.0,26099.0
+rootstown,OH,portage,2,41.1,-81.2,39133.0
+rose city,MI,ogemaw,2,44.4,-84.1,26129.0
+roseland,NJ,essex,11,40.8,-74.3,34013.0
+roseland,VA,nelson,6,37.9,-78.9,51125.0
+roselle,IL,dupage,28,42.0,-88.1,17043.0
+rosemary beach,FL,walton,10,30.3,-86.0,12131.0
+rosemead,CA,los angeles,4,34.1,-118.1,6037.0
+roseville,CA,placer,1,38.7,-121.3,6061.0
+roslyn,NY,nassau,5,40.8,-73.7,36059.0
+roswell,GA,fulton,2,34.1,-84.4,13121.0
+roswell,NM,chaves,105,33.3,-104.5,35005.0
+rothbury,MI,oceana,1,43.5,-86.3,26127.0
+round hill,VA,loudoun,6,39.1,-77.8,51107.0
+round lake,IL,lake,18,42.4,-88.1,17097.0
+round mountain,TX,blanco,24,30.3,-98.2,48031.0
+round pond,ME,lincoln,2,43.9,-69.5,23015.0
+round rock,TX,williamson,88,30.5,-97.7,48491.0
+round top,TX,fayette,6,30.1,-96.8,48149.0
+rowlett,TX,dallas,3,32.9,-96.6,48113.0
+roxbury,NY,delaware,6,42.3,-74.6,36025.0
+roxbury,VT,addison,42,44.1,-72.7,50001.0
+royal oak,MI,oakland,23,42.5,-83.1,26125.0
+royersford,PA,montgomery,21,40.2,-75.5,42091.0
+royse city,TX,rockwall,1,32.8,-96.3,48397.0
+rule,TX,haskell,159,33.2,-99.9,48207.0
+rumson,NJ,monmouth,3,40.4,-74.0,34025.0
+rushsylvania,OH,logan,32,40.5,-83.7,39091.0
+rushville,IN,rush,3,39.6,-85.4,18139.0
+russellville,KY,logan,12,36.8,-86.9,21141.0
+russia,OH,shelby,16,40.2,-84.4,39149.0
+ruther glen,VA,caroline,2,38.0,-77.6,51033.0
+rutherford,NJ,bergen,1,40.8,-74.1,34003.0
+rutherfordton,NC,rutherford,18,35.4,-82.0,37161.0
+ruthven,IA,palo alto,40,43.1,-95.0,19147.0
+rutland,VT,rutland,180,43.6,-73.0,50021.0
+sachse,TX,dallas,4,33.0,-96.6,48113.0
+saco,ME,york,5,43.5,-70.5,23031.0
+sacramento,CA,sacramento,27,38.6,-121.5,6067.0
+saginaw,MI,saginaw,12,43.5,-84.0,26145.0
+saginaw,MO,newton,1,37.0,-94.5,29145.0
+saint albans,ME,somerset,1,45.0,-69.4,23025.0
+saint augustine,FL,st. johns,42,29.8,-81.3,12109.0
+saint charles,IL,kane,10,42.0,-88.4,17089.0
+saint charles,MI,saginaw,10,43.3,-84.1,26145.0
+saint charles,MO,st. charles,144,38.8,-90.5,29183.0
+saint clair,MI,st. clair,40,42.9,-82.5,26147.0
+saint clair shores,MI,macomb,306,42.5,-82.9,26099.0
+saint croix falls,WI,polk,5,45.4,-92.6,55095.0
+saint george,KS,pottawatomie,2,39.2,-96.4,20149.0
+saint helena island,SC,beaufort,6,32.4,-80.5,45013.0
+saint henry,OH,mercer,2,40.4,-84.6,39107.0
+saint ignace,MI,mackinac,5,46.0,-84.7,26097.0
+saint james,MN,watonwan,6,44.0,-94.6,27165.0
+saint james,NY,suffolk,21,40.9,-73.2,36103.0
+saint john,IN,lake,87,41.5,-87.5,18089.0
+saint johns,MI,clinton,4,43.0,-84.6,26037.0
+saint joseph,IL,champaign,14,40.1,-88.0,17019.0
+saint joseph,LA,tensas,6,31.9,-91.2,
+saint joseph,MI,berrien,635,42.1,-86.5,26021.0
+saint joseph,MO,buchanan,159,39.8,-94.8,29021.0
+saint louis,MO,st. louis,20444,38.6,-90.2,29189.0
+saint louis,MO,st. louis city,3497,38.6,-90.2,29510.0
+saint marys,KS,pottawatomie,4,39.2,-96.1,20149.0
+saint marys,PA,elk,4,41.5,-78.6,42047.0
+saint paul,MN,dakota,6369,44.8,-93.2,27037.0
+saint paul,MN,hennepin,1737,44.8,-93.2,27053.0
+saint paul,MN,ramsey,24897,44.8,-93.2,27123.0
+saint paul,MN,washington,6369,44.8,-93.2,27163.0
+saint peters,MO,st. charles,124,38.8,-90.6,29183.0
+saint petersburg,FL,pinellas,858,27.8,-82.8,12103.0
+saint rose,LA,st. charles,4,29.9,-90.3,
+saint simons island,GA,glynn,15,31.2,-81.4,13127.0
+salado,TX,bell,32,30.9,-97.5,48027.0
+salamanca,NY,cattaraugus,1,42.1,-78.8,36009.0
+salem,MA,essex,1,42.5,-70.9,25009.0
+salem,OR,marion,21,44.9,-123.0,41047.0
+salem,OR,polk,3,44.9,-123.0,41053.0
+salem,SC,oconee,1,34.8,-82.9,45073.0
+salina,KS,saline,8,38.8,-97.6,20169.0
+salinas,CA,monterey,5,36.8,-121.7,6053.0
+salisbury mills,NY,orange,20,41.4,-74.1,36071.0
+salt lake city,UT,salt lake,80,40.8,-111.8,49035.0
+salt rock,WV,cabell,10,38.3,-82.2,54011.0
+salvisa,KY,mercer,8,37.9,-84.8,21167.0
+san angelo,TX,tom green,273,31.6,-100.6,48451.0
+san antonio,TX,bexar,9632,29.4,-98.5,48029.0
+san antonio,TX,comal,903,29.4,-98.5,48091.0
+san clemente,CA,orange,7,33.4,-117.6,6059.0
+san diego,CA,san diego,800,32.8,-117.2,6073.0
+san francisco,CA,san francisco,180,37.8,-122.5,6075.0
+san francisco,CA,san mateo,36,37.8,-122.5,6081.0
+san jose,CA,santa clara,6,37.3,-121.9,6085.0
+san luis obispo,CA,san luis obispo,7,35.3,-120.7,6079.0
+san marcos,CA,san diego,3,33.1,-117.2,6073.0
+san marcos,TX,hays,10,29.9,-97.9,48209.0
+san pedro,CA,los angeles,4,33.7,-118.3,6037.0
+san rafael,CA,marin,24,38.0,-122.5,6041.0
+san ysidro,CA,san diego,2,32.6,-117.1,6073.0
+sanbornton,NH,belknap,1,43.5,-71.6,33001.0
+sand lake,NY,rensselaer,2,42.6,-73.5,36083.0
+sand springs,OK,tulsa,114,36.1,-96.3,40143.0
+sandia,TX,jim wells,6,28.0,-97.9,48249.0
+sandstone,MN,pine,5,46.1,-93.1,27115.0
+sandusky,MI,sanilac,3,43.4,-82.9,26151.0
+sandusky,OH,erie,12,41.5,-82.8,39043.0
+sanford,FL,seminole,20,28.8,-81.3,12117.0
+sanford,MI,midland,4,43.7,-84.4,26111.0
+sanger,TX,denton,2,33.4,-97.2,48121.0
+sanibel,FL,lee,1,26.4,-82.1,12071.0
+santa ana,CA,orange,9,33.8,-117.8,6059.0
+santa clara,CA,santa clara,14,37.4,-122.0,6085.0
+santa clara,NM,grant,36,32.8,-108.2,35017.0
+santa cruz,CA,santa cruz,100,37.0,-122.0,6087.0
+santa fe,NM,santa fe,64,35.7,-106.0,35049.0
+santa fe,TX,galveston,6,29.4,-95.1,48167.0
+santa maria,CA,santa barbara,5,34.9,-120.4,6083.0
+santa monica,CA,los angeles,2,34.0,-118.5,6037.0
+santa rosa,CA,sonoma,52,38.5,-122.8,6097.0
+santa rosa,NM,guadalupe,125,34.9,-104.7,35019.0
+santa rosa beach,FL,walton,348,30.3,-86.2,12131.0
+sapulpa,OK,creek,6,36.0,-96.1,40037.0
+saranac lake,NY,franklin,3,44.3,-74.1,36033.0
+sarasota,FL,manatee,4,27.3,-82.5,12081.0
+sarasota,FL,sarasota,12,27.3,-82.5,12115.0
+saratoga springs,NY,saratoga,16,43.1,-73.8,36091.0
+saucier,MS,harrison,15,30.6,-89.1,28047.0
+saugatuck,MI,allegan,34,42.7,-86.2,26005.0
+saugerties,NY,ulster,4,42.1,-74.0,36111.0
+sauk centre,MN,stearns,2,45.7,-94.9,27145.0
+sauk city,WI,sauk,2,43.3,-89.8,55111.0
+sault sainte marie,MI,chippewa,6,46.5,-84.3,26033.0
+saunderstown,RI,washington,1,41.5,-71.5,44009.0
+savage,MN,scott,1,44.8,-93.4,27139.0
+savannah,GA,chatham,210,32.0,-81.0,13051.0
+savoy,IL,champaign,50,40.1,-88.3,17019.0
+sawyer,MI,berrien,10,41.9,-86.6,26021.0
+sayre,PA,bradford,3,42.0,-76.5,42015.0
+sayville,NY,suffolk,4,40.8,-73.1,36103.0
+scarborough,ME,cumberland,16,43.6,-70.3,23005.0
+scarsdale,NY,westchester,8,41.0,-73.8,36119.0
+schaghticoke,NY,rensselaer,14,42.9,-73.6,36083.0
+schaumburg,IL,cook,16,42.0,-88.0,17031.0
+schenectady,NY,schenectady,39,42.9,-73.9,36093.0
+schererville,IN,lake,26,41.5,-87.5,18089.0
+schertz,TX,guadalupe,33,29.6,-98.3,48187.0
+schoolcraft,MI,kalamazoo,9,42.1,-85.7,26077.0
+schriever,LA,terrebonne,1,29.7,-90.8,
+schroeder,MN,cook,4,47.5,-90.9,27031.0
+schulenburg,TX,fayette,40,29.8,-96.9,48149.0
+schuyler falls,NY,clinton,4,44.6,-73.6,36019.0
+schwenksville,PA,montgomery,30,40.3,-75.5,42091.0
+science hill,KY,pulaski,4,37.2,-84.6,21199.0
+scituate,MA,plymouth,3,42.2,-70.7,25023.0
+scotland,MD,st. marys,9,38.1,-76.3,
+scranton,PA,lackawanna,1640,41.4,-75.7,42069.0
+scribner,NE,dodge,4,41.7,-96.7,31053.0
+seabrook,NH,rockingham,4,42.9,-70.8,33015.0
+seabrook,TX,harris,12,29.6,-95.0,48201.0
+searsport,ME,waldo,8,44.5,-68.9,23027.0
+seaside,CA,monterey,16,36.6,-121.8,6053.0
+seaside heights,NJ,ocean,48,40.0,-74.1,34029.0
+seaside park,NJ,ocean,18,39.9,-74.1,34029.0
+seattle,WA,king,58,47.4,-122.3,53033.0
+sebastopol,CA,sonoma,4,38.4,-122.9,6097.0
+sedgwick,ME,hancock,10,44.3,-68.6,23009.0
+sedona,AZ,coconino,5,34.8,-111.8,4005.0
+sedona,AZ,yavapai,5,34.8,-111.8,4025.0
+seekonk,MA,bristol,26,41.8,-71.3,25005.0
+seguin,TX,guadalupe,76,29.5,-98.0,48187.0
+selbyville,DE,sussex,3,38.5,-75.2,10005.0
+selden,NY,suffolk,2,40.9,-73.0,36103.0
+selma,IN,delaware,16,40.2,-85.3,18035.0
+seneca falls,NY,seneca,21,43.0,-76.8,36099.0
+sequoia national park,CA,tulare,2,36.5,-118.6,6107.0
+severna park,MD,anne arundel,1,39.1,-76.5,24003.0
+sevierville,TN,sevier,80,35.8,-83.6,47155.0
+seward,NE,seward,12,40.9,-97.1,31159.0
+sewell,NJ,gloucester,24,39.8,-75.1,34015.0
+sewickley,PA,allegheny,4,40.5,-80.2,42003.0
+seymour,CT,new haven,1,41.4,-73.1,9009.0
+seymour,TN,sevier,2,35.9,-83.7,47155.0
+shafer,MN,chisago,2,45.3,-92.7,27025.0
+shakopee,MN,scott,4,44.8,-93.4,27139.0
+sharpsburg,MD,washington,2,39.5,-77.7,24043.0
+sharpsville,IN,tipton,2,40.3,-86.1,18159.0
+shavertown,PA,luzerne,35,41.3,-75.9,42079.0
+shawnee,KS,johnson,558,39.0,-94.7,20091.0
+shawnee,OK,pottawatomie,6,35.4,-97.0,40125.0
+sheboygan,WI,sheboygan,100,43.8,-87.7,55117.0
+sheffield,MA,berkshire,4,42.1,-73.4,25003.0
+shelburne falls,MA,franklin,15,42.6,-72.7,25011.0
+shelby,MI,oceana,5,43.6,-86.5,26127.0
+shelbyville,IN,shelby,51,39.5,-85.8,18145.0
+shelton,CT,fairfield,4,41.3,-73.1,9001.0
+shepherdstown,WV,jefferson,6,39.4,-77.8,54037.0
+sherman,NY,chautauqua,1,42.1,-79.6,36013.0
+sherman,TX,grayson,172,33.6,-96.6,48181.0
+sherwood,AR,pulaski,5,34.8,-92.2,5119.0
+sherwood,WI,calumet,7,44.2,-88.3,55015.0
+shippensburg,PA,cumberland,10,40.1,-77.5,42041.0
+shirland,IL,winnebago,8,42.4,-89.2,17201.0
+shirley,IN,henry,2,39.9,-85.6,18065.0
+shohola,PA,pike,10,41.4,-74.9,42103.0
+shortsville,NY,ontario,1,42.9,-77.3,36069.0
+shreveport,LA,caddo,81,32.5,-93.8,
+shrewsbury,MA,worcester,24,42.3,-71.7,25027.0
+sidney,NE,cheyenne,5,41.1,-103.0,31033.0
+sidney,OH,shelby,86,40.3,-84.2,39149.0
+sierra vista,AZ,cochise,4,31.6,-110.3,4003.0
+siloam springs,AR,benton,10,36.2,-94.6,5007.0
+silver city,NM,grant,10,32.8,-108.3,35017.0
+silver lake,MN,mcleod,3,45.0,-94.2,27085.0
+silver spring,MD,montgomery,611,39.1,-77.0,24031.0
+simpsonville,SC,greenville,17,34.7,-82.3,45045.0
+sims,NC,wilson,1,35.7,-78.1,37195.0
+simsbury,CT,hartford,2,41.9,-72.8,9003.0
+sioux city,IA,woodbury,32,42.5,-96.4,19193.0
+sioux falls,SD,lincoln,13,43.5,-96.7,46083.0
+sioux falls,SD,minnehaha,104,43.5,-96.7,46099.0
+skaneateles,NY,onondaga,100,42.9,-76.4,36067.0
+skiatook,OK,tulsa,1,36.4,-96.1,40143.0
+skippack,PA,montgomery,2,40.2,-75.4,42091.0
+slidell,LA,st. tammany,14,30.3,-89.8,
+smith river,CA,del norte,1,41.9,-124.2,6015.0
+smiths creek,MI,st. clair,9,43.0,-82.6,26147.0
+smithsburg,MD,washington,6,39.7,-77.6,24043.0
+smithton,PA,westmoreland,2,40.2,-79.7,42129.0
+smithville,MO,clay,6,39.4,-94.5,29047.0
+smithville,TX,bastrop,9,30.0,-97.1,48021.0
+smyrna,NC,carteret,4,34.8,-76.5,37031.0
+smyrna,NY,chenango,9,42.6,-75.6,36017.0
+snellville,GA,gwinnett,12,33.9,-84.0,13135.0
+snowshoe,WV,pocahontas,6,38.4,-80.0,54075.0
+snyder,CO,morgan,1,40.3,-103.6,8087.0
+socorro,NM,socorro,60,33.8,-106.9,35053.0
+soddy daisy,TN,hamilton,4,35.2,-85.2,47065.0
+solomons,MD,calvert,1,38.3,-76.4,24009.0
+solon springs,WI,douglas,6,46.4,-91.5,55031.0
+somerset,MA,bristol,16,41.8,-71.1,25005.0
+somerville,MA,middlesex,6,42.4,-71.1,25017.0
+somerville,TX,burleson,6,30.3,-96.6,48051.0
+somonauk,IL,dekalb,350,41.7,-88.7,17037.0
+sonoma,CA,sonoma,30,38.3,-122.5,6097.0
+sonora,TX,sutton,4,30.6,-100.6,48435.0
+south bend,IN,st. joseph,105,41.7,-86.3,18141.0
+south boston,MA,suffolk,12,42.3,-71.0,25025.0
+south charleston,OH,clark,12,39.8,-83.8,39023.0
+south china,ME,kennebec,156,44.5,-69.5,23011.0
+south fulton,TN,obion,4,36.4,-88.9,47131.0
+south haven,MI,van buren,303,42.5,-86.2,26159.0
+south haven,MN,wright,4,45.2,-94.2,27171.0
+south heart,ND,stark,1,46.9,-103.0,38089.0
+south holland,IL,cook,6,41.6,-87.6,17031.0
+south jordan,UT,salt lake,12,40.6,-111.9,49035.0
+south milwaukee,WI,milwaukee,46,42.9,-87.9,55079.0
+south padre island,TX,cameron,3,26.1,-97.2,48061.0
+south park,PA,allegheny,122,40.3,-80.0,42003.0
+south pasadena,CA,los angeles,4,34.1,-118.2,6037.0
+south plains,TX,floyd,3,34.2,-101.3,48153.0
+southampton,MA,hampshire,4,42.2,-72.7,25015.0
+southfields,NY,orange,1,41.2,-74.1,36071.0
+southport,NC,brunswick,360,33.9,-78.0,37019.0
+southwest harbor,ME,hancock,2,44.3,-68.3,23009.0
+spanish fork,UT,utah,42,40.1,-111.6,49049.0
+sparta,GA,hancock,2,33.2,-83.2,13141.0
+sparta,NJ,sussex,15,41.0,-74.6,34037.0
+sparta,TN,white,9,35.9,-85.5,47185.0
+sparta,WI,monroe,36,44.0,-90.8,55081.0
+spartanburg,SC,spartanburg,21,34.9,-82.1,45083.0
+spencer,IN,owen,12,39.3,-86.8,18119.0
+spencer,MA,worcester,48,42.2,-72.0,25027.0
+spencerville,IN,allen,4,41.3,-84.9,18003.0
+spirit lake,IA,dickinson,864,43.4,-95.1,19059.0
+spring,TX,harris,60,30.1,-95.4,48201.0
+spring,TX,montgomery,90,30.1,-95.4,48339.0
+spring arbor,MI,jackson,7,42.2,-84.6,26075.0
+spring branch,TX,comal,9,29.9,-98.5,48091.0
+spring city,TN,rhea,2,35.8,-84.8,47143.0
+spring green,WI,sauk,6,43.2,-90.1,55111.0
+spring hill,FL,hernando,25,28.5,-82.5,12053.0
+spring hill,FL,pasco,15,28.5,-82.5,12101.0
+spring hill,KS,johnson,4,38.7,-94.9,20091.0
+spring hill,TN,maury,2,35.7,-86.9,47119.0
+spring lake,MI,ottawa,4,43.1,-86.2,26139.0
+spring lake,NJ,monmouth,6,40.2,-74.0,34025.0
+spring valley,CA,san diego,59,32.7,-117.0,6073.0
+spring valley,OH,greene,8,39.6,-84.0,39057.0
+springboro,OH,warren,10,39.6,-84.2,39165.0
+springdale,AR,washington,8,36.1,-94.1,5143.0
+springfield,IL,sangamon,74,39.8,-89.7,17167.0
+springfield,MO,greene,126,37.2,-93.3,29077.0
+springfield,NH,sullivan,9,43.5,-72.1,33019.0
+springfield,OH,clark,2,39.9,-83.8,39023.0
+springfield,VA,fairfax,55,38.7,-77.2,51059.0
+springville,PA,susquehanna,1,41.7,-75.9,42115.0
+springville,TN,henry,1,36.3,-88.1,47079.0
+spruce pine,NC,mitchell,1,35.9,-82.1,37121.0
+stacy,MN,chisago,9,45.5,-93.0,27025.0
+stafford,VA,stafford,10,38.5,-77.6,51179.0
+staley,NC,randolph,6,35.8,-79.6,37151.0
+stamford,CT,fairfield,187,41.1,-73.5,9001.0
+stanardsville,VA,greene,8,38.3,-78.5,51079.0
+stanfordville,NY,dutchess,4,41.9,-73.6,36027.0
+stanley,NY,ontario,1,42.8,-77.1,36069.0
+stanley,VA,page,1,38.3,-78.7,51139.0
+stapleton,NE,logan,14,41.3,-100.6,31113.0
+starkville,MS,oktibbeha,28,33.5,-88.8,28105.0
+state college,PA,centre,20,40.8,-77.8,42027.0
+staten island,NY,richmond,3,40.5,-74.2,36085.0
+statesville,NC,iredell,11,35.8,-80.9,37097.0
+statham,GA,barrow,13,34.0,-83.6,13013.0
+staunton,VA,staunton city,228,38.2,-79.1,51790.0
+stearns,KY,mccreary,13,36.7,-84.5,21147.0
+steeles tavern,VA,augusta,231,38.0,-79.3,51015.0
+sterling,NY,cayuga,23,43.4,-76.7,36011.0
+sterling,VA,loudoun,21,39.0,-77.4,51107.0
+sterling heights,MI,macomb,408,42.6,-83.0,26099.0
+stevens point,WI,portage,286,44.5,-89.5,55097.0
+stevensville,MD,queen annes,10,39.0,-76.3,
+stewart,TN,houston,12,36.3,-87.8,47083.0
+stillwater,NY,saratoga,6,43.0,-73.7,36091.0
+stillwater,OK,payne,204,36.1,-97.1,40119.0
+stockbridge,GA,henry,33,33.5,-84.2,13151.0
+stockton,CA,san joaquin,21,38.0,-121.3,6077.0
+stone harbor,NJ,cape may,4,39.0,-74.8,34009.0
+stone mountain,GA,dekalb,36,33.8,-84.2,13089.0
+stonington,CT,new london,840,41.3,-71.9,9011.0
+stoughton,WI,dane,4,42.9,-89.2,55025.0
+stow,MA,middlesex,1,42.4,-71.5,25017.0
+strasburg,VA,shenandoah,6,39.0,-78.3,51171.0
+stratford,CT,fairfield,25,41.2,-73.1,9001.0
+stratham,NH,rockingham,2,43.0,-70.9,33015.0
+strathmere,NJ,cape may,4,39.2,-74.7,34009.0
+streator,IL,la salle,8,41.1,-88.9,
+strong,ME,franklin,21,44.8,-70.2,23007.0
+strong city,KS,chase,2,38.4,-96.5,20017.0
+strongsville,OH,cuyahoga,4,41.3,-81.8,39035.0
+stroudsburg,PA,monroe,57,41.0,-75.2,42089.0
+stuart,FL,martin,6,27.2,-80.2,12085.0
+stuart,OK,hughes,8,34.8,-96.1,40063.0
+stuart,VA,patrick,10,36.7,-80.3,51141.0
+sturgeon lake,MN,pine,2,46.4,-92.8,27115.0
+sudbury,MA,middlesex,15,42.4,-71.4,25017.0
+suffolk,VA,suffolk city,6,36.9,-76.4,51800.0
+sugar land,TX,fort bend,11,29.6,-95.6,48157.0
+summit,NY,schoharie,4,42.6,-74.6,36095.0
+summit argo,IL,cook,25,41.8,-87.8,17031.0
+sun city west,AZ,maricopa,8,33.7,-112.4,4013.0
+sun prairie,WI,dane,70,43.1,-89.3,55025.0
+sunderland,MA,franklin,6,42.5,-72.6,25011.0
+sunman,IN,ripley,12,39.2,-85.1,18137.0
+sunnyvale,CA,santa clara,2,37.4,-122.0,6085.0
+sunset,LA,st. landry,2,30.3,-92.1,
+superior,AZ,pinal,3,33.3,-111.9,4021.0
+supply,NC,brunswick,24,33.9,-78.4,37019.0
+surprise,AZ,maricopa,3,33.6,-112.4,4013.0
+suwanee,GA,gwinnett,30,34.1,-84.2,13135.0
+swampscott,MA,essex,13,42.5,-70.9,25009.0
+swannanoa,NC,buncombe,1,35.6,-82.4,37021.0
+swanton,OH,fulton,20,41.6,-83.9,39051.0
+swanzey,NH,cheshire,45,42.9,-72.3,33005.0
+swedesboro,NJ,gloucester,16,39.8,-75.3,34015.0
+sweeny,TX,brazoria,12,29.1,-95.8,48039.0
+sycamore,GA,turner,2,31.6,-83.6,13287.0
+sylmar,CA,los angeles,4,34.3,-118.5,6037.0
+syosset,NY,nassau,5,40.8,-73.5,36059.0
+syracuse,NY,onondaga,225,43.0,-76.2,36067.0
+talihina,OK,latimer,8,34.8,-95.1,40077.0
+tallahassee,FL,leon,96,30.6,-84.2,12073.0
+tallulah falls,GA,rabun,4,34.7,-83.4,13241.0
+tama,IA,tama,2,42.0,-92.6,19171.0
+tampa,FL,hillsborough,224,27.9,-82.5,12057.0
+tamworth,NH,carroll,68,43.9,-71.4,33003.0
+tannersville,NY,greene,2,42.2,-74.1,36039.0
+tarboro,NC,edgecombe,6,35.9,-77.5,37065.0
+tarrytown,NY,westchester,21,41.1,-73.8,36119.0
+taylorsville,GA,bartow,2,34.1,-85.0,13015.0
+taylorsville,KY,spencer,4,38.1,-85.3,21215.0
+teaneck,NJ,bergen,120,40.9,-74.0,34003.0
+telford,TN,washington,1,36.2,-82.5,47179.0
+tempe,AZ,maricopa,152,33.4,-111.9,4013.0
+temple,PA,berks,4,40.4,-75.9,42011.0
+temple,TX,bell,56,31.1,-97.3,48027.0
+temple city,CA,los angeles,3,34.1,-118.1,6037.0
+terre haute,IN,vigo,129,39.4,-87.4,18167.0
+terrell,TX,kaufman,5,32.8,-96.3,48257.0
+texarkana,AR,miller,13,33.6,-93.9,5091.0
+texarkana,TX,bowie,6,33.4,-94.2,48037.0
+texas city,TX,galveston,184,29.4,-94.9,48167.0
+texico,IL,jefferson,8,38.4,-88.9,17081.0
+the colony,TX,denton,12,33.0,-96.9,48121.0
+the villages,FL,sumter,2,28.9,-82.0,12119.0
+thermal,CA,riverside,8,33.3,-116.0,6065.0
+thief river falls,MN,pennington,12,48.1,-96.4,27113.0
+thompson,CT,windham,12,41.9,-71.8,9015.0
+thomson,GA,mcduffie,26,33.5,-82.5,13189.0
+thornton,CO,adams,5,39.9,-105.0,8001.0
+three rivers,CA,tulare,1,36.4,-118.9,6107.0
+thurman,IA,fremont,40,40.8,-95.8,19071.0
+tierra amarilla,NM,rio arriba,6,36.7,-106.7,35039.0
+tillson,NY,ulster,3,41.8,-74.1,36111.0
+timberlake,NC,person,2,36.3,-78.9,37145.0
+tinley park,IL,cook,24,41.5,-87.7,17031.0
+tivoli,NY,dutchess,4,42.1,-73.9,36027.0
+toano,VA,james city,1,37.4,-76.8,51095.0
+toledo,OH,lucas,176,41.7,-83.5,39095.0
+toledo,OH,wood,22,41.7,-83.5,39173.0
+toluca,IL,marshall,60,40.9,-89.1,17123.0
+tomball,TX,harris,9,30.1,-95.6,48201.0
+toms river,NJ,ocean,24,40.0,-74.2,34029.0
+tonkawa,OK,kay,1,36.7,-97.3,40071.0
+topeka,KS,shawnee,2060,39.0,-95.7,20177.0
+townsend,DE,new castle,2,39.4,-75.6,10003.0
+townsend,TN,blount,6,35.6,-83.8,47009.0
+township of washington,NJ,bergen,126,41.0,-74.1,34003.0
+tracys landing,MD,anne arundel,9,38.8,-76.6,24003.0
+traphill,NC,wilkes,255,36.3,-81.0,37193.0
+traverse city,MI,grand traverse,34,44.8,-85.7,26055.0
+trenton,NJ,burlington,3,40.2,-74.7,34005.0
+trenton,NJ,mercer,19,40.2,-74.7,34021.0
+trenton,OH,butler,3,39.5,-84.5,39017.0
+troutville,VA,botetourt,8,37.4,-79.9,51023.0
+troy,IL,madison,1,38.7,-89.9,17119.0
+troy,MI,oakland,11,42.6,-83.1,26125.0
+troy,OH,miami,2,40.0,-84.2,39109.0
+troy,VA,fluvanna,1,38.0,-78.2,51065.0
+trumbull,CT,fairfield,1,41.3,-73.2,9001.0
+tryon,NC,polk,4,35.2,-82.2,37149.0
+tucker,GA,dekalb,114,33.8,-84.2,13089.0
+tucson,AZ,pima,1045,32.2,-111.0,4019.0
+tulelake,CA,siskiyou,5,41.8,-121.5,6093.0
+tullahoma,TN,coffee,12,35.4,-86.2,47031.0
+tulsa,OK,creek,268,36.0,-95.9,40037.0
+tulsa,OK,tulsa,2144,36.0,-95.9,40143.0
+tupelo,MS,lee,40,34.2,-88.7,28081.0
+tupper lake,NY,franklin,3,44.2,-74.5,36033.0
+tuscola,TX,taylor,1,32.2,-99.8,48441.0
+tuttle,OK,grady,23,35.3,-97.8,40051.0
+twentynine palms,CA,san bernardino,8,34.1,-116.0,6071.0
+twinsburg,OH,summit,1,41.3,-81.5,39153.0
+two rivers,WI,manitowoc,2,44.2,-87.5,55071.0
+tybee island,GA,chatham,18,32.0,-80.8,13051.0
+tyler,TX,smith,150,32.3,-95.3,48423.0
+tyrone,GA,fayette,7,33.5,-84.6,13113.0
+ulysses,PA,potter,4,41.9,-77.7,42105.0
+union,IL,mchenry,7,42.2,-88.5,17111.0
+union,KY,boone,2,38.9,-84.7,21015.0
+union,WV,monroe,4,37.6,-80.6,54063.0
+union city,IN,randolph,100,40.2,-84.8,18135.0
+union city,OH,darke,36,40.2,-84.8,39037.0
+union city,TN,obion,3,36.4,-89.1,47131.0
+union pier,MI,berrien,80,41.8,-86.7,26021.0
+unionville,CT,hartford,3,41.8,-72.9,9003.0
+upland,NE,franklin,3,40.4,-98.8,31061.0
+upper darby,PA,delaware,200,40.0,-75.3,42045.0
+upper marlboro,MD,prince georges,16,38.8,-76.8,
+urbana,IL,champaign,53,40.1,-88.2,17019.0
+urbandale,IA,polk,8,41.6,-93.7,19153.0
+utica,IL,la salle,20,41.4,-89.0,
+utica,MI,macomb,282,42.7,-83.1,26099.0
+uvalde,TX,uvalde,23,29.1,-99.9,48463.0
+uxbridge,MA,worcester,3,42.1,-71.6,25027.0
+vacaville,CA,solano,4,38.3,-122.0,6095.0
+vail,AZ,pima,108,32.0,-110.8,4019.0
+valdese,NC,burke,15,35.7,-81.6,37023.0
+valley city,ND,barnes,19,46.9,-98.0,38003.0
+valley springs,CA,calaveras,4,38.1,-120.9,6009.0
+valliant,OK,mccurtain,2,34.0,-95.1,40089.0
+valparaiso,IN,porter,112,41.5,-87.1,18127.0
+valrico,FL,hillsborough,7,27.9,-82.2,12057.0
+ventura,CA,ventura,18,34.3,-119.2,6111.0
+vermillion,KS,marshall,10,39.7,-96.3,20117.0
+vermillion,SD,clay,15,42.8,-96.9,46027.0
+vernal,UT,uintah,8,40.5,-109.5,49047.0
+vernon hills,IL,lake,20,42.2,-88.0,17097.0
+vero beach,FL,indian river,30,27.7,-80.4,12061.0
+verona,MO,lawrence,1,37.0,-93.8,29109.0
+verona,NJ,essex,3,40.8,-74.3,34013.0
+verona,WI,dane,152,43.0,-89.5,55025.0
+versailles,KY,woodford,6,38.0,-84.7,21239.0
+versailles,OH,darke,87,40.2,-84.5,39037.0
+vershire,VT,orange,1,44.0,-72.3,50017.0
+vestal,NY,broome,32,42.1,-76.0,36007.0
+vicksburg,MI,kalamazoo,2,42.1,-85.5,26077.0
+victor,NY,ontario,7,43.0,-77.4,36069.0
+vienna,IL,johnson,4,37.4,-88.9,17087.0
+vienna,VA,fairfax,90,39.0,-77.3,51059.0
+villa rica,GA,carroll,5,33.7,-84.9,13045.0
+ville platte,LA,evangeline,15,30.8,-92.4,
+vincentown,NJ,burlington,5,39.9,-74.7,34005.0
+vineland,NJ,cumberland,12,39.5,-75.0,34011.0
+vineyard haven,MA,dukes,8,41.4,-70.7,25007.0
+virginia beach,VA,virginia beach city,210,36.8,-76.1,51810.0
+von ormy,TX,bexar,2,29.3,-98.6,48029.0
+waco,TX,mclennan,39,31.5,-97.1,48309.0
+wadsworth,OH,medina,1,41.0,-81.7,39103.0
+wagoner,OK,wagoner,7,36.0,-95.4,40145.0
+wahpeton,ND,richland,25,46.3,-96.6,38077.0
+wake forest,NC,wake,40,36.0,-78.6,37183.0
+wakefield,MA,middlesex,1,42.5,-71.1,25017.0
+walker,MN,cass,6,47.1,-94.6,27021.0
+wallace,MI,menominee,22,45.2,-87.7,26109.0
+wallace,NC,duplin,5,34.7,-78.0,37061.0
+walled lake,MI,oakland,6,42.6,-83.5,26125.0
+wallis,TX,austin,15,29.6,-96.0,48015.0
+walnut creek,CA,contra costa,4,37.9,-122.1,6013.0
+walnut springs,TX,bosque,24,32.1,-97.9,48035.0
+waltham,MA,middlesex,3,42.4,-71.2,25017.0
+walton,KS,harvey,1,38.2,-97.3,20079.0
+wantagh,NY,nassau,66,40.7,-73.5,36059.0
+wappingers falls,NY,dutchess,132,41.5,-74.0,36027.0
+warm springs,GA,meriwether,1,32.9,-84.7,13199.0
+warren,MI,macomb,86,42.5,-83.0,26099.0
+warren,PA,warren,5,41.8,-79.1,42123.0
+warrenton,VA,fauquier,114,38.7,-77.8,51061.0
+warwick,NY,orange,14,41.3,-74.4,36071.0
+warwick,RI,kent,8,41.7,-71.5,44003.0
+washburn,ND,mclean,88,47.3,-101.0,38055.0
+washington,AR,hempstead,207,33.8,-93.8,5057.0
+washington,MI,macomb,140,42.8,-83.0,26099.0
+washington,NC,beaufort,2,35.5,-77.0,37013.0
+washington,PA,washington,2,40.2,-80.2,42125.0
+washington,TX,washington,1,30.2,-96.2,48477.0
+washington court house,OH,fayette,72,39.5,-83.4,39047.0
+waterbury,VT,washington,6,44.3,-72.7,50023.0
+waterford,CT,new london,60,41.4,-72.2,9011.0
+waterford,MI,oakland,3,42.7,-83.3,26125.0
+waterford,NY,saratoga,1,42.8,-73.7,36091.0
+waterloo,IA,black hawk,4,42.5,-92.4,19013.0
+waterloo,NE,douglas,2,41.3,-96.3,31055.0
+watertown,MA,middlesex,20,42.4,-71.2,25017.0
+watertown,NY,jefferson,4,44.0,-76.0,36045.0
+waterville,ME,kennebec,63,44.6,-69.6,23011.0
+watkinsville,GA,oconee,3,33.9,-83.4,13219.0
+watsonville,CA,santa cruz,7,37.0,-121.8,6087.0
+waukegan,IL,lake,27,42.4,-87.8,17097.0
+waukesha,WI,waukesha,6,43.0,-88.3,55133.0
+waunakee,WI,dane,4,43.1,-89.4,55025.0
+waupaca,WI,waupaca,1,44.4,-89.0,55135.0
+waurika,OK,jefferson,6,34.3,-98.0,40067.0
+wausau,WI,marathon,12,45.0,-89.5,55073.0
+waxahachie,TX,ellis,1,32.4,-96.9,48139.0
+waycross,GA,ware,4,31.2,-82.4,13299.0
+wayland,MA,middlesex,2,42.3,-71.4,25017.0
+wayne,NJ,passaic,140,40.9,-74.3,34031.0
+waynesboro,MS,wayne,2,31.4,-88.7,28153.0
+waynesville,OH,warren,28,39.5,-84.1,39165.0
+weatherford,TX,parker,24,32.9,-97.8,48367.0
+webb city,MO,jasper,2,37.1,-94.5,29097.0
+webster,MA,worcester,4,42.1,-71.9,25027.0
+welch,MN,goodhue,3,44.6,-92.6,27049.0
+welch,OK,craig,2,37.0,-95.3,40035.0
+wellesley island,NY,jefferson,3,44.3,-76.0,36045.0
+wellfleet,NE,lincoln,1,40.8,-100.7,31111.0
+wellington,AL,calhoun,3,33.9,-85.9,1015.0
+wellington,CO,larimer,1,40.7,-105.0,8069.0
+wells,ME,york,6,43.3,-70.6,23031.0
+wellsboro,PA,tioga,36,41.7,-77.4,42117.0
+wendell,NC,wake,12,35.8,-78.4,37183.0
+wernersville,PA,berks,62,40.3,-76.1,42011.0
+wesson,MS,copiah,4,31.7,-90.4,28029.0
+west alton,MO,st. charles,4,38.9,-90.2,29183.0
+west baden springs,IN,orange,7,38.6,-86.6,18117.0
+west bend,WI,washington,1026,43.4,-88.2,55131.0
+west branch,MI,ogemaw,4,44.4,-84.3,26129.0
+west chester,OH,butler,36,39.3,-84.4,39017.0
+west chester,PA,chester,18,39.9,-75.7,42029.0
+west chicago,IL,dupage,14,41.9,-88.2,17043.0
+west columbia,SC,lexington,40,34.0,-81.1,45063.0
+west columbia,TX,brazoria,2,29.1,-95.7,48039.0
+west des moines,IA,polk,2,41.6,-93.8,19153.0
+west fork,AR,washington,3,35.9,-94.2,5143.0
+west hamlin,WV,lincoln,2,38.3,-82.1,54043.0
+west hartford,CT,hartford,110,41.8,-72.7,9003.0
+west hills,CA,los angeles,18,34.2,-118.6,6037.0
+west hurley,NY,ulster,6,42.0,-74.1,36111.0
+west jordan,UT,salt lake,14,40.6,-112.0,49035.0
+west lafayette,IN,tippecanoe,4,40.5,-87.0,18157.0
+west lebanon,NH,grafton,4,43.6,-72.3,33009.0
+west monroe,LA,ouachita,15,32.5,-92.2,
+west newton,MA,middlesex,6,42.4,-71.2,25017.0
+west nyack,NY,rockland,15,41.1,-74.0,36087.0
+west orange,NJ,essex,14,40.8,-74.2,34013.0
+west palm beach,FL,palm beach,96,26.7,-80.2,12099.0
+west point,MS,clay,20,33.6,-88.6,28025.0
+west point,NY,orange,16,41.4,-74.0,36071.0
+west point,VA,king william,24,37.5,-76.8,51101.0
+west roxbury,MA,suffolk,6,42.3,-71.1,25025.0
+west sacramento,CA,yolo,12,38.6,-121.6,6113.0
+west topsham,VT,orange,3,44.1,-72.4,50017.0
+west townsend,MA,middlesex,18,42.6,-71.7,25017.0
+west warwick,RI,kent,2,41.7,-71.5,44003.0
+west yarmouth,MA,barnstable,4,41.7,-70.2,25001.0
+westborough,MA,worcester,63,42.3,-71.6,25027.0
+westbrook,CT,middlesex,51,41.3,-72.4,9007.0
+westbury,NY,nassau,6,40.7,-73.6,36059.0
+westchester,IL,cook,1,41.8,-87.9,17031.0
+westerville,OH,delaware,1,40.1,-82.9,39041.0
+westerville,OH,franklin,1,40.1,-82.9,39049.0
+westfield,IN,hamilton,138,40.0,-86.2,18057.0
+westfield,NY,chautauqua,6,42.3,-79.6,36013.0
+westfield,PA,tioga,24,41.9,-77.6,42117.0
+westfield,WI,marquette,2,43.9,-89.5,55077.0
+westhampton beach,NY,suffolk,56,40.8,-72.6,36103.0
+westlake,OH,cuyahoga,8,41.5,-81.9,39035.0
+westminster,MD,carroll,2,39.6,-77.1,24013.0
+westmoreland,TN,sumner,2,36.6,-86.2,47165.0
+weston,MA,middlesex,6,42.3,-71.3,25017.0
+westpoint,IN,tippecanoe,55,40.3,-87.0,18157.0
+westport,CT,fairfield,36,41.1,-73.3,9001.0
+westport,IN,decatur,8,39.2,-85.6,18031.0
+westport,MA,bristol,40,41.5,-71.0,25005.0
+westwood,MA,norfolk,42,42.2,-71.2,25021.0
+wexford,PA,allegheny,4,40.6,-80.1,42003.0
+wharton,NJ,morris,1,40.9,-74.6,34027.0
+wheeling,WV,ohio,24,40.1,-80.6,54069.0
+white hall,MD,harford,6,39.7,-76.6,24025.0
+white lake,MI,oakland,1,42.7,-83.5,26125.0
+white river junction,VT,windsor,5,43.6,-72.4,50027.0
+whitestown,IN,boone,1,40.0,-86.4,18011.0
+whiting,IN,lake,6,41.7,-87.5,18089.0
+whitinsville,MA,worcester,5,42.1,-71.7,25027.0
+whitmore lake,MI,washtenaw,15,42.4,-83.8,26161.0
+whittier,CA,los angeles,230,34.0,-118.0,6037.0
+wichita,KS,sedgwick,132,37.7,-97.5,20173.0
+wichita falls,TX,wichita,136,33.9,-98.5,48485.0
+wildomar,CA,riverside,5,33.6,-117.3,6065.0
+wildwood,NJ,cape may,60,39.0,-74.8,34009.0
+wilkes barre,PA,luzerne,812,41.2,-75.9,42079.0
+wilkesboro,NC,wilkes,40,36.1,-81.1,37193.0
+wilkinson,IN,hancock,21,39.9,-85.6,18059.0
+willcox,AZ,cochise,12,32.0,-109.4,4003.0
+williamsburg,VA,james city,24,37.3,-76.7,51095.0
+williamsburg,VA,williamsburg city,24,37.3,-76.7,51830.0
+williamston,MI,ingham,347,42.7,-84.3,26065.0
+williamstown,MA,berkshire,18,42.7,-73.2,25003.0
+williamstown,WV,wood,1,39.4,-81.5,54107.0
+willis,MI,washtenaw,148,42.2,-83.6,26161.0
+willis,TX,montgomery,72,30.4,-95.6,48339.0
+willmar,MN,kandiyohi,9,45.1,-95.0,27067.0
+willoughby,OH,lake,6,41.7,-81.4,39085.0
+willow grove,PA,montgomery,1,40.1,-75.1,42091.0
+willowbrook,IL,dupage,12,41.8,-87.9,17043.0
+wilmette,IL,cook,6,42.1,-87.7,17031.0
+wilmington,DE,new castle,1820,39.7,-75.6,10003.0
+wilmington,IL,will,6,41.3,-88.1,17197.0
+wilmington,NC,new hanover,21,34.2,-77.8,37129.0
+wilson,NC,wilson,7,35.7,-77.9,37195.0
+wimberley,TX,hays,6,30.0,-98.1,48209.0
+winchester,IN,randolph,56,40.2,-85.0,18135.0
+winchester,KY,clark,4,37.9,-84.3,21049.0
+winchester,VA,frederick,16,39.2,-78.2,51069.0
+winchester,VA,winchester city,8,39.2,-78.2,51840.0
+windham,NH,rockingham,30,42.8,-71.3,33015.0
+windsor heights,IA,polk,612,41.6,-93.7,19153.0
+winnetka,IL,cook,32,42.1,-87.8,17031.0
+winona,MN,winona,133,44.1,-91.7,27169.0
+winona,MO,shannon,12,37.1,-91.3,29203.0
+winston,GA,douglas,5,33.7,-84.8,13097.0
+winston salem,NC,forsyth,110,36.1,-80.2,37067.0
+winter harbor,ME,hancock,6,44.3,-68.1,23009.0
+winter haven,FL,polk,81,28.0,-81.8,12105.0
+winters,CA,yolo,1,38.5,-122.0,6113.0
+wisconsin rapids,WI,wood,354,44.4,-89.8,55141.0
+wixom,MI,oakland,3,42.5,-83.5,26125.0
+woburn,MA,middlesex,20,42.5,-71.1,25017.0
+wolcott,VT,lamoille,25,44.6,-72.4,50015.0
+wolfeboro,NH,carroll,2,43.6,-71.2,33003.0
+woodbury,CT,litchfield,27,41.5,-73.2,9005.0
+woodhaven,NY,queens,3,40.7,-73.9,36081.0
+woodland,CA,yolo,12,38.7,-121.8,6113.0
+woodland hills,CA,los angeles,6,34.2,-118.6,6037.0
+woodstock,GA,cherokee,4,34.1,-84.5,13057.0
+woodstown,NJ,salem,20,39.7,-75.3,34033.0
+woodward,IA,dallas,90,41.8,-93.9,19049.0
+woodward,OK,woodward,80,36.4,-99.4,40153.0
+woodway,TX,mclennan,2,31.6,-97.2,48309.0
+woonsocket,RI,providence,9,42.0,-71.5,44007.0
+wooster,OH,wayne,2,40.8,-82.0,39169.0
+worcester,MA,worcester,102,42.3,-71.8,25027.0
+worthington,IN,greene,3,39.2,-86.9,18055.0
+worthington,MN,nobles,1,43.6,-95.6,27105.0
+wrentham,MA,norfolk,50,42.1,-71.3,25021.0
+wright city,MO,warren,2,38.8,-91.0,29219.0
+wrightsville beach,NC,new hanover,154,34.2,-77.8,37129.0
+wyandotte,MI,wayne,200,42.2,-83.2,26163.0
+wylie,TX,collin,18,33.0,-96.5,48085.0
+wynantskill,NY,rensselaer,8,42.7,-73.6,36083.0
+wyncote,PA,montgomery,22,40.1,-75.1,42091.0
+wynnewood,PA,montgomery,183,40.0,-75.3,42091.0
+wyoming,IL,stark,20,41.1,-89.8,17175.0
+wyoming,MI,kent,22,42.9,-85.7,26081.0
+wyoming,MN,chisago,6,45.3,-93.0,27025.0
+xenia,OH,greene,28,39.7,-84.1,39057.0
+yankton,SD,yankton,5,42.9,-97.4,46135.0
+yarmouth,ME,cumberland,26,43.8,-70.2,23005.0
+yellow springs,OH,greene,16,39.8,-83.8,39057.0
+yellville,AR,marion,6,36.2,-92.7,5089.0
+yonkers,NY,westchester,12,40.9,-73.9,36119.0
+york,ME,york,1,43.2,-70.6,23031.0
+york,PA,york,899,40.0,-76.7,42133.0
+yorktown,IN,delaware,12,40.2,-85.5,18035.0
+youngstown,OH,mahoning,36,41.0,-80.6,39099.0
+youngsville,NC,franklin,2,36.0,-78.5,37069.0
+yuba city,CA,sutter,10,39.1,-121.6,6101.0
+yukon,OK,canadian,12,35.5,-97.8,40017.0
+zieglerville,PA,montgomery,2,40.3,-75.5,42091.0
+zimmerman,MN,sherburne,9,45.4,-93.6,27141.0
+zion,IL,lake,18,42.4,-87.9,17097.0
+zionsville,IN,boone,2,40.0,-86.3,18011.0
+zolfo springs,FL,hardee,1,27.5,-81.8,12049.0
+zumbrota,MN,goodhue,1,44.3,-92.7,27049.0
