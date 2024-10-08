@@ -6,7 +6,7 @@ import os
 from matplotlib.colors import LogNorm
 
 # Load the monarch sightings dataset
-file_path = 'monarch_sightings_csv/monarch_sightings2015_with_fips.csv'
+file_path = 'monarch_sightings_csv/monarch_sightings2023_with_fips.csv'
 df = pd.read_csv(file_path)
 file_name = os.path.basename(file_path)
 year = file_name[17:21]
